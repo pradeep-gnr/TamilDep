@@ -1,0 +1,95 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{fullpage}
+\usepackage[pdftex]{graphicx}
+\usepackage{amsfonts,eucal,amsbsy,amsopn,amsmath}
+\usepackage{url}
+\usepackage[sort&compress]{natbib}
+\usepackage{natbibspacing}
+\usepackage{latexsym}
+\usepackage{wasysym} 
+\usepackage{rotating}
+\usepackage{fancyhdr}
+\DeclareMathOperator*{\argmax}{argmax}
+\DeclareMathOperator*{\argmin}{argmin}
+\usepackage{sectsty}
+\usepackage[dvipsnames,usenames]{color}
+\usepackage{multicol}
+\definecolor{orange}{rgb}{1,0.5,0}
+\usepackage{multirow}
+\usepackage{sidecap}
+\usepackage{caption}
+\renewcommand{\captionfont}{\small}
+\setlength{\oddsidemargin}{-0.04cm}
+\setlength{\textwidth}{16.59cm}
+\setlength{\topmargin}{-0.04cm}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{22.94cm}
+\allsectionsfont{\normalsize}
+\newcommand{\ignore}[1]{}
+\newenvironment{enumeratesquish}{\begin{list}{\addtocounter{enumi}{1}\arabic{enumi}.}{\setlength{\itemsep}{-0.25em}\setlength{\leftmargin}{1em}\addtolength{\leftmargin}{\labelsep}}}{\end{list}}
+\newenvironment{itemizesquish}{\begin{list}{\setcounter{enumi}{0}\labelitemi}{\setlength{\itemsep}{-0.25em}\setlength{\labelwidth}{0.5em}\setlength{\leftmargin}{\labelwidth}\addtolength{\leftmargin}{\labelsep}}}{\end{list}}
+
+\bibpunct{(}{)}{;}{a}{,}{,}
+\newcommand{\nascomment}[1]{\textcolor{blue}{\textbf{[#1 --NAS]}}}
+
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage~of \pageref{lastpage}}
+\rfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+\title{11-712:  NLP Lab Report}
+\author{Pradeep Prabakar Ravindran}
+\date{April 26, 2013 (Final Due date)}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+First draft of a report documenting my experience developing a dependency parser for Tamil.
+\end{abstract}
+
+%\nascomment{brief introduction}
+TamilDep is a tool that performs dependency parsing of the Tamil Language. This tool would soon be open-sourced
+and become publicly available at https://github.com/pradeep-gnr/Tamil-dependency-parser. Along with
+the code for a dependency parser, a corpora of tamil sentences annotated with their dependency parse trees 
+is also expected to be released. I hope that this resource would prove useful to researchers working on Tamil natural
+language processing.
+
+
+\section{Basic Information about Tamil}
+
+\section{Past Work on the Syntax and NLP tools for Tamil}
+
+\section{Available Resources}
+
+\nascomment{include discussion of your corpora}
+
+\section{Survey of Phenomena in \nascomment{Your Language}}
+
+\section{Initial Design}
+
+\section{System Analysis on Corpus A}
+
+\section{Lessons Learned and Revised Design}
+
+\section{System Analysis on Corpus B}
+
+\section{Final Revisions}
+
+\section{Future Work}
+
+
+
+
+
+\bibliographystyle{plainnat}
+\bibliography{refs}
+\label{lastpage}
+\end{document}
