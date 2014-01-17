@@ -57,7 +57,7 @@ First draft of a report documenting my experience developing a dependency parser
 
 %\nascomment{brief introduction}
 TamilDep is a tool that performs dependency parsing of the Tamil Language. This tool would soon be open-sourced
-and become publicly available at https://github.com/pradeep-gnr/TamilDep. Along with
+and become publicly available at https://github.com/pradeep-gnr/Tamil-dependency-parser. Along with
 the code for a dependency parser, a corpora of tamil sentences annotated with their dependency parse trees 
 is also expected to be released. Since there are very
 few resources publicly available for Tamil,  I hope that this software would prove useful to researchers working on Tamil natural
@@ -67,12 +67,12 @@ language processing.
 
 Tamil is a Dravidian language that is widely spoken in the Indian state of Tamil Nadu
 and the north eastern part of Sri Lanka. Reports estimate that there are about
-70 million native Tamil Speakers all over the world (\cite{Wiki}). In terms of history, Tamil is also one of the oldest languages in the world with works of Tamil
-literature dating back to almost 2000 years ago (\cite{Wiki}).\\
+70 million native Tamil Speakers all over the world [src: Wikipedia]. In terms of history, Tamil is also one of the oldest languages in the world with works of Tamil
+literature dating back to almost 2000 years ago [src].\\
 
 Grammatically, Tamil has a lot of characteristics that make it pretty different
 from the Germanic languages. For example, Tamil almost always follows a subject-object-verb
-oriented form (\cite{ramasamy2011tamil}). For instance, consider the following sentence.
+oriented form. For example, consider the following sentence.
 
 \begin{center}
 \begin{verbatim}
@@ -81,8 +81,7 @@ oriented form (\cite{ramasamy2011tamil}). For instance, consider the following s
 \end{verbatim}
 \end{center}
 
-The sentence approximately translates to 'He is going there'. Sentences where inflected verb forms
-occurring at the end of the sentence are relatively common in Tamil. Also, similar to languages like Czech, 
+The sentence approximately translates to 'He is going there'. Also, similar to languages like Czech, 
 Tamil is relatively a free word order language. For example, the sentence that was discussed above 
 could be expressed in multiple forms such as
 
@@ -93,13 +92,12 @@ could be expressed in multiple forms such as
                        selgiran  avan    angu
                        (going)   (he)   (there)
 \end{verbatim}
-All of these sentences are perfectly valid in terms of grammatical structure. 
-Another key characteristic of Tamil sentences is that words could be agglutinative and sometimes it is very difficult to even define what a word is. 
-There are a number of ways in which suffixes could be added to the noun and verb stems to produce highly inflected forms.
+All of these sentences are perfectly valid in terms of grammatical structure. Also, another key characteristic of Tamil sentences is that words could be agglutinative
+and sometimes it is very difficult to even define what a word is. There are a number of ways in which suffixes could be added to the noun and verb stems to produce
+highly inflected forms.
 
 For instance, 'has gotten over' which is a phrase in English could be
-expressed as a single word in Tamil. Also, there could be multiple such words that would approximately translate to the sample
-phrase. Some such examples are discussed below.
+expressed in a single word in Tamil. Also, there are multiple words that express the sample phrase. Some examples are discussed below.
 
 \begin{verbatim}
                  1) Nadanthathu
@@ -109,7 +107,7 @@ phrase. Some such examples are discussed below.
 
 All these words express the phrase 'has gotten over' and they are all highly inflected
 forms of the root word 'Nada' which roughly translates to 'happening' or 'proceeding'.
-Since these type of verb phrases are relatively common in Tamil, identifying 'head' 
+Since these type of verb phrases are relatively common in Tamil, identifying 'head'
 words of such phrases would be a challenge from a dependency parsing perspective.
 
 \section{Past Work on the Syntax and NLP tools for Tamil}
@@ -133,7 +131,6 @@ words of such phrases would be a challenge from a dependency parsing perspective
 \section{Future Work}
 
 \bibliographystyle{plainnat}
-\bibliography{pradeep-report}
-
+\bibliography{refs}
 \label{lastpage}
 \end{document}

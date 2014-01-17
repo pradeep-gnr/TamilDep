@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.10)  16 JAN 2014 17:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.10)  16 JAN 2014 20:57
 entering extended mode
  %&-line parsing enabled.
 **pradeep-report.tex
@@ -304,29 +304,32 @@ LaTeX Font Info:    Try loading font information for U+wasy on input line 53.
 
 (/usr/share/texmf-texlive/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
-) (./pradeep-report.bbl
+)
+Underfull \hbox (badness 10000) in paragraph at lines 68--72
 
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
+ []
 
-) [1
+[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./pradeep-report.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./pradeep-report.bbl)
+[2] (./pradeep-report.aux) ) 
 Here is how much of TeX's memory you used:
- 3864 strings out of 495061
- 52950 string characters out of 1182621
- 125221 words of memory out of 3000000
- 6981 multiletter control sequences out of 15000+50000
- 11064 words of font info for 44 fonts, out of 3000000 for 9000
+ 3882 strings out of 495061
+ 53233 string characters out of 1182621
+ 128221 words of memory out of 3000000
+ 6997 multiletter control sequences out of 15000+50000
+ 13145 words of font info for 53 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 36i,6n,43p,261b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
-</
-usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/t
-exmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive
-/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1
-/public/amsfonts/cm/cmr17.pfb>
-Output written on pradeep-report.pdf (1 page, 60241 bytes).
+ 36i,11n,43p,261b,301s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on pradeep-report.pdf (2 pages, 96634 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

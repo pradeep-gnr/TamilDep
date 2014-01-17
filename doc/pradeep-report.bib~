@@ -1,0 +1,17 @@
+@incollection{Wiki,
+  title={Tamil Language},
+  author={Wikipedia},
+  year={2013},
+  url = {http://en.wikipedia.org/wiki/Tamil_language}
+}
+
+@incollection{ramasamy2011tamil,
+  title={Tamil dependency parsing: results using rule based and corpus based approaches},
+  author={Ramasamy, Loganathan and {\v{Z}}abokrtsk{\`y}, Zden{\v{e}}k},
+  booktitle={Computational Linguistics and Intelligent Text Processing},
+  pages={82--95},
+  year={2011},
+  publisher={Springer}
+}
+
+
