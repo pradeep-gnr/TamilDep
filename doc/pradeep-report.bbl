@@ -1,9 +1,31 @@
-\begin{thebibliography}{2}
+\begin{thebibliography}{6}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[B{\"o}hmov{\'a} et~al.(2003)B{\"o}hmov{\'a}, Haji{\v{c}},
+  Haji{\v{c}}ov{\'a}, and Hladk{\'a}]{bohmova2003prague}
+Alena B{\"o}hmov{\'a}, Jan Haji{\v{c}}, Eva Haji{\v{c}}ov{\'a}, and Barbora
+  Hladk{\'a}.
+\newblock The prague dependency treebank.
+\newblock In \emph{Treebanks}, pages 103--127. Springer, 2003.
+
+\bibitem[Dhanalakshmi and Rajendran(2010)]{dhanalakshmi2010natural}
+V~Dhanalakshmi and S~Rajendran.
+\newblock Natural language processing tools for tamil grammar learning and
+  teaching.
+\newblock \emph{International journal of Computer Applications (0975-8887)},
+  8\penalty0 (14), 2010.
+
+\bibitem[Lehmann et~al.(1989)Lehmann, of~Linguistics, and
+  Culture]{lehmann1989grammar}
+T.~Lehmann, Pondicherry~Institute of~Linguistics, and Culture.
+\newblock \emph{A Grammar of Modern Tamil}.
+\newblock PILC publication. Pondicherry Institute of Linguistics and Culture,
+  1989.
+\newblock URL \url{http://books.google.com/books?id=THlkAAAAMAAJ}.
 
 \bibitem[Ramasamy and {\v{Z}}abokrtsk{\`y}(2011)]{ramasamy2011tamil}
 Loganathan Ramasamy and Zden{\v{e}}k {\v{Z}}abokrtsk{\`y}.
@@ -11,6 +33,13 @@ Loganathan Ramasamy and Zden{\v{e}}k {\v{Z}}abokrtsk{\`y}.
   approaches.
 \newblock In \emph{Computational Linguistics and Intelligent Text Processing},
   pages 82--95. Springer, 2011.
+
+\bibitem[Srinivasan~CJ(2007)]{vidyapeethamrobust}
+Loganathan R Santhosh Kumar~C Srinivasan~CJ, Udhaykumar~N.
+\newblock Robust dependency parser for natural language dialog systems in
+  tamil.
+\newblock \emph{5th Workshop on Knowledge and Reasoning in Practical Dialogue
+  Systems}, pages 1--6, 2007.
 
 \bibitem[Wikipedia(2013)]{Wiki}
 Wikipedia.

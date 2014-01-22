@@ -57,7 +57,7 @@ First draft of a report documenting my experience developing a dependency parser
 
 %\nascomment{brief introduction}
 TamilDep is a tool that performs dependency parsing of the Tamil Language. This tool would soon be open-sourced
-and become publicly available at https://github.com/pradeep-gnr/Tamil-dependency-parser. Along with
+and become publicly available at https://github.com/pradeep-gnr/TamilDep. Along with
 the code for a dependency parser, a corpora of tamil sentences annotated with their dependency parse trees 
 is also expected to be released. Since there are very
 few resources publicly available for Tamil,  I hope that this software would prove useful to researchers working on Tamil natural
@@ -67,12 +67,12 @@ language processing.
 
 Tamil is a Dravidian language that is widely spoken in the Indian state of Tamil Nadu
 and the north eastern part of Sri Lanka. Reports estimate that there are about
-70 million native Tamil Speakers all over the world [src: Wikipedia]. In terms of history, Tamil is also one of the oldest languages in the world with works of Tamil
-literature dating back to almost 2000 years ago [src].\\
+70 million native Tamil Speakers all over the world (\cite{Wiki}). In terms of history, Tamil is also one of the oldest languages in the world with works of Tamil
+literature dating back to almost 2000 years ago (\cite{Wiki}).\\
 
 Grammatically, Tamil has a lot of characteristics that make it pretty different
 from the Germanic languages. For example, Tamil almost always follows a subject-object-verb
-oriented form. For example, consider the following sentence.
+oriented form (\cite{ramasamy2011tamil}). For instance, consider the following sentence.
 
 \begin{center}
 \begin{verbatim}
@@ -81,7 +81,8 @@ oriented form. For example, consider the following sentence.
 \end{verbatim}
 \end{center}
 
-The sentence approximately translates to 'He is going there'. Also, similar to languages like Czech, 
+The sentence approximately translates to 'He is going there'. Sentences where inflected verb forms
+occurring at the end of the sentence are relatively common in Tamil. Also, similar to languages like Czech, 
 Tamil is relatively a free word order language. For example, the sentence that was discussed above 
 could be expressed in multiple forms such as
 
@@ -92,12 +93,13 @@ could be expressed in multiple forms such as
                        selgiran  avan    angu
                        (going)   (he)   (there)
 \end{verbatim}
-All of these sentences are perfectly valid in terms of grammatical structure. Also, another key characteristic of Tamil sentences is that words could be agglutinative
-and sometimes it is very difficult to even define what a word is. There are a number of ways in which suffixes could be added to the noun and verb stems to produce
-highly inflected forms.
+All of these sentences are perfectly valid in terms of grammatical structure. 
+Another key characteristic of Tamil sentences is that words could be agglutinative and sometimes it is very difficult to even define what a word is. 
+There are a number of ways in which suffixes could be added to the noun and verb stems to produce highly inflected forms.
 
 For instance, 'has gotten over' which is a phrase in English could be
-expressed in a single word in Tamil. Also, there are multiple words that express the sample phrase. Some examples are discussed below.
+expressed as a single word in Tamil. Also, there could be multiple such words that would approximately translate to the sample
+phrase. Some such examples are discussed below.
 
 \begin{verbatim}
                  1) Nadanthathu
@@ -107,10 +109,45 @@ expressed in a single word in Tamil. Also, there are multiple words that express
 
 All these words express the phrase 'has gotten over' and they are all highly inflected
 forms of the root word 'Nada' which roughly translates to 'happening' or 'proceeding'.
-Since these type of verb phrases are relatively common in Tamil, identifying 'head'
+Since these type of verb phrases are relatively common in Tamil, identifying 'head' 
 words of such phrases would be a challenge from a dependency parsing perspective.
 
 \section{Past Work on the Syntax and NLP tools for Tamil}
+
+One of the most infleuntial books on Tamil grammar written in English was by Thomas Lehmann
+: A grammar of modern Tamil. The book gives a very detailed analysis of several of
+the morphological and syntactic phenomenon that characterize written Tamil. While languages like English do not differ significantly
+from their spoken and written form, there are significant differences among the spoken and written forms in Tamil.
+Tamil has the property that sentences could be semantically valid even when certain words are omitted and spoken 
+Tamil usually consists of a lot of missing words. Written Tamil however is more morphologically richer than its spoken version.
+Lehmann also notes that Tamil is relatively a head final language and that the phrasal head appears in several inflected forms at
+the end of the phrase. Also, another key characteristic of Tamil is that the verbs agree with gender, tense etc. 
+One of the key differences in tamil syntax when compared to other languages is that the language exhibits
+a restricted free word order. Hence there are a multitude of semantically and syntactically valid sentences that could
+be formed using the same set of words. From a parsing perspective - this property poses a lot of challenges because unlike English 
+, writing context free grammar rules to characterize Tamil Syntax is a non-trivial problem. (Nallaswamy et) discuss the challenges
+they face because of this issue while building a spoken dialog system for Tamil and turn to dependency parsing to aid semantic annotation
+of sentences.
+\\
+
+Unlike other Indian languages like Hindi, Telugu and Bengali - Tamil does not have a lot of annotated corpora for NLP tasks.
+The Tamil dependency treebank (Ramaswamy et al.) which was released recently is the only publicly available dependency corpora
+that I could find online. The authors have also released an annotation manual that describes the rules that were used in
+labeling dependency edges among words. The entire corpus was annotated in the Prague dependency treebank (PDT) format and a detailed description
+of this corpora and the annotation methodology that was used will be discussed in part 3. Although this corpus is quite small (about
+3000 words), the annotations are quite diverse and cover various types of sentences in Tamil. The same group also used
+this corpus to build a rule based and corpus based dependency parser and report a 75 \% accuracy when sentences are labeled with POS tags.\\
+
+There was also an earlier paper (Saravanan) that used morphological analysis along with various custom heuristics for syntactic parsing
+of Tamil to identify phrasal consituents. Besides the work done by Ramaswamy et al, I could find only one related paper that describes
+a set of Natural language tools that were created specifically for Tamil. They have also released an open source Morphological analyzer
+for Tamil but unfortunately there was no dependency tree annotated corpora or software that was available for download. To the best of my knowledge, TamilDep would be 
+the first open source dependency parser written specifically for Tamil. 
+
+
+
+
+
 
 \section{Available Resources}
 
@@ -131,6 +168,7 @@ words of such phrases would be a challenge from a dependency parsing perspective
 \section{Future Work}
 
 \bibliographystyle{plainnat}
-\bibliography{refs}
+\bibliography{pradeep-report}
+
 \label{lastpage}
 \end{document}

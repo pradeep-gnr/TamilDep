@@ -14,4 +14,43 @@
   publisher={Springer}
 }
 
+@article{dhanalakshmi2010natural,
+  title={Natural Language processing Tools for Tamil grammar Learning and Teaching},
+  author={Dhanalakshmi, V and Rajendran, S},
+  journal={International journal of Computer Applications (0975-8887)},
+  volume={8},
+  number={14},
+  year={2010}
+}
+
+@article{vidyapeethamrobust,
+  title={Robust Dependency Parser for Natural Language Dialog Systems in Tamil},
+  author={Srinivasan CJ, Udhaykumar N, Loganathan R, Santhosh Kumar C
+},
+  journal={5th Workshop on Knowledge and Reasoning in Practical Dialogue Systems},
+  pages={1-6},	
+  publisher={Citeseer},
+  year={2007}
+}
+
+@incollection{bohmova2003prague,
+  title={The Prague dependency treebank},
+  author={B{\"o}hmov{\'a}, Alena and Haji{\v{c}}, Jan and Haji{\v{c}}ov{\'a}, Eva and Hladk{\'a}, Barbora},
+  booktitle={Treebanks},
+  pages={103--127},
+  year={2003},
+  publisher={Springer}
+}
+
+@book{lehmann1989grammar,
+  title={A Grammar of Modern Tamil},
+  author={Lehmann, T. and Pondicherry Institute of Linguistics and Culture},
+  lccn={lc90907123},
+  series={PILC publication},
+  url={http://books.google.com/books?id=THlkAAAAMAAJ},
+  year={1989},
+  publisher={Pondicherry Institute of Linguistics and Culture}
+}
+
+
 

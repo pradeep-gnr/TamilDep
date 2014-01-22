@@ -114,6 +114,36 @@ words of such phrases would be a challenge from a dependency parsing perspective
 
 \section{Past Work on the Syntax and NLP tools for Tamil}
 
+One of the most infleuntial books on Tamil grammar written in English was by Thomas Lehmann
+: A grammar of modern Tamil (\cite{lehmann1989grammar}). The book gives a very detailed analysis of several of
+the morphological and syntactic phenomenon that characterize written Tamil. While languages like English do not differ significantly
+from their spoken and written form, there are significant differences among the spoken and written forms in Tamil.
+Tamil has the property that sentences could be semantically valid even when certain words are omitted and spoken 
+Tamil usually consists of a lot of missing words. Written Tamil however is more morphologically richer than its spoken version.
+Lehmann also notes that Tamil is relatively a head final language and that the phrasal head appears in several inflected forms at
+the end of the phrase (\cite{lehmann1989grammar}). Also, another key characteristic of Tamil is that the verbs agree with gender, tense etc. 
+One of the key differences in tamil syntax when compared to other languages is that the language exhibits
+a restricted free word order. Hence there are a multitude of semantically and syntactically valid sentences that could
+be formed using the same set of words. From a parsing perspective - this property poses a lot of challenges because unlike English, writing context free grammar rules to characterize Tamil Syntax is a non-trivial problem. (\cite{vidyapeethamrobust}) discuss the challenges
+they face because of this issue while building a spoken dialog system for Tamil and turn to dependency parsing to aid semantic annotation
+of sentences.
+\\
+
+Unlike other Indian languages like Hindi, Telugu and Bengali - Tamil does not have a lot of annotated corpora for NLP tasks.
+The Tamil dependency treebank ((\cite{ramasamy2011tamil})) which was released recently is the only publicly available dependency corpora
+that I could find online. The authors have also released an annotation manual that describes the rules that were used in
+labeling dependency edges among words. The entire corpus was annotated in the Prague dependency treebank (PDT) (\cite{bohmova2003prague}) format and a detailed description
+of this corpora and the annotation methodology that was used will be discussed in part 3. Although this corpus is quite small (about
+3000 words), the annotations are quite diverse and cover various types of sentences in Tamil. The same group also used
+this corpus to build a rule based and corpus based dependency parser and report a 75 \% accuracy when sentences are labeled with POS tags.\\
+
+There was also an earlier paper (\cite{dhanalakshmi2010natural}) that used morphological analysis along with various custom heuristics for syntactic parsing
+of Tamil to identify phrasal consituents. Besides the work done by Ramaswamy et al (\cite{ramasamy2011tamil}), I could find only one related paper that describes
+a set of Natural language tools that were created specifically for Tamil. They have also released an open source Morphological analyzer
+for Tamil but unfortunately there was no dependency tree annotated corpora or software that was available for download. To the best of my knowledge, TamilDep would be 
+the first open source dependency parser written specifically for Tamil. 
+
+
 \section{Available Resources}
 
 \nascomment{include discussion of your corpora}
