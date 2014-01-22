@@ -124,8 +124,7 @@ Lehmann also notes that Tamil is relatively a head final language and that the p
 the end of the phrase (\cite{lehmann1989grammar}). Also, another key characteristic of Tamil is that the verbs agree with gender, tense etc. 
 One of the key differences in tamil syntax when compared to other languages is that the language exhibits
 a restricted free word order. Hence there are a multitude of semantically and syntactically valid sentences that could
-be formed using the same set of words. From a parsing perspective - this property poses a lot of challenges because unlike English 
-, writing context free grammar rules to characterize Tamil Syntax is a non-trivial problem. (\cite{vidyapeethamrobust}) discuss the challenges
+be formed using the same set of words. From a parsing perspective - this property poses a lot of challenges because unlike English, writing context free grammar rules to characterize Tamil Syntax is a non-trivial problem. (\cite{vidyapeethamrobust}) discuss the challenges
 they face because of this issue while building a spoken dialog system for Tamil and turn to dependency parsing to aid semantic annotation
 of sentences.
 \\
