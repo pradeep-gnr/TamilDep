@@ -143,12 +143,33 @@ a set of Natural language tools that were created specifically for Tamil. They h
 for Tamil but unfortunately there was no dependency tree annotated corpora or software that was available for download. To the best of my knowledge, TamilDep would be 
 the first open source dependency parser written specifically for Tamil. 
 
+\section{Available Resources for Tamil}
 
-\section{Available Resources}
+First of all to build a good annotated corpus, we need good quality sentences in the target language. 
+The source text must be of high quality both in grammar and content. 
+The content must also be diverse in the number of topics covered to make the parser more robust while handling different types of inputs. 
+Tamil has a separate Wikipedia portal where there are quite a significant of documents that have been written exclusively in Tamil. 
+There are also several other corpora that have been publicly
+released for various Tamil NLP tasks such as English-Tamil machine translation (\cite{RaBoMorphologicalProcessing2012}), Tamil Wordnet etc (\cite{rajendran2002tamil} et al.). \\
 
-\nascomment{include discussion of your corpora}
+The English-Tamil parallel corpora released by (\cite{ramasamy2011tamil}) consists of a total of around 169871 sentences that have been crawled
+from various news articles discussing multiple topics. From this corpus, I have extracted random sentences and 
+constructed corpora A and B. Corpora A consists of about 70 sentences with 1126 tokens and corpora B contains 70 sentences with 1185 tokens. Additionally I have also 
+created corpora C, which could be used as training data if I decide to pursue a supervised approach to dependency parsing. Corpora C
+consists of about 210 sentences and 3500 tokens. The data has been uploaded in the corpora folder in the root repository. \\
 
-\section{Survey of Phenomena in \nascomment{Your Language}}
+To aid the dependency annotation process, I decided to extend on the work done by (\cite{ramasamy2011tamil})
+In their earlier paper on dependency parsing experiments for Tamil, (\cite{ramasamy2011tamil}) describe their experiences creating a detailed 
+annotation corpora for Tamil. The annotations are in the Prague treebank format that has a three level layer based annotation at the syntactic and lexical level. 
+They have also publicly released their annotation manual and rules to guide dependency annotation for Tamil. This manual is very comprehensive and documents several phenomena that is unique to Tamil
+and issues that a person needs to consider while performing the annotation. Because of the highly inflected nature of the language,
+morphological analysis must also be performed prior to syntactic annotation. The manual also discusses strategies for morphological
+analysis and outlines the rules in detail so that it could be easily extended into a morphological analyzer. I decided to use the custom tag set 
+that was used by (\cite{ramReport}) in the hope that future annotated corpora produced for Tamil would conform to a particular standard
+and the research community can evaluate their methodologies on different corpora. Also, this would encourage the development
+of supervised models which tend to work well when more data is available. 
+
+\section{Survey of Phenomena in Tamil}
 
 \section{Initial Design}
 

@@ -52,5 +52,27 @@
   publisher={Pondicherry Institute of Linguistics and Culture}
 }
 
+@inproceedings{rajendran2002tamil,
+  title={Tamil WordNet},
+  author={Rajendran, S}
+}
+
+@inproceedings{ RaBoMorphologicalProcessing2012,
+title = {Morphological Processing for English-Tamil Statistical Machine Translation},
+author = {Loganathan Ramasamy and Ond{\v{r}}ej Bojar and 
+Zden{\v{e}}k {\v{Z}}abokrtsk{\'{y}}},
+year = {2012},
+pages = {113--122},
+booktitle = {Proceedings of the Workshop on Machine Translation and Parsing 
+in Indian Languages ({MTPIL}-2012)},
+}
+
+@techreport{ramReport,
+	author = "Loganathan Ramasamy and Ond{\v{r}}ej Bojar and Zden{\v{e}}k {\v{Z}}abokrtsk{\'{y}}",
+	institution = "Institute of Formal and Applied Linguistics (ÚFAL MFF UK), Faculty of Mathematics and Physics, Charles University ",
+	title = "Tamil Dependency Treebank (TamilTB) – 0.1. Annotation Manual",
+	number = "TR-2011-42",	
+	year = "2011"
+}
 
 
