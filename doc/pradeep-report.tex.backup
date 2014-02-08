@@ -153,28 +153,68 @@ There are also several other corpora that have been publicly
 released for various Tamil NLP tasks such as English-Tamil machine translation (\cite{RaBoMorphologicalProcessing2012}), Tamil Wordnet etc (\cite{rajendran2002tamil} et al.). \\
 
 The English-Tamil parallel corpora released by (\cite{ramasamy2011tamil}) consists of a total of around 169871 sentences that have been crawled
-from various news articles discussing multiple topics. From this corpus, I have extracted random sentences from this corpora and 
+from various news articles discussing multiple topics. From this corpus, I have extracted random sentences and 
 constructed corpora A and B. Corpora A consists of about 70 sentences with 1126 tokens and corpora B contains 70 sentences with 1185 tokens. Additionally I have also 
-created corpora C, which I might be using as training data if I decide to pursue a supervised approach to dependency parsing. Corpora C
+created corpora C, which could be used as training data if I decide to pursue a supervised approach to dependency parsing. Corpora C
 consists of about 210 sentences and 3500 tokens. The data has been uploaded in the corpora folder in the root repository. \\
 
-To aid the dependency annotation process, I decided to extend on the work done by Ramaswamy et. al. 
-In their earlier paper on dependency parsing experiments for Tamil, \cite{} describe their experiences creating a detailed 
+To aid the dependency annotation process, I decided to extend on the work done by (\cite{ramasamy2011tamil})
+In their earlier paper on dependency parsing experiments for Tamil, (\cite{ramasamy2011tamil}) describe their experiences creating a detailed 
 annotation corpora for Tamil. The annotations are in the Prague treebank format that has a three level layer based annotation at the syntactic and lexical level. 
 They have also publicly released their annotation manual and rules to guide dependency annotation for Tamil. This manual is very comprehensive and documents several phenomena that is unique to Tamil
 and issues that a person needs to consider while performing the annotation. Because of the highly inflected nature of the language,
 morphological analysis must also be performed prior to syntactic annotation. The manual also discusses strategies for morphological
 analysis and outlines the rules in detail so that it could be easily extended into a morphological analyzer. I decided to use the custom tag set 
-that was used by \cite{} in the hope that future annotated corpora produced for Tamil would conform to a particular standard
+that was used by (\cite{ramReport}) in the hope that future annotated corpora produced for Tamil would conform to a particular standard
 and the research community can evaluate their methodologies on different corpora. Also, this would encourage the development
-of supervised models which tend to work well when more data is available.
-
-
-
-
-\nascomment{include discussion of your corpora}
+of supervised models which tend to work well when more data is available. 
 
 \section{Survey of Phenomena in Tamil}
+
+In this section, I shall describe some of the interesting phenomena that Tamil part of speech tags exhibit. Lehmann (\cite{lehmann1989grammar})
+notes that Tamil has about eight part of speech tags (Nouns, Verbs, Postpositions, Adjectives, Adverbs, Quantifiers, Determiners,
+and Conjunctions). Each of these part of POS tags exhibit some interesting behavior that help characterize Tamil language. 
+
+\subsection{Nouns}
+
+Lehmann states that nouns in Tamil are those words that can take case suffixes and also the suffixes (aay, aaka). The suffixes 
+(aay, aaka) are adverbial suffixes that could be applied to several nouns. Lehmann also notes that not all nouns could take
+these suffixes and these nouns are called as defective nouns. Nouns in Tamil could also be inflected in a number of ways according to
+case and number. An inflected noun is usually of the form noun + (number) + case. The most common forms of suffixes that could inflect Tamil
+nouns are given below.
+
+\begin{enumerate}
+ \item plural suffix 
+ \item oblique suffix 
+ \item euphonic suffix 
+ \item case suffix
+\end{enumerate}
+
+Noun stems in Tamil are the stems of nouns as they would be listed in a dictionary. Tamil noun stems could both be simple and complex. 
+Complex nouns are however formed by combining a root and a derivational suffix. For example, paal (milk) is a simple noun having no
+suffixes while pati + ppu (study) is an example of a complex noun that has a verbal root (padi) and a suffix attached to it. 
+Both these types are relatively common in Tamil. Tamil also exhibits a class of noun stem called as oblique stem that has no
+meaning when it exists by itself but can combine with case suffixes and post positions to produce various noun forms.
+
+\subsection{Pronouns}
+
+Tamil has the interesting phenomena that verbs with gender and case markings can stand out as separate sentences even
+when there is no explicit subject. As I discussed in the earlier sections, verb phrases in Tamil inflected with 
+pronoun markers are relatively frequent in Tamil. For example, the verb 'walk' can be inflected as pronouns
+
+\begin{enumerate}
+ \item Nadanthan - (He walked)
+ \item Nadandhal - (She walked)
+ \item Nadandhadhu - (It walked)
+\end{enumerate}
+
+\subsection{Verbs}
+
+Lehmann states that Tamil verbs are of three types namely finite, non-finite and nominalized. 
+
+\subsection{Adjectives and adverbs}
+
+
 
 \section{Initial Design}
 
