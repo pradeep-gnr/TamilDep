@@ -232,14 +232,21 @@ and derived adjectives are given below.
  
 Derived adjectives are usually obtained by adding suffixes like 'aana' etc to nouns.
 \end{enumerate}
-
-
-
-\subsection{Adverbs}
-
-
-
+ 
 \section{Initial Design}
+
+To perform the annotation, I have tried to follow the rules that were discussed in the annotation manual by Ramaswamy et al (\cite{ramReport}).
+The manual consists of several example sentences that cover a wide range of phenomena which was useful for me in making
+some decisions. In most of the examples that I annotated, the head word mostly occured at the end of the sentence. The annotated corpora A anb B have been uploaded in the repository. Each of them contain around 1000 tokens. Currently, I have just added the head information for each term
+in CONLL format. I have also included the text of the string in addition to the annotations. But as of now, I have not extracted any features such as 
+POS tags and morphological information to the output. I could find only one open source POS tagger for Tamil (\cite{dhanalakshmi2010natural}) and I was unable to get the software
+to work. But by the next deadline, I think that I would be able to use the POS tag features as input for my model. Also, I am aware that features based
+on morphological analysis would be immensely useful for highly inflected languages such as Tamil, but again I was unable to get the morphological 
+analyzer that was built by the same group (\cite{dhanalakshmi2010natural}) to work. I hope to resolve some dependency issues in the software to extract
+POS tags and morphological features before building my model. My idea is to build a supervised dependency parser by annotating some additional training data. 
+I feel that supervised would work well because I think more training data would help capture the wider range of morphological phenomena that occurs in Tamil words. 
+I am currently annotating more data for the supervised model and I plan to use MaltParser for training the model. My eventual goal would be
+to build a stable data driven supervised dependency parser guided by a rich feature set such as POS tags and morphological annotations. 
 
 \section{System Analysis on Corpus A}
 

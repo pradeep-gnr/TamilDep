@@ -208,15 +208,41 @@ pronoun markers are relatively frequent in Tamil. For example, the verb 'walk' c
  \item Nadandhadhu - (It walked)
 \end{enumerate}
 
-\subsection{Verbs}
+\subsection{Postpositions}
 
-Lehmann states that Tamil verbs are of three types namely finite, non-finite and nominalized. 
+Postpositions are very important in Tamil and occur very frequently after nouns resulting in complex inflected phrases.
+Lehmann notes that postpositions could be inflected or un-inflected nouns or they could also be non-finite verb forms. 
+Lehmann also discusses 8 different scenarios in which postpositions occur and I have described some of them below. 
 
-\subsection{Adjectives and adverbs}
+\begin{enumerate}
+ \item Occurring after nouns (Nominative)- (kaadu + varai - (till the forest)))
+ \item After nouns (accusative case) - (padippai + patri - (About your education))
+ \item Occurring after nouns (dative case) - (Idharku + paatilaga (Instead of this))
+ 
+\end{enumerate}
 
+\subsection{Adjectives}
+Lehmann notes that adjectives in Tamil usually are of two distinct types: simple and derived. Some examples of simple
+and derived adjectives are given below.
 
+\begin{enumerate}
+ \item ketta paiyyan (bad boy)
+ \item vayathana aasiriyar (old teacher) - Here the adjective 'vayathana' consists of a noun stem 'vayathu' (age) and the suffix
+ 'aana'. 
+ 
+Derived adjectives are usually obtained by adding suffixes like 'aana' etc to nouns.
+\end{enumerate}
 
 \section{Initial Design}
+
+The annotated corpora A anb B have been uploaded in the repository. Each of them contain around 1000 tokens. Currently, I have just added the head information for each term
+in CONLL format. I have also included the text of the string in addition to the annotations. But as of now, I have not extracted any features such as 
+POS tags and morphological information to the output. I could find only one open source POS tagger for Tamil (\cite{dhanalakshmi2010natural}) and I was unable to get the software
+to work. But by the next deadline, I think that I would be able to use the POS tag features as input for my model. Also, I am aware that features based
+on morphological analysis would be immensely useful for highly inflected languages such as Tamil, but likewise, I was unable to get the morphological 
+analyzer that was built by the same group (\cite{dhanalakshmi2010natural}) to work. My idea is to build a supervised dependency parser by annotating
+some additional training data. I feel that supervised would work well because I think more training data would help capture the wider range of 
+morphological phenomena that occurs in Tamil words. I am currently annotating more data for the supervised model and I plan to use MaltParser 
 
 \section{System Analysis on Corpus A}
 
