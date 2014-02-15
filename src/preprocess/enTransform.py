@@ -52,11 +52,12 @@ def getTransliteration(tamilSent):
     
 if __name__=="__main__":
     import ipdb
-    mapFile = sys.argv[1]
+    mapFile = "../../resources/utf8_to_latin_map.txt"
     initializeDict(mapFile)
     #print EN_TAMIL_DICT
-    sampleSent = "ரு ரு"   
-    print getTransliteration(sampleSent)    
+    sampleSent = "அஹமதினேஜாத், இஸ்ரேலை ஆதரிக்கும் போர் குற்றவாளிகள் பற்றியும் மற்றும் பிற நாடுகளில் தங்களுக்கே பாதுகாப்பு தேடிக் கொள்வதற்காக போர்களை நடத்திக் கொண்டிருப்பவர்கள் பற்றியும் மறைமுகமாக குறிப்பிட்டார்."
+    
+    print sampleSent," :  ",getTransliteration(sampleSent)    
 
     
 
