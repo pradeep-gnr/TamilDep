@@ -1,0 +1,17 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அவரது,unk,,,,,,' head="அவரது"  poslcat="NM">
+2.1	அவரது	PRP	<fs af='அவரது,unk,,,,,,' name="அவரது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஹீன்ஸ்,unk,,,,,,' head="ஹீன்ஸ்"  poslcat="NM">
+3.1	ஹீன்ஸ்	NN	<fs af='ஹீன்ஸ்,unk,,,,,,' name="ஹீன்ஸ்"  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அவரது,unk,,,,,,' head="அவரது"  poslcat="NM">
+1.1	அவரது	PRP	<fs af='அவரது,unk,,,,,,' name="அவரது"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஹீன்ஸ்,unk,,,,,,' head="ஹீன்ஸ்"  poslcat="NM">
+2.1	ஹீன்ஸ்	NN	<fs af='ஹீன்ஸ்,unk,,,,,,' name="ஹீன்ஸ்"  poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,67 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ராஜ்யபாரம்,unk,,,,,,' head="ராஜ்யபாரம்"  poslcat="NM">
+2.1	ராஜ்யபாரம்	NN	<fs af='ராஜ்யபாரம்,unk,,,,,,' name="ராஜ்யபாரம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='கையிலே,unk,,,,,,' head="கையிலே"  poslcat="NM">
+3.1	அவன்	PRP	<fs af='அவன்,unk,,,,,,' poslcat="NM">
+3.2	கையிலே	NN	<fs af='கையிலே,unk,,,,,,' name="கையிலே"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='ஸ்திரப்பட்டபோது,unk,,,,,,' head="ஸ்திரப்பட்டபோது"  poslcat="NM">
+4.1	ஸ்திரப்பட்டபோது	VM	<fs af='ஸ்திரப்பட்டபோது,unk,,,,,,' name="ஸ்திரப்பட்டபோது"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='அவனுடைய,unk,,,,,,' head="அவனுடைய"  poslcat="NM">
+5.1	அவனுடைய	PRP	<fs af='அவனுடைய,unk,,,,,,' name="அவனுடைய"  poslcat="NM">
+	))		
+6	((	NP	<fs af='ராஜாவைக்,unk,,,,,,' head="ராஜாவைக்"  poslcat="NM">
+6.1	தகப்பனாகிய	JJ	<fs af='தகப்பனாகிய,unk,,,,,,' poslcat="NM">
+6.2	ராஜாவைக்	NN	<fs af='ராஜாவைக்,unk,,,,,,' name="ராஜாவைக்"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='கொன்றுபோட்ட,unk,,,,,,' head="கொன்றுபோட்ட"  poslcat="NM">
+7.1	கொன்றுபோட்ட	VM	<fs af='கொன்றுபோட்ட,unk,,,,,,' name="கொன்றுபோட்ட"  poslcat="NM">
+	))		
+8	((	NP	<fs af='தன்,unk,,,,,,' head="தன்"  poslcat="NM">
+8.1	தன்	PRP	<fs af='தன்,unk,,,,,,' name="தன்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='ஊழியக்காரரைக்,unk,,,,,,' head="ஊழியக்காரரைக்"  poslcat="NM">
+9.1	ஊழியக்காரரைக்	NN	<fs af='ஊழியக்காரரைக்,unk,,,,,,' name="ஊழியக்காரரைக்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='கொன்றுபோட்டான்,unk,,,,,,' head="கொன்றுபோட்டான்"  poslcat="NM">
+10.1	கொன்றுபோட்டான்	VM	<fs af='கொன்றுபோட்டான்,unk,,,,,,' name="கொன்றுபோட்டான்"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ராஜ்யபாரம்,unk,,,,,,' head="ராஜ்யபாரம்"  poslcat="NM">
+1.1	ராஜ்யபாரம்	NN	<fs af='ராஜ்யபாரம்,unk,,,,,,' name="ராஜ்யபாரம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='கையிலே,unk,,,,,,' head="கையிலே"  poslcat="NM">
+2.1	அவன்	PRP	<fs af='அவன்,unk,,,,,,' poslcat="NM">
+2.2	கையிலே	NN	<fs af='கையிலே,unk,,,,,,' name="கையிலே"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='ஸ்திரப்பட்டபோது,unk,,,,,,' head="ஸ்திரப்பட்டபோது"  poslcat="NM">
+3.1	ஸ்திரப்பட்டபோது	VM	<fs af='ஸ்திரப்பட்டபோது,unk,,,,,,' name="ஸ்திரப்பட்டபோது"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='அவனுடைய,unk,,,,,,' head="அவனுடைய"  poslcat="NM">
+4.1	அவனுடைய	PRP	<fs af='அவனுடைய,unk,,,,,,' name="அவனுடைய"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ராஜாவைக்,unk,,,,,,' head="ராஜாவைக்"  poslcat="NM">
+5.1	தகப்பனாகிய	JJ	<fs af='தகப்பனாகிய,unk,,,,,,' poslcat="NM">
+5.2	ராஜாவைக்	NN	<fs af='ராஜாவைக்,unk,,,,,,' name="ராஜாவைக்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='கொன்றுபோட்ட,unk,,,,,,' head="கொன்றுபோட்ட"  poslcat="NM">
+6.1	கொன்றுபோட்ட	VM	<fs af='கொன்றுபோட்ட,unk,,,,,,' name="கொன்றுபோட்ட"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தன்,unk,,,,,,' head="தன்"  poslcat="NM">
+7.1	தன்	PRP	<fs af='தன்,unk,,,,,,' name="தன்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='ஊழியக்காரரைக்,unk,,,,,,' head="ஊழியக்காரரைக்"  poslcat="NM">
+8.1	ஊழியக்காரரைக்	NN	<fs af='ஊழியக்காரரைக்,unk,,,,,,' name="ஊழியக்காரரைக்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='கொன்றுபோட்டான்,unk,,,,,,' head="கொன்றுபோட்டான்"  poslcat="NM">
+9.1	கொன்றுபோட்டான்	VM	<fs af='கொன்றுபோட்டான்,unk,,,,,,' name="கொன்றுபோட்டான்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

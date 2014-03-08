@@ -1,0 +1,65 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இதனால்,unk,,,,,,' head="இதனால்"  poslcat="NM">
+2.1	இதனால்	PRP	<fs af='இதனால்,unk,,,,,,' name="இதனால்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இந்தி,unk,,,,,,' head="இந்தி"  poslcat="NM">
+3.1	இந்தி	NN	<fs af='இந்தி,unk,,,,,,' name="இந்தி"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='படங்களுக்கு,unk,,,,,,' head="படங்களுக்கு"  poslcat="NM">
+4.1	தெலுங்கு	NN	<fs af='தெலுங்கு,unk,,,,,,' poslcat="NM">
+4.2	படங்களுக்கு	NN	<fs af='படங்களுக்கு,unk,,,,,,' name="படங்களுக்கு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கேமராக்கள்,unk,,,,,,' head="கேமராக்கள்"  poslcat="NM">
+5.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+5.2	கேமராக்கள்	NN	<fs af='கேமராக்கள்,unk,,,,,,' name="கேமராக்கள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நேரத்தில்,unk,,,,,,' head="நேரத்தில்"  poslcat="NM">
+6.1	தேவையில்லாத	JJ	<fs af='தேவையில்லாத,unk,,,,,,' poslcat="NM">
+6.2	நேரத்தில்	NN	<fs af='நேரத்தில்,unk,,,,,,' name="நேரத்தில்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தான்,unk,,,,,,' head="தான்"  poslcat="NM">
+7.1	தான்	PRP	<fs af='தான்,unk,,,,,,' name="தான்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='படப்பிடிப்புகளுக்கு,unk,,,,,,' head="படப்பிடிப்புகளுக்கு"  poslcat="NM">
+8.1	தமிழ்ப்	NN	<fs af='தமிழ்ப்,unk,,,,,,' poslcat="NM">
+8.2	படப்பிடிப்புகளுக்கு	NN	<fs af='படப்பிடிப்புகளுக்கு,unk,,,,,,' name="படப்பிடிப்புகளுக்கு"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='கிடைக்கும்,unk,,,,,,' head="கிடைக்கும்"  poslcat="NM">
+9.1	கிடைக்கும்	VM	<fs af='கிடைக்கும்,unk,,,,,,' name="கிடைக்கும்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இதனால்,unk,,,,,,' head="இதனால்"  poslcat="NM">
+1.1	இதனால்	PRP	<fs af='இதனால்,unk,,,,,,' name="இதனால்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='இந்தி,unk,,,,,,' head="இந்தி"  poslcat="NM">
+2.1	இந்தி	NN	<fs af='இந்தி,unk,,,,,,' name="இந்தி"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='படங்களுக்கு,unk,,,,,,' head="படங்களுக்கு"  poslcat="NM">
+3.1	தெலுங்கு	NN	<fs af='தெலுங்கு,unk,,,,,,' poslcat="NM">
+3.2	படங்களுக்கு	NN	<fs af='படங்களுக்கு,unk,,,,,,' name="படங்களுக்கு"  poslcat="NM">
+	))		
+4	((	NP	<fs af='கேமராக்கள்,unk,,,,,,' head="கேமராக்கள்"  poslcat="NM">
+4.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+4.2	கேமராக்கள்	NN	<fs af='கேமராக்கள்,unk,,,,,,' name="கேமராக்கள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நேரத்தில்,unk,,,,,,' head="நேரத்தில்"  poslcat="NM">
+5.1	தேவையில்லாத	JJ	<fs af='தேவையில்லாத,unk,,,,,,' poslcat="NM">
+5.2	நேரத்தில்	NN	<fs af='நேரத்தில்,unk,,,,,,' name="நேரத்தில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='தான்,unk,,,,,,' head="தான்"  poslcat="NM">
+6.1	தான்	PRP	<fs af='தான்,unk,,,,,,' name="தான்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='படப்பிடிப்புகளுக்கு,unk,,,,,,' head="படப்பிடிப்புகளுக்கு"  poslcat="NM">
+7.1	தமிழ்ப்	NN	<fs af='தமிழ்ப்,unk,,,,,,' poslcat="NM">
+7.2	படப்பிடிப்புகளுக்கு	NN	<fs af='படப்பிடிப்புகளுக்கு,unk,,,,,,' name="படப்பிடிப்புகளுக்கு"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='கிடைக்கும்,unk,,,,,,' head="கிடைக்கும்"  poslcat="NM">
+8.1	கிடைக்கும்	VM	<fs af='கிடைக்கும்,unk,,,,,,' name="கிடைக்கும்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

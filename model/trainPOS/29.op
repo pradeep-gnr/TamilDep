@@ -1,0 +1,77 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பத்மாவதியும்,unk,,,,,,' head="பத்மாவதியும்"  poslcat="NM">
+2.1	பத்மாவதியும்	NNP	<fs af='பத்மாவதியும்,unk,,,,,,' name="பத்மாவதியும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அவருக்கு,unk,,,,,,' head="அவருக்கு"  poslcat="NM">
+3.1	அவருக்கு	PRP	<fs af='அவருக்கு,unk,,,,,,' name="அவருக்கு"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='துணையாக,unk,,,,,,' head="துணையாக"  poslcat="NM">
+4.1	துணையாக	RB	<fs af='துணையாக,unk,,,,,,' name="துணையாக"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இருந்த,unk,,,,,,' head="இருந்த"  poslcat="NM">
+5.1	இருந்த	VM	<fs af='இருந்த,unk,,,,,,' name="இருந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நடிகர்களும்,unk,,,,,,' head="நடிகர்களும்"  poslcat="NM">
+6.1	3	QC	<fs af='3,num,,,,,,' poslcat="NM">
+6.2	துணை	NN	<fs af='துணை,unk,,,,,,' poslcat="NM">
+6.3	நடிகர்களும்	NN	<fs af='நடிகர்களும்,unk,,,,,,' name="நடிகர்களும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='புழல்,unk,,,,,,' head="புழல்"  poslcat="NM">
+7.1	புழல்	NN	<fs af='புழல்,unk,,,,,,' name="புழல்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='சிறையில்,unk,,,,,,' head="சிறையில்"  poslcat="NM">
+8.1	சிறையில்	NN	<fs af='சிறையில்,unk,,,,,,' name="சிறையில்"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='இப்போது,unk,,,,,,' head="இப்போது"  poslcat="NM">
+9.1	இப்போது	RB	<fs af='இப்போது,unk,,,,,,' name="இப்போது"  poslcat="NM">
+	))		
+10	((	NP	<fs af='கம்பி,unk,,,,,,' head="கம்பி"  poslcat="NM">
+10.1	கம்பி	NN	<fs af='கம்பி,unk,,,,,,' name="கம்பி"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='எண்ணி,unk,,,,,,' head="எண்ணி"  poslcat="NM">
+11.1	எண்ணி	VM	<fs af='எண்ணி,unk,,,,,,' name="எண்ணி"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='வருகின்றனர்,unk,,,,,,' head="வருகின்றனர்"  poslcat="NM">
+12.1	வருகின்றனர்	VAUX	<fs af='வருகின்றனர்,unk,,,,,,' name="வருகின்றனர்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பத்மாவதியும்,unk,,,,,,' head="பத்மாவதியும்"  poslcat="NM">
+1.1	பத்மாவதியும்	NNP	<fs af='பத்மாவதியும்,unk,,,,,,' name="பத்மாவதியும்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='அவருக்கு,unk,,,,,,' head="அவருக்கு"  poslcat="NM">
+2.1	அவருக்கு	PRP	<fs af='அவருக்கு,unk,,,,,,' name="அவருக்கு"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='துணையாக,unk,,,,,,' head="துணையாக"  poslcat="NM">
+3.1	துணையாக	RB	<fs af='துணையாக,unk,,,,,,' name="துணையாக"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='இருந்த,unk,,,,,,' head="இருந்த"  poslcat="NM">
+4.1	இருந்த	VM	<fs af='இருந்த,unk,,,,,,' name="இருந்த"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நடிகர்களும்,unk,,,,,,' head="நடிகர்களும்"  poslcat="NM">
+5.1	3	QC	<fs af='3,num,,,,,,' poslcat="NM">
+5.2	துணை	NN	<fs af='துணை,unk,,,,,,' poslcat="NM">
+5.3	நடிகர்களும்	NN	<fs af='நடிகர்களும்,unk,,,,,,' name="நடிகர்களும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='புழல்,unk,,,,,,' head="புழல்"  poslcat="NM">
+6.1	புழல்	NN	<fs af='புழல்,unk,,,,,,' name="புழல்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='சிறையில்,unk,,,,,,' head="சிறையில்"  poslcat="NM">
+7.1	சிறையில்	NN	<fs af='சிறையில்,unk,,,,,,' name="சிறையில்"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='இப்போது,unk,,,,,,' head="இப்போது"  poslcat="NM">
+8.1	இப்போது	RB	<fs af='இப்போது,unk,,,,,,' name="இப்போது"  poslcat="NM">
+	))		
+9	((	NP	<fs af='கம்பி,unk,,,,,,' head="கம்பி"  poslcat="NM">
+9.1	கம்பி	NN	<fs af='கம்பி,unk,,,,,,' name="கம்பி"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='எண்ணி,unk,,,,,,' head="எண்ணி"  poslcat="NM">
+10.1	எண்ணி	VM	<fs af='எண்ணி,unk,,,,,,' name="எண்ணி"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வருகின்றனர்,unk,,,,,,' head="வருகின்றனர்"  poslcat="NM">
+11.1	வருகின்றனர்	VAUX	<fs af='வருகின்றனர்,unk,,,,,,' name="வருகின்றனர்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

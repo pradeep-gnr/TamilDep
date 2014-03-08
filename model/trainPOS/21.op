@@ -1,0 +1,131 @@
+<Sentence id="">			
+1			
+2	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+2.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மாதத்தின்,unk,,,,,,' head="மாதத்தின்"  poslcat="NM">
+3.1	மாதத்தின்	NN	<fs af='மாதத்தின்,unk,,,,,,' name="மாதத்தின்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='நிகழ்வுகள்,unk,,,,,,' head="நிகழ்வுகள்"  poslcat="NM">
+4.1	நிகழ்வுகள்	VM	<fs af='நிகழ்வுகள்,unk,,,,,,' name="நிகழ்வுகள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='இதற்கு,unk,,,,,,' head="இதற்கு"  poslcat="NM">
+5.1	இதற்கு	PRP	<fs af='இதற்கு,unk,,,,,,' name="இதற்கு"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='முன்பு,unk,,,,,,' head="முன்பு"  poslcat="NM">
+6.1	முன்பு	RB	<fs af='முன்பு,unk,,,,,,' name="முன்பு"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='இருந்ததைவிட,unk,,,,,,' head="இருந்ததைவிட"  poslcat="NM">
+7.1	இருந்ததைவிட	VM	<fs af='இருந்ததைவிட,unk,,,,,,' name="இருந்ததைவிட"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='கூடுதலாக,unk,,,,,,' head="கூடுதலாக"  poslcat="NM">
+8.1	கூடுதலாக	RB	<fs af='கூடுதலாக,unk,,,,,,' name="கூடுதலாக"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க"  poslcat="NM">
+9.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க"  poslcat="NM">
+	))		
+10	((	NP	<fs af='அரசாங்கமும்,unk,,,,,,' head="அரசாங்கமும்"  poslcat="NM">
+10.1	அரசாங்கமும்	NN	<fs af='அரசாங்கமும்,unk,,,,,,' name="அரசாங்கமும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='அமெரிக்காவின்,unk,,,,,,' head="அமெரிக்காவின்"  poslcat="NM">
+11.1	அமெரிக்காவின்	NN	<fs af='அமெரிக்காவின்,unk,,,,,,' name="அமெரிக்காவின்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='முறையும்,unk,,,,,,' head="முறையும்"  poslcat="NM">
+12.1	இரு	QC	<fs af='இரு,unk,,,,,,' poslcat="NM">
+12.2	கட்சி	NN	<fs af='கட்சி,unk,,,,,,' poslcat="NM">
+12.3	முறையும்	NN	<fs af='முறையும்,unk,,,,,,' name="முறையும்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='அரசியல்,unk,,,,,,' head="அரசியல்"  poslcat="NM">
+13.1	மக்களுடைய	JJ	<fs af='மக்களுடைய,unk,,,,,,' poslcat="NM">
+13.2	அரசியல்	NN	<fs af='அரசியல்,unk,,,,,,' name="அரசியல்"  poslcat="NM">
+	))		
+14	((	NP	<fs af='கருவிகள்,unk,,,,,,' head="கருவிகள்_2"  poslcat="NM">
+14.1	கருவிகள்	NN	<fs af='கருவிகள்,unk,,,,,,' name="கருவிகள்_2"  poslcat="NM">
+	))		
+15	((	NEGP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+15.1	அல்ல	NEG	<fs af='அல்ல,unk,,,,,,' poslcat="NM">
+15.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+16	((	NP	<fs af='குழுவின்,unk,,,,,,' head="குழுவின்"  poslcat="NM">
+16.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+16.2	நிதிய	JJ	<fs af='நிதிய,unk,,,,,,' poslcat="NM">
+16.3	தன்னலக்	JJ	<fs af='தன்னலக்,unk,,,,,,' poslcat="NM">
+16.4	குழுவின்	NN	<fs af='குழுவின்,unk,,,,,,' name="குழுவின்"  poslcat="NM">
+	))		
+17	((	NP	<fs af='கருவிகள்,unk,,,,,,' head="கருவிகள்"  poslcat="NM">
+17.1	அரசியல்	NN	<fs af='அரசியல்,unk,,,,,,' poslcat="NM">
+17.2	கருவிகள்	NN	<fs af='கருவிகள்,unk,,,,,,' name="கருவிகள்"  poslcat="NM">
+	))		
+18	((	BLK	<fs af='என்பதை,unk,,,,,,' head="என்பதை"  poslcat="NM">
+18.1	என்பதை	UT	<fs af='என்பதை,unk,,,,,,' name="என்பதை"  poslcat="NM">
+	))		
+19	((	VGF	<fs af='நிரூபித்துள்ளன,unk,,,,,,' head="நிரூபித்துள்ளன"  poslcat="NM">
+19.1	நிரூபித்துள்ளன	VM	<fs af='நிரூபித்துள்ளன,unk,,,,,,' name="நிரூபித்துள்ளன"  poslcat="NM">
+19.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+1.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+2	((	NP	<fs af='மாதத்தின்,unk,,,,,,' head="மாதத்தின்"  poslcat="NM">
+2.1	மாதத்தின்	NN	<fs af='மாதத்தின்,unk,,,,,,' name="மாதத்தின்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='நிகழ்வுகள்,unk,,,,,,' head="நிகழ்வுகள்"  poslcat="NM">
+3.1	நிகழ்வுகள்	VM	<fs af='நிகழ்வுகள்,unk,,,,,,' name="நிகழ்வுகள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இதற்கு,unk,,,,,,' head="இதற்கு"  poslcat="NM">
+4.1	இதற்கு	PRP	<fs af='இதற்கு,unk,,,,,,' name="இதற்கு"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='முன்பு,unk,,,,,,' head="முன்பு"  poslcat="NM">
+5.1	முன்பு	RB	<fs af='முன்பு,unk,,,,,,' name="முன்பு"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='இருந்ததைவிட,unk,,,,,,' head="இருந்ததைவிட"  poslcat="NM">
+6.1	இருந்ததைவிட	VM	<fs af='இருந்ததைவிட,unk,,,,,,' name="இருந்ததைவிட"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='கூடுதலாக,unk,,,,,,' head="கூடுதலாக"  poslcat="NM">
+7.1	கூடுதலாக	RB	<fs af='கூடுதலாக,unk,,,,,,' name="கூடுதலாக"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க"  poslcat="NM">
+8.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அரசாங்கமும்,unk,,,,,,' head="அரசாங்கமும்"  poslcat="NM">
+9.1	அரசாங்கமும்	NN	<fs af='அரசாங்கமும்,unk,,,,,,' name="அரசாங்கமும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='அமெரிக்காவின்,unk,,,,,,' head="அமெரிக்காவின்"  poslcat="NM">
+10.1	அமெரிக்காவின்	NN	<fs af='அமெரிக்காவின்,unk,,,,,,' name="அமெரிக்காவின்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='முறையும்,unk,,,,,,' head="முறையும்"  poslcat="NM">
+11.1	இரு	QC	<fs af='இரு,unk,,,,,,' poslcat="NM">
+11.2	கட்சி	NN	<fs af='கட்சி,unk,,,,,,' poslcat="NM">
+11.3	முறையும்	NN	<fs af='முறையும்,unk,,,,,,' name="முறையும்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='அரசியல்,unk,,,,,,' head="அரசியல்"  poslcat="NM">
+12.1	மக்களுடைய	JJ	<fs af='மக்களுடைய,unk,,,,,,' poslcat="NM">
+12.2	அரசியல்	NN	<fs af='அரசியல்,unk,,,,,,' name="அரசியல்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='கருவிகள்,unk,,,,,,' head="கருவிகள்_2"  poslcat="NM">
+13.1	கருவிகள்	NN	<fs af='கருவிகள்,unk,,,,,,' name="கருவிகள்_2"  poslcat="NM">
+	))		
+14	((	NEGP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+14.1	அல்ல	NEG	<fs af='அல்ல,unk,,,,,,' poslcat="NM">
+14.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+15	((	NP	<fs af='குழுவின்,unk,,,,,,' head="குழுவின்"  poslcat="NM">
+15.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+15.2	நிதிய	JJ	<fs af='நிதிய,unk,,,,,,' poslcat="NM">
+15.3	தன்னலக்	JJ	<fs af='தன்னலக்,unk,,,,,,' poslcat="NM">
+15.4	குழுவின்	NN	<fs af='குழுவின்,unk,,,,,,' name="குழுவின்"  poslcat="NM">
+	))		
+16	((	NP	<fs af='கருவிகள்,unk,,,,,,' head="கருவிகள்"  poslcat="NM">
+16.1	அரசியல்	NN	<fs af='அரசியல்,unk,,,,,,' poslcat="NM">
+16.2	கருவிகள்	NN	<fs af='கருவிகள்,unk,,,,,,' name="கருவிகள்"  poslcat="NM">
+	))		
+17	((	BLK	<fs af='என்பதை,unk,,,,,,' head="என்பதை"  poslcat="NM">
+17.1	என்பதை	UT	<fs af='என்பதை,unk,,,,,,' name="என்பதை"  poslcat="NM">
+	))		
+18	((	VGF	<fs af='நிரூபித்துள்ளன,unk,,,,,,' head="நிரூபித்துள்ளன"  poslcat="NM">
+18.1	நிரூபித்துள்ளன	VM	<fs af='நிரூபித்துள்ளன,unk,,,,,,' name="நிரூபித்துள்ளன"  poslcat="NM">
+18.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

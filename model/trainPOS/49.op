@@ -1,0 +1,45 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அவையால்,unk,,,,,,' head="அவையால்"  poslcat="NM">
+2.1	அவையால்	NN	<fs af='அவையால்,unk,,,,,,' name="அவையால்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='நிராகரிக்கப்பட்ட,unk,,,,,,' head="நிராகரிக்கப்பட்ட"  poslcat="NM">
+3.1	நிராகரிக்கப்பட்ட	VM	<fs af='நிராகரிக்கப்பட்ட,unk,,,,,,' name="நிராகரிக்கப்பட்ட"  poslcat="NM">
+	))		
+4	((	NP	<fs af='மசேஆதாக்கள்,unk,,,,,,' head="மசேஆதாக்கள்"  poslcat="NM">
+4.1	மசேஆதாக்கள்	NN	<fs af='மசேஆதாக்கள்,unk,,,,,,' name="மசேஆதாக்கள்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	VGNF	<fs af='செயலாக்கக்,unk,,,,,,' head="செயலாக்கக்"  poslcat="NM">
+5.1	செயலாக்கக்	VM	<fs af='செயலாக்கக்,unk,,,,,,' name="செயலாக்கக்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='குழுவுக்கு,unk,,,,,,' head="குழுவுக்கு"  poslcat="NM">
+6.1	குழுவுக்கு	NN	<fs af='குழுவுக்கு,unk,,,,,,' name="குழுவுக்கு"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='அனுப்பப்படும்,unk,,,,,,' head="அனுப்பப்படும்"  poslcat="NM">
+7.1	அனுப்பப்படும்	VM	<fs af='அனுப்பப்படும்,unk,,,,,,' name="அனுப்பப்படும்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அவையால்,unk,,,,,,' head="அவையால்"  poslcat="NM">
+1.1	அவையால்	NN	<fs af='அவையால்,unk,,,,,,' name="அவையால்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='நிராகரிக்கப்பட்ட,unk,,,,,,' head="நிராகரிக்கப்பட்ட"  poslcat="NM">
+2.1	நிராகரிக்கப்பட்ட	VM	<fs af='நிராகரிக்கப்பட்ட,unk,,,,,,' name="நிராகரிக்கப்பட்ட"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மசேஆதாக்கள்,unk,,,,,,' head="மசேஆதாக்கள்"  poslcat="NM">
+3.1	மசேஆதாக்கள்	NN	<fs af='மசேஆதாக்கள்,unk,,,,,,' name="மசேஆதாக்கள்"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	VGNF	<fs af='செயலாக்கக்,unk,,,,,,' head="செயலாக்கக்"  poslcat="NM">
+4.1	செயலாக்கக்	VM	<fs af='செயலாக்கக்,unk,,,,,,' name="செயலாக்கக்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='குழுவுக்கு,unk,,,,,,' head="குழுவுக்கு"  poslcat="NM">
+5.1	குழுவுக்கு	NN	<fs af='குழுவுக்கு,unk,,,,,,' name="குழுவுக்கு"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='அனுப்பப்படும்,unk,,,,,,' head="அனுப்பப்படும்"  poslcat="NM">
+6.1	அனுப்பப்படும்	VM	<fs af='அனுப்பப்படும்,unk,,,,,,' name="அனுப்பப்படும்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

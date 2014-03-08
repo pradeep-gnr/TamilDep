@@ -1,0 +1,89 @@
+<Sentence id="">			
+1			
+2	((	CCP	<fs af='மேலும்,unk,,,,,,' head="மேலும்"  poslcat="NM">
+2.1	மேலும்	CC	<fs af='மேலும்,unk,,,,,,' name="மேலும்"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='சிபிராஜுக்கு,unk,,,,,,' head="சிபிராஜுக்கு"  poslcat="NM">
+3.1	சிபிராஜுக்கு	NNP	<fs af='சிபிராஜுக்கு,unk,,,,,,' name="சிபிராஜுக்கு"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='அப்பாவாக,unk,,,,,,' head="அப்பாவாக_2"  poslcat="NM">
+4.1	அப்பாவாக	RB	<fs af='அப்பாவாக,unk,,,,,,' name="அப்பாவாக_2"  poslcat="NM">
+	))		
+5	((	VGNN	<fs af='நடித்தது,unk,,,,,,' head="நடித்தது"  poslcat="NM">
+5.1	நடித்தது	VM	<fs af='நடித்தது,unk,,,,,,' name="நடித்தது"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='போல்,unk,,,,,,' head="போல்"  poslcat="NM">
+6.1	போல்	RB	<fs af='போல்,unk,,,,,,' name="போல்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வேறு,unk,,,,,,' head="வேறு"  poslcat="NM">
+7.1	வேறு	NN	<fs af='வேறு,unk,,,,,,' name="வேறு"  poslcat="NM">
+	))		
+8	((	NP	<fs af='நடிகருக்கும்,unk,,,,,,' head="நடிகருக்கும்"  poslcat="NM">
+8.1	எந்த	DEM	<fs af='எந்த,unk,,,,,,' poslcat="NM">
+8.2	நடிகருக்கும்	NN	<fs af='நடிகருக்கும்,unk,,,,,,' name="நடிகருக்கும்"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='அப்பாவாக,unk,,,,,,' head="அப்பாவாக"  poslcat="NM">
+9.1	அப்பாவாக	RB	<fs af='அப்பாவாக,unk,,,,,,' name="அப்பாவாக"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='நடிக்க,unk,,,,,,' head="நடிக்க"  poslcat="NM">
+10.1	நடிக்க	VM	<fs af='நடிக்க,unk,,,,,,' name="நடிக்க"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='மாட்டேன்,unk,,,,,,' head="மாட்டேன்"  poslcat="NM">
+11.1	மாட்டேன்	VAUX	<fs af='மாட்டேன்,unk,,,,,,' name="மாட்டேன்"  poslcat="NM">
+	))		
+12	((	RBP	<fs af='என்றும்,unk,,,,,,' head="என்றும்"  poslcat="NM">
+12.1	என்றும்	RB	<fs af='என்றும்,unk,,,,,,' name="என்றும்"  poslcat="NM">
+	))		
+13	((	VGNF	<fs af='கூறி,unk,,,,,,' head="கூறி"  poslcat="NM">
+13.1	கூறி	VM	<fs af='கூறி,unk,,,,,,' name="கூறி"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='இருந்தார்,unk,,,,,,' head="இருந்தார்"  poslcat="NM">
+14.1	இருந்தார்	VAUX	<fs af='இருந்தார்,unk,,,,,,' name="இருந்தார்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	CCP	<fs af='மேலும்,unk,,,,,,' head="மேலும்"  poslcat="NM">
+1.1	மேலும்	CC	<fs af='மேலும்,unk,,,,,,' name="மேலும்"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='சிபிராஜுக்கு,unk,,,,,,' head="சிபிராஜுக்கு"  poslcat="NM">
+2.1	சிபிராஜுக்கு	NNP	<fs af='சிபிராஜுக்கு,unk,,,,,,' name="சிபிராஜுக்கு"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='அப்பாவாக,unk,,,,,,' head="அப்பாவாக_2"  poslcat="NM">
+3.1	அப்பாவாக	RB	<fs af='அப்பாவாக,unk,,,,,,' name="அப்பாவாக_2"  poslcat="NM">
+	))		
+4	((	VGNN	<fs af='நடித்தது,unk,,,,,,' head="நடித்தது"  poslcat="NM">
+4.1	நடித்தது	VM	<fs af='நடித்தது,unk,,,,,,' name="நடித்தது"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='போல்,unk,,,,,,' head="போல்"  poslcat="NM">
+5.1	போல்	RB	<fs af='போல்,unk,,,,,,' name="போல்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வேறு,unk,,,,,,' head="வேறு"  poslcat="NM">
+6.1	வேறு	NN	<fs af='வேறு,unk,,,,,,' name="வேறு"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நடிகருக்கும்,unk,,,,,,' head="நடிகருக்கும்"  poslcat="NM">
+7.1	எந்த	DEM	<fs af='எந்த,unk,,,,,,' poslcat="NM">
+7.2	நடிகருக்கும்	NN	<fs af='நடிகருக்கும்,unk,,,,,,' name="நடிகருக்கும்"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='அப்பாவாக,unk,,,,,,' head="அப்பாவாக"  poslcat="NM">
+8.1	அப்பாவாக	RB	<fs af='அப்பாவாக,unk,,,,,,' name="அப்பாவாக"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='நடிக்க,unk,,,,,,' head="நடிக்க"  poslcat="NM">
+9.1	நடிக்க	VM	<fs af='நடிக்க,unk,,,,,,' name="நடிக்க"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='மாட்டேன்,unk,,,,,,' head="மாட்டேன்"  poslcat="NM">
+10.1	மாட்டேன்	VAUX	<fs af='மாட்டேன்,unk,,,,,,' name="மாட்டேன்"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='என்றும்,unk,,,,,,' head="என்றும்"  poslcat="NM">
+11.1	என்றும்	RB	<fs af='என்றும்,unk,,,,,,' name="என்றும்"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='கூறி,unk,,,,,,' head="கூறி"  poslcat="NM">
+12.1	கூறி	VM	<fs af='கூறி,unk,,,,,,' name="கூறி"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='இருந்தார்,unk,,,,,,' head="இருந்தார்"  poslcat="NM">
+13.1	இருந்தார்	VAUX	<fs af='இருந்தார்,unk,,,,,,' name="இருந்தார்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,45 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='கும்பல்கள்,unk,,,,,,' head="கும்பல்கள்"  poslcat="NM">
+2.1	இத்தகைய	JJ	<fs af='இத்தகைய,unk,,,,,,' poslcat="NM">
+2.2	கும்பல்கள்	NN	<fs af='கும்பல்கள்,unk,,,,,,' name="கும்பல்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஆதரவை,unk,,,,,,' head="ஆதரவை"  poslcat="NM">
+3.1	அதிகாரிகளின்	NN	<fs af='அதிகாரிகளின்,unk,,,,,,' poslcat="NM">
+3.2	ஆதரவை	NN	<fs af='ஆதரவை,unk,,,,,,' name="ஆதரவை"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='அனுபவிக்கின்றன,unk,,,,,,' head="அனுபவிக்கின்றன"  poslcat="NM">
+4.1	அனுபவிக்கின்றன	VM	<fs af='அனுபவிக்கின்றன,unk,,,,,,' name="அனுபவிக்கின்றன"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='என்பதே,unk,,,,,,' head="என்பதே"  poslcat="NM">
+5.1	என்பதே	UT	<fs af='என்பதே,unk,,,,,,' name="என்பதே"  poslcat="NM">
+	))		
+6	((	NP	<fs af='முடிவு,unk,,,,,,' head="முடிவு"  poslcat="NM">
+6.1	சாத்தியமான	JJ	<fs af='சாத்தியமான,unk,,,,,,' poslcat="NM">
+6.2	ஒரே	JJ	<fs af='ஒரே,unk,,,,,,' poslcat="NM">
+6.3	முடிவு	NN	<fs af='முடிவு,unk,,,,,,' name="முடிவு"  poslcat="NM">
+6.4	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='கும்பல்கள்,unk,,,,,,' head="கும்பல்கள்"  poslcat="NM">
+1.1	இத்தகைய	JJ	<fs af='இத்தகைய,unk,,,,,,' poslcat="NM">
+1.2	கும்பல்கள்	NN	<fs af='கும்பல்கள்,unk,,,,,,' name="கும்பல்கள்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஆதரவை,unk,,,,,,' head="ஆதரவை"  poslcat="NM">
+2.1	அதிகாரிகளின்	NN	<fs af='அதிகாரிகளின்,unk,,,,,,' poslcat="NM">
+2.2	ஆதரவை	NN	<fs af='ஆதரவை,unk,,,,,,' name="ஆதரவை"  poslcat="NM">
+	))		
+3	((	VGF	<fs af='அனுபவிக்கின்றன,unk,,,,,,' head="அனுபவிக்கின்றன"  poslcat="NM">
+3.1	அனுபவிக்கின்றன	VM	<fs af='அனுபவிக்கின்றன,unk,,,,,,' name="அனுபவிக்கின்றன"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='என்பதே,unk,,,,,,' head="என்பதே"  poslcat="NM">
+4.1	என்பதே	UT	<fs af='என்பதே,unk,,,,,,' name="என்பதே"  poslcat="NM">
+	))		
+5	((	NP	<fs af='முடிவு,unk,,,,,,' head="முடிவு"  poslcat="NM">
+5.1	சாத்தியமான	JJ	<fs af='சாத்தியமான,unk,,,,,,' poslcat="NM">
+5.2	ஒரே	JJ	<fs af='ஒரே,unk,,,,,,' poslcat="NM">
+5.3	முடிவு	NN	<fs af='முடிவு,unk,,,,,,' name="முடிவு"  poslcat="NM">
+5.4	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

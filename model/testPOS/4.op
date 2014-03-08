@@ -1,0 +1,69 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='குண்டிவெடிப்பைத்,unk,,,,,,' head="குண்டிவெடிப்பைத்"  poslcat="NM">
+2.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+2.2	குண்டிவெடிப்பைத்	NN	<fs af='குண்டிவெடிப்பைத்,unk,,,,,,' name="குண்டிவெடிப்பைத்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='தொடர்ந்து,unk,,,,,,' head="தொடர்ந்து"  poslcat="NM">
+3.1	தொடர்ந்து	VM	<fs af='தொடர்ந்து,unk,,,,,,' name="தொடர்ந்து"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='திரையரங்கினுள்,unk,,,,,,' head="திரையரங்கினுள்"  poslcat="NM">
+4.1	திரையரங்கினுள்	NN	<fs af='திரையரங்கினுள்,unk,,,,,,' name="திரையரங்கினுள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அனுமதிக்காதீர்கள்,unk,,,,,,' head="அனுமதிக்காதீர்கள்"  poslcat="NM">
+5.1	பைகளை	NN	<fs af='பைகளை,unk,,,,,,' poslcat="NM">
+5.2	அனுமதிக்காதீர்கள்	NN	<fs af='அனுமதிக்காதீர்கள்,unk,,,,,,' name="அனுமதிக்காதீர்கள்"  poslcat="NM">
+	))		
+6	((	BLK	<fs af='என,unk,,,,,,' head="என"  poslcat="NM">
+6.1	என	UT	<fs af='என,unk,,,,,,' name="என"  poslcat="NM">
+	))		
+7	((	NP	<fs af='காவல்துறை,unk,,,,,,' head="காவல்துறை"  poslcat="NM">
+7.1	தமிழக	JJ	<fs af='தமிழக,unk,,,,,,' poslcat="NM">
+7.2	காவல்துறை	NN	<fs af='காவல்துறை,unk,,,,,,' name="காவல்துறை"  poslcat="NM">
+	))		
+8	((	NP	<fs af='திரையரங்கு,unk,,,,,,' head="திரையரங்கு"  poslcat="NM">
+8.1	திரையரங்கு	NN	<fs af='திரையரங்கு,unk,,,,,,' name="திரையரங்கு"  poslcat="NM">
+	))		
+9	((	NP	<fs af='உரிமையாளர்களை,unk,,,,,,' head="உரிமையாளர்களை"  poslcat="NM">
+9.1	உரிமையாளர்களை	NN	<fs af='உரிமையாளர்களை,unk,,,,,,' name="உரிமையாளர்களை"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='எச்சரித்துள்ளது,unk,,,,,,' head="எச்சரித்துள்ளது"  poslcat="NM">
+10.1	எச்சரித்துள்ளது	VM	<fs af='எச்சரித்துள்ளது,unk,,,,,,' name="எச்சரித்துள்ளது"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='குண்டிவெடிப்பைத்,unk,,,,,,' head="குண்டிவெடிப்பைத்"  poslcat="NM">
+1.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+1.2	குண்டிவெடிப்பைத்	NN	<fs af='குண்டிவெடிப்பைத்,unk,,,,,,' name="குண்டிவெடிப்பைத்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='தொடர்ந்து,unk,,,,,,' head="தொடர்ந்து"  poslcat="NM">
+2.1	தொடர்ந்து	VM	<fs af='தொடர்ந்து,unk,,,,,,' name="தொடர்ந்து"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='திரையரங்கினுள்,unk,,,,,,' head="திரையரங்கினுள்"  poslcat="NM">
+3.1	திரையரங்கினுள்	NN	<fs af='திரையரங்கினுள்,unk,,,,,,' name="திரையரங்கினுள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அனுமதிக்காதீர்கள்,unk,,,,,,' head="அனுமதிக்காதீர்கள்"  poslcat="NM">
+4.1	பைகளை	NN	<fs af='பைகளை,unk,,,,,,' poslcat="NM">
+4.2	அனுமதிக்காதீர்கள்	NN	<fs af='அனுமதிக்காதீர்கள்,unk,,,,,,' name="அனுமதிக்காதீர்கள்"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='என,unk,,,,,,' head="என"  poslcat="NM">
+5.1	என	UT	<fs af='என,unk,,,,,,' name="என"  poslcat="NM">
+	))		
+6	((	NP	<fs af='காவல்துறை,unk,,,,,,' head="காவல்துறை"  poslcat="NM">
+6.1	தமிழக	JJ	<fs af='தமிழக,unk,,,,,,' poslcat="NM">
+6.2	காவல்துறை	NN	<fs af='காவல்துறை,unk,,,,,,' name="காவல்துறை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='திரையரங்கு,unk,,,,,,' head="திரையரங்கு"  poslcat="NM">
+7.1	திரையரங்கு	NN	<fs af='திரையரங்கு,unk,,,,,,' name="திரையரங்கு"  poslcat="NM">
+	))		
+8	((	NP	<fs af='உரிமையாளர்களை,unk,,,,,,' head="உரிமையாளர்களை"  poslcat="NM">
+8.1	உரிமையாளர்களை	NN	<fs af='உரிமையாளர்களை,unk,,,,,,' name="உரிமையாளர்களை"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='எச்சரித்துள்ளது,unk,,,,,,' head="எச்சரித்துள்ளது"  poslcat="NM">
+9.1	எச்சரித்துள்ளது	VM	<fs af='எச்சரித்துள்ளது,unk,,,,,,' name="எச்சரித்துள்ளது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

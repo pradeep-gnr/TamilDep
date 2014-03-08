@@ -1,0 +1,83 @@
+<Sentence id="">			
+1			
+2	((	BLK	<fs af='என்ன,unk,,,,,,' head="என்ன"  poslcat="NM">
+2.1	என்ன	WQ	<fs af='என்ன,unk,,,,,,' name="என்ன"  poslcat="NM">
+	))		
+3	((	VGF	<fs af='நடக்கிறது,unk,,,,,,' head="நடக்கிறது"  poslcat="NM">
+3.1	நடக்கிறது	VM	<fs af='நடக்கிறது,unk,,,,,,' name="நடக்கிறது"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='என்பது,unk,,,,,,' head="என்பது"  poslcat="NM">
+4.1	என்பது	UT	<fs af='என்பது,unk,,,,,,' name="என்பது"  poslcat="NM">
+	))		
+5	((	NP	<fs af='தமக்கு,unk,,,,,,' head="தமக்கு"  poslcat="NM">
+5.1	தமக்கு	PRP	<fs af='தமக்கு,unk,,,,,,' name="தமக்கு"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='தெரியும்,unk,,,,,,' head="தெரியும்"  poslcat="NM">
+6.1	தெரியும்	VM	<fs af='தெரியும்,unk,,,,,,' name="தெரியும்"  poslcat="NM">
+	))		
+7	((	BLK	<fs af='என்றும்,unk,,,,,,' head="என்றும்_2"  poslcat="NM">
+7.1	என்றும்	UT	<fs af='என்றும்,unk,,,,,,' name="என்றும்_2"  poslcat="NM">
+	))		
+8	((	CCP	<fs af='ஆனால்,unk,,,,,,' head="ஆனால்"  poslcat="NM">
+8.1	ஆனால்	CC	<fs af='ஆனால்,unk,,,,,,' name="ஆனால்"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='எதுவும்,unk,,,,,,' head="எதுவும்"  poslcat="NM">
+9.1	தம்மால்	PRP	<fs af='தம்மால்,unk,,,,,,' poslcat="NM">
+9.2	எதுவும்	NN	<fs af='எதுவும்,unk,,,,,,' name="எதுவும்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='செய்யமுடியாது,unk,,,,,,' head="செய்யமுடியாது"  poslcat="NM">
+10.1	செய்யமுடியாது	VM	<fs af='செய்யமுடியாது,unk,,,,,,' name="செய்யமுடியாது"  poslcat="NM">
+	))		
+11	((	BLK	<fs af='என்றும்,unk,,,,,,' head="என்றும்"  poslcat="NM">
+11.1	என்றும்	UT	<fs af='என்றும்,unk,,,,,,' name="என்றும்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='கடிதம்,unk,,,,,,' head="கடிதம்"  poslcat="NM">
+12.1	கடிதம்	NN	<fs af='கடிதம்,unk,,,,,,' name="கடிதம்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='எழுதியிருந்தார்,unk,,,,,,' head="எழுதியிருந்தார்"  poslcat="NM">
+13.1	எழுதியிருந்தார்	VM	<fs af='எழுதியிருந்தார்,unk,,,,,,' name="எழுதியிருந்தார்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	BLK	<fs af='என்ன,unk,,,,,,' head="என்ன"  poslcat="NM">
+1.1	என்ன	WQ	<fs af='என்ன,unk,,,,,,' name="என்ன"  poslcat="NM">
+	))		
+2	((	VGF	<fs af='நடக்கிறது,unk,,,,,,' head="நடக்கிறது"  poslcat="NM">
+2.1	நடக்கிறது	VM	<fs af='நடக்கிறது,unk,,,,,,' name="நடக்கிறது"  poslcat="NM">
+	))		
+3	((	BLK	<fs af='என்பது,unk,,,,,,' head="என்பது"  poslcat="NM">
+3.1	என்பது	UT	<fs af='என்பது,unk,,,,,,' name="என்பது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='தமக்கு,unk,,,,,,' head="தமக்கு"  poslcat="NM">
+4.1	தமக்கு	PRP	<fs af='தமக்கு,unk,,,,,,' name="தமக்கு"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='தெரியும்,unk,,,,,,' head="தெரியும்"  poslcat="NM">
+5.1	தெரியும்	VM	<fs af='தெரியும்,unk,,,,,,' name="தெரியும்"  poslcat="NM">
+	))		
+6	((	BLK	<fs af='என்றும்,unk,,,,,,' head="என்றும்_2"  poslcat="NM">
+6.1	என்றும்	UT	<fs af='என்றும்,unk,,,,,,' name="என்றும்_2"  poslcat="NM">
+	))		
+7	((	CCP	<fs af='ஆனால்,unk,,,,,,' head="ஆனால்"  poslcat="NM">
+7.1	ஆனால்	CC	<fs af='ஆனால்,unk,,,,,,' name="ஆனால்"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='எதுவும்,unk,,,,,,' head="எதுவும்"  poslcat="NM">
+8.1	தம்மால்	PRP	<fs af='தம்மால்,unk,,,,,,' poslcat="NM">
+8.2	எதுவும்	NN	<fs af='எதுவும்,unk,,,,,,' name="எதுவும்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='செய்யமுடியாது,unk,,,,,,' head="செய்யமுடியாது"  poslcat="NM">
+9.1	செய்யமுடியாது	VM	<fs af='செய்யமுடியாது,unk,,,,,,' name="செய்யமுடியாது"  poslcat="NM">
+	))		
+10	((	BLK	<fs af='என்றும்,unk,,,,,,' head="என்றும்"  poslcat="NM">
+10.1	என்றும்	UT	<fs af='என்றும்,unk,,,,,,' name="என்றும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='கடிதம்,unk,,,,,,' head="கடிதம்"  poslcat="NM">
+11.1	கடிதம்	NN	<fs af='கடிதம்,unk,,,,,,' name="கடிதம்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='எழுதியிருந்தார்,unk,,,,,,' head="எழுதியிருந்தார்"  poslcat="NM">
+12.1	எழுதியிருந்தார்	VM	<fs af='எழுதியிருந்தார்,unk,,,,,,' name="எழுதியிருந்தார்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

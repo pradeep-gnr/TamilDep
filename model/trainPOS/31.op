@@ -1,0 +1,87 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஆசாரியர்களின்,unk,,,,,,' head="ஆசாரியர்களின்"  poslcat="NM">
+2.1	ஆசாரியர்களின்	NN	<fs af='ஆசாரியர்களின்,unk,,,,,,' name="ஆசாரியர்களின்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பட்டணமாகிய,unk,,,,,,' head="பட்டணமாகிய"  poslcat="NM">
+3.1	பட்டணமாகிய	VM	<fs af='பட்டணமாகிய,unk,,,,,,' name="பட்டணமாகிய"  poslcat="NM">
+	))		
+4	((	NP	<fs af='புருஷரையும்,unk,,,,,,' head="புருஷரையும்"  poslcat="NM">
+4.1	நோபிலுமுள்ள	JJ	<fs af='நோபிலுமுள்ள,unk,,,,,,' poslcat="NM">
+4.2	புருஷரையும்	NN	<fs af='புருஷரையும்,unk,,,,,,' name="புருஷரையும்"  poslcat="NM">
+4.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='ஸ்திரீகளையும்,unk,,,,,,' head="ஸ்திரீகளையும்"  poslcat="NM">
+5.1	ஸ்திரீகளையும்	NN	<fs af='ஸ்திரீகளையும்,unk,,,,,,' name="ஸ்திரீகளையும்"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='பிள்ளைகளையும்,unk,,,,,,' head="பிள்ளைகளையும்"  poslcat="NM">
+6.1	பிள்ளைகளையும்	NNP	<fs af='பிள்ளைகளையும்,unk,,,,,,' name="பிள்ளைகளையும்"  poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='குழந்தைகளையும்,unk,,,,,,' head="குழந்தைகளையும்"  poslcat="NM">
+7.1	குழந்தைகளையும்	NN	<fs af='குழந்தைகளையும்,unk,,,,,,' name="குழந்தைகளையும்"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='மாடுகளையும்,unk,,,,,,' head="மாடுகளையும்"  poslcat="NM">
+8.1	மாடுகளையும்	NN	<fs af='மாடுகளையும்,unk,,,,,,' name="மாடுகளையும்"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='கழுதைகளையும்,unk,,,,,,' head="கழுதைகளையும்"  poslcat="NM">
+9.1	கழுதைகளையும்	NN	<fs af='கழுதைகளையும்,unk,,,,,,' name="கழுதைகளையும்"  poslcat="NM">
+9.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+10	((	NP	<fs af='ஆடுகளையும்,unk,,,,,,' head="ஆடுகளையும்"  poslcat="NM">
+10.1	ஆடுகளையும்	NN	<fs af='ஆடுகளையும்,unk,,,,,,' name="ஆடுகளையும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='பட்டயக்கருக்கினால்,unk,,,,,,' head="பட்டயக்கருக்கினால்"  poslcat="NM">
+11.1	பட்டயக்கருக்கினால்	NN	<fs af='பட்டயக்கருக்கினால்,unk,,,,,,' name="பட்டயக்கருக்கினால்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='வெட்டிப்போட்டான்,unk,,,,,,' head="வெட்டிப்போட்டான்"  poslcat="NM">
+12.1	வெட்டிப்போட்டான்	VM	<fs af='வெட்டிப்போட்டான்,unk,,,,,,' name="வெட்டிப்போட்டான்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஆசாரியர்களின்,unk,,,,,,' head="ஆசாரியர்களின்"  poslcat="NM">
+1.1	ஆசாரியர்களின்	NN	<fs af='ஆசாரியர்களின்,unk,,,,,,' name="ஆசாரியர்களின்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='பட்டணமாகிய,unk,,,,,,' head="பட்டணமாகிய"  poslcat="NM">
+2.1	பட்டணமாகிய	VM	<fs af='பட்டணமாகிய,unk,,,,,,' name="பட்டணமாகிய"  poslcat="NM">
+	))		
+3	((	NP	<fs af='புருஷரையும்,unk,,,,,,' head="புருஷரையும்"  poslcat="NM">
+3.1	நோபிலுமுள்ள	JJ	<fs af='நோபிலுமுள்ள,unk,,,,,,' poslcat="NM">
+3.2	புருஷரையும்	NN	<fs af='புருஷரையும்,unk,,,,,,' name="புருஷரையும்"  poslcat="NM">
+3.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='ஸ்திரீகளையும்,unk,,,,,,' head="ஸ்திரீகளையும்"  poslcat="NM">
+4.1	ஸ்திரீகளையும்	NN	<fs af='ஸ்திரீகளையும்,unk,,,,,,' name="ஸ்திரீகளையும்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='பிள்ளைகளையும்,unk,,,,,,' head="பிள்ளைகளையும்"  poslcat="NM">
+5.1	பிள்ளைகளையும்	NNP	<fs af='பிள்ளைகளையும்,unk,,,,,,' name="பிள்ளைகளையும்"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='குழந்தைகளையும்,unk,,,,,,' head="குழந்தைகளையும்"  poslcat="NM">
+6.1	குழந்தைகளையும்	NN	<fs af='குழந்தைகளையும்,unk,,,,,,' name="குழந்தைகளையும்"  poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='மாடுகளையும்,unk,,,,,,' head="மாடுகளையும்"  poslcat="NM">
+7.1	மாடுகளையும்	NN	<fs af='மாடுகளையும்,unk,,,,,,' name="மாடுகளையும்"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='கழுதைகளையும்,unk,,,,,,' head="கழுதைகளையும்"  poslcat="NM">
+8.1	கழுதைகளையும்	NN	<fs af='கழுதைகளையும்,unk,,,,,,' name="கழுதைகளையும்"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='ஆடுகளையும்,unk,,,,,,' head="ஆடுகளையும்"  poslcat="NM">
+9.1	ஆடுகளையும்	NN	<fs af='ஆடுகளையும்,unk,,,,,,' name="ஆடுகளையும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பட்டயக்கருக்கினால்,unk,,,,,,' head="பட்டயக்கருக்கினால்"  poslcat="NM">
+10.1	பட்டயக்கருக்கினால்	NN	<fs af='பட்டயக்கருக்கினால்,unk,,,,,,' name="பட்டயக்கருக்கினால்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வெட்டிப்போட்டான்,unk,,,,,,' head="வெட்டிப்போட்டான்"  poslcat="NM">
+11.1	வெட்டிப்போட்டான்	VM	<fs af='வெட்டிப்போட்டான்,unk,,,,,,' name="வெட்டிப்போட்டான்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

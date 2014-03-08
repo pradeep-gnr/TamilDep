@@ -1,0 +1,81 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='டேஆட்டல்,unk,,,,,,' head="டேஆட்டல்"  poslcat="NM">
+2.1	டேஆட்டல்	NN	<fs af='டேஆட்டல்,unk,,,,,,' name="டேஆட்டல்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' head="தெஆழிலாளர்கள்"  poslcat="NM">
+3.1	எண்ணெய்	NN	<fs af='எண்ணெய்,unk,,,,,,' poslcat="NM">
+3.2	சுத்திகரிப்புத்	NN	<fs af='சுத்திகரிப்புத்,unk,,,,,,' poslcat="NM">
+3.3	தெஆழிலாளர்கள்	NN	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' name="தெஆழிலாளர்கள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இன்று,unk,,,,,,' head="இன்று"  poslcat="NM">
+4.1	இன்று	NN	<fs af='இன்று,unk,,,,,,' name="இன்று"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வேலைநிறுத்தத்தை,unk,,,,,,' head="வேலைநிறுத்தத்தை"  poslcat="NM">
+5.1	மாலை	NN	<fs af='மாலை,unk,,,,,,' poslcat="NM">
+5.2	வேலைநிறுத்தத்தை	NN	<fs af='வேலைநிறுத்தத்தை,unk,,,,,,' name="வேலைநிறுத்தத்தை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='தெஆடரலாமா,unk,,,,,,' head="தெஆடரலாமா"  poslcat="NM">
+6.1	தெஆடரலாமா	NN	<fs af='தெஆடரலாமா,unk,,,,,,' name="தெஆடரலாமா"  poslcat="NM">
+	))		
+7	((	BLK	<fs af='என்பது,unk,,,,,,' head="என்பது"  poslcat="NM">
+7.1	என்பது	UT	<fs af='என்பது,unk,,,,,,' name="என்பது"  poslcat="NM">
+	))		
+8	((	BLK	<fs af='பற்றி,unk,,,,,,' head="பற்றி"  poslcat="NM">
+8.1	பற்றி	PSP	<fs af='பற்றி,unk,,,,,,' name="பற்றி"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அவர்களுடைய,unk,,,,,,' head="அவர்களுடைய"  poslcat="NM">
+9.1	அவர்களுடைய	PRP	<fs af='அவர்களுடைய,unk,,,,,,' name="அவர்களுடைய"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பெஆது,unk,,,,,,' head="பெஆது"  poslcat="NM">
+10.1	பணியிடங்களிலுள்ள	JJ	<fs af='பணியிடங்களிலுள்ள,unk,,,,,,' poslcat="NM">
+10.2	பெஆது	NN	<fs af='பெஆது,unk,,,,,,' name="பெஆது"  poslcat="NM">
+	))		
+11	((	NP	<fs af='மன்றங்களில்,unk,,,,,,' head="மன்றங்களில்"  poslcat="NM">
+11.1	மன்றங்களில்	NN	<fs af='மன்றங்களில்,unk,,,,,,' name="மன்றங்களில்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='வாக்களிப்பர்,unk,,,,,,' head="வாக்களிப்பர்"  poslcat="NM">
+12.1	வாக்களிப்பர்	VM	<fs af='வாக்களிப்பர்,unk,,,,,,' name="வாக்களிப்பர்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='டேஆட்டல்,unk,,,,,,' head="டேஆட்டல்"  poslcat="NM">
+1.1	டேஆட்டல்	NN	<fs af='டேஆட்டல்,unk,,,,,,' name="டேஆட்டல்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' head="தெஆழிலாளர்கள்"  poslcat="NM">
+2.1	எண்ணெய்	NN	<fs af='எண்ணெய்,unk,,,,,,' poslcat="NM">
+2.2	சுத்திகரிப்புத்	NN	<fs af='சுத்திகரிப்புத்,unk,,,,,,' poslcat="NM">
+2.3	தெஆழிலாளர்கள்	NN	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' name="தெஆழிலாளர்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இன்று,unk,,,,,,' head="இன்று"  poslcat="NM">
+3.1	இன்று	NN	<fs af='இன்று,unk,,,,,,' name="இன்று"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வேலைநிறுத்தத்தை,unk,,,,,,' head="வேலைநிறுத்தத்தை"  poslcat="NM">
+4.1	மாலை	NN	<fs af='மாலை,unk,,,,,,' poslcat="NM">
+4.2	வேலைநிறுத்தத்தை	NN	<fs af='வேலைநிறுத்தத்தை,unk,,,,,,' name="வேலைநிறுத்தத்தை"  poslcat="NM">
+	))		
+5	((	NP	<fs af='தெஆடரலாமா,unk,,,,,,' head="தெஆடரலாமா"  poslcat="NM">
+5.1	தெஆடரலாமா	NN	<fs af='தெஆடரலாமா,unk,,,,,,' name="தெஆடரலாமா"  poslcat="NM">
+	))		
+6	((	BLK	<fs af='என்பது,unk,,,,,,' head="என்பது"  poslcat="NM">
+6.1	என்பது	UT	<fs af='என்பது,unk,,,,,,' name="என்பது"  poslcat="NM">
+	))		
+7	((	BLK	<fs af='பற்றி,unk,,,,,,' head="பற்றி"  poslcat="NM">
+7.1	பற்றி	PSP	<fs af='பற்றி,unk,,,,,,' name="பற்றி"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அவர்களுடைய,unk,,,,,,' head="அவர்களுடைய"  poslcat="NM">
+8.1	அவர்களுடைய	PRP	<fs af='அவர்களுடைய,unk,,,,,,' name="அவர்களுடைய"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பெஆது,unk,,,,,,' head="பெஆது"  poslcat="NM">
+9.1	பணியிடங்களிலுள்ள	JJ	<fs af='பணியிடங்களிலுள்ள,unk,,,,,,' poslcat="NM">
+9.2	பெஆது	NN	<fs af='பெஆது,unk,,,,,,' name="பெஆது"  poslcat="NM">
+	))		
+10	((	NP	<fs af='மன்றங்களில்,unk,,,,,,' head="மன்றங்களில்"  poslcat="NM">
+10.1	மன்றங்களில்	NN	<fs af='மன்றங்களில்,unk,,,,,,' name="மன்றங்களில்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வாக்களிப்பர்,unk,,,,,,' head="வாக்களிப்பர்"  poslcat="NM">
+11.1	வாக்களிப்பர்	VM	<fs af='வாக்களிப்பர்,unk,,,,,,' name="வாக்களிப்பர்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

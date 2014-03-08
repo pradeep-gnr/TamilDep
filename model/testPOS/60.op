@@ -1,0 +1,111 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இலங்கை,unk,,,,,,' head="இலங்கை"  poslcat="NM">
+2.1	இலங்கை	NN	<fs af='இலங்கை,unk,,,,,,' name="இலங்கை"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஜனாதிபதி,unk,,,,,,' head="ஜனாதிபதி_2"  poslcat="NM">
+3.1	ஜனாதிபதி	NN	<fs af='ஜனாதிபதி,unk,,,,,,' name="ஜனாதிபதி_2"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='மஹிந்த,unk,,,,,,' head="மஹிந்த"  poslcat="NM">
+4.1	மஹிந்த	VM	<fs af='மஹிந்த,unk,,,,,,' name="மஹிந்த"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='இராஜபக்ஷ,unk,,,,,,' head="இராஜபக்ஷ"  poslcat="NM">
+5.1	இராஜபக்ஷ	VM	<fs af='இராஜபக்ஷ,unk,,,,,,' name="இராஜபக்ஷ"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='வாரத்துக்கும்,unk,,,,,,' head="வாரத்துக்கும்"  poslcat="NM">
+6.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+6.2	வாரத்துக்கும்	NN	<fs af='வாரத்துக்கும்,unk,,,,,,' name="வாரத்துக்கும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பின்னர்,unk,,,,,,' head="பின்னர்"  poslcat="NM">
+7.1	மேலான	JJ	<fs af='மேலான,unk,,,,,,' poslcat="NM">
+7.2	தயக்கத்தின்	NN	<fs af='தயக்கத்தின்,unk,,,,,,' poslcat="NM">
+7.3	பின்னர்	NN	<fs af='பின்னர்,unk,,,,,,' name="பின்னர்"  poslcat="NM">
+7.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+8.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+9	((	NP	<fs af='திங்கழன்று,unk,,,,,,' head="திங்கழன்று"  poslcat="NM">
+9.1	திங்கழன்று	NN	<fs af='திங்கழன்று,unk,,,,,,' name="திங்கழன்று"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='கிட்டத்தட்ட,unk,,,,,,' head="கிட்டத்தட்ட"  poslcat="NM">
+10.1	கிட்டத்தட்ட	VM	<fs af='கிட்டத்தட்ட,unk,,,,,,' name="கிட்டத்தட்ட"  poslcat="NM">
+	))		
+11	((	NP	<fs af='ஆண்டுகளுக்கு,unk,,,,,,' head="ஆண்டுகளுக்கு"  poslcat="NM">
+11.1	இரண்டு	QC	<fs af='இரண்டு,unk,,,,,,' poslcat="NM">
+11.2	ஆண்டுகளுக்கு	NN	<fs af='ஆண்டுகளுக்கு,unk,,,,,,' name="ஆண்டுகளுக்கு"  poslcat="NM">
+	))		
+12	((	RBP	<fs af='முன்னதாகவே,unk,,,,,,' head="முன்னதாகவே"  poslcat="NM">
+12.1	முன்னதாகவே	RB	<fs af='முன்னதாகவே,unk,,,,,,' name="முன்னதாகவே"  poslcat="NM">
+	))		
+13	((	NP	<fs af='ஜனாதிபதி,unk,,,,,,' head="ஜனாதிபதி"  poslcat="NM">
+13.1	புதிய	JJ	<fs af='புதிய,unk,,,,,,' poslcat="NM">
+13.2	ஜனாதிபதி	NN	<fs af='ஜனாதிபதி,unk,,,,,,' name="ஜனாதிபதி"  poslcat="NM">
+	))		
+14	((	NP	<fs af='தேர்தலுக்கு,unk,,,,,,' head="தேர்தலுக்கு"  poslcat="NM">
+14.1	தேர்தலுக்கு	NN	<fs af='தேர்தலுக்கு,unk,,,,,,' name="தேர்தலுக்கு"  poslcat="NM">
+	))		
+15	((	NP	<fs af='அழைப்பு,unk,,,,,,' head="அழைப்பு"  poslcat="NM">
+15.1	அழைப்பு	NN	<fs af='அழைப்பு,unk,,,,,,' name="அழைப்பு"  poslcat="NM">
+	))		
+16	((	VGF	<fs af='விடுத்தார்,unk,,,,,,' head="விடுத்தார்"  poslcat="NM">
+16.1	விடுத்தார்	VM	<fs af='விடுத்தார்,unk,,,,,,' name="விடுத்தார்"  poslcat="NM">
+16.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இலங்கை,unk,,,,,,' head="இலங்கை"  poslcat="NM">
+1.1	இலங்கை	NN	<fs af='இலங்கை,unk,,,,,,' name="இலங்கை"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஜனாதிபதி,unk,,,,,,' head="ஜனாதிபதி_2"  poslcat="NM">
+2.1	ஜனாதிபதி	NN	<fs af='ஜனாதிபதி,unk,,,,,,' name="ஜனாதிபதி_2"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='மஹிந்த,unk,,,,,,' head="மஹிந்த"  poslcat="NM">
+3.1	மஹிந்த	VM	<fs af='மஹிந்த,unk,,,,,,' name="மஹிந்த"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='இராஜபக்ஷ,unk,,,,,,' head="இராஜபக்ஷ"  poslcat="NM">
+4.1	இராஜபக்ஷ	VM	<fs af='இராஜபக்ஷ,unk,,,,,,' name="இராஜபக்ஷ"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='வாரத்துக்கும்,unk,,,,,,' head="வாரத்துக்கும்"  poslcat="NM">
+5.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+5.2	வாரத்துக்கும்	NN	<fs af='வாரத்துக்கும்,unk,,,,,,' name="வாரத்துக்கும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பின்னர்,unk,,,,,,' head="பின்னர்"  poslcat="NM">
+6.1	மேலான	JJ	<fs af='மேலான,unk,,,,,,' poslcat="NM">
+6.2	தயக்கத்தின்	NN	<fs af='தயக்கத்தின்,unk,,,,,,' poslcat="NM">
+6.3	பின்னர்	NN	<fs af='பின்னர்,unk,,,,,,' name="பின்னர்"  poslcat="NM">
+6.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+7.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+8	((	NP	<fs af='திங்கழன்று,unk,,,,,,' head="திங்கழன்று"  poslcat="NM">
+8.1	திங்கழன்று	NN	<fs af='திங்கழன்று,unk,,,,,,' name="திங்கழன்று"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='கிட்டத்தட்ட,unk,,,,,,' head="கிட்டத்தட்ட"  poslcat="NM">
+9.1	கிட்டத்தட்ட	VM	<fs af='கிட்டத்தட்ட,unk,,,,,,' name="கிட்டத்தட்ட"  poslcat="NM">
+	))		
+10	((	NP	<fs af='ஆண்டுகளுக்கு,unk,,,,,,' head="ஆண்டுகளுக்கு"  poslcat="NM">
+10.1	இரண்டு	QC	<fs af='இரண்டு,unk,,,,,,' poslcat="NM">
+10.2	ஆண்டுகளுக்கு	NN	<fs af='ஆண்டுகளுக்கு,unk,,,,,,' name="ஆண்டுகளுக்கு"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='முன்னதாகவே,unk,,,,,,' head="முன்னதாகவே"  poslcat="NM">
+11.1	முன்னதாகவே	RB	<fs af='முன்னதாகவே,unk,,,,,,' name="முன்னதாகவே"  poslcat="NM">
+	))		
+12	((	NP	<fs af='ஜனாதிபதி,unk,,,,,,' head="ஜனாதிபதி"  poslcat="NM">
+12.1	புதிய	JJ	<fs af='புதிய,unk,,,,,,' poslcat="NM">
+12.2	ஜனாதிபதி	NN	<fs af='ஜனாதிபதி,unk,,,,,,' name="ஜனாதிபதி"  poslcat="NM">
+	))		
+13	((	NP	<fs af='தேர்தலுக்கு,unk,,,,,,' head="தேர்தலுக்கு"  poslcat="NM">
+13.1	தேர்தலுக்கு	NN	<fs af='தேர்தலுக்கு,unk,,,,,,' name="தேர்தலுக்கு"  poslcat="NM">
+	))		
+14	((	NP	<fs af='அழைப்பு,unk,,,,,,' head="அழைப்பு"  poslcat="NM">
+14.1	அழைப்பு	NN	<fs af='அழைப்பு,unk,,,,,,' name="அழைப்பு"  poslcat="NM">
+	))		
+15	((	VGF	<fs af='விடுத்தார்,unk,,,,,,' head="விடுத்தார்"  poslcat="NM">
+15.1	விடுத்தார்	VM	<fs af='விடுத்தார்,unk,,,,,,' name="விடுத்தார்"  poslcat="NM">
+15.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

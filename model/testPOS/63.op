@@ -1,0 +1,31 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அது,unk,,,,,,' head="அது"  poslcat="NM">
+2.1	அது	PRP	<fs af='அது,unk,,,,,,' name="அது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அவருக்கு,unk,,,,,,' head="அவருக்கு"  poslcat="NM">
+3.1	அவருக்கு	PRP	<fs af='அவருக்கு,unk,,,,,,' name="அவருக்கு"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='வெறுப்பாக,unk,,,,,,' head="வெறுப்பாக"  poslcat="NM">
+4.1	வெறுப்பாக	RB	<fs af='வெறுப்பாக,unk,,,,,,' name="வெறுப்பாக"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='இருந்தது,unk,,,,,,' head="இருந்தது"  poslcat="NM">
+5.1	இருந்தது	VM	<fs af='இருந்தது,unk,,,,,,' name="இருந்தது"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அது,unk,,,,,,' head="அது"  poslcat="NM">
+1.1	அது	PRP	<fs af='அது,unk,,,,,,' name="அது"  poslcat="NM">
+	))		
+2	((	NP	<fs af='அவருக்கு,unk,,,,,,' head="அவருக்கு"  poslcat="NM">
+2.1	அவருக்கு	PRP	<fs af='அவருக்கு,unk,,,,,,' name="அவருக்கு"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='வெறுப்பாக,unk,,,,,,' head="வெறுப்பாக"  poslcat="NM">
+3.1	வெறுப்பாக	RB	<fs af='வெறுப்பாக,unk,,,,,,' name="வெறுப்பாக"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='இருந்தது,unk,,,,,,' head="இருந்தது"  poslcat="NM">
+4.1	இருந்தது	VM	<fs af='இருந்தது,unk,,,,,,' name="இருந்தது"  poslcat="NM">
+4.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

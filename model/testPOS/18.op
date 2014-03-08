@@ -1,0 +1,61 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஐசுவரியவான்,unk,,,,,,' head="ஐசுவரியவான்"  poslcat="NM">
+2.1	ஐசுவரியவான்	NNP	<fs af='ஐசுவரியவான்,unk,,,,,,' name="ஐசுவரியவான்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பிரவேசிப்பதைப்பார்க்கிலும்,unk,,,,,,' head="பிரவேசிப்பதைப்பார்க்கிலும்"  poslcat="NM">
+3.1	தேவனுடைய	JJ	<fs af='தேவனுடைய,unk,,,,,,' poslcat="NM">
+3.2	ராஜ்யத்தில்	NN	<fs af='ராஜ்யத்தில்,unk,,,,,,' poslcat="NM">
+3.3	பிரவேசிப்பதைப்பார்க்கிலும்	NN	<fs af='பிரவேசிப்பதைப்பார்க்கிலும்,unk,,,,,,' name="பிரவேசிப்பதைப்பார்க்கிலும்"  poslcat="NM">
+3.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	VGNF	<fs af='ஒட்டகமானது,unk,,,,,,' head="ஒட்டகமானது"  poslcat="NM">
+4.1	ஒட்டகமானது	VM	<fs af='ஒட்டகமானது,unk,,,,,,' name="ஒட்டகமானது"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஊசியின்,unk,,,,,,' head="ஊசியின்"  poslcat="NM">
+5.1	ஊசியின்	NN	<fs af='ஊசியின்,unk,,,,,,' name="ஊசியின்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='காதிலே,unk,,,,,,' head="காதிலே"  poslcat="NM">
+6.1	காதிலே	NN	<fs af='காதிலே,unk,,,,,,' name="காதிலே"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='நுழைவது,unk,,,,,,' head="நுழைவது"  poslcat="NM">
+7.1	நுழைவது	VM	<fs af='நுழைவது,unk,,,,,,' name="நுழைவது"  poslcat="NM">
+	))		
+8	((	NP	<fs af='எளிதாயிருக்கும்,unk,,,,,,' head="எளிதாயிருக்கும்"  poslcat="NM">
+8.1	எளிதாயிருக்கும்	NN	<fs af='எளிதாயிருக்கும்,unk,,,,,,' name="எளிதாயிருக்கும்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='என்றார்,unk,,,,,,' head="என்றார்"  poslcat="NM">
+9.1	என்றார்	VM	<fs af='என்றார்,unk,,,,,,' name="என்றார்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஐசுவரியவான்,unk,,,,,,' head="ஐசுவரியவான்"  poslcat="NM">
+1.1	ஐசுவரியவான்	NNP	<fs af='ஐசுவரியவான்,unk,,,,,,' name="ஐசுவரியவான்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பிரவேசிப்பதைப்பார்க்கிலும்,unk,,,,,,' head="பிரவேசிப்பதைப்பார்க்கிலும்"  poslcat="NM">
+2.1	தேவனுடைய	JJ	<fs af='தேவனுடைய,unk,,,,,,' poslcat="NM">
+2.2	ராஜ்யத்தில்	NN	<fs af='ராஜ்யத்தில்,unk,,,,,,' poslcat="NM">
+2.3	பிரவேசிப்பதைப்பார்க்கிலும்	NN	<fs af='பிரவேசிப்பதைப்பார்க்கிலும்,unk,,,,,,' name="பிரவேசிப்பதைப்பார்க்கிலும்"  poslcat="NM">
+2.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	VGNF	<fs af='ஒட்டகமானது,unk,,,,,,' head="ஒட்டகமானது"  poslcat="NM">
+3.1	ஒட்டகமானது	VM	<fs af='ஒட்டகமானது,unk,,,,,,' name="ஒட்டகமானது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஊசியின்,unk,,,,,,' head="ஊசியின்"  poslcat="NM">
+4.1	ஊசியின்	NN	<fs af='ஊசியின்,unk,,,,,,' name="ஊசியின்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='காதிலே,unk,,,,,,' head="காதிலே"  poslcat="NM">
+5.1	காதிலே	NN	<fs af='காதிலே,unk,,,,,,' name="காதிலே"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='நுழைவது,unk,,,,,,' head="நுழைவது"  poslcat="NM">
+6.1	நுழைவது	VM	<fs af='நுழைவது,unk,,,,,,' name="நுழைவது"  poslcat="NM">
+	))		
+7	((	NP	<fs af='எளிதாயிருக்கும்,unk,,,,,,' head="எளிதாயிருக்கும்"  poslcat="NM">
+7.1	எளிதாயிருக்கும்	NN	<fs af='எளிதாயிருக்கும்,unk,,,,,,' name="எளிதாயிருக்கும்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='என்றார்,unk,,,,,,' head="என்றார்"  poslcat="NM">
+8.1	என்றார்	VM	<fs af='என்றார்,unk,,,,,,' name="என்றார்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

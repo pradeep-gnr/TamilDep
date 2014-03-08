@@ -1,0 +1,95 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இதற்குப்,unk,,,,,,' head="இதற்குப்"  poslcat="NM">
+2.1	இதற்குப்	PRP	<fs af='இதற்குப்,unk,,,,,,' name="இதற்குப்"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='பதிலாக,unk,,,,,,' head="பதிலாக"  poslcat="NM">
+3.1	பதிலாக	RB	<fs af='பதிலாக,unk,,,,,,' name="பதிலாக"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இஸ்ரேலியர்,unk,,,,,,' head="இஸ்ரேலியர்"  poslcat="NM">
+4.1	இஸ்ரேலியர்	NN	<fs af='இஸ்ரேலியர்,unk,,,,,,' name="இஸ்ரேலியர்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+5.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='மாதம்,unk,,,,,,' head="மாதம்"  poslcat="NM">
+6.1	ஆகஸ்ட்	NN	<fs af='ஆகஸ்ட்,unk,,,,,,' poslcat="NM">
+6.2	மாதம்	NN	<fs af='மாதம்,unk,,,,,,' name="மாதம்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='துருப்புக்களை,unk,,,,,,' head="துருப்புக்களை"  poslcat="NM">
+7.1	இஸ்ரேலிய	JJ	<fs af='இஸ்ரேலிய,unk,,,,,,' poslcat="NM">
+7.2	துருப்புக்களை	NN	<fs af='துருப்புக்களை,unk,,,,,,' name="துருப்புக்களை"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='கடத்திச்,unk,,,,,,' head="கடத்திச்"  poslcat="NM">
+8.1	கடத்திச்	VM	<fs af='கடத்திச்,unk,,,,,,' name="கடத்திச்"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='செல்லத்திட்டமிட்டிருந்ததற்காக,unk,,,,,,' head="செல்லத்திட்டமிட்டிருந்ததற்காக"  poslcat="NM">
+9.1	செல்லத்திட்டமிட்டிருந்ததற்காக	RB	<fs af='செல்லத்திட்டமிட்டிருந்ததற்காக,unk,,,,,,' name="செல்லத்திட்டமிட்டிருந்ததற்காக"  poslcat="NM">
+	))		
+10	((	NP	<fs af='சிறையில்,unk,,,,,,' head="சிறையில்"  poslcat="NM">
+10.1	சிறையில்	NN	<fs af='சிறையில்,unk,,,,,,' name="சிறையில்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='அடைக்கப்பட்டுள்ள,unk,,,,,,' head="அடைக்கப்பட்டுள்ள"  poslcat="NM">
+11.1	அடைக்கப்பட்டுள்ள	VM	<fs af='அடைக்கப்பட்டுள்ள,unk,,,,,,' name="அடைக்கப்பட்டுள்ள"  poslcat="NM">
+	))		
+12	((	NP	<fs af='மாணவர்களை,unk,,,,,,' head="மாணவர்களை"  poslcat="NM">
+12.1	ஆறு	QC	<fs af='ஆறு,unk,,,,,,' poslcat="NM">
+12.2	எகிப்திய	JJ	<fs af='எகிப்திய,unk,,,,,,' poslcat="NM">
+12.3	மாணவர்களை	NN	<fs af='மாணவர்களை,unk,,,,,,' name="மாணவர்களை"  poslcat="NM">
+	))		
+13	((	VGNF	<fs af='விடுவிக்க,unk,,,,,,' head="விடுவிக்க"  poslcat="NM">
+13.1	விடுவிக்க	VM	<fs af='விடுவிக்க,unk,,,,,,' name="விடுவிக்க"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='முன்வந்தது,unk,,,,,,' head="முன்வந்தது"  poslcat="NM">
+14.1	முன்வந்தது	VAUX	<fs af='முன்வந்தது,unk,,,,,,' name="முன்வந்தது"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இதற்குப்,unk,,,,,,' head="இதற்குப்"  poslcat="NM">
+1.1	இதற்குப்	PRP	<fs af='இதற்குப்,unk,,,,,,' name="இதற்குப்"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='பதிலாக,unk,,,,,,' head="பதிலாக"  poslcat="NM">
+2.1	பதிலாக	RB	<fs af='பதிலாக,unk,,,,,,' name="பதிலாக"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இஸ்ரேலியர்,unk,,,,,,' head="இஸ்ரேலியர்"  poslcat="NM">
+3.1	இஸ்ரேலியர்	NN	<fs af='இஸ்ரேலியர்,unk,,,,,,' name="இஸ்ரேலியர்"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+4.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+5	((	NP	<fs af='மாதம்,unk,,,,,,' head="மாதம்"  poslcat="NM">
+5.1	ஆகஸ்ட்	NN	<fs af='ஆகஸ்ட்,unk,,,,,,' poslcat="NM">
+5.2	மாதம்	NN	<fs af='மாதம்,unk,,,,,,' name="மாதம்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='துருப்புக்களை,unk,,,,,,' head="துருப்புக்களை"  poslcat="NM">
+6.1	இஸ்ரேலிய	JJ	<fs af='இஸ்ரேலிய,unk,,,,,,' poslcat="NM">
+6.2	துருப்புக்களை	NN	<fs af='துருப்புக்களை,unk,,,,,,' name="துருப்புக்களை"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='கடத்திச்,unk,,,,,,' head="கடத்திச்"  poslcat="NM">
+7.1	கடத்திச்	VM	<fs af='கடத்திச்,unk,,,,,,' name="கடத்திச்"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='செல்லத்திட்டமிட்டிருந்ததற்காக,unk,,,,,,' head="செல்லத்திட்டமிட்டிருந்ததற்காக"  poslcat="NM">
+8.1	செல்லத்திட்டமிட்டிருந்ததற்காக	RB	<fs af='செல்லத்திட்டமிட்டிருந்ததற்காக,unk,,,,,,' name="செல்லத்திட்டமிட்டிருந்ததற்காக"  poslcat="NM">
+	))		
+9	((	NP	<fs af='சிறையில்,unk,,,,,,' head="சிறையில்"  poslcat="NM">
+9.1	சிறையில்	NN	<fs af='சிறையில்,unk,,,,,,' name="சிறையில்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='அடைக்கப்பட்டுள்ள,unk,,,,,,' head="அடைக்கப்பட்டுள்ள"  poslcat="NM">
+10.1	அடைக்கப்பட்டுள்ள	VM	<fs af='அடைக்கப்பட்டுள்ள,unk,,,,,,' name="அடைக்கப்பட்டுள்ள"  poslcat="NM">
+	))		
+11	((	NP	<fs af='மாணவர்களை,unk,,,,,,' head="மாணவர்களை"  poslcat="NM">
+11.1	ஆறு	QC	<fs af='ஆறு,unk,,,,,,' poslcat="NM">
+11.2	எகிப்திய	JJ	<fs af='எகிப்திய,unk,,,,,,' poslcat="NM">
+11.3	மாணவர்களை	NN	<fs af='மாணவர்களை,unk,,,,,,' name="மாணவர்களை"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='விடுவிக்க,unk,,,,,,' head="விடுவிக்க"  poslcat="NM">
+12.1	விடுவிக்க	VM	<fs af='விடுவிக்க,unk,,,,,,' name="விடுவிக்க"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='முன்வந்தது,unk,,,,,,' head="முன்வந்தது"  poslcat="NM">
+13.1	முன்வந்தது	VAUX	<fs af='முன்வந்தது,unk,,,,,,' name="முன்வந்தது"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

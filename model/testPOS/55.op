@@ -1,0 +1,97 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='இப்படி,unk,,,,,,' head="இப்படி"  poslcat="NM">
+2.1	இப்படி	RB	<fs af='இப்படி,unk,,,,,,' name="இப்படி"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='முன்னேற,unk,,,,,,' head="முன்னேற"  poslcat="NM">
+3.1	முன்னேற	RB	<fs af='முன்னேற,unk,,,,,,' name="முன்னேற"  poslcat="NM">
+	))		
+4	((	NEGP	<fs af='இடமில்லாத,unk,,,,,,' head="இடமில்லாத"  poslcat="NM">
+4.1	இடமில்லாத	NEG	<fs af='இடமில்லாத,unk,,,,,,' name="இடமில்லாத"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பாதைதான்,unk,,,,,,' head="பாதைதான்"  poslcat="NM">
+5.1	பாதைதான்	NN	<fs af='பாதைதான்,unk,,,,,,' name="பாதைதான்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='மக்களை,unk,,,,,,' head="மக்களை"  poslcat="NM">
+6.1	தெற்கு	NN	<fs af='தெற்கு,unk,,,,,,' poslcat="NM">
+6.2	ஆசியாவில்	NN	<fs af='ஆசியாவில்,unk,,,,,,' poslcat="NM">
+6.3	மக்களை	NN	<fs af='மக்களை,unk,,,,,,' name="மக்களை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='புரட்சி,unk,,,,,,' head="புரட்சி"  poslcat="NM">
+7.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+7.2	சேஆசலிசப்	JJ	<fs af='சேஆசலிசப்,unk,,,,,,' poslcat="NM">
+7.3	புரட்சி	NN	<fs af='புரட்சி,unk,,,,,,' name="புரட்சி"  poslcat="NM">
+	))		
+8	((	BLK	<fs af='மூலம்,unk,,,,,,' head="மூலம்"  poslcat="NM">
+8.1	மூலம்	PSP	<fs af='மூலம்,unk,,,,,,' name="மூலம்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='வேறு,unk,,,,,,' head="வேறு"  poslcat="NM">
+9.1	ஒன்றுபடுத்தாவிட்டால்	NN	<fs af='ஒன்றுபடுத்தாவிட்டால்,unk,,,,,,' poslcat="NM">
+9.2	வேறு	NN	<fs af='வேறு,unk,,,,,,' name="வேறு"  poslcat="NM">
+	))		
+10	((	NP	<fs af='தீர்வு,unk,,,,,,' head="தீர்வு"  poslcat="NM">
+10.1	நிரந்தரத்	JJ	<fs af='நிரந்தரத்,unk,,,,,,' poslcat="NM">
+10.2	தீர்வு	NN	<fs af='தீர்வு,unk,,,,,,' name="தீர்வு"  poslcat="NM">
+	))		
+11	((	NEGP	<fs af='இல்லை,unk,,,,,,' head="இல்லை"  poslcat="NM">
+11.1	இல்லை	NEG	<fs af='இல்லை,unk,,,,,,' name="இல்லை"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='என்ற,unk,,,,,,' head="என்ற"  poslcat="NM">
+12.1	என்ற	VM	<fs af='என்ற,unk,,,,,,' name="என்ற"  poslcat="NM">
+	))		
+13	((	NP	<fs af='முடிவை,unk,,,,,,' head="முடிவை"  poslcat="NM">
+13.1	முடிவை	NN	<fs af='முடிவை,unk,,,,,,' name="முடிவை"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='ஏற்படுத்தும்,unk,,,,,,' head="ஏற்படுத்தும்"  poslcat="NM">
+14.1	ஏற்படுத்தும்	VM	<fs af='ஏற்படுத்தும்,unk,,,,,,' name="ஏற்படுத்தும்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='இப்படி,unk,,,,,,' head="இப்படி"  poslcat="NM">
+1.1	இப்படி	RB	<fs af='இப்படி,unk,,,,,,' name="இப்படி"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='முன்னேற,unk,,,,,,' head="முன்னேற"  poslcat="NM">
+2.1	முன்னேற	RB	<fs af='முன்னேற,unk,,,,,,' name="முன்னேற"  poslcat="NM">
+	))		
+3	((	NEGP	<fs af='இடமில்லாத,unk,,,,,,' head="இடமில்லாத"  poslcat="NM">
+3.1	இடமில்லாத	NEG	<fs af='இடமில்லாத,unk,,,,,,' name="இடமில்லாத"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பாதைதான்,unk,,,,,,' head="பாதைதான்"  poslcat="NM">
+4.1	பாதைதான்	NN	<fs af='பாதைதான்,unk,,,,,,' name="பாதைதான்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='மக்களை,unk,,,,,,' head="மக்களை"  poslcat="NM">
+5.1	தெற்கு	NN	<fs af='தெற்கு,unk,,,,,,' poslcat="NM">
+5.2	ஆசியாவில்	NN	<fs af='ஆசியாவில்,unk,,,,,,' poslcat="NM">
+5.3	மக்களை	NN	<fs af='மக்களை,unk,,,,,,' name="மக்களை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='புரட்சி,unk,,,,,,' head="புரட்சி"  poslcat="NM">
+6.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+6.2	சேஆசலிசப்	JJ	<fs af='சேஆசலிசப்,unk,,,,,,' poslcat="NM">
+6.3	புரட்சி	NN	<fs af='புரட்சி,unk,,,,,,' name="புரட்சி"  poslcat="NM">
+	))		
+7	((	BLK	<fs af='மூலம்,unk,,,,,,' head="மூலம்"  poslcat="NM">
+7.1	மூலம்	PSP	<fs af='மூலம்,unk,,,,,,' name="மூலம்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='வேறு,unk,,,,,,' head="வேறு"  poslcat="NM">
+8.1	ஒன்றுபடுத்தாவிட்டால்	NN	<fs af='ஒன்றுபடுத்தாவிட்டால்,unk,,,,,,' poslcat="NM">
+8.2	வேறு	NN	<fs af='வேறு,unk,,,,,,' name="வேறு"  poslcat="NM">
+	))		
+9	((	NP	<fs af='தீர்வு,unk,,,,,,' head="தீர்வு"  poslcat="NM">
+9.1	நிரந்தரத்	JJ	<fs af='நிரந்தரத்,unk,,,,,,' poslcat="NM">
+9.2	தீர்வு	NN	<fs af='தீர்வு,unk,,,,,,' name="தீர்வு"  poslcat="NM">
+	))		
+10	((	NEGP	<fs af='இல்லை,unk,,,,,,' head="இல்லை"  poslcat="NM">
+10.1	இல்லை	NEG	<fs af='இல்லை,unk,,,,,,' name="இல்லை"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='என்ற,unk,,,,,,' head="என்ற"  poslcat="NM">
+11.1	என்ற	VM	<fs af='என்ற,unk,,,,,,' name="என்ற"  poslcat="NM">
+	))		
+12	((	NP	<fs af='முடிவை,unk,,,,,,' head="முடிவை"  poslcat="NM">
+12.1	முடிவை	NN	<fs af='முடிவை,unk,,,,,,' name="முடிவை"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='ஏற்படுத்தும்,unk,,,,,,' head="ஏற்படுத்தும்"  poslcat="NM">
+13.1	ஏற்படுத்தும்	VM	<fs af='ஏற்படுத்தும்,unk,,,,,,' name="ஏற்படுத்தும்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

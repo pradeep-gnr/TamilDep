@@ -1,0 +1,75 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இவருடைய,unk,,,,,,' head="இவருடைய"  poslcat="NM">
+2.1	இவருடைய	PRP	<fs af='இவருடைய,unk,,,,,,' name="இவருடைய"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பணி,unk,,,,,,' head="பணி"  poslcat="NM">
+3.1	பணி	NN	<fs af='பணி,unk,,,,,,' name="பணி"  poslcat="NM">
+	))		
+4	((	NP	<fs af='சார்க்கேஆசியின்,unk,,,,,,' head="சார்க்கேஆசியின்"  poslcat="NM">
+4.1	சார்க்கேஆசியின்	NN	<fs af='சார்க்கேஆசியின்,unk,,,,,,' name="சார்க்கேஆசியின்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='இளவயது,unk,,,,,,' head="இளவயது"  poslcat="NM">
+5.1	இளவயது	NN	<fs af='இளவயது,unk,,,,,,' name="இளவயது"  poslcat="NM">
+	))		
+6	((	NP	<fs af='குற்றவாளிகளுக்கு,unk,,,,,,' head="குற்றவாளிகளுக்கு"  poslcat="NM">
+6.1	குற்றவாளிகளுக்கு	NN	<fs af='குற்றவாளிகளுக்கு,unk,,,,,,' name="குற்றவாளிகளுக்கு"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='எதிராக,unk,,,,,,' head="எதிராக"  poslcat="NM">
+7.1	எதிராக	RB	<fs af='எதிராக,unk,,,,,,' name="எதிராக"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='திட்டமிடப்பட்டுள்ள,unk,,,,,,' head="திட்டமிடப்பட்டுள்ள"  poslcat="NM">
+8.1	திட்டமிடப்பட்டுள்ள	VM	<fs af='திட்டமிடப்பட்டுள்ள,unk,,,,,,' name="திட்டமிடப்பட்டுள்ள"  poslcat="NM">
+	))		
+9	((	NP	<fs af='சட்டங்களை,unk,,,,,,' head="சட்டங்களை"  poslcat="NM">
+9.1	கடுமையான	JJ	<fs af='கடுமையான,unk,,,,,,' poslcat="NM">
+9.2	சட்டங்களை	NN	<fs af='சட்டங்களை,unk,,,,,,' name="சட்டங்களை"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='வரைவதும்,unk,,,,,,' head="வரைவதும்"  poslcat="NM">
+10.1	வரைவதும்	VM	<fs af='வரைவதும்,unk,,,,,,' name="வரைவதும்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='செயல்படுத்துவதும்,unk,,,,,,' head="செயல்படுத்துவதும்"  poslcat="NM">
+11.1	செயல்படுத்துவதும்	VM	<fs af='செயல்படுத்துவதும்,unk,,,,,,' name="செயல்படுத்துவதும்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='ஆகும்,unk,,,,,,' head="ஆகும்"  poslcat="NM">
+12.1	ஆகும்	VM	<fs af='ஆகும்,unk,,,,,,' name="ஆகும்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இவருடைய,unk,,,,,,' head="இவருடைய"  poslcat="NM">
+1.1	இவருடைய	PRP	<fs af='இவருடைய,unk,,,,,,' name="இவருடைய"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பணி,unk,,,,,,' head="பணி"  poslcat="NM">
+2.1	பணி	NN	<fs af='பணி,unk,,,,,,' name="பணி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='சார்க்கேஆசியின்,unk,,,,,,' head="சார்க்கேஆசியின்"  poslcat="NM">
+3.1	சார்க்கேஆசியின்	NN	<fs af='சார்க்கேஆசியின்,unk,,,,,,' name="சார்க்கேஆசியின்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இளவயது,unk,,,,,,' head="இளவயது"  poslcat="NM">
+4.1	இளவயது	NN	<fs af='இளவயது,unk,,,,,,' name="இளவயது"  poslcat="NM">
+	))		
+5	((	NP	<fs af='குற்றவாளிகளுக்கு,unk,,,,,,' head="குற்றவாளிகளுக்கு"  poslcat="NM">
+5.1	குற்றவாளிகளுக்கு	NN	<fs af='குற்றவாளிகளுக்கு,unk,,,,,,' name="குற்றவாளிகளுக்கு"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='எதிராக,unk,,,,,,' head="எதிராக"  poslcat="NM">
+6.1	எதிராக	RB	<fs af='எதிராக,unk,,,,,,' name="எதிராக"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='திட்டமிடப்பட்டுள்ள,unk,,,,,,' head="திட்டமிடப்பட்டுள்ள"  poslcat="NM">
+7.1	திட்டமிடப்பட்டுள்ள	VM	<fs af='திட்டமிடப்பட்டுள்ள,unk,,,,,,' name="திட்டமிடப்பட்டுள்ள"  poslcat="NM">
+	))		
+8	((	NP	<fs af='சட்டங்களை,unk,,,,,,' head="சட்டங்களை"  poslcat="NM">
+8.1	கடுமையான	JJ	<fs af='கடுமையான,unk,,,,,,' poslcat="NM">
+8.2	சட்டங்களை	NN	<fs af='சட்டங்களை,unk,,,,,,' name="சட்டங்களை"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='வரைவதும்,unk,,,,,,' head="வரைவதும்"  poslcat="NM">
+9.1	வரைவதும்	VM	<fs af='வரைவதும்,unk,,,,,,' name="வரைவதும்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='செயல்படுத்துவதும்,unk,,,,,,' head="செயல்படுத்துவதும்"  poslcat="NM">
+10.1	செயல்படுத்துவதும்	VM	<fs af='செயல்படுத்துவதும்,unk,,,,,,' name="செயல்படுத்துவதும்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='ஆகும்,unk,,,,,,' head="ஆகும்"  poslcat="NM">
+11.1	ஆகும்	VM	<fs af='ஆகும்,unk,,,,,,' name="ஆகும்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

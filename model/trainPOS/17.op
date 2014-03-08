@@ -1,0 +1,59 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='இறுதியாக,unk,,,,,,' head="இறுதியாக"  poslcat="NM">
+2.1	இறுதியாக	RB	<fs af='இறுதியாக,unk,,,,,,' name="இறுதியாக"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='உற்பத்தியாளர்கள்,unk,,,,,,' head="உற்பத்தியாளர்கள்"  poslcat="NM">
+3.1	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+3.2	உற்பத்தியாளர்கள்	NN	<fs af='உற்பத்தியாளர்கள்,unk,,,,,,' name="உற்பத்தியாளர்கள்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='செய்ததை,unk,,,,,,' head="செய்ததை"  poslcat="NM">
+4.1	செய்ததை	VM	<fs af='செய்ததை,unk,,,,,,' name="செய்ததை"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='விட,unk,,,,,,' head="விட"  poslcat="NM">
+5.1	விட	PSP	<fs af='விட,unk,,,,,,' name="விட"  poslcat="NM">
+	))		
+6	((	NP	<fs af='உலகை,unk,,,,,,' head="உலகை"  poslcat="NM">
+6.1	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+6.2	நிலைபேறுடைய	JJ	<fs af='நிலைபேறுடைய,unk,,,,,,' poslcat="NM">
+6.3	நவீன	JJ	<fs af='நவீன,unk,,,,,,' poslcat="NM">
+6.4	உலகை	NN	<fs af='உலகை,unk,,,,,,' name="உலகை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பெயின்,unk,,,,,,' head="பெயின்"  poslcat="NM">
+7.1	பெயின்	NN	<fs af='பெயின்,unk,,,,,,' name="பெயின்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='படைத்துக்காட்டினார்,unk,,,,,,' head="படைத்துக்காட்டினார்"  poslcat="NM">
+8.1	படைத்துக்காட்டினார்	VM	<fs af='படைத்துக்காட்டினார்,unk,,,,,,' name="படைத்துக்காட்டினார்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='இறுதியாக,unk,,,,,,' head="இறுதியாக"  poslcat="NM">
+1.1	இறுதியாக	RB	<fs af='இறுதியாக,unk,,,,,,' name="இறுதியாக"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='உற்பத்தியாளர்கள்,unk,,,,,,' head="உற்பத்தியாளர்கள்"  poslcat="NM">
+2.1	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+2.2	உற்பத்தியாளர்கள்	NN	<fs af='உற்பத்தியாளர்கள்,unk,,,,,,' name="உற்பத்தியாளர்கள்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='செய்ததை,unk,,,,,,' head="செய்ததை"  poslcat="NM">
+3.1	செய்ததை	VM	<fs af='செய்ததை,unk,,,,,,' name="செய்ததை"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='விட,unk,,,,,,' head="விட"  poslcat="NM">
+4.1	விட	PSP	<fs af='விட,unk,,,,,,' name="விட"  poslcat="NM">
+	))		
+5	((	NP	<fs af='உலகை,unk,,,,,,' head="உலகை"  poslcat="NM">
+5.1	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+5.2	நிலைபேறுடைய	JJ	<fs af='நிலைபேறுடைய,unk,,,,,,' poslcat="NM">
+5.3	நவீன	JJ	<fs af='நவீன,unk,,,,,,' poslcat="NM">
+5.4	உலகை	NN	<fs af='உலகை,unk,,,,,,' name="உலகை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பெயின்,unk,,,,,,' head="பெயின்"  poslcat="NM">
+6.1	பெயின்	NN	<fs af='பெயின்,unk,,,,,,' name="பெயின்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='படைத்துக்காட்டினார்,unk,,,,,,' head="படைத்துக்காட்டினார்"  poslcat="NM">
+7.1	படைத்துக்காட்டினார்	VM	<fs af='படைத்துக்காட்டினார்,unk,,,,,,' name="படைத்துக்காட்டினார்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

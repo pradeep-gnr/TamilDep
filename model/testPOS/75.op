@@ -1,0 +1,87 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இவர்களுக்கு,unk,,,,,,' head="இவர்களுக்கு"  poslcat="NM">
+2.1	இவர்களுக்கு	PRP	<fs af='இவர்களுக்கு,unk,,,,,,' name="இவர்களுக்கு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பாதுகாப்பு,unk,,,,,,' head="பாதுகாப்பு"  poslcat="NM">
+3.1	சுகாதாரப்	JJ	<fs af='சுகாதாரப்,unk,,,,,,' poslcat="NM">
+3.2	பாதுகாப்பு	NN	<fs af='பாதுகாப்பு,unk,,,,,,' name="பாதுகாப்பு"  poslcat="NM">
+3.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='பேஆன்றவை,unk,,,,,,' head="பேஆன்றவை"  poslcat="NM">
+4.1	கல்வி	NNC	<fs af='கல்வி,unk,,,,,,' poslcat="NM">
+4.2	பேஆன்றவை	NN	<fs af='பேஆன்றவை,unk,,,,,,' name="பேஆன்றவை"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கிடையாது,unk,,,,,,' head="கிடையாது_2"  poslcat="NM">
+5.1	கிடையாது	NN	<fs af='கிடையாது,unk,,,,,,' name="கிடையாது_2"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கிடையாது,unk,,,,,,' head="கிடையாது"  poslcat="NM">
+6.1	கிடையாது	NN	<fs af='கிடையாது,unk,,,,,,' name="கிடையாது"  poslcat="NM">
+
+
+6.2		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='வேலையின்மை,unk,,,,,,' head="வேலையின்மை"  poslcat="NM">
+7.1	இருமடங்கு	NN	<fs af='இருமடங்கு,unk,,,,,,' poslcat="NM">
+7.2	வேலையின்மை	NN	<fs af='வேலையின்மை,unk,,,,,,' name="வேலையின்மை"  poslcat="NM">
+	))		
+8	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+8.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='வறுமையைத்தான்,unk,,,,,,' head="வறுமையைத்தான்"  poslcat="NM">
+9.1	வறுமையைத்தான்	NN	<fs af='வறுமையைத்தான்,unk,,,,,,' name="வறுமையைத்தான்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='இவர்கள்,unk,,,,,,' head="இவர்கள்"  poslcat="NM">
+10.1	இவர்கள்	PRP	<fs af='இவர்கள்,unk,,,,,,' name="இவர்கள்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='எதிர்கெஆள்ள,unk,,,,,,' head="எதிர்கெஆள்ள"  poslcat="NM">
+11.1	எதிர்கெஆள்ள	VM	<fs af='எதிர்கெஆள்ள,unk,,,,,,' name="எதிர்கெஆள்ள"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='வேண்டும்,unk,,,,,,' head="வேண்டும்"  poslcat="NM">
+12.1	வேண்டும்	VAUX	<fs af='வேண்டும்,unk,,,,,,' name="வேண்டும்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இவர்களுக்கு,unk,,,,,,' head="இவர்களுக்கு"  poslcat="NM">
+1.1	இவர்களுக்கு	PRP	<fs af='இவர்களுக்கு,unk,,,,,,' name="இவர்களுக்கு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பாதுகாப்பு,unk,,,,,,' head="பாதுகாப்பு"  poslcat="NM">
+2.1	சுகாதாரப்	JJ	<fs af='சுகாதாரப்,unk,,,,,,' poslcat="NM">
+2.2	பாதுகாப்பு	NN	<fs af='பாதுகாப்பு,unk,,,,,,' name="பாதுகாப்பு"  poslcat="NM">
+2.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='பேஆன்றவை,unk,,,,,,' head="பேஆன்றவை"  poslcat="NM">
+3.1	கல்வி	NNC	<fs af='கல்வி,unk,,,,,,' poslcat="NM">
+3.2	பேஆன்றவை	NN	<fs af='பேஆன்றவை,unk,,,,,,' name="பேஆன்றவை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='கிடையாது,unk,,,,,,' head="கிடையாது_2"  poslcat="NM">
+4.1	கிடையாது	NN	<fs af='கிடையாது,unk,,,,,,' name="கிடையாது_2"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கிடையாது,unk,,,,,,' head="கிடையாது"  poslcat="NM">
+5.1	கிடையாது	NN	<fs af='கிடையாது,unk,,,,,,' name="கிடையாது"  poslcat="NM">
+
+
+5.2		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='வேலையின்மை,unk,,,,,,' head="வேலையின்மை"  poslcat="NM">
+6.1	இருமடங்கு	NN	<fs af='இருமடங்கு,unk,,,,,,' poslcat="NM">
+6.2	வேலையின்மை	NN	<fs af='வேலையின்மை,unk,,,,,,' name="வேலையின்மை"  poslcat="NM">
+	))		
+7	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+7.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='வறுமையைத்தான்,unk,,,,,,' head="வறுமையைத்தான்"  poslcat="NM">
+8.1	வறுமையைத்தான்	NN	<fs af='வறுமையைத்தான்,unk,,,,,,' name="வறுமையைத்தான்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='இவர்கள்,unk,,,,,,' head="இவர்கள்"  poslcat="NM">
+9.1	இவர்கள்	PRP	<fs af='இவர்கள்,unk,,,,,,' name="இவர்கள்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='எதிர்கெஆள்ள,unk,,,,,,' head="எதிர்கெஆள்ள"  poslcat="NM">
+10.1	எதிர்கெஆள்ள	VM	<fs af='எதிர்கெஆள்ள,unk,,,,,,' name="எதிர்கெஆள்ள"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வேண்டும்,unk,,,,,,' head="வேண்டும்"  poslcat="NM">
+11.1	வேண்டும்	VAUX	<fs af='வேண்டும்,unk,,,,,,' name="வேண்டும்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

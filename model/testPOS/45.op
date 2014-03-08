@@ -1,0 +1,75 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='இன்னும்,unk,,,,,,' head="இன்னும்"  poslcat="NM">
+2.1	இன்னும்	RB	<fs af='இன்னும்,unk,,,,,,' name="இன்னும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஒருதரம்,unk,,,,,,' head="ஒருதரம்"  poslcat="NM">
+3.1	ஒருதரம்	NN	<fs af='ஒருதரம்,unk,,,,,,' name="ஒருதரம்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='என்கிற,unk,,,,,,' head="என்கிற"  poslcat="NM">
+4.1	என்கிற	VM	<fs af='என்கிற,unk,,,,,,' name="என்கிற"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='சொல்லானது,unk,,,,,,' head="சொல்லானது"  poslcat="NM">
+5.1	சொல்லானது	VM	<fs af='சொல்லானது,unk,,,,,,' name="சொல்லானது"  poslcat="NM">
+	))		
+6	((	NP	<fs af='அசையாதவைகள்,unk,,,,,,' head="அசையாதவைகள்"  poslcat="NM">
+6.1	அசையாதவைகள்	NN	<fs af='அசையாதவைகள்,unk,,,,,,' name="அசையாதவைகள்"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='நிலைத்திருக்கத்தக்கதாக,unk,,,,,,' head="நிலைத்திருக்கத்தக்கதாக"  poslcat="NM">
+7.1	நிலைத்திருக்கத்தக்கதாக	RB	<fs af='நிலைத்திருக்கத்தக்கதாக,unk,,,,,,' name="நிலைத்திருக்கத்தக்கதாக"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='அசைவுள்ளவைகள்,unk,,,,,,' head="அசைவுள்ளவைகள்"  poslcat="NM">
+8.1	அசைவுள்ளவைகள்	NN	<fs af='அசைவுள்ளவைகள்,unk,,,,,,' name="அசைவுள்ளவைகள்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='உண்டாக்கப்பட்டவைகள்போல,unk,,,,,,' head="உண்டாக்கப்பட்டவைகள்போல"  poslcat="NM">
+9.1	உண்டாக்கப்பட்டவைகள்போல	VM	<fs af='உண்டாக்கப்பட்டவைகள்போல,unk,,,,,,' name="உண்டாக்கப்பட்டவைகள்போல"  poslcat="NM">
+	))		
+10	((	NP	<fs af='மாறிப்போம்,unk,,,,,,' head="மாறிப்போம்"  poslcat="NM">
+10.1	மாறிப்போம்	NN	<fs af='மாறிப்போம்,unk,,,,,,' name="மாறிப்போம்"  poslcat="NM">
+	))		
+11	((	BLK	<fs af='என்பதைக்,unk,,,,,,' head="என்பதைக்"  poslcat="NM">
+11.1	என்பதைக்	UT	<fs af='என்பதைக்,unk,,,,,,' name="என்பதைக்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='குறிக்கிறது,unk,,,,,,' head="குறிக்கிறது"  poslcat="NM">
+12.1	குறிக்கிறது	VM	<fs af='குறிக்கிறது,unk,,,,,,' name="குறிக்கிறது"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='இன்னும்,unk,,,,,,' head="இன்னும்"  poslcat="NM">
+1.1	இன்னும்	RB	<fs af='இன்னும்,unk,,,,,,' name="இன்னும்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஒருதரம்,unk,,,,,,' head="ஒருதரம்"  poslcat="NM">
+2.1	ஒருதரம்	NN	<fs af='ஒருதரம்,unk,,,,,,' name="ஒருதரம்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='என்கிற,unk,,,,,,' head="என்கிற"  poslcat="NM">
+3.1	என்கிற	VM	<fs af='என்கிற,unk,,,,,,' name="என்கிற"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='சொல்லானது,unk,,,,,,' head="சொல்லானது"  poslcat="NM">
+4.1	சொல்லானது	VM	<fs af='சொல்லானது,unk,,,,,,' name="சொல்லானது"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அசையாதவைகள்,unk,,,,,,' head="அசையாதவைகள்"  poslcat="NM">
+5.1	அசையாதவைகள்	NN	<fs af='அசையாதவைகள்,unk,,,,,,' name="அசையாதவைகள்"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='நிலைத்திருக்கத்தக்கதாக,unk,,,,,,' head="நிலைத்திருக்கத்தக்கதாக"  poslcat="NM">
+6.1	நிலைத்திருக்கத்தக்கதாக	RB	<fs af='நிலைத்திருக்கத்தக்கதாக,unk,,,,,,' name="நிலைத்திருக்கத்தக்கதாக"  poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='அசைவுள்ளவைகள்,unk,,,,,,' head="அசைவுள்ளவைகள்"  poslcat="NM">
+7.1	அசைவுள்ளவைகள்	NN	<fs af='அசைவுள்ளவைகள்,unk,,,,,,' name="அசைவுள்ளவைகள்"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='உண்டாக்கப்பட்டவைகள்போல,unk,,,,,,' head="உண்டாக்கப்பட்டவைகள்போல"  poslcat="NM">
+8.1	உண்டாக்கப்பட்டவைகள்போல	VM	<fs af='உண்டாக்கப்பட்டவைகள்போல,unk,,,,,,' name="உண்டாக்கப்பட்டவைகள்போல"  poslcat="NM">
+	))		
+9	((	NP	<fs af='மாறிப்போம்,unk,,,,,,' head="மாறிப்போம்"  poslcat="NM">
+9.1	மாறிப்போம்	NN	<fs af='மாறிப்போம்,unk,,,,,,' name="மாறிப்போம்"  poslcat="NM">
+	))		
+10	((	BLK	<fs af='என்பதைக்,unk,,,,,,' head="என்பதைக்"  poslcat="NM">
+10.1	என்பதைக்	UT	<fs af='என்பதைக்,unk,,,,,,' name="என்பதைக்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='குறிக்கிறது,unk,,,,,,' head="குறிக்கிறது"  poslcat="NM">
+11.1	குறிக்கிறது	VM	<fs af='குறிக்கிறது,unk,,,,,,' name="குறிக்கிறது"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

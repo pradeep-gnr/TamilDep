@@ -1,0 +1,77 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அரசாங்கம்,unk,,,,,,' head="அரசாங்கம்"  poslcat="NM">
+2.1	நகர	JJ	<fs af='நகர,unk,,,,,,' poslcat="NM">
+2.2	அரசாங்கம்	NN	<fs af='அரசாங்கம்,unk,,,,,,' name="அரசாங்கம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தனக்கு,unk,,,,,,' head="தனக்கு"  poslcat="NM">
+3.1	தனக்கு	PRP	<fs af='தனக்கு,unk,,,,,,' name="தனக்கு"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='கிடைக்கும்,unk,,,,,,' head="கிடைக்கும்"  poslcat="NM">
+4.1	கிடைக்கும்	VM	<fs af='கிடைக்கும்,unk,,,,,,' name="கிடைக்கும்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வரிகளில்,unk,,,,,,' head="வரிகளில்"  poslcat="NM">
+5.1	பெருநிறுவன	JJ	<fs af='பெருநிறுவன,unk,,,,,,' poslcat="NM">
+5.2	வரிகளில்	NN	<fs af='வரிகளில்,unk,,,,,,' name="வரிகளில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='ஆண்டு,unk,,,,,,' head="ஆண்டு"  poslcat="NM">
+6.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+6.2	ஆண்டு	NN	<fs af='ஆண்டு,unk,,,,,,' name="ஆண்டு"  poslcat="NM">
+	))		
+7	((	NP	<fs af='குறைவை,unk,,,,,,' head="குறைவை"  poslcat="NM">
+7.1	96.3	QC	<fs af='96.3,num,,,,,,' poslcat="NM">
+7.2	சதவிகிதம்	NN	<fs af='சதவிகிதம்,unk,,,,,,' poslcat="NM">
+7.3	குறைவை	NN	<fs af='குறைவை,unk,,,,,,' name="குறைவை"  poslcat="NM">
+	))		
+8	((	NP	<fs af='எதிர்பார்த்திருக்கையில்,unk,,,,,,' head="எதிர்பார்த்திருக்கையில்"  poslcat="NM">
+8.1	எதிர்பார்த்திருக்கையில்	NN	<fs af='எதிர்பார்த்திருக்கையில்,unk,,,,,,' name="எதிர்பார்த்திருக்கையில்"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='பணிகள்,unk,,,,,,' head="பணிகள்"  poslcat="NM">
+9.1	பெஆதுப்	NN	<fs af='பெஆதுப்,unk,,,,,,' poslcat="NM">
+9.2	பணிகள்	NN	<fs af='பணிகள்,unk,,,,,,' name="பணிகள்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பாதிப்படையும்,unk,,,,,,' head="பாதிப்படையும்"  poslcat="NM">
+10.1	கடினமான	JJ	<fs af='கடினமான,unk,,,,,,' poslcat="NM">
+10.2	பாதிப்படையும்	NN	<fs af='பாதிப்படையும்,unk,,,,,,' name="பாதிப்படையும்"  poslcat="NM">
+10.3	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அரசாங்கம்,unk,,,,,,' head="அரசாங்கம்"  poslcat="NM">
+1.1	நகர	JJ	<fs af='நகர,unk,,,,,,' poslcat="NM">
+1.2	அரசாங்கம்	NN	<fs af='அரசாங்கம்,unk,,,,,,' name="அரசாங்கம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='தனக்கு,unk,,,,,,' head="தனக்கு"  poslcat="NM">
+2.1	தனக்கு	PRP	<fs af='தனக்கு,unk,,,,,,' name="தனக்கு"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='கிடைக்கும்,unk,,,,,,' head="கிடைக்கும்"  poslcat="NM">
+3.1	கிடைக்கும்	VM	<fs af='கிடைக்கும்,unk,,,,,,' name="கிடைக்கும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வரிகளில்,unk,,,,,,' head="வரிகளில்"  poslcat="NM">
+4.1	பெருநிறுவன	JJ	<fs af='பெருநிறுவன,unk,,,,,,' poslcat="NM">
+4.2	வரிகளில்	NN	<fs af='வரிகளில்,unk,,,,,,' name="வரிகளில்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஆண்டு,unk,,,,,,' head="ஆண்டு"  poslcat="NM">
+5.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+5.2	ஆண்டு	NN	<fs af='ஆண்டு,unk,,,,,,' name="ஆண்டு"  poslcat="NM">
+	))		
+6	((	NP	<fs af='குறைவை,unk,,,,,,' head="குறைவை"  poslcat="NM">
+6.1	96.3	QC	<fs af='96.3,num,,,,,,' poslcat="NM">
+6.2	சதவிகிதம்	NN	<fs af='சதவிகிதம்,unk,,,,,,' poslcat="NM">
+6.3	குறைவை	NN	<fs af='குறைவை,unk,,,,,,' name="குறைவை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='எதிர்பார்த்திருக்கையில்,unk,,,,,,' head="எதிர்பார்த்திருக்கையில்"  poslcat="NM">
+7.1	எதிர்பார்த்திருக்கையில்	NN	<fs af='எதிர்பார்த்திருக்கையில்,unk,,,,,,' name="எதிர்பார்த்திருக்கையில்"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='பணிகள்,unk,,,,,,' head="பணிகள்"  poslcat="NM">
+8.1	பெஆதுப்	NN	<fs af='பெஆதுப்,unk,,,,,,' poslcat="NM">
+8.2	பணிகள்	NN	<fs af='பணிகள்,unk,,,,,,' name="பணிகள்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பாதிப்படையும்,unk,,,,,,' head="பாதிப்படையும்"  poslcat="NM">
+9.1	கடினமான	JJ	<fs af='கடினமான,unk,,,,,,' poslcat="NM">
+9.2	பாதிப்படையும்	NN	<fs af='பாதிப்படையும்,unk,,,,,,' name="பாதிப்படையும்"  poslcat="NM">
+9.3	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

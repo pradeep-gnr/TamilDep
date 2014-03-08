@@ -1,0 +1,61 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='படம்,unk,,,,,,' head="படம்"  poslcat="NM">
+2.1	படம்	NN	<fs af='படம்,unk,,,,,,' name="படம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='சூப்பர்,unk,,,,,,' head="சூப்பர்"  poslcat="NM">
+3.1	சூப்பர்	NN	<fs af='சூப்பர்,unk,,,,,,' name="சூப்பர்"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='ஹிட்டாக,unk,,,,,,' head="ஹிட்டாக"  poslcat="NM">
+4.1	ஹிட்டாக	RB	<fs af='ஹிட்டாக,unk,,,,,,' name="ஹிட்டாக"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='வாலிபர்களின்,unk,,,,,,' head="வாலிபர்களின்"  poslcat="NM">
+5.1	மலையாள	JJ	<fs af='மலையாள,unk,,,,,,' poslcat="NM">
+5.2	வாலிபர்களின்	NN	<fs af='வாலிபர்களின்,unk,,,,,,' name="வாலிபர்களின்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='மனசுக்குள்,unk,,,,,,' head="மனசுக்குள்"  poslcat="NM">
+6.1	மனசுக்குள்	NN	<fs af='மனசுக்குள்,unk,,,,,,' name="மனசுக்குள்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='எனக்கும்,unk,,,,,,' head="எனக்கும்"  poslcat="NM">
+7.1	எனக்கும்	PRP	<fs af='எனக்கும்,unk,,,,,,' name="எனக்கும்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='நாற்காலி,unk,,,,,,' head="நாற்காலி"  poslcat="NM">
+8.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+8.2	நாற்காலி	NN	<fs af='நாற்காலி,unk,,,,,,' name="நாற்காலி"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='போடப்பட்டது,unk,,,,,,' head="போடப்பட்டது"  poslcat="NM">
+9.1	போடப்பட்டது	VM	<fs af='போடப்பட்டது,unk,,,,,,' name="போடப்பட்டது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='படம்,unk,,,,,,' head="படம்"  poslcat="NM">
+1.1	படம்	NN	<fs af='படம்,unk,,,,,,' name="படம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='சூப்பர்,unk,,,,,,' head="சூப்பர்"  poslcat="NM">
+2.1	சூப்பர்	NN	<fs af='சூப்பர்,unk,,,,,,' name="சூப்பர்"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='ஹிட்டாக,unk,,,,,,' head="ஹிட்டாக"  poslcat="NM">
+3.1	ஹிட்டாக	RB	<fs af='ஹிட்டாக,unk,,,,,,' name="ஹிட்டாக"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='வாலிபர்களின்,unk,,,,,,' head="வாலிபர்களின்"  poslcat="NM">
+4.1	மலையாள	JJ	<fs af='மலையாள,unk,,,,,,' poslcat="NM">
+4.2	வாலிபர்களின்	NN	<fs af='வாலிபர்களின்,unk,,,,,,' name="வாலிபர்களின்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='மனசுக்குள்,unk,,,,,,' head="மனசுக்குள்"  poslcat="NM">
+5.1	மனசுக்குள்	NN	<fs af='மனசுக்குள்,unk,,,,,,' name="மனசுக்குள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='எனக்கும்,unk,,,,,,' head="எனக்கும்"  poslcat="NM">
+6.1	எனக்கும்	PRP	<fs af='எனக்கும்,unk,,,,,,' name="எனக்கும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நாற்காலி,unk,,,,,,' head="நாற்காலி"  poslcat="NM">
+7.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+7.2	நாற்காலி	NN	<fs af='நாற்காலி,unk,,,,,,' name="நாற்காலி"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='போடப்பட்டது,unk,,,,,,' head="போடப்பட்டது"  poslcat="NM">
+8.1	போடப்பட்டது	VM	<fs af='போடப்பட்டது,unk,,,,,,' name="போடப்பட்டது"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,43 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='வெளிநாட்டுக்கு,unk,,,,,,' head="வெளிநாட்டுக்கு"  poslcat="NM">
+2.1	வெளிநாட்டுக்கு	NN	<fs af='வெளிநாட்டுக்கு,unk,,,,,,' name="வெளிநாட்டுக்கு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஷூட்டிங்,unk,,,,,,' head="ஷூட்டிங்"  poslcat="NM">
+3.1	ஷூட்டிங்	NN	<fs af='ஷூட்டிங்,unk,,,,,,' name="ஷூட்டிங்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='கிளம்பும்வரை,unk,,,,,,' head="கிளம்பும்வரை"  poslcat="NM">
+4.1	கிளம்பும்வரை	VM	<fs af='கிளம்பும்வரை,unk,,,,,,' name="கிளம்பும்வரை"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நன்றாகத்தான்,unk,,,,,,' head="நன்றாகத்தான்"  poslcat="NM">
+5.1	நன்றாகத்தான்	NN	<fs af='நன்றாகத்தான்,unk,,,,,,' name="நன்றாகத்தான்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='இருந்தார்,unk,,,,,,' head="இருந்தார்"  poslcat="NM">
+6.1	இருந்தார்	VM	<fs af='இருந்தார்,unk,,,,,,' name="இருந்தார்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='ஆபிரஹாம்,unk,,,,,,' head="ஆபிரஹாம்"  poslcat="NM">
+7.1	ஆபிரஹாம்	VAUX	<fs af='ஆபிரஹாம்,unk,,,,,,' name="ஆபிரஹாம்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='வெளிநாட்டுக்கு,unk,,,,,,' head="வெளிநாட்டுக்கு"  poslcat="NM">
+1.1	வெளிநாட்டுக்கு	NN	<fs af='வெளிநாட்டுக்கு,unk,,,,,,' name="வெளிநாட்டுக்கு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஷூட்டிங்,unk,,,,,,' head="ஷூட்டிங்"  poslcat="NM">
+2.1	ஷூட்டிங்	NN	<fs af='ஷூட்டிங்,unk,,,,,,' name="ஷூட்டிங்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='கிளம்பும்வரை,unk,,,,,,' head="கிளம்பும்வரை"  poslcat="NM">
+3.1	கிளம்பும்வரை	VM	<fs af='கிளம்பும்வரை,unk,,,,,,' name="கிளம்பும்வரை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நன்றாகத்தான்,unk,,,,,,' head="நன்றாகத்தான்"  poslcat="NM">
+4.1	நன்றாகத்தான்	NN	<fs af='நன்றாகத்தான்,unk,,,,,,' name="நன்றாகத்தான்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இருந்தார்,unk,,,,,,' head="இருந்தார்"  poslcat="NM">
+5.1	இருந்தார்	VM	<fs af='இருந்தார்,unk,,,,,,' name="இருந்தார்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='ஆபிரஹாம்,unk,,,,,,' head="ஆபிரஹாம்"  poslcat="NM">
+6.1	ஆபிரஹாம்	VAUX	<fs af='ஆபிரஹாம்,unk,,,,,,' name="ஆபிரஹாம்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

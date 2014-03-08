@@ -1,0 +1,67 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பாறைகளில்,unk,,,,,,' head="பாறைகளில்"  poslcat="NM">
+2.1	அந்தப்	DEM	<fs af='அந்தப்,unk,,,,,,' poslcat="NM">
+2.2	பாறைகளில்	NN	<fs af='பாறைகளில்,unk,,,,,,' name="பாறைகளில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வடக்கே,unk,,,,,,' head="வடக்கே"  poslcat="NM">
+3.1	ஒன்று	QC	<fs af='ஒன்று,unk,,,,,,' poslcat="NM">
+3.2	வடக்கே	NN	<fs af='வடக்கே,unk,,,,,,' name="வடக்கே"  poslcat="NM">
+	))		
+4	((	NP	<fs af='மிக்மாசுக்கு,unk,,,,,,' head="மிக்மாசுக்கு"  poslcat="NM">
+4.1	மிக்மாசுக்கு	NN	<fs af='மிக்மாசுக்கு,unk,,,,,,' name="மிக்மாசுக்கு"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்_2"  poslcat="NM">
+5.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்_2"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='மற்றொன்று,unk,,,,,,' head="மற்றொன்று"  poslcat="NM">
+6.1	மற்றொன்று	NN	<fs af='மற்றொன்று,unk,,,,,,' name="மற்றொன்று"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தெற்கே,unk,,,,,,' head="தெற்கே"  poslcat="NM">
+7.1	தெற்கே	NN	<fs af='தெற்கே,unk,,,,,,' name="தெற்கே"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கிபியாவுக்கு,unk,,,,,,' head="கிபியாவுக்கு"  poslcat="NM">
+8.1	கிபியாவுக்கு	NN	<fs af='கிபியாவுக்கு,unk,,,,,,' name="கிபியாவுக்கு"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்"  poslcat="NM">
+9.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='இருந்தது,unk,,,,,,' head="இருந்தது"  poslcat="NM">
+10.1	இருந்தது	VM	<fs af='இருந்தது,unk,,,,,,' name="இருந்தது"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பாறைகளில்,unk,,,,,,' head="பாறைகளில்"  poslcat="NM">
+1.1	அந்தப்	DEM	<fs af='அந்தப்,unk,,,,,,' poslcat="NM">
+1.2	பாறைகளில்	NN	<fs af='பாறைகளில்,unk,,,,,,' name="பாறைகளில்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='வடக்கே,unk,,,,,,' head="வடக்கே"  poslcat="NM">
+2.1	ஒன்று	QC	<fs af='ஒன்று,unk,,,,,,' poslcat="NM">
+2.2	வடக்கே	NN	<fs af='வடக்கே,unk,,,,,,' name="வடக்கே"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மிக்மாசுக்கு,unk,,,,,,' head="மிக்மாசுக்கு"  poslcat="NM">
+3.1	மிக்மாசுக்கு	NN	<fs af='மிக்மாசுக்கு,unk,,,,,,' name="மிக்மாசுக்கு"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்_2"  poslcat="NM">
+4.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்_2"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='மற்றொன்று,unk,,,,,,' head="மற்றொன்று"  poslcat="NM">
+5.1	மற்றொன்று	NN	<fs af='மற்றொன்று,unk,,,,,,' name="மற்றொன்று"  poslcat="NM">
+	))		
+6	((	NP	<fs af='தெற்கே,unk,,,,,,' head="தெற்கே"  poslcat="NM">
+6.1	தெற்கே	NN	<fs af='தெற்கே,unk,,,,,,' name="தெற்கே"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கிபியாவுக்கு,unk,,,,,,' head="கிபியாவுக்கு"  poslcat="NM">
+7.1	கிபியாவுக்கு	NN	<fs af='கிபியாவுக்கு,unk,,,,,,' name="கிபியாவுக்கு"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்"  poslcat="NM">
+8.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='இருந்தது,unk,,,,,,' head="இருந்தது"  poslcat="NM">
+9.1	இருந்தது	VM	<fs af='இருந்தது,unk,,,,,,' name="இருந்தது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

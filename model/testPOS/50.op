@@ -1,0 +1,87 @@
+<Sentence id="">			
+1			
+2	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+2.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இரண்டு,unk,,,,,,' head="இரண்டு"  poslcat="NM">
+3.1	இரண்டு	QC	<fs af='இரண்டு,unk,,,,,,' name="இரண்டு"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='வருடங்களாக,unk,,,,,,' head="வருடங்களாக"  poslcat="NM">
+4.1	வருடங்களாக	RB	<fs af='வருடங்களாக,unk,,,,,,' name="வருடங்களாக"  poslcat="NM">
+	))		
+5	((	NP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+5.1	இவரும்	PRP	<fs af='இவரும்,unk,,,,,,' poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+6	((	NP	<fs af='அமெரிக்காவில்,unk,,,,,,' head="அமெரிக்காவில்"  poslcat="NM">
+6.1	அமெரிக்காவில்	NN	<fs af='அமெரிக்காவில்,unk,,,,,,' name="அமெரிக்காவில்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='மருந்து,unk,,,,,,' head="மருந்து"  poslcat="NM">
+7.1	மருந்து	NN	<fs af='மருந்து,unk,,,,,,' name="மருந்து"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கம்பெனி,unk,,,,,,' head="கம்பெனி"  poslcat="NM">
+8.1	கம்பெனி	NN	<fs af='கம்பெனி,unk,,,,,,' name="கம்பெனி"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='அதிகாரியாக,unk,,,,,,' head="அதிகாரியாக"  poslcat="NM">
+9.1	அதிகாரியாக	RB	<fs af='அதிகாரியாக,unk,,,,,,' name="அதிகாரியாக"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='பணிபுரிந்துவரும்,unk,,,,,,' head="பணிபுரிந்துவரும்"  poslcat="NM">
+10.1	பணிபுரிந்துவரும்	VM	<fs af='பணிபுரிந்துவரும்,unk,,,,,,' name="பணிபுரிந்துவரும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='மெரின்,unk,,,,,,' head="மெரின்"  poslcat="NM">
+11.1	மெரின்	NNP	<fs af='மெரின்,unk,,,,,,' name="மெரின்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='மேத்யூ,unk,,,,,,' head="மேத்யூ"  poslcat="NM">
+12.1	மேத்யூ	NN	<fs af='மேத்யூ,unk,,,,,,' name="மேத்யூ"  poslcat="NM">
+	))		
+13	((	NP	<fs af='என்பவரும்,unk,,,,,,' head="என்பவரும்"  poslcat="NM">
+13.1	என்பவரும்	NN	<fs af='என்பவரும்,unk,,,,,,' name="என்பவரும்"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='காதலித்துவந்தனர்,unk,,,,,,' head="காதலித்துவந்தனர்"  poslcat="NM">
+14.1	காதலித்துவந்தனர்	VM	<fs af='காதலித்துவந்தனர்,unk,,,,,,' name="காதலித்துவந்தனர்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+1.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+2	((	NP	<fs af='இரண்டு,unk,,,,,,' head="இரண்டு"  poslcat="NM">
+2.1	இரண்டு	QC	<fs af='இரண்டு,unk,,,,,,' name="இரண்டு"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='வருடங்களாக,unk,,,,,,' head="வருடங்களாக"  poslcat="NM">
+3.1	வருடங்களாக	RB	<fs af='வருடங்களாக,unk,,,,,,' name="வருடங்களாக"  poslcat="NM">
+	))		
+4	((	NP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+4.1	இவரும்	PRP	<fs af='இவரும்,unk,,,,,,' poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+5	((	NP	<fs af='அமெரிக்காவில்,unk,,,,,,' head="அமெரிக்காவில்"  poslcat="NM">
+5.1	அமெரிக்காவில்	NN	<fs af='அமெரிக்காவில்,unk,,,,,,' name="அமெரிக்காவில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='மருந்து,unk,,,,,,' head="மருந்து"  poslcat="NM">
+6.1	மருந்து	NN	<fs af='மருந்து,unk,,,,,,' name="மருந்து"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கம்பெனி,unk,,,,,,' head="கம்பெனி"  poslcat="NM">
+7.1	கம்பெனி	NN	<fs af='கம்பெனி,unk,,,,,,' name="கம்பெனி"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='அதிகாரியாக,unk,,,,,,' head="அதிகாரியாக"  poslcat="NM">
+8.1	அதிகாரியாக	RB	<fs af='அதிகாரியாக,unk,,,,,,' name="அதிகாரியாக"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='பணிபுரிந்துவரும்,unk,,,,,,' head="பணிபுரிந்துவரும்"  poslcat="NM">
+9.1	பணிபுரிந்துவரும்	VM	<fs af='பணிபுரிந்துவரும்,unk,,,,,,' name="பணிபுரிந்துவரும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='மெரின்,unk,,,,,,' head="மெரின்"  poslcat="NM">
+10.1	மெரின்	NNP	<fs af='மெரின்,unk,,,,,,' name="மெரின்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='மேத்யூ,unk,,,,,,' head="மேத்யூ"  poslcat="NM">
+11.1	மேத்யூ	NN	<fs af='மேத்யூ,unk,,,,,,' name="மேத்யூ"  poslcat="NM">
+	))		
+12	((	NP	<fs af='என்பவரும்,unk,,,,,,' head="என்பவரும்"  poslcat="NM">
+12.1	என்பவரும்	NN	<fs af='என்பவரும்,unk,,,,,,' name="என்பவரும்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='காதலித்துவந்தனர்,unk,,,,,,' head="காதலித்துவந்தனர்"  poslcat="NM">
+13.1	காதலித்துவந்தனர்	VM	<fs af='காதலித்துவந்தனர்,unk,,,,,,' name="காதலித்துவந்தனர்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

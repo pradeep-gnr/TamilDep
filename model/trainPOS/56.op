@@ -1,0 +1,53 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='இங்கு,unk,,,,,,' head="இங்கு"  poslcat="NM">
+2.1	இங்கு	RB	<fs af='இங்கு,unk,,,,,,' name="இங்கு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பிரபு,unk,,,,,,' head="பிரபு"  poslcat="NM">
+3.1	நடிகர்	NN	<fs af='நடிகர்,unk,,,,,,' poslcat="NM">
+3.2	பிரபு	NN	<fs af='பிரபு,unk,,,,,,' name="பிரபு"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='பேசும்போது,unk,,,,,,' head="பேசும்போது"  poslcat="NM">
+4.1	பேசும்போது	VM	<fs af='பேசும்போது,unk,,,,,,' name="பேசும்போது"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='எங்கள்,unk,,,,,,' head="எங்கள்"  poslcat="NM">
+5.1	எங்கள்	PRP	<fs af='எங்கள்,unk,,,,,,' name="எங்கள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='எல்லோருக்கும்,unk,,,,,,' head="எல்லோருக்கும்"  poslcat="NM">
+6.1	எல்லோருக்கும்	NN	<fs af='எல்லோருக்கும்,unk,,,,,,' name="எல்லோருக்கும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கண்,unk,,,,,,' head="கண்"  poslcat="NM">
+7.1	கண்	NN	<fs af='கண்,unk,,,,,,' name="கண்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='கலங்கியது,unk,,,,,,' head="கலங்கியது"  poslcat="NM">
+8.1	கலங்கியது	VM	<fs af='கலங்கியது,unk,,,,,,' name="கலங்கியது"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='இங்கு,unk,,,,,,' head="இங்கு"  poslcat="NM">
+1.1	இங்கு	RB	<fs af='இங்கு,unk,,,,,,' name="இங்கு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பிரபு,unk,,,,,,' head="பிரபு"  poslcat="NM">
+2.1	நடிகர்	NN	<fs af='நடிகர்,unk,,,,,,' poslcat="NM">
+2.2	பிரபு	NN	<fs af='பிரபு,unk,,,,,,' name="பிரபு"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பேசும்போது,unk,,,,,,' head="பேசும்போது"  poslcat="NM">
+3.1	பேசும்போது	VM	<fs af='பேசும்போது,unk,,,,,,' name="பேசும்போது"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='எங்கள்,unk,,,,,,' head="எங்கள்"  poslcat="NM">
+4.1	எங்கள்	PRP	<fs af='எங்கள்,unk,,,,,,' name="எங்கள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='எல்லோருக்கும்,unk,,,,,,' head="எல்லோருக்கும்"  poslcat="NM">
+5.1	எல்லோருக்கும்	NN	<fs af='எல்லோருக்கும்,unk,,,,,,' name="எல்லோருக்கும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கண்,unk,,,,,,' head="கண்"  poslcat="NM">
+6.1	கண்	NN	<fs af='கண்,unk,,,,,,' name="கண்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='கலங்கியது,unk,,,,,,' head="கலங்கியது"  poslcat="NM">
+7.1	கலங்கியது	VM	<fs af='கலங்கியது,unk,,,,,,' name="கலங்கியது"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

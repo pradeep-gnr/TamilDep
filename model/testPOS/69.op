@@ -1,0 +1,47 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='காங்கிரஸ்,unk,,,,,,' head="காங்கிரஸ்"  poslcat="NM">
+2.1	காங்கிரஸ்	NNP	<fs af='காங்கிரஸ்,unk,,,,,,' name="காங்கிரஸ்"  poslcat="NM">
+	))		
+3	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+3.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நட்பு,unk,,,,,,' head="நட்பு"  poslcat="NM">
+4.1	செய்தி	NN	<fs af='செய்தி,unk,,,,,,' poslcat="NM">
+4.2	ஊடக	JJ	<fs af='ஊடக,unk,,,,,,' poslcat="NM">
+4.3	நட்பு	NN	<fs af='நட்பு,unk,,,,,,' name="நட்பு"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='அணியினர்,unk,,,,,,' head="அணியினர்"  poslcat="NM">
+5.1	அணியினர்	VM	<fs af='அணியினர்,unk,,,,,,' name="அணியினர்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வியப்பில்,unk,,,,,,' head="வியப்பில்"  poslcat="NM">
+6.1	வியப்பில்	NN	<fs af='வியப்பில்,unk,,,,,,' name="வியப்பில்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='ஆழ்ந்தனர்,unk,,,,,,' head="ஆழ்ந்தனர்"  poslcat="NM">
+7.1	ஆழ்ந்தனர்	VM	<fs af='ஆழ்ந்தனர்,unk,,,,,,' name="ஆழ்ந்தனர்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='காங்கிரஸ்,unk,,,,,,' head="காங்கிரஸ்"  poslcat="NM">
+1.1	காங்கிரஸ்	NNP	<fs af='காங்கிரஸ்,unk,,,,,,' name="காங்கிரஸ்"  poslcat="NM">
+	))		
+2	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+2.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நட்பு,unk,,,,,,' head="நட்பு"  poslcat="NM">
+3.1	செய்தி	NN	<fs af='செய்தி,unk,,,,,,' poslcat="NM">
+3.2	ஊடக	JJ	<fs af='ஊடக,unk,,,,,,' poslcat="NM">
+3.3	நட்பு	NN	<fs af='நட்பு,unk,,,,,,' name="நட்பு"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='அணியினர்,unk,,,,,,' head="அணியினர்"  poslcat="NM">
+4.1	அணியினர்	VM	<fs af='அணியினர்,unk,,,,,,' name="அணியினர்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வியப்பில்,unk,,,,,,' head="வியப்பில்"  poslcat="NM">
+5.1	வியப்பில்	NN	<fs af='வியப்பில்,unk,,,,,,' name="வியப்பில்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='ஆழ்ந்தனர்,unk,,,,,,' head="ஆழ்ந்தனர்"  poslcat="NM">
+6.1	ஆழ்ந்தனர்	VM	<fs af='ஆழ்ந்தனர்,unk,,,,,,' name="ஆழ்ந்தனர்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

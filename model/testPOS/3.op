@@ -1,0 +1,51 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='திட்டம்,unk,,,,,,' head="திட்டம்"  poslcat="NM">
+2.1	தீக்கட்டுப்பாட்டுத்	NN	<fs af='தீக்கட்டுப்பாட்டுத்,unk,,,,,,' poslcat="NM">
+2.2	திட்டம்	NN	<fs af='திட்டம்,unk,,,,,,' name="திட்டம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='2004ல்,unk,,,,,,' head="2004ல்"  poslcat="NM">
+3.1	2004ல்	NN	<fs af='2004ல்,unk,,,,,,' name="2004ல்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='தெஆடங்கி,unk,,,,,,' head="தெஆடங்கி"  poslcat="NM">
+4.1	தெஆடங்கி	VM	<fs af='தெஆடங்கி,unk,,,,,,' name="தெஆடங்கி"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பவுண்டுகள்,unk,,,,,,' head="பவுண்டுகள்"  poslcat="NM">
+5.1	2007ல்	QC	<fs af='2007ல்,unk,,,,,,' poslcat="NM">
+5.2	100	QC	<fs af='100,num,,,,,,' poslcat="NM">
+5.3	மில்லியன்	NN	<fs af='மில்லியன்,unk,,,,,,' poslcat="NM">
+5.4	பவுண்டுகள்	NN	<fs af='பவுண்டுகள்,unk,,,,,,' name="பவுண்டுகள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='செலவில்,unk,,,,,,' head="செலவில்"  poslcat="NM">
+6.1	செலவில்	NN	<fs af='செலவில்,unk,,,,,,' name="செலவில்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='முடிக்கப்பட்டிருக்கும்,unk,,,,,,' head="முடிக்கப்பட்டிருக்கும்"  poslcat="NM">
+7.1	முடிக்கப்பட்டிருக்கும்	VM	<fs af='முடிக்கப்பட்டிருக்கும்,unk,,,,,,' name="முடிக்கப்பட்டிருக்கும்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='திட்டம்,unk,,,,,,' head="திட்டம்"  poslcat="NM">
+1.1	தீக்கட்டுப்பாட்டுத்	NN	<fs af='தீக்கட்டுப்பாட்டுத்,unk,,,,,,' poslcat="NM">
+1.2	திட்டம்	NN	<fs af='திட்டம்,unk,,,,,,' name="திட்டம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='2004ல்,unk,,,,,,' head="2004ல்"  poslcat="NM">
+2.1	2004ல்	NN	<fs af='2004ல்,unk,,,,,,' name="2004ல்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='தெஆடங்கி,unk,,,,,,' head="தெஆடங்கி"  poslcat="NM">
+3.1	தெஆடங்கி	VM	<fs af='தெஆடங்கி,unk,,,,,,' name="தெஆடங்கி"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பவுண்டுகள்,unk,,,,,,' head="பவுண்டுகள்"  poslcat="NM">
+4.1	2007ல்	QC	<fs af='2007ல்,unk,,,,,,' poslcat="NM">
+4.2	100	QC	<fs af='100,num,,,,,,' poslcat="NM">
+4.3	மில்லியன்	NN	<fs af='மில்லியன்,unk,,,,,,' poslcat="NM">
+4.4	பவுண்டுகள்	NN	<fs af='பவுண்டுகள்,unk,,,,,,' name="பவுண்டுகள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='செலவில்,unk,,,,,,' head="செலவில்"  poslcat="NM">
+5.1	செலவில்	NN	<fs af='செலவில்,unk,,,,,,' name="செலவில்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='முடிக்கப்பட்டிருக்கும்,unk,,,,,,' head="முடிக்கப்பட்டிருக்கும்"  poslcat="NM">
+6.1	முடிக்கப்பட்டிருக்கும்	VM	<fs af='முடிக்கப்பட்டிருக்கும்,unk,,,,,,' name="முடிக்கப்பட்டிருக்கும்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

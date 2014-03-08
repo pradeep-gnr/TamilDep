@@ -1,0 +1,89 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='இதற்காக,unk,,,,,,' head="இதற்காக"  poslcat="NM">
+2.1	இதற்காக	RB	<fs af='இதற்காக,unk,,,,,,' name="இதற்காக"  poslcat="NM">
+	))		
+3	((	NP	<fs af='போக்கிரி,unk,,,,,,' head="போக்கிரி"  poslcat="NM">
+3.1	'	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+3.2	போக்கிரி	NNP	<fs af='போக்கிரி,unk,,,,,,' name="போக்கிரி"  poslcat="NM">
+3.3	'	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='யின்,unk,,,,,,' head="யின்"  poslcat="NM">
+4.1	யின்	NN	<fs af='யின்,unk,,,,,,' name="யின்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='இந்தி,unk,,,,,,' head="இந்தி"  poslcat="NM">
+5.1	இந்தி	NN	<fs af='இந்தி,unk,,,,,,' name="இந்தி"  poslcat="NM">
+	))		
+6	((	NP	<fs af='ரீ,unk,,,,,,' head="ரீ"  poslcat="NM">
+6.1	ரீ	NN	<fs af='ரீ,unk,,,,,,' name="ரீ"  poslcat="NM">
+6.2	-	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='மேக்,unk,,,,,,' head="மேக்"  poslcat="NM">
+7.1	மேக்	NN	<fs af='மேக்,unk,,,,,,' name="மேக்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='உரிமையை,unk,,,,,,' head="உரிமையை"  poslcat="NM">
+8.1	உரிமையை	NN	<fs af='உரிமையை,unk,,,,,,' name="உரிமையை"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='வாங்கியிருக்கிறார்,unk,,,,,,' head="வாங்கியிருக்கிறார்"  poslcat="NM">
+9.1	வாங்கியிருக்கிறார்	VM	<fs af='வாங்கியிருக்கிறார்,unk,,,,,,' name="வாங்கியிருக்கிறார்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='நடிகை,unk,,,,,,' head="நடிகை"  poslcat="NM">
+10.1	நடிகை	NN	<fs af='நடிகை,unk,,,,,,' name="நடிகை"  poslcat="NM">
+	))		
+11	((	NP	<fs af='ஸ்ரீதேவியின்,unk,,,,,,' head="ஸ்ரீதேவியின்"  poslcat="NM">
+11.1	ஸ்ரீதேவியின்	NNP	<fs af='ஸ்ரீதேவியின்,unk,,,,,,' name="ஸ்ரீதேவியின்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='போனி,unk,,,,,,' head="போனி"  poslcat="NM">
+12.1	கணவரும்	NN	<fs af='கணவரும்,unk,,,,,,' poslcat="NM">
+12.2	தயாரிப்பாளருமான	JJ	<fs af='தயாரிப்பாளருமான,unk,,,,,,' poslcat="NM">
+12.3	போனி	NN	<fs af='போனி,unk,,,,,,' name="போனி"  poslcat="NM">
+	))		
+13	((	NP	<fs af='கபூர்,unk,,,,,,' head="கபூர்"  poslcat="NM">
+13.1	கபூர்	NNP	<fs af='கபூர்,unk,,,,,,' name="கபூர்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='இதற்காக,unk,,,,,,' head="இதற்காக"  poslcat="NM">
+1.1	இதற்காக	RB	<fs af='இதற்காக,unk,,,,,,' name="இதற்காக"  poslcat="NM">
+	))		
+2	((	NP	<fs af='போக்கிரி,unk,,,,,,' head="போக்கிரி"  poslcat="NM">
+2.1	'	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+2.2	போக்கிரி	NNP	<fs af='போக்கிரி,unk,,,,,,' name="போக்கிரி"  poslcat="NM">
+2.3	'	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='யின்,unk,,,,,,' head="யின்"  poslcat="NM">
+3.1	யின்	NN	<fs af='யின்,unk,,,,,,' name="யின்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இந்தி,unk,,,,,,' head="இந்தி"  poslcat="NM">
+4.1	இந்தி	NN	<fs af='இந்தி,unk,,,,,,' name="இந்தி"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ரீ,unk,,,,,,' head="ரீ"  poslcat="NM">
+5.1	ரீ	NN	<fs af='ரீ,unk,,,,,,' name="ரீ"  poslcat="NM">
+5.2	-	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='மேக்,unk,,,,,,' head="மேக்"  poslcat="NM">
+6.1	மேக்	NN	<fs af='மேக்,unk,,,,,,' name="மேக்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='உரிமையை,unk,,,,,,' head="உரிமையை"  poslcat="NM">
+7.1	உரிமையை	NN	<fs af='உரிமையை,unk,,,,,,' name="உரிமையை"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='வாங்கியிருக்கிறார்,unk,,,,,,' head="வாங்கியிருக்கிறார்"  poslcat="NM">
+8.1	வாங்கியிருக்கிறார்	VM	<fs af='வாங்கியிருக்கிறார்,unk,,,,,,' name="வாங்கியிருக்கிறார்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='நடிகை,unk,,,,,,' head="நடிகை"  poslcat="NM">
+9.1	நடிகை	NN	<fs af='நடிகை,unk,,,,,,' name="நடிகை"  poslcat="NM">
+	))		
+10	((	NP	<fs af='ஸ்ரீதேவியின்,unk,,,,,,' head="ஸ்ரீதேவியின்"  poslcat="NM">
+10.1	ஸ்ரீதேவியின்	NNP	<fs af='ஸ்ரீதேவியின்,unk,,,,,,' name="ஸ்ரீதேவியின்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='போனி,unk,,,,,,' head="போனி"  poslcat="NM">
+11.1	கணவரும்	NN	<fs af='கணவரும்,unk,,,,,,' poslcat="NM">
+11.2	தயாரிப்பாளருமான	JJ	<fs af='தயாரிப்பாளருமான,unk,,,,,,' poslcat="NM">
+11.3	போனி	NN	<fs af='போனி,unk,,,,,,' name="போனி"  poslcat="NM">
+	))		
+12	((	NP	<fs af='கபூர்,unk,,,,,,' head="கபூர்"  poslcat="NM">
+12.1	கபூர்	NNP	<fs af='கபூர்,unk,,,,,,' name="கபூர்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,51 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஐரேஆப்பாவின்,unk,,,,,,' head="ஐரேஆப்பாவின்"  poslcat="NM">
+2.1	ஐரேஆப்பாவின்	NN	<fs af='ஐரேஆப்பாவின்,unk,,,,,,' name="ஐரேஆப்பாவின்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வங்கிமுறை,unk,,,,,,' head="வங்கிமுறை"  poslcat="NM">
+3.1	வங்கிமுறை	NN	<fs af='வங்கிமுறை,unk,,,,,,' name="வங்கிமுறை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நிலை,unk,,,,,,' head="நிலை"  poslcat="NM">
+4.1	நிலை	NN	<fs af='நிலை,unk,,,,,,' name="நிலை"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='பற்றி,unk,,,,,,' head="பற்றி"  poslcat="NM">
+5.1	பற்றி	PSP	<fs af='பற்றி,unk,,,,,,' name="பற்றி"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வகையில்,unk,,,,,,' head="வகையில்"  poslcat="NM">
+6.1	குறிப்பிடத்தக்க	JJ	<fs af='குறிப்பிடத்தக்க,unk,,,,,,' poslcat="NM">
+6.2	வகையில்	NN	<fs af='வகையில்,unk,,,,,,' name="வகையில்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கவலை,unk,,,,,,' head="கவலை"  poslcat="NM">
+7.1	கவலை	NN	<fs af='கவலை,unk,,,,,,' name="கவலை"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='உள்ளது,unk,,,,,,' head="உள்ளது"  poslcat="NM">
+8.1	உள்ளது	VM	<fs af='உள்ளது,unk,,,,,,' name="உள்ளது"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஐரேஆப்பாவின்,unk,,,,,,' head="ஐரேஆப்பாவின்"  poslcat="NM">
+1.1	ஐரேஆப்பாவின்	NN	<fs af='ஐரேஆப்பாவின்,unk,,,,,,' name="ஐரேஆப்பாவின்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='வங்கிமுறை,unk,,,,,,' head="வங்கிமுறை"  poslcat="NM">
+2.1	வங்கிமுறை	NN	<fs af='வங்கிமுறை,unk,,,,,,' name="வங்கிமுறை"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நிலை,unk,,,,,,' head="நிலை"  poslcat="NM">
+3.1	நிலை	NN	<fs af='நிலை,unk,,,,,,' name="நிலை"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='பற்றி,unk,,,,,,' head="பற்றி"  poslcat="NM">
+4.1	பற்றி	PSP	<fs af='பற்றி,unk,,,,,,' name="பற்றி"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வகையில்,unk,,,,,,' head="வகையில்"  poslcat="NM">
+5.1	குறிப்பிடத்தக்க	JJ	<fs af='குறிப்பிடத்தக்க,unk,,,,,,' poslcat="NM">
+5.2	வகையில்	NN	<fs af='வகையில்,unk,,,,,,' name="வகையில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கவலை,unk,,,,,,' head="கவலை"  poslcat="NM">
+6.1	கவலை	NN	<fs af='கவலை,unk,,,,,,' name="கவலை"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='உள்ளது,unk,,,,,,' head="உள்ளது"  poslcat="NM">
+7.1	உள்ளது	VM	<fs af='உள்ளது,unk,,,,,,' name="உள்ளது"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

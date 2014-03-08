@@ -1,0 +1,107 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='காவலாளர்,unk,,,,,,' head="காவலாளர்"  poslcat="NM">
+2.1	காவலாளர்	NN	<fs af='காவலாளர்,unk,,,,,,' name="காவலாளர்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அவரவர்,unk,,,,,,' head="அவரவர்"  poslcat="NM">
+3.1	அவரவர்	PRP	<fs af='அவரவர்,unk,,,,,,' name="அவரவர்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='தங்கள்,unk,,,,,,' head="தங்கள்"  poslcat="NM">
+4.1	தங்கள்	PRP	<fs af='தங்கள்,unk,,,,,,' name="தங்கள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஆயுதங்களைப்,unk,,,,,,' head="ஆயுதங்களைப்"  poslcat="NM">
+5.1	ஆயுதங்களைப்	NN	<fs af='ஆயுதங்களைப்,unk,,,,,,' name="ஆயுதங்களைப்"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='பிடித்தவர்களாய்,unk,,,,,,' head="பிடித்தவர்களாய்"  poslcat="NM">
+6.1	பிடித்தவர்களாய்	RB	<fs af='பிடித்தவர்களாய்,unk,,,,,,' name="பிடித்தவர்களாய்"  poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='ஆலயத்தின்,unk,,,,,,' head="ஆலயத்தின்"  poslcat="NM">
+7.1	ஆலயத்தின்	NN	<fs af='ஆலயத்தின்,unk,,,,,,' name="ஆலயத்தின்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='வலதுபக்கம்தொடங்கி,unk,,,,,,' head="வலதுபக்கம்தொடங்கி"  poslcat="NM">
+8.1	வலதுபக்கம்தொடங்கி	NN	<fs af='வலதுபக்கம்தொடங்கி,unk,,,,,,' name="வலதுபக்கம்தொடங்கி"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அதின்,unk,,,,,,' head="அதின்"  poslcat="NM">
+9.1	அதின்	NN	<fs af='அதின்,unk,,,,,,' name="அதின்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='இடதுபக்கமட்டும்,unk,,,,,,' head="இடதுபக்கமட்டும்"  poslcat="NM">
+10.1	இடதுபக்கமட்டும்	NN	<fs af='இடதுபக்கமட்டும்,unk,,,,,,' name="இடதுபக்கமட்டும்"  poslcat="NM">
+10.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+11	((	NP	<fs af='பலிபீடத்திற்கு,unk,,,,,,' head="பலிபீடத்திற்கு"  poslcat="NM">
+11.1	பலிபீடத்திற்கு	NN	<fs af='பலிபீடத்திற்கு,unk,,,,,,' name="பலிபீடத்திற்கு"  poslcat="NM">
+	))		
+12	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்_2"  poslcat="NM">
+12.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்_2"  poslcat="NM">
+	))		
+13	((	NP	<fs af='ஆலயத்திற்கு,unk,,,,,,' head="ஆலயத்திற்கு"  poslcat="NM">
+13.1	ஆலயத்திற்கு	NN	<fs af='ஆலயத்திற்கு,unk,,,,,,' name="ஆலயத்திற்கு"  poslcat="NM">
+	))		
+14	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்"  poslcat="NM">
+14.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்"  poslcat="NM">
+	))		
+15	((	NP	<fs af='ராஜாவைச்,unk,,,,,,' head="ராஜாவைச்"  poslcat="NM">
+15.1	ராஜாவைச்	NN	<fs af='ராஜாவைச்,unk,,,,,,' name="ராஜாவைச்"  poslcat="NM">
+	))		
+16	((	BLK	<fs af='சுற்றிலும்,unk,,,,,,' head="சுற்றிலும்"  poslcat="NM">
+16.1	சுற்றிலும்	PSP	<fs af='சுற்றிலும்,unk,,,,,,' name="சுற்றிலும்"  poslcat="NM">
+	))		
+17	((	VGF	<fs af='நின்றார்கள்,unk,,,,,,' head="நின்றார்கள்"  poslcat="NM">
+17.1	நின்றார்கள்	VM	<fs af='நின்றார்கள்,unk,,,,,,' name="நின்றார்கள்"  poslcat="NM">
+17.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='காவலாளர்,unk,,,,,,' head="காவலாளர்"  poslcat="NM">
+1.1	காவலாளர்	NN	<fs af='காவலாளர்,unk,,,,,,' name="காவலாளர்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='அவரவர்,unk,,,,,,' head="அவரவர்"  poslcat="NM">
+2.1	அவரவர்	PRP	<fs af='அவரவர்,unk,,,,,,' name="அவரவர்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தங்கள்,unk,,,,,,' head="தங்கள்"  poslcat="NM">
+3.1	தங்கள்	PRP	<fs af='தங்கள்,unk,,,,,,' name="தங்கள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஆயுதங்களைப்,unk,,,,,,' head="ஆயுதங்களைப்"  poslcat="NM">
+4.1	ஆயுதங்களைப்	NN	<fs af='ஆயுதங்களைப்,unk,,,,,,' name="ஆயுதங்களைப்"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='பிடித்தவர்களாய்,unk,,,,,,' head="பிடித்தவர்களாய்"  poslcat="NM">
+5.1	பிடித்தவர்களாய்	RB	<fs af='பிடித்தவர்களாய்,unk,,,,,,' name="பிடித்தவர்களாய்"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='ஆலயத்தின்,unk,,,,,,' head="ஆலயத்தின்"  poslcat="NM">
+6.1	ஆலயத்தின்	NN	<fs af='ஆலயத்தின்,unk,,,,,,' name="ஆலயத்தின்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வலதுபக்கம்தொடங்கி,unk,,,,,,' head="வலதுபக்கம்தொடங்கி"  poslcat="NM">
+7.1	வலதுபக்கம்தொடங்கி	NN	<fs af='வலதுபக்கம்தொடங்கி,unk,,,,,,' name="வலதுபக்கம்தொடங்கி"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அதின்,unk,,,,,,' head="அதின்"  poslcat="NM">
+8.1	அதின்	NN	<fs af='அதின்,unk,,,,,,' name="அதின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='இடதுபக்கமட்டும்,unk,,,,,,' head="இடதுபக்கமட்டும்"  poslcat="NM">
+9.1	இடதுபக்கமட்டும்	NN	<fs af='இடதுபக்கமட்டும்,unk,,,,,,' name="இடதுபக்கமட்டும்"  poslcat="NM">
+9.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+10	((	NP	<fs af='பலிபீடத்திற்கு,unk,,,,,,' head="பலிபீடத்திற்கு"  poslcat="NM">
+10.1	பலிபீடத்திற்கு	NN	<fs af='பலிபீடத்திற்கு,unk,,,,,,' name="பலிபீடத்திற்கு"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்_2"  poslcat="NM">
+11.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்_2"  poslcat="NM">
+	))		
+12	((	NP	<fs af='ஆலயத்திற்கு,unk,,,,,,' head="ஆலயத்திற்கு"  poslcat="NM">
+12.1	ஆலயத்திற்கு	NN	<fs af='ஆலயத்திற்கு,unk,,,,,,' name="ஆலயத்திற்கு"  poslcat="NM">
+	))		
+13	((	RBP	<fs af='எதிராகவும்,unk,,,,,,' head="எதிராகவும்"  poslcat="NM">
+13.1	எதிராகவும்	RB	<fs af='எதிராகவும்,unk,,,,,,' name="எதிராகவும்"  poslcat="NM">
+	))		
+14	((	NP	<fs af='ராஜாவைச்,unk,,,,,,' head="ராஜாவைச்"  poslcat="NM">
+14.1	ராஜாவைச்	NN	<fs af='ராஜாவைச்,unk,,,,,,' name="ராஜாவைச்"  poslcat="NM">
+	))		
+15	((	BLK	<fs af='சுற்றிலும்,unk,,,,,,' head="சுற்றிலும்"  poslcat="NM">
+15.1	சுற்றிலும்	PSP	<fs af='சுற்றிலும்,unk,,,,,,' name="சுற்றிலும்"  poslcat="NM">
+	))		
+16	((	VGF	<fs af='நின்றார்கள்,unk,,,,,,' head="நின்றார்கள்"  poslcat="NM">
+16.1	நின்றார்கள்	VM	<fs af='நின்றார்கள்,unk,,,,,,' name="நின்றார்கள்"  poslcat="NM">
+16.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

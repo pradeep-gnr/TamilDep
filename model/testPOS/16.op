@@ -1,0 +1,71 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='முரளிதரன்,unk,,,,,,' head="முரளிதரன்"  poslcat="NM">
+2.1	முரளிதரன்	NNP	<fs af='முரளிதரன்,unk,,,,,,' name="முரளிதரன்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பகுதிகளில்,unk,,,,,,' head="பகுதிகளில்"  poslcat="NM">
+3.1	கட்டுப்பாட்டிலுள்ள	JJ	<fs af='கட்டுப்பாட்டிலுள்ள,unk,,,,,,' poslcat="NM">
+3.2	பகுதிகளில்	NN	<fs af='பகுதிகளில்,unk,,,,,,' name="பகுதிகளில்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நேஆர்வே,unk,,,,,,' head="நேஆர்வே"  poslcat="NM">
+4.1	நேஆர்வே	NN	<fs af='நேஆர்வே,unk,,,,,,' name="நேஆர்வே"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நாட்டைச்,unk,,,,,,' head="நாட்டைச்"  poslcat="NM">
+5.1	நாட்டைச்	NN	<fs af='நாட்டைச்,unk,,,,,,' name="நாட்டைச்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='சார்ந்த,unk,,,,,,' head="சார்ந்த"  poslcat="NM">
+6.1	சார்ந்த	VM	<fs af='சார்ந்த,unk,,,,,,' name="சார்ந்த"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கண்காணிப்பாளர்கள்,unk,,,,,,' head="கண்காணிப்பாளர்கள்"  poslcat="NM">
+7.1	சமாதான	JJ	<fs af='சமாதான,unk,,,,,,' poslcat="NM">
+7.2	கண்காணிப்பாளர்கள்	NN	<fs af='கண்காணிப்பாளர்கள்,unk,,,,,,' name="கண்காணிப்பாளர்கள்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='தங்களது,unk,,,,,,' head="தங்களது"  poslcat="NM">
+8.1	தங்களது	PRP	<fs af='தங்களது,unk,,,,,,' name="தங்களது"  poslcat="NM">
+	))		
+9	((	NP	<fs af='நடவடிக்கைகளை,unk,,,,,,' head="நடவடிக்கைகளை"  poslcat="NM">
+9.1	நடவடிக்கைகளை	NN	<fs af='நடவடிக்கைகளை,unk,,,,,,' name="நடவடிக்கைகளை"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='நிறுத்தி,unk,,,,,,' head="நிறுத்தி"  poslcat="NM">
+10.1	நிறுத்தி	VM	<fs af='நிறுத்தி,unk,,,,,,' name="நிறுத்தி"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வைத்திருக்கின்றனர்,unk,,,,,,' head="வைத்திருக்கின்றனர்"  poslcat="NM">
+11.1	வைத்திருக்கின்றனர்	VAUX	<fs af='வைத்திருக்கின்றனர்,unk,,,,,,' name="வைத்திருக்கின்றனர்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='முரளிதரன்,unk,,,,,,' head="முரளிதரன்"  poslcat="NM">
+1.1	முரளிதரன்	NNP	<fs af='முரளிதரன்,unk,,,,,,' name="முரளிதரன்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பகுதிகளில்,unk,,,,,,' head="பகுதிகளில்"  poslcat="NM">
+2.1	கட்டுப்பாட்டிலுள்ள	JJ	<fs af='கட்டுப்பாட்டிலுள்ள,unk,,,,,,' poslcat="NM">
+2.2	பகுதிகளில்	NN	<fs af='பகுதிகளில்,unk,,,,,,' name="பகுதிகளில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நேஆர்வே,unk,,,,,,' head="நேஆர்வே"  poslcat="NM">
+3.1	நேஆர்வே	NN	<fs af='நேஆர்வே,unk,,,,,,' name="நேஆர்வே"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நாட்டைச்,unk,,,,,,' head="நாட்டைச்"  poslcat="NM">
+4.1	நாட்டைச்	NN	<fs af='நாட்டைச்,unk,,,,,,' name="நாட்டைச்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='சார்ந்த,unk,,,,,,' head="சார்ந்த"  poslcat="NM">
+5.1	சார்ந்த	VM	<fs af='சார்ந்த,unk,,,,,,' name="சார்ந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கண்காணிப்பாளர்கள்,unk,,,,,,' head="கண்காணிப்பாளர்கள்"  poslcat="NM">
+6.1	சமாதான	JJ	<fs af='சமாதான,unk,,,,,,' poslcat="NM">
+6.2	கண்காணிப்பாளர்கள்	NN	<fs af='கண்காணிப்பாளர்கள்,unk,,,,,,' name="கண்காணிப்பாளர்கள்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தங்களது,unk,,,,,,' head="தங்களது"  poslcat="NM">
+7.1	தங்களது	PRP	<fs af='தங்களது,unk,,,,,,' name="தங்களது"  poslcat="NM">
+	))		
+8	((	NP	<fs af='நடவடிக்கைகளை,unk,,,,,,' head="நடவடிக்கைகளை"  poslcat="NM">
+8.1	நடவடிக்கைகளை	NN	<fs af='நடவடிக்கைகளை,unk,,,,,,' name="நடவடிக்கைகளை"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='நிறுத்தி,unk,,,,,,' head="நிறுத்தி"  poslcat="NM">
+9.1	நிறுத்தி	VM	<fs af='நிறுத்தி,unk,,,,,,' name="நிறுத்தி"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='வைத்திருக்கின்றனர்,unk,,,,,,' head="வைத்திருக்கின்றனர்"  poslcat="NM">
+10.1	வைத்திருக்கின்றனர்	VAUX	<fs af='வைத்திருக்கின்றனர்,unk,,,,,,' name="வைத்திருக்கின்றனர்"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

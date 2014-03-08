@@ -1,0 +1,63 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பகுதி,unk,,,,,,' head="பகுதி"  poslcat="NM">
+2.1	யூரேஆப்	NN	<fs af='யூரேஆப்,unk,,,,,,' poslcat="NM">
+2.2	பகுதி	NN	<fs af='பகுதி,unk,,,,,,' name="பகுதி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நாடுகளில்,unk,,,,,,' head="நாடுகளில்"  poslcat="NM">
+3.1	நாடுகளில்	NN	<fs af='நாடுகளில்,unk,,,,,,' name="நாடுகளில்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இதற்கு,unk,,,,,,' head="இதற்கு"  poslcat="NM">
+4.1	இதற்கு	PRP	<fs af='இதற்கு,unk,,,,,,' name="இதற்கு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஒப்புமையில்,unk,,,,,,' head="ஒப்புமையில்"  poslcat="NM">
+5.1	ஒப்புமையில்	NN	<fs af='ஒப்புமையில்,unk,,,,,,' name="ஒப்புமையில்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='இருக்கும்,unk,,,,,,' head="இருக்கும்"  poslcat="NM">
+6.1	இருக்கும்	VM	<fs af='இருக்கும்,unk,,,,,,' name="இருக்கும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='சதவிகிதம்,unk,,,,,,' head="சதவிகிதம்"  poslcat="NM">
+7.1	சதவிகிதம்	NN	<fs af='சதவிகிதம்,unk,,,,,,' name="சதவிகிதம்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='10,num,,,,,,' head="10"  poslcat="NM">
+8.1	10	QC	<fs af='10,num,,,,,,' name="10"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+9.1	என்று	RB	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='உள்ளது,unk,,,,,,' head="உள்ளது"  poslcat="NM">
+10.1	உள்ளது	VM	<fs af='உள்ளது,unk,,,,,,' name="உள்ளது"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பகுதி,unk,,,,,,' head="பகுதி"  poslcat="NM">
+1.1	யூரேஆப்	NN	<fs af='யூரேஆப்,unk,,,,,,' poslcat="NM">
+1.2	பகுதி	NN	<fs af='பகுதி,unk,,,,,,' name="பகுதி"  poslcat="NM">
+	))		
+2	((	NP	<fs af='நாடுகளில்,unk,,,,,,' head="நாடுகளில்"  poslcat="NM">
+2.1	நாடுகளில்	NN	<fs af='நாடுகளில்,unk,,,,,,' name="நாடுகளில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இதற்கு,unk,,,,,,' head="இதற்கு"  poslcat="NM">
+3.1	இதற்கு	PRP	<fs af='இதற்கு,unk,,,,,,' name="இதற்கு"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஒப்புமையில்,unk,,,,,,' head="ஒப்புமையில்"  poslcat="NM">
+4.1	ஒப்புமையில்	NN	<fs af='ஒப்புமையில்,unk,,,,,,' name="ஒப்புமையில்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இருக்கும்,unk,,,,,,' head="இருக்கும்"  poslcat="NM">
+5.1	இருக்கும்	VM	<fs af='இருக்கும்,unk,,,,,,' name="இருக்கும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='சதவிகிதம்,unk,,,,,,' head="சதவிகிதம்"  poslcat="NM">
+6.1	சதவிகிதம்	NN	<fs af='சதவிகிதம்,unk,,,,,,' name="சதவிகிதம்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='10,num,,,,,,' head="10"  poslcat="NM">
+7.1	10	QC	<fs af='10,num,,,,,,' name="10"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+8.1	என்று	RB	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='உள்ளது,unk,,,,,,' head="உள்ளது"  poslcat="NM">
+9.1	உள்ளது	VM	<fs af='உள்ளது,unk,,,,,,' name="உள்ளது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

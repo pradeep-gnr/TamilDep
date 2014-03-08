@@ -1,0 +1,37 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='கீழிருக்கும்,unk,,,,,,' head="கீழிருக்கும்"  poslcat="NM">
+2.1	கீழிருக்கும்	NN	<fs af='கீழிருக்கும்,unk,,,,,,' name="கீழிருக்கும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='சதவிகிதம்,unk,,,,,,' head="சதவிகிதம்"  poslcat="NM">
+3.1	80	QC	<fs af='80,num,,,,,,' poslcat="NM">
+3.2	சதவிகிதம்	NN	<fs af='சதவிகிதம்,unk,,,,,,' name="சதவிகிதம்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='செஆத்துக்களை,unk,,,,,,' head="செஆத்துக்களை"  poslcat="NM">
+4.1	7.5	QC	<fs af='7.5,num,,,,,,' poslcat="NM">
+4.2	வீடுகளற்ற	JJ	<fs af='வீடுகளற்ற,unk,,,,,,' poslcat="NM">
+4.3	செஆத்துக்களை	NN	<fs af='செஆத்துக்களை,unk,,,,,,' name="செஆத்துக்களை"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='கெஆண்டுள்ளது,unk,,,,,,' head="கெஆண்டுள்ளது"  poslcat="NM">
+5.1	கெஆண்டுள்ளது	VM	<fs af='கெஆண்டுள்ளது,unk,,,,,,' name="கெஆண்டுள்ளது"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='கீழிருக்கும்,unk,,,,,,' head="கீழிருக்கும்"  poslcat="NM">
+1.1	கீழிருக்கும்	NN	<fs af='கீழிருக்கும்,unk,,,,,,' name="கீழிருக்கும்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='சதவிகிதம்,unk,,,,,,' head="சதவிகிதம்"  poslcat="NM">
+2.1	80	QC	<fs af='80,num,,,,,,' poslcat="NM">
+2.2	சதவிகிதம்	NN	<fs af='சதவிகிதம்,unk,,,,,,' name="சதவிகிதம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='செஆத்துக்களை,unk,,,,,,' head="செஆத்துக்களை"  poslcat="NM">
+3.1	7.5	QC	<fs af='7.5,num,,,,,,' poslcat="NM">
+3.2	வீடுகளற்ற	JJ	<fs af='வீடுகளற்ற,unk,,,,,,' poslcat="NM">
+3.3	செஆத்துக்களை	NN	<fs af='செஆத்துக்களை,unk,,,,,,' name="செஆத்துக்களை"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='கெஆண்டுள்ளது,unk,,,,,,' head="கெஆண்டுள்ளது"  poslcat="NM">
+4.1	கெஆண்டுள்ளது	VM	<fs af='கெஆண்டுள்ளது,unk,,,,,,' name="கெஆண்டுள்ளது"  poslcat="NM">
+4.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

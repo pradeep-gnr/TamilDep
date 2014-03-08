@@ -1,0 +1,117 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='சட்டவரைவு,unk,,,,,,' head="சட்டவரைவு"  poslcat="NM">
+2.1	இந்தச்	DEM	<fs af='இந்தச்,unk,,,,,,' poslcat="NM">
+2.2	சட்டவரைவு	NN	<fs af='சட்டவரைவு,unk,,,,,,' name="சட்டவரைவு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மன்றத்தின்,unk,,,,,,' head="மன்றத்தின்"  poslcat="NM">
+3.1	சட்ட	JJ	<fs af='சட்ட,unk,,,,,,' poslcat="NM">
+3.2	மன்றத்தின்	NN	<fs af='மன்றத்தின்,unk,,,,,,' name="மன்றத்தின்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பிரிவுகளிலும்,unk,,,,,,' head="பிரிவுகளிலும்"  poslcat="NM">
+4.1	இரு	QC	<fs af='இரு,unk,,,,,,' poslcat="NM">
+4.2	பிரிவுகளிலும்	NN	<fs af='பிரிவுகளிலும்,unk,,,,,,' name="பிரிவுகளிலும்"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='அவசரமாக,unk,,,,,,' head="அவசரமாக"  poslcat="NM">
+5.1	மிக	INTF	<fs af='மிக,unk,,,,,,' poslcat="NM">
+5.2	அவசரமாக	RB	<fs af='அவசரமாக,unk,,,,,,' name="அவசரமாக"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நினைவேற்றப்பட்டமை,unk,,,,,,' head="நினைவேற்றப்பட்டமை"  poslcat="NM">
+6.1	நினைவேற்றப்பட்டமை	NN	<fs af='நினைவேற்றப்பட்டமை,unk,,,,,,' name="நினைவேற்றப்பட்டமை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='முன்னெஆருபேஆதும்,unk,,,,,,' head="முன்னெஆருபேஆதும்"  poslcat="NM">
+7.1	முன்னெஆருபேஆதும்	NN	<fs af='முன்னெஆருபேஆதும்,unk,,,,,,' name="முன்னெஆருபேஆதும்"  poslcat="NM">
+	))		
+8	((	NEGP	<fs af='நடக்காத,unk,,,,,,' head="நடக்காத"  poslcat="NM">
+8.1	நடக்காத	NEG	<fs af='நடக்காத,unk,,,,,,' name="நடக்காத"  poslcat="NM">
+	))		
+9	((	NP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+9.1	ஒன்றுமட்டுமல்லாது	QC	<fs af='ஒன்றுமட்டுமல்லாது,unk,,,,,,' poslcat="NM">
+9.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+10	((	NP	<fs af='டெர்ரி,unk,,,,,,' head="டெர்ரி"  poslcat="NM">
+10.1	இது	PRP	<fs af='இது,unk,,,,,,' poslcat="NM">
+10.2	டெர்ரி	NN	<fs af='டெர்ரி,unk,,,,,,' name="டெர்ரி"  poslcat="NM">
+	))		
+11	((	NP	<fs af='ஷியாவேஆ,unk,,,,,,' head="ஷியாவேஆ"  poslcat="NM">
+11.1	ஷியாவேஆ	NNP	<fs af='ஷியாவேஆ,unk,,,,,,' name="ஷியாவேஆ"  poslcat="NM">
+	))		
+12	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+12.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='பெற்றேஆர்களுக்கு,unk,,,,,,' head="பெற்றேஆர்களுக்கு"  poslcat="NM">
+13.1	அப்பெண்மணியின்	NN	<fs af='அப்பெண்மணியின்,unk,,,,,,' poslcat="NM">
+13.2	பெற்றேஆர்களுக்கு	NN	<fs af='பெற்றேஆர்களுக்கு,unk,,,,,,' name="பெற்றேஆர்களுக்கு"  poslcat="NM">
+	))		
+14	((	BLK	<fs af='மட்டும்,unk,,,,,,' head="மட்டும்"  poslcat="NM">
+14.1	மட்டும்	PSP	<fs af='மட்டும்,unk,,,,,,' name="மட்டும்"  poslcat="NM">
+	))		
+15	((	NP	<fs af='பெஆருந்தும்,unk,,,,,,' head="பெஆருந்தும்"  poslcat="NM">
+15.1	பெஆருந்தும்	NN	<fs af='பெஆருந்தும்,unk,,,,,,' name="பெஆருந்தும்"  poslcat="NM">
+	))		
+16	((	RBP	<fs af='என,unk,,,,,,' head="என"  poslcat="NM">
+16.1	என	RB	<fs af='என,unk,,,,,,' name="என"  poslcat="NM">
+	))		
+17	((	VGF	<fs af='இயற்றப்பட்டுள்ளது,unk,,,,,,' head="இயற்றப்பட்டுள்ளது"  poslcat="NM">
+17.1	இயற்றப்பட்டுள்ளது	VM	<fs af='இயற்றப்பட்டுள்ளது,unk,,,,,,' name="இயற்றப்பட்டுள்ளது"  poslcat="NM">
+17.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='சட்டவரைவு,unk,,,,,,' head="சட்டவரைவு"  poslcat="NM">
+1.1	இந்தச்	DEM	<fs af='இந்தச்,unk,,,,,,' poslcat="NM">
+1.2	சட்டவரைவு	NN	<fs af='சட்டவரைவு,unk,,,,,,' name="சட்டவரைவு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='மன்றத்தின்,unk,,,,,,' head="மன்றத்தின்"  poslcat="NM">
+2.1	சட்ட	JJ	<fs af='சட்ட,unk,,,,,,' poslcat="NM">
+2.2	மன்றத்தின்	NN	<fs af='மன்றத்தின்,unk,,,,,,' name="மன்றத்தின்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பிரிவுகளிலும்,unk,,,,,,' head="பிரிவுகளிலும்"  poslcat="NM">
+3.1	இரு	QC	<fs af='இரு,unk,,,,,,' poslcat="NM">
+3.2	பிரிவுகளிலும்	NN	<fs af='பிரிவுகளிலும்,unk,,,,,,' name="பிரிவுகளிலும்"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='அவசரமாக,unk,,,,,,' head="அவசரமாக"  poslcat="NM">
+4.1	மிக	INTF	<fs af='மிக,unk,,,,,,' poslcat="NM">
+4.2	அவசரமாக	RB	<fs af='அவசரமாக,unk,,,,,,' name="அவசரமாக"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நினைவேற்றப்பட்டமை,unk,,,,,,' head="நினைவேற்றப்பட்டமை"  poslcat="NM">
+5.1	நினைவேற்றப்பட்டமை	NN	<fs af='நினைவேற்றப்பட்டமை,unk,,,,,,' name="நினைவேற்றப்பட்டமை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='முன்னெஆருபேஆதும்,unk,,,,,,' head="முன்னெஆருபேஆதும்"  poslcat="NM">
+6.1	முன்னெஆருபேஆதும்	NN	<fs af='முன்னெஆருபேஆதும்,unk,,,,,,' name="முன்னெஆருபேஆதும்"  poslcat="NM">
+	))		
+7	((	NEGP	<fs af='நடக்காத,unk,,,,,,' head="நடக்காத"  poslcat="NM">
+7.1	நடக்காத	NEG	<fs af='நடக்காத,unk,,,,,,' name="நடக்காத"  poslcat="NM">
+	))		
+8	((	NP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+8.1	ஒன்றுமட்டுமல்லாது	QC	<fs af='ஒன்றுமட்டுமல்லாது,unk,,,,,,' poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+9	((	NP	<fs af='டெர்ரி,unk,,,,,,' head="டெர்ரி"  poslcat="NM">
+9.1	இது	PRP	<fs af='இது,unk,,,,,,' poslcat="NM">
+9.2	டெர்ரி	NN	<fs af='டெர்ரி,unk,,,,,,' name="டெர்ரி"  poslcat="NM">
+	))		
+10	((	NP	<fs af='ஷியாவேஆ,unk,,,,,,' head="ஷியாவேஆ"  poslcat="NM">
+10.1	ஷியாவேஆ	NNP	<fs af='ஷியாவேஆ,unk,,,,,,' name="ஷியாவேஆ"  poslcat="NM">
+	))		
+11	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+11.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='பெற்றேஆர்களுக்கு,unk,,,,,,' head="பெற்றேஆர்களுக்கு"  poslcat="NM">
+12.1	அப்பெண்மணியின்	NN	<fs af='அப்பெண்மணியின்,unk,,,,,,' poslcat="NM">
+12.2	பெற்றேஆர்களுக்கு	NN	<fs af='பெற்றேஆர்களுக்கு,unk,,,,,,' name="பெற்றேஆர்களுக்கு"  poslcat="NM">
+	))		
+13	((	BLK	<fs af='மட்டும்,unk,,,,,,' head="மட்டும்"  poslcat="NM">
+13.1	மட்டும்	PSP	<fs af='மட்டும்,unk,,,,,,' name="மட்டும்"  poslcat="NM">
+	))		
+14	((	NP	<fs af='பெஆருந்தும்,unk,,,,,,' head="பெஆருந்தும்"  poslcat="NM">
+14.1	பெஆருந்தும்	NN	<fs af='பெஆருந்தும்,unk,,,,,,' name="பெஆருந்தும்"  poslcat="NM">
+	))		
+15	((	RBP	<fs af='என,unk,,,,,,' head="என"  poslcat="NM">
+15.1	என	RB	<fs af='என,unk,,,,,,' name="என"  poslcat="NM">
+	))		
+16	((	VGF	<fs af='இயற்றப்பட்டுள்ளது,unk,,,,,,' head="இயற்றப்பட்டுள்ளது"  poslcat="NM">
+16.1	இயற்றப்பட்டுள்ளது	VM	<fs af='இயற்றப்பட்டுள்ளது,unk,,,,,,' name="இயற்றப்பட்டுள்ளது"  poslcat="NM">
+16.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,99 @@
+<Sentence id="">			
+1			
+2	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+2.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+3	((	NP	<fs af='சில,unk,,,,,,' head="சில"  poslcat="NM">
+3.1	சில	QF	<fs af='சில,unk,,,,,,' name="சில"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='மாதங்களாக,unk,,,,,,' head="மாதங்களாக"  poslcat="NM">
+4.1	மாதங்களாக	RB	<fs af='மாதங்களாக,unk,,,,,,' name="மாதங்களாக"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='முன்னணி,unk,,,,,,' head="முன்னணி"  poslcat="NM">
+5.1	சுதந்திர	JJ	<fs af='சுதந்திர,unk,,,,,,' poslcat="NM">
+5.2	முன்னணி	NN	<fs af='முன்னணி,unk,,,,,,' name="முன்னணி"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க_2"  poslcat="NM">
+6.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க_2"  poslcat="NM">
+	))		
+7	((	NP	<fs af='உறவுக்கு,unk,,,,,,' head="உறவுக்கு"  poslcat="NM">
+7.1	இராணுவத்துடனான	JJ	<fs af='இராணுவத்துடனான,unk,,,,,,' poslcat="NM">
+7.2	நெருங்கிய	JJ	<fs af='நெருங்கிய,unk,,,,,,' poslcat="NM">
+7.3	உறவுக்கு	NN	<fs af='உறவுக்கு,unk,,,,,,' name="உறவுக்கு"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='ஊக்கமளித்து,unk,,,,,,' head="ஊக்கமளித்து"  poslcat="NM">
+8.1	ஊக்கமளித்து	VM	<fs af='ஊக்கமளித்து,unk,,,,,,' name="ஊக்கமளித்து"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='வருவதுடன்,unk,,,,,,' head="வருவதுடன்"  poslcat="NM">
+9.1	வருவதுடன்	VM	<fs af='வருவதுடன்,unk,,,,,,' name="வருவதுடன்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பல,unk,,,,,,' head="பல"  poslcat="NM">
+10.1	பல	QF	<fs af='பல,unk,,,,,,' name="பல"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க"  poslcat="NM">
+11.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க"  poslcat="NM">
+	))		
+12	((	NP	<fs af='அலுவலர்கள்,unk,,,,,,' head="அலுவலர்கள்"  poslcat="NM">
+12.1	அலுவலர்கள்	NN	<fs af='அலுவலர்கள்,unk,,,,,,' name="அலுவலர்கள்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='இலங்கைக்கு,unk,,,,,,' head="இலங்கைக்கு"  poslcat="NM">
+13.1	இலங்கைக்கு	NNP	<fs af='இலங்கைக்கு,unk,,,,,,' name="இலங்கைக்கு"  poslcat="NM">
+	))		
+14	((	NP	<fs af='விஜயம்,unk,,,,,,' head="விஜயம்"  poslcat="NM">
+14.1	விஜயம்	NN	<fs af='விஜயம்,unk,,,,,,' name="விஜயம்"  poslcat="NM">
+	))		
+15	((	VGF	<fs af='செய்துள்ளனர்,unk,,,,,,' head="செய்துள்ளனர்"  poslcat="NM">
+15.1	செய்துள்ளனர்	VM	<fs af='செய்துள்ளனர்,unk,,,,,,' name="செய்துள்ளனர்"  poslcat="NM">
+15.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+1.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+2	((	NP	<fs af='சில,unk,,,,,,' head="சில"  poslcat="NM">
+2.1	சில	QF	<fs af='சில,unk,,,,,,' name="சில"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='மாதங்களாக,unk,,,,,,' head="மாதங்களாக"  poslcat="NM">
+3.1	மாதங்களாக	RB	<fs af='மாதங்களாக,unk,,,,,,' name="மாதங்களாக"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='முன்னணி,unk,,,,,,' head="முன்னணி"  poslcat="NM">
+4.1	சுதந்திர	JJ	<fs af='சுதந்திர,unk,,,,,,' poslcat="NM">
+4.2	முன்னணி	NN	<fs af='முன்னணி,unk,,,,,,' name="முன்னணி"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க_2"  poslcat="NM">
+5.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க_2"  poslcat="NM">
+	))		
+6	((	NP	<fs af='உறவுக்கு,unk,,,,,,' head="உறவுக்கு"  poslcat="NM">
+6.1	இராணுவத்துடனான	JJ	<fs af='இராணுவத்துடனான,unk,,,,,,' poslcat="NM">
+6.2	நெருங்கிய	JJ	<fs af='நெருங்கிய,unk,,,,,,' poslcat="NM">
+6.3	உறவுக்கு	NN	<fs af='உறவுக்கு,unk,,,,,,' name="உறவுக்கு"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='ஊக்கமளித்து,unk,,,,,,' head="ஊக்கமளித்து"  poslcat="NM">
+7.1	ஊக்கமளித்து	VM	<fs af='ஊக்கமளித்து,unk,,,,,,' name="ஊக்கமளித்து"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='வருவதுடன்,unk,,,,,,' head="வருவதுடன்"  poslcat="NM">
+8.1	வருவதுடன்	VM	<fs af='வருவதுடன்,unk,,,,,,' name="வருவதுடன்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பல,unk,,,,,,' head="பல"  poslcat="NM">
+9.1	பல	QF	<fs af='பல,unk,,,,,,' name="பல"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க"  poslcat="NM">
+10.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க"  poslcat="NM">
+	))		
+11	((	NP	<fs af='அலுவலர்கள்,unk,,,,,,' head="அலுவலர்கள்"  poslcat="NM">
+11.1	அலுவலர்கள்	NN	<fs af='அலுவலர்கள்,unk,,,,,,' name="அலுவலர்கள்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='இலங்கைக்கு,unk,,,,,,' head="இலங்கைக்கு"  poslcat="NM">
+12.1	இலங்கைக்கு	NNP	<fs af='இலங்கைக்கு,unk,,,,,,' name="இலங்கைக்கு"  poslcat="NM">
+	))		
+13	((	NP	<fs af='விஜயம்,unk,,,,,,' head="விஜயம்"  poslcat="NM">
+13.1	விஜயம்	NN	<fs af='விஜயம்,unk,,,,,,' name="விஜயம்"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='செய்துள்ளனர்,unk,,,,,,' head="செய்துள்ளனர்"  poslcat="NM">
+14.1	செய்துள்ளனர்	VM	<fs af='செய்துள்ளனர்,unk,,,,,,' name="செய்துள்ளனர்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

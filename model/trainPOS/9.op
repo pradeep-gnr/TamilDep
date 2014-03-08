@@ -1,0 +1,63 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஓய்வுபெறும்,unk,,,,,,' head="ஓய்வுபெறும்"  poslcat="NM">
+2.1	ஓய்வுபெறும்	NN	<fs af='ஓய்வுபெறும்,unk,,,,,,' name="ஓய்வுபெறும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வயதின்,unk,,,,,,' head="வயதின்"  poslcat="NM">
+3.1	வயதின்	NN	<fs af='வயதின்,unk,,,,,,' name="வயதின்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அதிகரிப்பு,unk,,,,,,' head="அதிகரிப்பு"  poslcat="NM">
+4.1	அதிகரிப்பு	NN	<fs af='அதிகரிப்பு,unk,,,,,,' name="அதிகரிப்பு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பேஆக்கின்,unk,,,,,,' head="பேஆக்கின்"  poslcat="NM">
+5.1	இயற்கை	NN	<fs af='இயற்கை,unk,,,,,,' poslcat="NM">
+5.2	பேஆக்கின்	NN	<fs af='பேஆக்கின்,unk,,,,,,' name="பேஆக்கின்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='தவிர்க்க,unk,,,,,,' head="தவிர்க்க"  poslcat="NM">
+6.1	தவிர்க்க	VM	<fs af='தவிர்க்க,unk,,,,,,' name="தவிர்க்க"  poslcat="NM">
+	))		
+7	((	NEGP	<fs af='முடியாத,unk,,,,,,' head="முடியாத"  poslcat="NM">
+7.1	முடியாத	NEG	<fs af='முடியாத,unk,,,,,,' name="முடியாத"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='வெளிபாடாக,unk,,,,,,' head="வெளிபாடாக"  poslcat="NM">
+8.1	வெளிபாடாக	RB	<fs af='வெளிபாடாக,unk,,,,,,' name="வெளிபாடாக"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='இருப்பதுபேஆல்,unk,,,,,,' head="இருப்பதுபேஆல்"  poslcat="NM">
+9.1	இருப்பதுபேஆல்	VM	<fs af='இருப்பதுபேஆல்,unk,,,,,,' name="இருப்பதுபேஆல்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='எடுத்துக்காட்டப்படுகிறது,unk,,,,,,' head="எடுத்துக்காட்டப்படுகிறது"  poslcat="NM">
+10.1	எடுத்துக்காட்டப்படுகிறது	VAUX	<fs af='எடுத்துக்காட்டப்படுகிறது,unk,,,,,,' name="எடுத்துக்காட்டப்படுகிறது"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஓய்வுபெறும்,unk,,,,,,' head="ஓய்வுபெறும்"  poslcat="NM">
+1.1	ஓய்வுபெறும்	NN	<fs af='ஓய்வுபெறும்,unk,,,,,,' name="ஓய்வுபெறும்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='வயதின்,unk,,,,,,' head="வயதின்"  poslcat="NM">
+2.1	வயதின்	NN	<fs af='வயதின்,unk,,,,,,' name="வயதின்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அதிகரிப்பு,unk,,,,,,' head="அதிகரிப்பு"  poslcat="NM">
+3.1	அதிகரிப்பு	NN	<fs af='அதிகரிப்பு,unk,,,,,,' name="அதிகரிப்பு"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பேஆக்கின்,unk,,,,,,' head="பேஆக்கின்"  poslcat="NM">
+4.1	இயற்கை	NN	<fs af='இயற்கை,unk,,,,,,' poslcat="NM">
+4.2	பேஆக்கின்	NN	<fs af='பேஆக்கின்,unk,,,,,,' name="பேஆக்கின்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='தவிர்க்க,unk,,,,,,' head="தவிர்க்க"  poslcat="NM">
+5.1	தவிர்க்க	VM	<fs af='தவிர்க்க,unk,,,,,,' name="தவிர்க்க"  poslcat="NM">
+	))		
+6	((	NEGP	<fs af='முடியாத,unk,,,,,,' head="முடியாத"  poslcat="NM">
+6.1	முடியாத	NEG	<fs af='முடியாத,unk,,,,,,' name="முடியாத"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='வெளிபாடாக,unk,,,,,,' head="வெளிபாடாக"  poslcat="NM">
+7.1	வெளிபாடாக	RB	<fs af='வெளிபாடாக,unk,,,,,,' name="வெளிபாடாக"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='இருப்பதுபேஆல்,unk,,,,,,' head="இருப்பதுபேஆல்"  poslcat="NM">
+8.1	இருப்பதுபேஆல்	VM	<fs af='இருப்பதுபேஆல்,unk,,,,,,' name="இருப்பதுபேஆல்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='எடுத்துக்காட்டப்படுகிறது,unk,,,,,,' head="எடுத்துக்காட்டப்படுகிறது"  poslcat="NM">
+9.1	எடுத்துக்காட்டப்படுகிறது	VAUX	<fs af='எடுத்துக்காட்டப்படுகிறது,unk,,,,,,' name="எடுத்துக்காட்டப்படுகிறது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

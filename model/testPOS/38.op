@@ -1,0 +1,45 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இதற்கிடையே,unk,,,,,,' head="இதற்கிடையே"  poslcat="NM">
+2.1	இதற்கிடையே	PRP	<fs af='இதற்கிடையே,unk,,,,,,' name="இதற்கிடையே"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஹீரோக்களுக்களிடமே,unk,,,,,,' head="ஹீரோக்களுக்களிடமே"  poslcat="NM">
+3.1	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+3.2	ஹீரோக்களுக்களிடமே	NN	<fs af='ஹீரோக்களுக்களிடமே,unk,,,,,,' name="ஹீரோக்களுக்களிடமே"  poslcat="NM">
+	))		
+4	((	NEGP	<fs af='இல்லாத,unk,,,,,,' head="இல்லாத"  poslcat="NM">
+4.1	இல்லாத	NEG	<fs af='இல்லாத,unk,,,,,,' name="இல்லாத"  poslcat="NM">
+	))		
+5	((	NP	<fs af='சொகுசு,unk,,,,,,' head="சொகுசு"  poslcat="NM">
+5.1	சொகுசு	NN	<fs af='சொகுசு,unk,,,,,,' name="சொகுசு"  poslcat="NM">
+	))		
+6	((	NP	<fs af='காரை,unk,,,,,,' head="காரை"  poslcat="NM">
+6.1	காரை	NN	<fs af='காரை,unk,,,,,,' name="காரை"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='வாங்கினார்,unk,,,,,,' head="வாங்கினார்"  poslcat="NM">
+7.1	வாங்கினார்	VM	<fs af='வாங்கினார்,unk,,,,,,' name="வாங்கினார்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இதற்கிடையே,unk,,,,,,' head="இதற்கிடையே"  poslcat="NM">
+1.1	இதற்கிடையே	PRP	<fs af='இதற்கிடையே,unk,,,,,,' name="இதற்கிடையே"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஹீரோக்களுக்களிடமே,unk,,,,,,' head="ஹீரோக்களுக்களிடமே"  poslcat="NM">
+2.1	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+2.2	ஹீரோக்களுக்களிடமே	NN	<fs af='ஹீரோக்களுக்களிடமே,unk,,,,,,' name="ஹீரோக்களுக்களிடமே"  poslcat="NM">
+	))		
+3	((	NEGP	<fs af='இல்லாத,unk,,,,,,' head="இல்லாத"  poslcat="NM">
+3.1	இல்லாத	NEG	<fs af='இல்லாத,unk,,,,,,' name="இல்லாத"  poslcat="NM">
+	))		
+4	((	NP	<fs af='சொகுசு,unk,,,,,,' head="சொகுசு"  poslcat="NM">
+4.1	சொகுசு	NN	<fs af='சொகுசு,unk,,,,,,' name="சொகுசு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='காரை,unk,,,,,,' head="காரை"  poslcat="NM">
+5.1	காரை	NN	<fs af='காரை,unk,,,,,,' name="காரை"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='வாங்கினார்,unk,,,,,,' head="வாங்கினார்"  poslcat="NM">
+6.1	வாங்கினார்	VM	<fs af='வாங்கினார்,unk,,,,,,' name="வாங்கினார்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

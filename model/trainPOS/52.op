@@ -1,0 +1,51 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பார்வோனோ,unk,,,,,,' head="பார்வோனோ"  poslcat="NM">
+2.1	பார்வோனோ	NN	<fs af='பார்வோனோ,unk,,,,,,' name="பார்வோனோ"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='முறையும்,unk,,,,,,' head="முறையும்"  poslcat="NM">
+3.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+3.2	முறையும்	NN	<fs af='முறையும்,unk,,,,,,' name="முறையும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இருதயத்தைக்,unk,,,,,,' head="இருதயத்தைக்"  poslcat="NM">
+4.1	தன்	PRP	<fs af='தன்,unk,,,,,,' poslcat="NM">
+4.2	இருதயத்தைக்	NN	<fs af='இருதயத்தைக்,unk,,,,,,' name="இருதயத்தைக்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='கடினப்படுத்தி,unk,,,,,,' head="கடினப்படுத்தி"  poslcat="NM">
+5.1	கடினப்படுத்தி	VM	<fs af='கடினப்படுத்தி,unk,,,,,,' name="கடினப்படுத்தி"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='ஜனங்களைப்,unk,,,,,,' head="ஜனங்களைப்"  poslcat="NM">
+6.1	ஜனங்களைப்	NN	<fs af='ஜனங்களைப்,unk,,,,,,' name="ஜனங்களைப்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='போகவிடாதிருந்தான்,unk,,,,,,' head="போகவிடாதிருந்தான்"  poslcat="NM">
+7.1	போகவிடாதிருந்தான்	VM	<fs af='போகவிடாதிருந்தான்,unk,,,,,,' name="போகவிடாதிருந்தான்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பார்வோனோ,unk,,,,,,' head="பார்வோனோ"  poslcat="NM">
+1.1	பார்வோனோ	NN	<fs af='பார்வோனோ,unk,,,,,,' name="பார்வோனோ"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='முறையும்,unk,,,,,,' head="முறையும்"  poslcat="NM">
+2.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+2.2	முறையும்	NN	<fs af='முறையும்,unk,,,,,,' name="முறையும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இருதயத்தைக்,unk,,,,,,' head="இருதயத்தைக்"  poslcat="NM">
+3.1	தன்	PRP	<fs af='தன்,unk,,,,,,' poslcat="NM">
+3.2	இருதயத்தைக்	NN	<fs af='இருதயத்தைக்,unk,,,,,,' name="இருதயத்தைக்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='கடினப்படுத்தி,unk,,,,,,' head="கடினப்படுத்தி"  poslcat="NM">
+4.1	கடினப்படுத்தி	VM	<fs af='கடினப்படுத்தி,unk,,,,,,' name="கடினப்படுத்தி"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='ஜனங்களைப்,unk,,,,,,' head="ஜனங்களைப்"  poslcat="NM">
+5.1	ஜனங்களைப்	NN	<fs af='ஜனங்களைப்,unk,,,,,,' name="ஜனங்களைப்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='போகவிடாதிருந்தான்,unk,,,,,,' head="போகவிடாதிருந்தான்"  poslcat="NM">
+6.1	போகவிடாதிருந்தான்	VM	<fs af='போகவிடாதிருந்தான்,unk,,,,,,' name="போகவிடாதிருந்தான்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

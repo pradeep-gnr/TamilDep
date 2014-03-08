@@ -1,0 +1,109 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பாக்யராஜ்,unk,,,,,,' head="பாக்யராஜ்"  poslcat="NM">
+2.1	பாக்யராஜ்	NNP	<fs af='பாக்யராஜ்,unk,,,,,,' name="பாக்யராஜ்"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='ஆர்,unk,,,,,,' head="ஆர்"  poslcat="NM">
+3.1	ஆர்	NN	<fs af='ஆர்,unk,,,,,,' name="ஆர்"  poslcat="NM">
+3.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='பி,unk,,,,,,' head="பி"  poslcat="NM">
+4.1	பி	NN	<fs af='பி,unk,,,,,,' name="பி"  poslcat="NM">
+4.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='சௌத்ரி,unk,,,,,,' head="சௌத்ரி"  poslcat="NM">
+5.1	சௌத்ரி	NNP	<fs af='சௌத்ரி,unk,,,,,,' name="சௌத்ரி"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='நாராயணன்,unk,,,,,,' head="நாராயணன்"  poslcat="NM">
+6.1	இராம	JJ	<fs af='இராம,unk,,,,,,' poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+6.3	நாராயணன்	NNP	<fs af='நாராயணன்,unk,,,,,,' name="நாராயணன்"  poslcat="NM">
+6.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='வி,unk,,,,,,' head="வி"  poslcat="NM">
+7.1	வி	NN	<fs af='வி,unk,,,,,,' name="வி"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='சேகர்,unk,,,,,,' head="சேகர்"  poslcat="NM">
+8.1	சேகர்	NNP	<fs af='சேகர்,unk,,,,,,' name="சேகர்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='சினிமா,unk,,,,,,' head="சினிமா"  poslcat="NM">
+9.1	உள்ளிட்ட	JJ	<fs af='உள்ளிட்ட,unk,,,,,,' poslcat="NM">
+9.2	சினிமா	NN	<fs af='சினிமா,unk,,,,,,' name="சினிமா"  poslcat="NM">
+	))		
+10	((	NP	<fs af='புள்ளிகள்,unk,,,,,,' head="புள்ளிகள்"  poslcat="NM">
+10.1	புள்ளிகள்	NN	<fs af='புள்ளிகள்,unk,,,,,,' name="புள்ளிகள்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='குத்து,unk,,,,,,' head="குத்து"  poslcat="NM">
+11.1	குத்து	VM	<fs af='குத்து,unk,,,,,,' name="குத்து"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='விளக்கேற்றி,unk,,,,,,' head="விளக்கேற்றி"  poslcat="NM">
+12.1	விளக்கேற்றி	VM	<fs af='விளக்கேற்றி,unk,,,,,,' name="விளக்கேற்றி"  poslcat="NM">
+	))		
+13	((	NP	<fs af='படத்தை,unk,,,,,,' head="படத்தை"  poslcat="NM">
+13.1	படத்தை	NN	<fs af='படத்தை,unk,,,,,,' name="படத்தை"  poslcat="NM">
+	))		
+14	((	VGNF	<fs af='தொடங்கி,unk,,,,,,' head="தொடங்கி"  poslcat="NM">
+14.1	தொடங்கி	VM	<fs af='தொடங்கி,unk,,,,,,' name="தொடங்கி"  poslcat="NM">
+	))		
+15	((	VGF	<fs af='வைத்தனர்,unk,,,,,,' head="வைத்தனர்"  poslcat="NM">
+15.1	வைத்தனர்	VAUX	<fs af='வைத்தனர்,unk,,,,,,' name="வைத்தனர்"  poslcat="NM">
+15.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பாக்யராஜ்,unk,,,,,,' head="பாக்யராஜ்"  poslcat="NM">
+1.1	பாக்யராஜ்	NNP	<fs af='பாக்யராஜ்,unk,,,,,,' name="பாக்யராஜ்"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='ஆர்,unk,,,,,,' head="ஆர்"  poslcat="NM">
+2.1	ஆர்	NN	<fs af='ஆர்,unk,,,,,,' name="ஆர்"  poslcat="NM">
+2.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='பி,unk,,,,,,' head="பி"  poslcat="NM">
+3.1	பி	NN	<fs af='பி,unk,,,,,,' name="பி"  poslcat="NM">
+3.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='சௌத்ரி,unk,,,,,,' head="சௌத்ரி"  poslcat="NM">
+4.1	சௌத்ரி	NNP	<fs af='சௌத்ரி,unk,,,,,,' name="சௌத்ரி"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='நாராயணன்,unk,,,,,,' head="நாராயணன்"  poslcat="NM">
+5.1	இராம	JJ	<fs af='இராம,unk,,,,,,' poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+5.3	நாராயணன்	NNP	<fs af='நாராயணன்,unk,,,,,,' name="நாராயணன்"  poslcat="NM">
+5.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='வி,unk,,,,,,' head="வி"  poslcat="NM">
+6.1	வி	NN	<fs af='வி,unk,,,,,,' name="வி"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='சேகர்,unk,,,,,,' head="சேகர்"  poslcat="NM">
+7.1	சேகர்	NNP	<fs af='சேகர்,unk,,,,,,' name="சேகர்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='சினிமா,unk,,,,,,' head="சினிமா"  poslcat="NM">
+8.1	உள்ளிட்ட	JJ	<fs af='உள்ளிட்ட,unk,,,,,,' poslcat="NM">
+8.2	சினிமா	NN	<fs af='சினிமா,unk,,,,,,' name="சினிமா"  poslcat="NM">
+	))		
+9	((	NP	<fs af='புள்ளிகள்,unk,,,,,,' head="புள்ளிகள்"  poslcat="NM">
+9.1	புள்ளிகள்	NN	<fs af='புள்ளிகள்,unk,,,,,,' name="புள்ளிகள்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='குத்து,unk,,,,,,' head="குத்து"  poslcat="NM">
+10.1	குத்து	VM	<fs af='குத்து,unk,,,,,,' name="குத்து"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='விளக்கேற்றி,unk,,,,,,' head="விளக்கேற்றி"  poslcat="NM">
+11.1	விளக்கேற்றி	VM	<fs af='விளக்கேற்றி,unk,,,,,,' name="விளக்கேற்றி"  poslcat="NM">
+	))		
+12	((	NP	<fs af='படத்தை,unk,,,,,,' head="படத்தை"  poslcat="NM">
+12.1	படத்தை	NN	<fs af='படத்தை,unk,,,,,,' name="படத்தை"  poslcat="NM">
+	))		
+13	((	VGNF	<fs af='தொடங்கி,unk,,,,,,' head="தொடங்கி"  poslcat="NM">
+13.1	தொடங்கி	VM	<fs af='தொடங்கி,unk,,,,,,' name="தொடங்கி"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='வைத்தனர்,unk,,,,,,' head="வைத்தனர்"  poslcat="NM">
+14.1	வைத்தனர்	VAUX	<fs af='வைத்தனர்,unk,,,,,,' name="வைத்தனர்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

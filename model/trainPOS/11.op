@@ -1,0 +1,63 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='அப்போது,unk,,,,,,' head="அப்போது"  poslcat="NM">
+2.1	அப்போது	RB	<fs af='அப்போது,unk,,,,,,' name="அப்போது"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='எதிர்பாராதவிதமாக,unk,,,,,,' head="எதிர்பாராதவிதமாக"  poslcat="NM">
+3.1	எதிர்பாராதவிதமாக	RB	<fs af='எதிர்பாராதவிதமாக,unk,,,,,,' name="எதிர்பாராதவிதமாக"  poslcat="NM">
+	))		
+4	((	NP	<fs af='டேனியல்,unk,,,,,,' head="டேனியல்"  poslcat="NM">
+4.1	டேனியல்	NN	<fs af='டேனியல்,unk,,,,,,' name="டேனியல்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கையில்,unk,,,,,,' head="கையில்"  poslcat="NM">
+5.1	பாலாஜியின்	NN	<fs af='பாலாஜியின்,unk,,,,,,' poslcat="NM">
+5.2	கையில்	NN	<fs af='கையில்,unk,,,,,,' name="கையில்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='இருந்த,unk,,,,,,' head="இருந்த"  poslcat="NM">
+6.1	இருந்த	VM	<fs af='இருந்த,unk,,,,,,' name="இருந்த"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கத்தி,unk,,,,,,' head="கத்தி"  poslcat="NM">
+7.1	கத்தி	NN	<fs af='கத்தி,unk,,,,,,' name="கத்தி"  poslcat="NM">
+	))		
+8	((	NP	<fs af='தனுசின்,unk,,,,,,' head="தனுசின்"  poslcat="NM">
+8.1	தனுசின்	NN	<fs af='தனுசின்,unk,,,,,,' name="தனுசின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='நெற்றியில்,unk,,,,,,' head="நெற்றியில்"  poslcat="NM">
+9.1	நெற்றியில்	NN	<fs af='நெற்றியில்,unk,,,,,,' name="நெற்றியில்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='பாய்ந்தது,unk,,,,,,' head="பாய்ந்தது"  poslcat="NM">
+10.1	பாய்ந்தது	VM	<fs af='பாய்ந்தது,unk,,,,,,' name="பாய்ந்தது"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='அப்போது,unk,,,,,,' head="அப்போது"  poslcat="NM">
+1.1	அப்போது	RB	<fs af='அப்போது,unk,,,,,,' name="அப்போது"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='எதிர்பாராதவிதமாக,unk,,,,,,' head="எதிர்பாராதவிதமாக"  poslcat="NM">
+2.1	எதிர்பாராதவிதமாக	RB	<fs af='எதிர்பாராதவிதமாக,unk,,,,,,' name="எதிர்பாராதவிதமாக"  poslcat="NM">
+	))		
+3	((	NP	<fs af='டேனியல்,unk,,,,,,' head="டேனியல்"  poslcat="NM">
+3.1	டேனியல்	NN	<fs af='டேனியல்,unk,,,,,,' name="டேனியல்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='கையில்,unk,,,,,,' head="கையில்"  poslcat="NM">
+4.1	பாலாஜியின்	NN	<fs af='பாலாஜியின்,unk,,,,,,' poslcat="NM">
+4.2	கையில்	NN	<fs af='கையில்,unk,,,,,,' name="கையில்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இருந்த,unk,,,,,,' head="இருந்த"  poslcat="NM">
+5.1	இருந்த	VM	<fs af='இருந்த,unk,,,,,,' name="இருந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கத்தி,unk,,,,,,' head="கத்தி"  poslcat="NM">
+6.1	கத்தி	NN	<fs af='கத்தி,unk,,,,,,' name="கத்தி"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தனுசின்,unk,,,,,,' head="தனுசின்"  poslcat="NM">
+7.1	தனுசின்	NN	<fs af='தனுசின்,unk,,,,,,' name="தனுசின்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='நெற்றியில்,unk,,,,,,' head="நெற்றியில்"  poslcat="NM">
+8.1	நெற்றியில்	NN	<fs af='நெற்றியில்,unk,,,,,,' name="நெற்றியில்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='பாய்ந்தது,unk,,,,,,' head="பாய்ந்தது"  poslcat="NM">
+9.1	பாய்ந்தது	VM	<fs af='பாய்ந்தது,unk,,,,,,' name="பாய்ந்தது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

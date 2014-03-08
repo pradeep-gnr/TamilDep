@@ -1,0 +1,39 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='வெடிப்புக்களில்,unk,,,,,,' head="வெடிப்புக்களில்"  poslcat="NM">
+2.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+2.2	மூன்று	QC	<fs af='மூன்று,unk,,,,,,' poslcat="NM">
+2.3	குண்டு	NN	<fs af='குண்டு,unk,,,,,,' poslcat="NM">
+2.4	வெடிப்புக்களில்	NN	<fs af='வெடிப்புக்களில்,unk,,,,,,' name="வெடிப்புக்களில்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='குறைந்தது,unk,,,,,,' head="குறைந்தது"  poslcat="NM">
+3.1	குறைந்தது	VM	<fs af='குறைந்தது,unk,,,,,,' name="குறைந்தது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பேராவது,unk,,,,,,' head="பேராவது"  poslcat="NM">
+4.1	62	QC	<fs af='62,num,,,,,,' poslcat="NM">
+4.2	பேராவது	NN	<fs af='பேராவது,unk,,,,,,' name="பேராவது"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='கெஆல்லப்பட்டனர்,unk,,,,,,' head="கெஆல்லப்பட்டனர்"  poslcat="NM">
+5.1	கெஆல்லப்பட்டனர்	VM	<fs af='கெஆல்லப்பட்டனர்,unk,,,,,,' name="கெஆல்லப்பட்டனர்"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='வெடிப்புக்களில்,unk,,,,,,' head="வெடிப்புக்களில்"  poslcat="NM">
+1.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+1.2	மூன்று	QC	<fs af='மூன்று,unk,,,,,,' poslcat="NM">
+1.3	குண்டு	NN	<fs af='குண்டு,unk,,,,,,' poslcat="NM">
+1.4	வெடிப்புக்களில்	NN	<fs af='வெடிப்புக்களில்,unk,,,,,,' name="வெடிப்புக்களில்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='குறைந்தது,unk,,,,,,' head="குறைந்தது"  poslcat="NM">
+2.1	குறைந்தது	VM	<fs af='குறைந்தது,unk,,,,,,' name="குறைந்தது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பேராவது,unk,,,,,,' head="பேராவது"  poslcat="NM">
+3.1	62	QC	<fs af='62,num,,,,,,' poslcat="NM">
+3.2	பேராவது	NN	<fs af='பேராவது,unk,,,,,,' name="பேராவது"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='கெஆல்லப்பட்டனர்,unk,,,,,,' head="கெஆல்லப்பட்டனர்"  poslcat="NM">
+4.1	கெஆல்லப்பட்டனர்	VM	<fs af='கெஆல்லப்பட்டனர்,unk,,,,,,' name="கெஆல்லப்பட்டனர்"  poslcat="NM">
+4.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

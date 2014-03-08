@@ -1,0 +1,83 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='சமீபகாலத்தில்,unk,,,,,,' head="சமீபகாலத்தில்"  poslcat="NM">
+2.1	சமீபகாலத்தில்	NN	<fs af='சமீபகாலத்தில்,unk,,,,,,' name="சமீபகாலத்தில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தகவல்கள்,unk,,,,,,' head="தகவல்கள்"  poslcat="NM">
+3.1	சில	QF	<fs af='சில,unk,,,,,,' poslcat="NM">
+3.2	தகவல்கள்	NN	<fs af='தகவல்கள்,unk,,,,,,' name="தகவல்கள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='யூலியஸ்,unk,,,,,,' head="யூலியஸ்"  poslcat="NM">
+4.1	யூலியஸ்	NN	<fs af='யூலியஸ்,unk,,,,,,' name="யூலியஸ்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ரேஆசன்பேர்க்,unk,,,,,,' head="ரேஆசன்பேர்க்"  poslcat="NM">
+5.1	ரேஆசன்பேர்க்	NN	<fs af='ரேஆசன்பேர்க்,unk,,,,,,' name="ரேஆசன்பேர்க்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='உளவுச்செய்தியை,unk,,,,,,' head="உளவுச்செய்தியை"  poslcat="NM">
+6.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+6.2	வித	JJ	<fs af='வித,unk,,,,,,' poslcat="NM">
+6.3	உளவுச்செய்தியை	NN	<fs af='உளவுச்செய்தியை,unk,,,,,,' name="உளவுச்செய்தியை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அதிகாரிகளுக்கு,unk,,,,,,' head="அதிகாரிகளுக்கு"  poslcat="NM">
+7.1	சேஆவியத்	JJ	<fs af='சேஆவியத்,unk,,,,,,' poslcat="NM">
+7.2	அதிகாரிகளுக்கு	NN	<fs af='அதிகாரிகளுக்கு,unk,,,,,,' name="அதிகாரிகளுக்கு"  poslcat="NM">
+	))		
+8	((	NP	<fs af='உலகப்பேஆரின்பேஆது,unk,,,,,,' head="உலகப்பேஆரின்பேஆது"  poslcat="NM">
+8.1	இரண்டாம்	QO	<fs af='இரண்டாம்,unk,,,,,,' poslcat="NM">
+8.2	உலகப்பேஆரின்பேஆது	NN	<fs af='உலகப்பேஆரின்பேஆது,unk,,,,,,' name="உலகப்பேஆரின்பேஆது"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அனுப்பியதில்,unk,,,,,,' head="அனுப்பியதில்"  poslcat="NM">
+9.1	அனுப்பியதில்	NN	<fs af='அனுப்பியதில்,unk,,,,,,' name="அனுப்பியதில்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='சம்பந்தப்பட்டு,unk,,,,,,' head="சம்பந்தப்பட்டு"  poslcat="NM">
+10.1	சம்பந்தப்பட்டு	VM	<fs af='சம்பந்தப்பட்டு,unk,,,,,,' name="சம்பந்தப்பட்டு"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='இருந்ததாக,unk,,,,,,' head="இருந்ததாக"  poslcat="NM">
+11.1	இருந்ததாக	RB	<fs af='இருந்ததாக,unk,,,,,,' name="இருந்ததாக"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='வெளிவந்துள்ளன,unk,,,,,,' head="வெளிவந்துள்ளன"  poslcat="NM">
+12.1	வெளிவந்துள்ளன	VM	<fs af='வெளிவந்துள்ளன,unk,,,,,,' name="வெளிவந்துள்ளன"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='சமீபகாலத்தில்,unk,,,,,,' head="சமீபகாலத்தில்"  poslcat="NM">
+1.1	சமீபகாலத்தில்	NN	<fs af='சமீபகாலத்தில்,unk,,,,,,' name="சமீபகாலத்தில்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='தகவல்கள்,unk,,,,,,' head="தகவல்கள்"  poslcat="NM">
+2.1	சில	QF	<fs af='சில,unk,,,,,,' poslcat="NM">
+2.2	தகவல்கள்	NN	<fs af='தகவல்கள்,unk,,,,,,' name="தகவல்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='யூலியஸ்,unk,,,,,,' head="யூலியஸ்"  poslcat="NM">
+3.1	யூலியஸ்	NN	<fs af='யூலியஸ்,unk,,,,,,' name="யூலியஸ்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ரேஆசன்பேர்க்,unk,,,,,,' head="ரேஆசன்பேர்க்"  poslcat="NM">
+4.1	ரேஆசன்பேர்க்	NN	<fs af='ரேஆசன்பேர்க்,unk,,,,,,' name="ரேஆசன்பேர்க்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='உளவுச்செய்தியை,unk,,,,,,' head="உளவுச்செய்தியை"  poslcat="NM">
+5.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+5.2	வித	JJ	<fs af='வித,unk,,,,,,' poslcat="NM">
+5.3	உளவுச்செய்தியை	NN	<fs af='உளவுச்செய்தியை,unk,,,,,,' name="உளவுச்செய்தியை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='அதிகாரிகளுக்கு,unk,,,,,,' head="அதிகாரிகளுக்கு"  poslcat="NM">
+6.1	சேஆவியத்	JJ	<fs af='சேஆவியத்,unk,,,,,,' poslcat="NM">
+6.2	அதிகாரிகளுக்கு	NN	<fs af='அதிகாரிகளுக்கு,unk,,,,,,' name="அதிகாரிகளுக்கு"  poslcat="NM">
+	))		
+7	((	NP	<fs af='உலகப்பேஆரின்பேஆது,unk,,,,,,' head="உலகப்பேஆரின்பேஆது"  poslcat="NM">
+7.1	இரண்டாம்	QO	<fs af='இரண்டாம்,unk,,,,,,' poslcat="NM">
+7.2	உலகப்பேஆரின்பேஆது	NN	<fs af='உலகப்பேஆரின்பேஆது,unk,,,,,,' name="உலகப்பேஆரின்பேஆது"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அனுப்பியதில்,unk,,,,,,' head="அனுப்பியதில்"  poslcat="NM">
+8.1	அனுப்பியதில்	NN	<fs af='அனுப்பியதில்,unk,,,,,,' name="அனுப்பியதில்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='சம்பந்தப்பட்டு,unk,,,,,,' head="சம்பந்தப்பட்டு"  poslcat="NM">
+9.1	சம்பந்தப்பட்டு	VM	<fs af='சம்பந்தப்பட்டு,unk,,,,,,' name="சம்பந்தப்பட்டு"  poslcat="NM">
+	))		
+10	((	RBP	<fs af='இருந்ததாக,unk,,,,,,' head="இருந்ததாக"  poslcat="NM">
+10.1	இருந்ததாக	RB	<fs af='இருந்ததாக,unk,,,,,,' name="இருந்ததாக"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வெளிவந்துள்ளன,unk,,,,,,' head="வெளிவந்துள்ளன"  poslcat="NM">
+11.1	வெளிவந்துள்ளன	VM	<fs af='வெளிவந்துள்ளன,unk,,,,,,' name="வெளிவந்துள்ளன"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

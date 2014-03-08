@@ -1,0 +1,73 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ரெகொபெயாம்,unk,,,,,,' head="ரெகொபெயாம்"  poslcat="NM">
+2.1	ரெகொபெயாம்	NN	<fs af='ரெகொபெயாம்,unk,,,,,,' name="ரெகொபெயாம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ராஜ்யத்தைத்,unk,,,,,,' head="ராஜ்யத்தைத்"  poslcat="NM">
+3.1	ராஜ்யத்தைத்	NN	<fs af='ராஜ்யத்தைத்,unk,,,,,,' name="ராஜ்யத்தைத்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='திடப்படுத்தித்,unk,,,,,,' head="திடப்படுத்தித்"  poslcat="NM">
+4.1	திடப்படுத்தித்	VM	<fs af='திடப்படுத்தித்,unk,,,,,,' name="திடப்படுத்தித்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பலப்படுத்திக்கொண்டபின்,unk,,,,,,' head="பலப்படுத்திக்கொண்டபின்"  poslcat="NM">
+5.1	தன்னைப்	PRP	<fs af='தன்னைப்,unk,,,,,,' poslcat="NM">
+5.2	பலப்படுத்திக்கொண்டபின்	NN	<fs af='பலப்படுத்திக்கொண்டபின்,unk,,,,,,' name="பலப்படுத்திக்கொண்டபின்"  poslcat="NM">
+5.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='அவனும்,unk,,,,,,' head="அவனும்"  poslcat="NM">
+6.1	அவனும்	PRP	<fs af='அவனும்,unk,,,,,,' name="அவனும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அவனோடே,unk,,,,,,' head="அவனோடே"  poslcat="NM">
+7.1	அவனோடே	PRP	<fs af='அவனோடே,unk,,,,,,' name="அவனோடே"  poslcat="NM">
+	))		
+8	((	NP	<fs af='இஸ்ரவேலர்,unk,,,,,,' head="இஸ்ரவேலர்"  poslcat="NM">
+8.1	இஸ்ரவேலர்	NN	<fs af='இஸ்ரவேலர்,unk,,,,,,' name="இஸ்ரவேலர்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அனைவரும்,unk,,,,,,' head="அனைவரும்"  poslcat="NM">
+9.1	அனைவரும்	NN	<fs af='அனைவரும்,unk,,,,,,' name="அனைவரும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='நியாயப்பிரமாணத்தை,unk,,,,,,' head="நியாயப்பிரமாணத்தை"  poslcat="NM">
+10.1	கர்த்தருடைய	JJ	<fs af='கர்த்தருடைய,unk,,,,,,' poslcat="NM">
+10.2	நியாயப்பிரமாணத்தை	NN	<fs af='நியாயப்பிரமாணத்தை,unk,,,,,,' name="நியாயப்பிரமாணத்தை"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='விட்டுவிட்டார்கள்,unk,,,,,,' head="விட்டுவிட்டார்கள்"  poslcat="NM">
+11.1	விட்டுவிட்டார்கள்	VM	<fs af='விட்டுவிட்டார்கள்,unk,,,,,,' name="விட்டுவிட்டார்கள்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ரெகொபெயாம்,unk,,,,,,' head="ரெகொபெயாம்"  poslcat="NM">
+1.1	ரெகொபெயாம்	NN	<fs af='ரெகொபெயாம்,unk,,,,,,' name="ரெகொபெயாம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ராஜ்யத்தைத்,unk,,,,,,' head="ராஜ்யத்தைத்"  poslcat="NM">
+2.1	ராஜ்யத்தைத்	NN	<fs af='ராஜ்யத்தைத்,unk,,,,,,' name="ராஜ்யத்தைத்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='திடப்படுத்தித்,unk,,,,,,' head="திடப்படுத்தித்"  poslcat="NM">
+3.1	திடப்படுத்தித்	VM	<fs af='திடப்படுத்தித்,unk,,,,,,' name="திடப்படுத்தித்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பலப்படுத்திக்கொண்டபின்,unk,,,,,,' head="பலப்படுத்திக்கொண்டபின்"  poslcat="NM">
+4.1	தன்னைப்	PRP	<fs af='தன்னைப்,unk,,,,,,' poslcat="NM">
+4.2	பலப்படுத்திக்கொண்டபின்	NN	<fs af='பலப்படுத்திக்கொண்டபின்,unk,,,,,,' name="பலப்படுத்திக்கொண்டபின்"  poslcat="NM">
+4.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='அவனும்,unk,,,,,,' head="அவனும்"  poslcat="NM">
+5.1	அவனும்	PRP	<fs af='அவனும்,unk,,,,,,' name="அவனும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='அவனோடே,unk,,,,,,' head="அவனோடே"  poslcat="NM">
+6.1	அவனோடே	PRP	<fs af='அவனோடே,unk,,,,,,' name="அவனோடே"  poslcat="NM">
+	))		
+7	((	NP	<fs af='இஸ்ரவேலர்,unk,,,,,,' head="இஸ்ரவேலர்"  poslcat="NM">
+7.1	இஸ்ரவேலர்	NN	<fs af='இஸ்ரவேலர்,unk,,,,,,' name="இஸ்ரவேலர்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அனைவரும்,unk,,,,,,' head="அனைவரும்"  poslcat="NM">
+8.1	அனைவரும்	NN	<fs af='அனைவரும்,unk,,,,,,' name="அனைவரும்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='நியாயப்பிரமாணத்தை,unk,,,,,,' head="நியாயப்பிரமாணத்தை"  poslcat="NM">
+9.1	கர்த்தருடைய	JJ	<fs af='கர்த்தருடைய,unk,,,,,,' poslcat="NM">
+9.2	நியாயப்பிரமாணத்தை	NN	<fs af='நியாயப்பிரமாணத்தை,unk,,,,,,' name="நியாயப்பிரமாணத்தை"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='விட்டுவிட்டார்கள்,unk,,,,,,' head="விட்டுவிட்டார்கள்"  poslcat="NM">
+10.1	விட்டுவிட்டார்கள்	VM	<fs af='விட்டுவிட்டார்கள்,unk,,,,,,' name="விட்டுவிட்டார்கள்"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

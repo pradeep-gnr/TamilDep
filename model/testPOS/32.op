@@ -1,0 +1,75 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='நிலைக்கு,unk,,,,,,' head="நிலைக்கு_2"  poslcat="NM">
+2.1	பெருமந்த	JJ	<fs af='பெருமந்த,unk,,,,,,' poslcat="NM">
+2.2	நிலைக்கு	NN	<fs af='நிலைக்கு,unk,,,,,,' name="நிலைக்கு_2"  poslcat="NM">
+	))		
+3	((	NP	<fs af='காலத்தில்,unk,,,,,,' head="காலத்தில்"  poslcat="NM">
+3.1	பின்னர்	NN	<fs af='பின்னர்,unk,,,,,,' poslcat="NM">
+3.2	மிகப்	INTF	<fs af='மிகப்,unk,,,,,,' poslcat="NM">
+3.3	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+3.4	பெஆருளாதார	JJ	<fs af='பெஆருளாதார,unk,,,,,,' poslcat="NM">
+3.5	நெருக்கடிக்	NNC	<fs af='நெருக்கடிக்,unk,,,,,,' poslcat="NM">
+3.6	காலத்தில்	NN	<fs af='காலத்தில்,unk,,,,,,' name="காலத்தில்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வேலைகளை,unk,,,,,,' head="வேலைகளை"  poslcat="NM">
+4.1	வேலைகளை	NN	<fs af='வேலைகளை,unk,,,,,,' name="வேலைகளை"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இழந்த,unk,,,,,,' head="இழந்த"  poslcat="NM">
+5.1	இழந்த	VM	<fs af='இழந்த,unk,,,,,,' name="இழந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' head="தெஆழிலாளர்கள்"  poslcat="NM">
+6.1	தெஆழிலாளர்கள்	NN	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' name="தெஆழிலாளர்கள்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வறுமை,unk,,,,,,' head="வறுமை"  poslcat="NM">
+7.1	கடுமையான	JJ	<fs af='கடுமையான,unk,,,,,,' poslcat="NM">
+7.2	வறுமை	NN	<fs af='வறுமை,unk,,,,,,' name="வறுமை"  poslcat="NM">
+	))		
+8	((	NP	<fs af='நிலைக்கு,unk,,,,,,' head="நிலைக்கு"  poslcat="NM">
+8.1	நிலைக்கு	NN	<fs af='நிலைக்கு,unk,,,,,,' name="நிலைக்கு"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='விரைவில்,unk,,,,,,' head="விரைவில்"  poslcat="NM">
+9.1	விரைவில்	RB	<fs af='விரைவில்,unk,,,,,,' name="விரைவில்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='தள்ளப்படுகின்றனர்,unk,,,,,,' head="தள்ளப்படுகின்றனர்"  poslcat="NM">
+10.1	தள்ளப்படுகின்றனர்	VM	<fs af='தள்ளப்படுகின்றனர்,unk,,,,,,' name="தள்ளப்படுகின்றனர்"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='நிலைக்கு,unk,,,,,,' head="நிலைக்கு_2"  poslcat="NM">
+1.1	பெருமந்த	JJ	<fs af='பெருமந்த,unk,,,,,,' poslcat="NM">
+1.2	நிலைக்கு	NN	<fs af='நிலைக்கு,unk,,,,,,' name="நிலைக்கு_2"  poslcat="NM">
+	))		
+2	((	NP	<fs af='காலத்தில்,unk,,,,,,' head="காலத்தில்"  poslcat="NM">
+2.1	பின்னர்	NN	<fs af='பின்னர்,unk,,,,,,' poslcat="NM">
+2.2	மிகப்	INTF	<fs af='மிகப்,unk,,,,,,' poslcat="NM">
+2.3	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+2.4	பெஆருளாதார	JJ	<fs af='பெஆருளாதார,unk,,,,,,' poslcat="NM">
+2.5	நெருக்கடிக்	NNC	<fs af='நெருக்கடிக்,unk,,,,,,' poslcat="NM">
+2.6	காலத்தில்	NN	<fs af='காலத்தில்,unk,,,,,,' name="காலத்தில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வேலைகளை,unk,,,,,,' head="வேலைகளை"  poslcat="NM">
+3.1	வேலைகளை	NN	<fs af='வேலைகளை,unk,,,,,,' name="வேலைகளை"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='இழந்த,unk,,,,,,' head="இழந்த"  poslcat="NM">
+4.1	இழந்த	VM	<fs af='இழந்த,unk,,,,,,' name="இழந்த"  poslcat="NM">
+	))		
+5	((	NP	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' head="தெஆழிலாளர்கள்"  poslcat="NM">
+5.1	தெஆழிலாளர்கள்	NN	<fs af='தெஆழிலாளர்கள்,unk,,,,,,' name="தெஆழிலாளர்கள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வறுமை,unk,,,,,,' head="வறுமை"  poslcat="NM">
+6.1	கடுமையான	JJ	<fs af='கடுமையான,unk,,,,,,' poslcat="NM">
+6.2	வறுமை	NN	<fs af='வறுமை,unk,,,,,,' name="வறுமை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நிலைக்கு,unk,,,,,,' head="நிலைக்கு"  poslcat="NM">
+7.1	நிலைக்கு	NN	<fs af='நிலைக்கு,unk,,,,,,' name="நிலைக்கு"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='விரைவில்,unk,,,,,,' head="விரைவில்"  poslcat="NM">
+8.1	விரைவில்	RB	<fs af='விரைவில்,unk,,,,,,' name="விரைவில்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='தள்ளப்படுகின்றனர்,unk,,,,,,' head="தள்ளப்படுகின்றனர்"  poslcat="NM">
+9.1	தள்ளப்படுகின்றனர்	VM	<fs af='தள்ளப்படுகின்றனர்,unk,,,,,,' name="தள்ளப்படுகின்றனர்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,93 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இருவரும்,unk,,,,,,' head="இருவரும்"  poslcat="NM">
+2.1	"நாம்	QO	<fs af='நாம்,unk,,,,,,' poslcat="NM">
+2.2	இருவரும்	NN	<fs af='இருவரும்,unk,,,,,,' name="இருவரும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='எமது,unk,,,,,,' head="எமது"  poslcat="NM">
+3.1	எமது	PRP	<fs af='எமது,unk,,,,,,' name="எமது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பெஆறுப்புக்களை,unk,,,,,,' head="பெஆறுப்புக்களை"  poslcat="NM">
+4.1	பெஆறுப்புக்களை	NN	<fs af='பெஆறுப்புக்களை,unk,,,,,,' name="பெஆறுப்புக்களை"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='எதிர்கெஆள்ளத்,unk,,,,,,' head="எதிர்கெஆள்ளத்"  poslcat="NM">
+5.1	எதிர்கெஆள்ளத்	VM	<fs af='எதிர்கெஆள்ளத்,unk,,,,,,' name="எதிர்கெஆள்ளத்"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='தயாராக,unk,,,,,,' head="தயாராக"  poslcat="NM">
+6.1	தயாராக	RB	<fs af='தயாராக,unk,,,,,,' name="தயாராக"  poslcat="NM">
+	))		
+7	((	NP	<fs af='உள்ளோம்,unk,,,,,,' head="உள்ளோம்_2"  poslcat="NM">
+7.1	உள்ளோம்	NN	<fs af='உள்ளோம்,unk,,,,,,' name="உள்ளோம்_2"  poslcat="NM">
+	))		
+8	((	NP	<fs af='உள்ளோம்,unk,,,,,,' head="உள்ளோம்"  poslcat="NM">
+8.1	உள்ளோம்	NN	<fs af='உள்ளோம்,unk,,,,,,' name="உள்ளோம்"  poslcat="NM">
+
+
+8.2		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='கைகளில்,unk,,,,,,' head="கைகளில்"  poslcat="NM">
+9.1	கைகளில்	NN	<fs af='கைகளில்,unk,,,,,,' name="கைகளில்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='ஆயுதம்,unk,,,,,,' head="ஆயுதம்"  poslcat="NM">
+10.1	ஆயுதம்	NN	<fs af='ஆயுதம்,unk,,,,,,' name="ஆயுதம்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='ஏந்தி,unk,,,,,,' head="ஏந்தி"  poslcat="NM">
+11.1	ஏந்தி	VM	<fs af='ஏந்தி,unk,,,,,,' name="ஏந்தி"  poslcat="NM">
+	))		
+12	((	NP	<fs af='சமாதானத்தின்,unk,,,,,,' head="சமாதானத்தின்"  poslcat="NM">
+12.1	சமாதானத்தின்	NN	<fs af='சமாதானத்தின்,unk,,,,,,' name="சமாதானத்தின்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='பணியில்,unk,,,,,,' head="பணியில்"  poslcat="NM">
+13.1	பணியில்	NN	<fs af='பணியில்,unk,,,,,,' name="பணியில்"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='நிற்பேஆம்,unk,,,,,,' head="நிற்பேஆம்"  poslcat="NM">
+14.1	நிற்பேஆம்	VM	<fs af='நிற்பேஆம்,unk,,,,,,' name="நிற்பேஆம்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இருவரும்,unk,,,,,,' head="இருவரும்"  poslcat="NM">
+1.1	"நாம்	QO	<fs af='நாம்,unk,,,,,,' poslcat="NM">
+1.2	இருவரும்	NN	<fs af='இருவரும்,unk,,,,,,' name="இருவரும்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='எமது,unk,,,,,,' head="எமது"  poslcat="NM">
+2.1	எமது	PRP	<fs af='எமது,unk,,,,,,' name="எமது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பெஆறுப்புக்களை,unk,,,,,,' head="பெஆறுப்புக்களை"  poslcat="NM">
+3.1	பெஆறுப்புக்களை	NN	<fs af='பெஆறுப்புக்களை,unk,,,,,,' name="பெஆறுப்புக்களை"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='எதிர்கெஆள்ளத்,unk,,,,,,' head="எதிர்கெஆள்ளத்"  poslcat="NM">
+4.1	எதிர்கெஆள்ளத்	VM	<fs af='எதிர்கெஆள்ளத்,unk,,,,,,' name="எதிர்கெஆள்ளத்"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='தயாராக,unk,,,,,,' head="தயாராக"  poslcat="NM">
+5.1	தயாராக	RB	<fs af='தயாராக,unk,,,,,,' name="தயாராக"  poslcat="NM">
+	))		
+6	((	NP	<fs af='உள்ளோம்,unk,,,,,,' head="உள்ளோம்_2"  poslcat="NM">
+6.1	உள்ளோம்	NN	<fs af='உள்ளோம்,unk,,,,,,' name="உள்ளோம்_2"  poslcat="NM">
+	))		
+7	((	NP	<fs af='உள்ளோம்,unk,,,,,,' head="உள்ளோம்"  poslcat="NM">
+7.1	உள்ளோம்	NN	<fs af='உள்ளோம்,unk,,,,,,' name="உள்ளோம்"  poslcat="NM">
+
+
+7.2		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='கைகளில்,unk,,,,,,' head="கைகளில்"  poslcat="NM">
+8.1	கைகளில்	NN	<fs af='கைகளில்,unk,,,,,,' name="கைகளில்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='ஆயுதம்,unk,,,,,,' head="ஆயுதம்"  poslcat="NM">
+9.1	ஆயுதம்	NN	<fs af='ஆயுதம்,unk,,,,,,' name="ஆயுதம்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='ஏந்தி,unk,,,,,,' head="ஏந்தி"  poslcat="NM">
+10.1	ஏந்தி	VM	<fs af='ஏந்தி,unk,,,,,,' name="ஏந்தி"  poslcat="NM">
+	))		
+11	((	NP	<fs af='சமாதானத்தின்,unk,,,,,,' head="சமாதானத்தின்"  poslcat="NM">
+11.1	சமாதானத்தின்	NN	<fs af='சமாதானத்தின்,unk,,,,,,' name="சமாதானத்தின்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='பணியில்,unk,,,,,,' head="பணியில்"  poslcat="NM">
+12.1	பணியில்	NN	<fs af='பணியில்,unk,,,,,,' name="பணியில்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='நிற்பேஆம்,unk,,,,,,' head="நிற்பேஆம்"  poslcat="NM">
+13.1	நிற்பேஆம்	VM	<fs af='நிற்பேஆம்,unk,,,,,,' name="நிற்பேஆம்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

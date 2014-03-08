@@ -1,0 +1,31 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='முதன்முறையாக,unk,,,,,,' head="முதன்முறையாக"  poslcat="NM">
+2.1	முதன்முறையாக	RB	<fs af='முதன்முறையாக,unk,,,,,,' name="முதன்முறையாக"  poslcat="NM">
+	))		
+3	((	NP	<fs af='காதல்,unk,,,,,,' head="காதல்"  poslcat="NM">
+3.1	காதல்	NN	<fs af='காதல்,unk,,,,,,' name="காதல்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='படமொன்றை,unk,,,,,,' head="படமொன்றை"  poslcat="NM">
+4.1	படமொன்றை	NN	<fs af='படமொன்றை,unk,,,,,,' name="படமொன்றை"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='இயக்குகிறேன்,unk,,,,,,' head="இயக்குகிறேன்"  poslcat="NM">
+5.1	இயக்குகிறேன்	VM	<fs af='இயக்குகிறேன்,unk,,,,,,' name="இயக்குகிறேன்"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='முதன்முறையாக,unk,,,,,,' head="முதன்முறையாக"  poslcat="NM">
+1.1	முதன்முறையாக	RB	<fs af='முதன்முறையாக,unk,,,,,,' name="முதன்முறையாக"  poslcat="NM">
+	))		
+2	((	NP	<fs af='காதல்,unk,,,,,,' head="காதல்"  poslcat="NM">
+2.1	காதல்	NN	<fs af='காதல்,unk,,,,,,' name="காதல்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='படமொன்றை,unk,,,,,,' head="படமொன்றை"  poslcat="NM">
+3.1	படமொன்றை	NN	<fs af='படமொன்றை,unk,,,,,,' name="படமொன்றை"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='இயக்குகிறேன்,unk,,,,,,' head="இயக்குகிறேன்"  poslcat="NM">
+4.1	இயக்குகிறேன்	VM	<fs af='இயக்குகிறேன்,unk,,,,,,' name="இயக்குகிறேன்"  poslcat="NM">
+4.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

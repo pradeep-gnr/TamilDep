@@ -1,0 +1,85 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='சாலொமோனை,unk,,,,,,' head="சாலொமோனை"  poslcat="NM">
+2.1	சாலொமோனை	NN	<fs af='சாலொமோனை,unk,,,,,,' name="சாலொமோனை"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='நோக்கி,unk,,,,,,' head="நோக்கி"  poslcat="NM">
+3.1	நோக்கி	RB	<fs af='நோக்கி,unk,,,,,,' name="நோக்கி"  poslcat="NM">
+3.2	:	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='குமாரனே,unk,,,,,,' head="குமாரனே"  poslcat="NM">
+4.1	என்	PRP	<fs af='என்,unk,,,,,,' poslcat="NM">
+4.2	குமாரனே	NN	<fs af='குமாரனே,unk,,,,,,' name="குமாரனே"  poslcat="NM">
+4.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='நான்,unk,,,,,,' head="நான்"  poslcat="NM">
+5.1	நான்	PRP	<fs af='நான்,unk,,,,,,' name="நான்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='என்,unk,,,,,,' head="என்_2"  poslcat="NM">
+6.1	என்	PRP	<fs af='என்,unk,,,,,,' name="என்_2"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நாமத்திற்கு,unk,,,,,,' head="நாமத்திற்கு"  poslcat="NM">
+7.1	தேவனாகிய	JJ	<fs af='தேவனாகிய,unk,,,,,,' poslcat="NM">
+7.2	கர்த்தரின்	NN	<fs af='கர்த்தரின்,unk,,,,,,' poslcat="NM">
+7.3	நாமத்திற்கு	NN	<fs af='நாமத்திற்கு,unk,,,,,,' name="நாமத்திற்கு"  poslcat="NM">
+	))		
+8	((	NP	<fs af='ஆலயத்தைக்,unk,,,,,,' head="ஆலயத்தைக்"  poslcat="NM">
+8.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+8.2	ஆலயத்தைக்	NN	<fs af='ஆலயத்தைக்,unk,,,,,,' name="ஆலயத்தைக்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='கட்ட,unk,,,,,,' head="கட்ட"  poslcat="NM">
+9.1	கட்ட	VM	<fs af='கட்ட,unk,,,,,,' name="கட்ட"  poslcat="NM">
+	))		
+10	((	NP	<fs af='என்,unk,,,,,,' head="என்"  poslcat="NM">
+10.1	என்	PRP	<fs af='என்,unk,,,,,,' name="என்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='இருதயத்தில்,unk,,,,,,' head="இருதயத்தில்"  poslcat="NM">
+11.1	இருதயத்தில்	NN	<fs af='இருதயத்தில்,unk,,,,,,' name="இருதயத்தில்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='நினைத்திருந்தேன்,unk,,,,,,' head="நினைத்திருந்தேன்"  poslcat="NM">
+12.1	நினைத்திருந்தேன்	VM	<fs af='நினைத்திருந்தேன்,unk,,,,,,' name="நினைத்திருந்தேன்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='சாலொமோனை,unk,,,,,,' head="சாலொமோனை"  poslcat="NM">
+1.1	சாலொமோனை	NN	<fs af='சாலொமோனை,unk,,,,,,' name="சாலொமோனை"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='நோக்கி,unk,,,,,,' head="நோக்கி"  poslcat="NM">
+2.1	நோக்கி	RB	<fs af='நோக்கி,unk,,,,,,' name="நோக்கி"  poslcat="NM">
+2.2	:	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='குமாரனே,unk,,,,,,' head="குமாரனே"  poslcat="NM">
+3.1	என்	PRP	<fs af='என்,unk,,,,,,' poslcat="NM">
+3.2	குமாரனே	NN	<fs af='குமாரனே,unk,,,,,,' name="குமாரனே"  poslcat="NM">
+3.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='நான்,unk,,,,,,' head="நான்"  poslcat="NM">
+4.1	நான்	PRP	<fs af='நான்,unk,,,,,,' name="நான்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='என்,unk,,,,,,' head="என்_2"  poslcat="NM">
+5.1	என்	PRP	<fs af='என்,unk,,,,,,' name="என்_2"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நாமத்திற்கு,unk,,,,,,' head="நாமத்திற்கு"  poslcat="NM">
+6.1	தேவனாகிய	JJ	<fs af='தேவனாகிய,unk,,,,,,' poslcat="NM">
+6.2	கர்த்தரின்	NN	<fs af='கர்த்தரின்,unk,,,,,,' poslcat="NM">
+6.3	நாமத்திற்கு	NN	<fs af='நாமத்திற்கு,unk,,,,,,' name="நாமத்திற்கு"  poslcat="NM">
+	))		
+7	((	NP	<fs af='ஆலயத்தைக்,unk,,,,,,' head="ஆலயத்தைக்"  poslcat="NM">
+7.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+7.2	ஆலயத்தைக்	NN	<fs af='ஆலயத்தைக்,unk,,,,,,' name="ஆலயத்தைக்"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='கட்ட,unk,,,,,,' head="கட்ட"  poslcat="NM">
+8.1	கட்ட	VM	<fs af='கட்ட,unk,,,,,,' name="கட்ட"  poslcat="NM">
+	))		
+9	((	NP	<fs af='என்,unk,,,,,,' head="என்"  poslcat="NM">
+9.1	என்	PRP	<fs af='என்,unk,,,,,,' name="என்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='இருதயத்தில்,unk,,,,,,' head="இருதயத்தில்"  poslcat="NM">
+10.1	இருதயத்தில்	NN	<fs af='இருதயத்தில்,unk,,,,,,' name="இருதயத்தில்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='நினைத்திருந்தேன்,unk,,,,,,' head="நினைத்திருந்தேன்"  poslcat="NM">
+11.1	நினைத்திருந்தேன்	VM	<fs af='நினைத்திருந்தேன்,unk,,,,,,' name="நினைத்திருந்தேன்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

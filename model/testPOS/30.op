@@ -1,0 +1,39 @@
+<Sentence id="">			
+1			
+2	((	CCP	<fs af='ஆனால்,unk,,,,,,' head="ஆனால்"  poslcat="NM">
+2.1	ஆனால்	CC	<fs af='ஆனால்,unk,,,,,,' name="ஆனால்"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='அவர்கள்,unk,,,,,,' head="அவர்கள்"  poslcat="NM">
+3.1	அவர்கள்	PRP	<fs af='அவர்கள்,unk,,,,,,' name="அவர்கள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இரக்கமற்று,unk,,,,,,' head="இரக்கமற்று"  poslcat="NM">
+4.1	இரக்கமற்று	NN	<fs af='இரக்கமற்று,unk,,,,,,' name="இரக்கமற்று"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='நிராகரித்து,unk,,,,,,' head="நிராகரித்து"  poslcat="NM">
+5.1	நிராகரித்து	VM	<fs af='நிராகரித்து,unk,,,,,,' name="நிராகரித்து"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='விட்டனர்,unk,,,,,,' head="விட்டனர்"  poslcat="NM">
+6.1	விட்டனர்	VAUX	<fs af='விட்டனர்,unk,,,,,,' name="விட்டனர்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	CCP	<fs af='ஆனால்,unk,,,,,,' head="ஆனால்"  poslcat="NM">
+1.1	ஆனால்	CC	<fs af='ஆனால்,unk,,,,,,' name="ஆனால்"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='அவர்கள்,unk,,,,,,' head="அவர்கள்"  poslcat="NM">
+2.1	அவர்கள்	PRP	<fs af='அவர்கள்,unk,,,,,,' name="அவர்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இரக்கமற்று,unk,,,,,,' head="இரக்கமற்று"  poslcat="NM">
+3.1	இரக்கமற்று	NN	<fs af='இரக்கமற்று,unk,,,,,,' name="இரக்கமற்று"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='நிராகரித்து,unk,,,,,,' head="நிராகரித்து"  poslcat="NM">
+4.1	நிராகரித்து	VM	<fs af='நிராகரித்து,unk,,,,,,' name="நிராகரித்து"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='விட்டனர்,unk,,,,,,' head="விட்டனர்"  poslcat="NM">
+5.1	விட்டனர்	VAUX	<fs af='விட்டனர்,unk,,,,,,' name="விட்டனர்"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

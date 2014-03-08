@@ -1,0 +1,51 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஈரான்,unk,,,,,,' head="ஈரான்"  poslcat="NM">
+2.1	ஈரான்	NNP	<fs af='ஈரான்,unk,,,,,,' name="ஈரான்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='படைகளை,unk,,,,,,' head="படைகளை"  poslcat="NM">
+3.1	அமெரிக்கப்	JJ	<fs af='அமெரிக்கப்,unk,,,,,,' poslcat="NM">
+3.2	படைகளை	NN	<fs af='படைகளை,unk,,,,,,' name="படைகளை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='தாக்குவதற்கு,unk,,,,,,' head="தாக்குவதற்கு"  poslcat="NM">
+4.1	தாக்குவதற்கு	NN	<fs af='தாக்குவதற்கு,unk,,,,,,' name="தாக்குவதற்கு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஈராக்கை,unk,,,,,,' head="ஈராக்கை"  poslcat="NM">
+5.1	ஈராக்கை	NN	<fs af='ஈராக்கை,unk,,,,,,' name="ஈராக்கை"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='பயன்படுத்துவதை,unk,,,,,,' head="பயன்படுத்துவதை"  poslcat="NM">
+6.1	பயன்படுத்துவதை	VM	<fs af='பயன்படுத்துவதை,unk,,,,,,' name="பயன்படுத்துவதை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நாங்கள்,unk,,,,,,' head="நாங்கள்"  poslcat="NM">
+7.1	நாங்கள்	PRP	<fs af='நாங்கள்,unk,,,,,,' name="நாங்கள்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='ஏற்கமாட்டேஆம்,unk,,,,,,' head="ஏற்கமாட்டேஆம்"  poslcat="NM">
+8.1	ஏற்கமாட்டேஆம்	VM	<fs af='ஏற்கமாட்டேஆம்,unk,,,,,,' name="ஏற்கமாட்டேஆம்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஈரான்,unk,,,,,,' head="ஈரான்"  poslcat="NM">
+1.1	ஈரான்	NNP	<fs af='ஈரான்,unk,,,,,,' name="ஈரான்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='படைகளை,unk,,,,,,' head="படைகளை"  poslcat="NM">
+2.1	அமெரிக்கப்	JJ	<fs af='அமெரிக்கப்,unk,,,,,,' poslcat="NM">
+2.2	படைகளை	NN	<fs af='படைகளை,unk,,,,,,' name="படைகளை"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தாக்குவதற்கு,unk,,,,,,' head="தாக்குவதற்கு"  poslcat="NM">
+3.1	தாக்குவதற்கு	NN	<fs af='தாக்குவதற்கு,unk,,,,,,' name="தாக்குவதற்கு"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஈராக்கை,unk,,,,,,' head="ஈராக்கை"  poslcat="NM">
+4.1	ஈராக்கை	NN	<fs af='ஈராக்கை,unk,,,,,,' name="ஈராக்கை"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='பயன்படுத்துவதை,unk,,,,,,' head="பயன்படுத்துவதை"  poslcat="NM">
+5.1	பயன்படுத்துவதை	VM	<fs af='பயன்படுத்துவதை,unk,,,,,,' name="பயன்படுத்துவதை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நாங்கள்,unk,,,,,,' head="நாங்கள்"  poslcat="NM">
+6.1	நாங்கள்	PRP	<fs af='நாங்கள்,unk,,,,,,' name="நாங்கள்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='ஏற்கமாட்டேஆம்,unk,,,,,,' head="ஏற்கமாட்டேஆம்"  poslcat="NM">
+7.1	ஏற்கமாட்டேஆம்	VM	<fs af='ஏற்கமாட்டேஆம்,unk,,,,,,' name="ஏற்கமாட்டேஆம்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

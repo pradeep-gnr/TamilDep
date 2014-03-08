@@ -1,0 +1,47 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பூமியும்,unk,,,,,,' head="பூமியும்"  poslcat="NM">
+2.1	பூமியும்	NN	<fs af='பூமியும்,unk,,,,,,' name="பூமியும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அதின்,unk,,,,,,' head="அதின்"  poslcat="NM">
+3.1	அதின்	NN	<fs af='அதின்,unk,,,,,,' name="அதின்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='நிறைவும்,unk,,,,,,' head="நிறைவும்"  poslcat="NM">
+4.1	நிறைவும்	VM	<fs af='நிறைவும்,unk,,,,,,' name="நிறைவும்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='உலகமும்,unk,,,,,,' head="உலகமும்"  poslcat="NM">
+5.1	உலகமும்	NN	<fs af='உலகமும்,unk,,,,,,' name="உலகமும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='குடிகளும்,unk,,,,,,' head="குடிகளும்"  poslcat="NM">
+6.1	அதிலுள்ள	JJ	<fs af='அதிலுள்ள,unk,,,,,,' poslcat="NM">
+6.2	குடிகளும்	NN	<fs af='குடிகளும்,unk,,,,,,' name="குடிகளும்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='கர்த்தருடையது,unk,,,,,,' head="கர்த்தருடையது"  poslcat="NM">
+7.1	கர்த்தருடையது	VM	<fs af='கர்த்தருடையது,unk,,,,,,' name="கர்த்தருடையது"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பூமியும்,unk,,,,,,' head="பூமியும்"  poslcat="NM">
+1.1	பூமியும்	NN	<fs af='பூமியும்,unk,,,,,,' name="பூமியும்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='அதின்,unk,,,,,,' head="அதின்"  poslcat="NM">
+2.1	அதின்	NN	<fs af='அதின்,unk,,,,,,' name="அதின்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='நிறைவும்,unk,,,,,,' head="நிறைவும்"  poslcat="NM">
+3.1	நிறைவும்	VM	<fs af='நிறைவும்,unk,,,,,,' name="நிறைவும்"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='உலகமும்,unk,,,,,,' head="உலகமும்"  poslcat="NM">
+4.1	உலகமும்	NN	<fs af='உலகமும்,unk,,,,,,' name="உலகமும்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='குடிகளும்,unk,,,,,,' head="குடிகளும்"  poslcat="NM">
+5.1	அதிலுள்ள	JJ	<fs af='அதிலுள்ள,unk,,,,,,' poslcat="NM">
+5.2	குடிகளும்	NN	<fs af='குடிகளும்,unk,,,,,,' name="குடிகளும்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='கர்த்தருடையது,unk,,,,,,' head="கர்த்தருடையது"  poslcat="NM">
+6.1	கர்த்தருடையது	VM	<fs af='கர்த்தருடையது,unk,,,,,,' name="கர்த்தருடையது"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

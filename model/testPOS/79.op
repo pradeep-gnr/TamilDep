@@ -1,0 +1,87 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஞாயிறு,unk,,,,,,' head="ஞாயிறு"  poslcat="NM">
+2.1	ஞாயிறு	NN	<fs af='ஞாயிறு,unk,,,,,,' name="ஞாயிறு"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='தோறும்,unk,,,,,,' head="தோறும்"  poslcat="NM">
+3.1	தோறும்	RB	<fs af='தோறும்,unk,,,,,,' name="தோறும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='காலை,unk,,,,,,' head="காலை"  poslcat="NM">
+4.1	காலை	NN	<fs af='காலை,unk,,,,,,' name="காலை"  poslcat="NM">
+	))		
+5	((	NP	<fs af='முதல்,unk,,,,,,' head="முதல்"  poslcat="NM">
+5.1	9மணி	QC	<fs af='9மணி,unk,,,,,,' poslcat="NM">
+5.2	முதல்	NN	<fs af='முதல்,unk,,,,,,' name="முதல்"  poslcat="NM">
+5.3	பத்து	QC	<fs af='பத்து,unk,,,,,,' poslcat="NM">
+5.4	முப்பது	QC	<fs af='முப்பது,unk,,,,,,' poslcat="NM">
+	))		
+6	((	BLK	<fs af='வரை,unk,,,,,,' head="வரை"  poslcat="NM">
+6.1	வரை	PSP	<fs af='வரை,unk,,,,,,' name="வரை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='ஒன்று,unk,,,,,,' head="ஒன்று"  poslcat="NM">
+7.1	ஒன்று	NN	<fs af='ஒன்று,unk,,,,,,' name="ஒன்று"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='கூடி,unk,,,,,,' head="கூடி"  poslcat="NM">
+8.1	கூடி	VM	<fs af='கூடி,unk,,,,,,' name="கூடி"  poslcat="NM">
+	))		
+9	((	NP	<fs af='ஆட்டம்,unk,,,,,,' head="ஆட்டம்"  poslcat="NM">
+9.1	ஆட்டம்	NN	<fs af='ஆட்டம்,unk,,,,,,' name="ஆட்டம்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='போடும்,unk,,,,,,' head="போடும்"  poslcat="NM">
+10.1	போடும்	VM	<fs af='போடும்,unk,,,,,,' name="போடும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='நண்பர்களைப்,unk,,,,,,' head="நண்பர்களைப்"  poslcat="NM">
+11.1	நான்கு	QC	<fs af='நான்கு,unk,,,,,,' poslcat="NM">
+11.2	நண்பர்களைப்	NN	<fs af='நண்பர்களைப்,unk,,,,,,' name="நண்பர்களைப்"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='பற்றிய,unk,,,,,,' head="பற்றிய"  poslcat="NM">
+12.1	பற்றிய	VM	<fs af='பற்றிய,unk,,,,,,' name="பற்றிய"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='கதையிது,unk,,,,,,' head="கதையிது"  poslcat="NM">
+13.1	கதையிது	VAUX	<fs af='கதையிது,unk,,,,,,' name="கதையிது"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஞாயிறு,unk,,,,,,' head="ஞாயிறு"  poslcat="NM">
+1.1	ஞாயிறு	NN	<fs af='ஞாயிறு,unk,,,,,,' name="ஞாயிறு"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='தோறும்,unk,,,,,,' head="தோறும்"  poslcat="NM">
+2.1	தோறும்	RB	<fs af='தோறும்,unk,,,,,,' name="தோறும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='காலை,unk,,,,,,' head="காலை"  poslcat="NM">
+3.1	காலை	NN	<fs af='காலை,unk,,,,,,' name="காலை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='முதல்,unk,,,,,,' head="முதல்"  poslcat="NM">
+4.1	9மணி	QC	<fs af='9மணி,unk,,,,,,' poslcat="NM">
+4.2	முதல்	NN	<fs af='முதல்,unk,,,,,,' name="முதல்"  poslcat="NM">
+4.3	பத்து	QC	<fs af='பத்து,unk,,,,,,' poslcat="NM">
+4.4	முப்பது	QC	<fs af='முப்பது,unk,,,,,,' poslcat="NM">
+	))		
+5	((	BLK	<fs af='வரை,unk,,,,,,' head="வரை"  poslcat="NM">
+5.1	வரை	PSP	<fs af='வரை,unk,,,,,,' name="வரை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='ஒன்று,unk,,,,,,' head="ஒன்று"  poslcat="NM">
+6.1	ஒன்று	NN	<fs af='ஒன்று,unk,,,,,,' name="ஒன்று"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='கூடி,unk,,,,,,' head="கூடி"  poslcat="NM">
+7.1	கூடி	VM	<fs af='கூடி,unk,,,,,,' name="கூடி"  poslcat="NM">
+	))		
+8	((	NP	<fs af='ஆட்டம்,unk,,,,,,' head="ஆட்டம்"  poslcat="NM">
+8.1	ஆட்டம்	NN	<fs af='ஆட்டம்,unk,,,,,,' name="ஆட்டம்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='போடும்,unk,,,,,,' head="போடும்"  poslcat="NM">
+9.1	போடும்	VM	<fs af='போடும்,unk,,,,,,' name="போடும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='நண்பர்களைப்,unk,,,,,,' head="நண்பர்களைப்"  poslcat="NM">
+10.1	நான்கு	QC	<fs af='நான்கு,unk,,,,,,' poslcat="NM">
+10.2	நண்பர்களைப்	NN	<fs af='நண்பர்களைப்,unk,,,,,,' name="நண்பர்களைப்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='பற்றிய,unk,,,,,,' head="பற்றிய"  poslcat="NM">
+11.1	பற்றிய	VM	<fs af='பற்றிய,unk,,,,,,' name="பற்றிய"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='கதையிது,unk,,,,,,' head="கதையிது"  poslcat="NM">
+12.1	கதையிது	VAUX	<fs af='கதையிது,unk,,,,,,' name="கதையிது"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

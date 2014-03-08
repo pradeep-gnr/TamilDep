@@ -1,0 +1,59 @@
+<Sentence id="">			
+1			
+2	((	VGNF	<fs af='அதிகரித்து,unk,,,,,,' head="அதிகரித்து"  poslcat="NM">
+2.1	அதிகரித்து	VM	<fs af='அதிகரித்து,unk,,,,,,' name="அதிகரித்து"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='வரும்,unk,,,,,,' head="வரும்"  poslcat="NM">
+3.1	வரும்	VM	<fs af='வரும்,unk,,,,,,' name="வரும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பெட்ரேஆல்,unk,,,,,,' head="பெட்ரேஆல்"  poslcat="NM">
+4.1	பெட்ரேஆல்	NN	<fs af='பெட்ரேஆல்,unk,,,,,,' name="பெட்ரேஆல்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='விலைகள்,unk,,,,,,' head="விலைகள்"  poslcat="NM">
+5.1	விலைகள்	NN	<fs af='விலைகள்,unk,,,,,,' name="விலைகள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='எதிர்ப்பலைகள்,unk,,,,,,' head="எதிர்ப்பலைகள்"  poslcat="NM">
+6.1	உலகளவில்	NN	<fs af='உலகளவில்,unk,,,,,,' poslcat="NM">
+6.2	எதிர்ப்பலைகள்	NN	<fs af='எதிர்ப்பலைகள்,unk,,,,,,' name="எதிர்ப்பலைகள்"  poslcat="NM">
+	))		
+7	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+7.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='தூண்டி,unk,,,,,,' head="தூண்டி"  poslcat="NM">
+8.1	பேஆராட்டங்களை	NN	<fs af='பேஆராட்டங்களை,unk,,,,,,' poslcat="NM">
+8.2	தூண்டி	NN	<fs af='தூண்டி,unk,,,,,,' name="தூண்டி"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='விட்டுள்ளது,unk,,,,,,' head="விட்டுள்ளது"  poslcat="NM">
+9.1	விட்டுள்ளது	VM	<fs af='விட்டுள்ளது,unk,,,,,,' name="விட்டுள்ளது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	VGNF	<fs af='அதிகரித்து,unk,,,,,,' head="அதிகரித்து"  poslcat="NM">
+1.1	அதிகரித்து	VM	<fs af='அதிகரித்து,unk,,,,,,' name="அதிகரித்து"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='வரும்,unk,,,,,,' head="வரும்"  poslcat="NM">
+2.1	வரும்	VM	<fs af='வரும்,unk,,,,,,' name="வரும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பெட்ரேஆல்,unk,,,,,,' head="பெட்ரேஆல்"  poslcat="NM">
+3.1	பெட்ரேஆல்	NN	<fs af='பெட்ரேஆல்,unk,,,,,,' name="பெட்ரேஆல்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='விலைகள்,unk,,,,,,' head="விலைகள்"  poslcat="NM">
+4.1	விலைகள்	NN	<fs af='விலைகள்,unk,,,,,,' name="விலைகள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='எதிர்ப்பலைகள்,unk,,,,,,' head="எதிர்ப்பலைகள்"  poslcat="NM">
+5.1	உலகளவில்	NN	<fs af='உலகளவில்,unk,,,,,,' poslcat="NM">
+5.2	எதிர்ப்பலைகள்	NN	<fs af='எதிர்ப்பலைகள்,unk,,,,,,' name="எதிர்ப்பலைகள்"  poslcat="NM">
+	))		
+6	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+6.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தூண்டி,unk,,,,,,' head="தூண்டி"  poslcat="NM">
+7.1	பேஆராட்டங்களை	NN	<fs af='பேஆராட்டங்களை,unk,,,,,,' poslcat="NM">
+7.2	தூண்டி	NN	<fs af='தூண்டி,unk,,,,,,' name="தூண்டி"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='விட்டுள்ளது,unk,,,,,,' head="விட்டுள்ளது"  poslcat="NM">
+8.1	விட்டுள்ளது	VM	<fs af='விட்டுள்ளது,unk,,,,,,' name="விட்டுள்ளது"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

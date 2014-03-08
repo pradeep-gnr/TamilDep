@@ -1,0 +1,79 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='அப்பொழுது,unk,,,,,,' head="அப்பொழுது"  poslcat="NM">
+2.1	அப்பொழுது	RB	<fs af='அப்பொழுது,unk,,,,,,' name="அப்பொழுது"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='தாவீது,unk,,,,,,' head="தாவீது"  poslcat="NM">
+3.1	தாவீது	VM	<fs af='தாவீது,unk,,,,,,' name="தாவீது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அபிகாயிலை,unk,,,,,,' head="அபிகாயிலை"  poslcat="NM">
+4.1	அபிகாயிலை	NN	<fs af='அபிகாயிலை,unk,,,,,,' name="அபிகாயிலை"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='நோக்கி,unk,,,,,,' head="நோக்கி"  poslcat="NM">
+5.1	நோக்கி	RB	<fs af='நோக்கி,unk,,,,,,' name="நோக்கி"  poslcat="NM">
+5.2	:	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='உன்னை,unk,,,,,,' head="உன்னை"  poslcat="NM">
+6.1	உன்னை	PRP	<fs af='உன்னை,unk,,,,,,' name="உன்னை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='இன்றையதினம்,unk,,,,,,' head="இன்றையதினம்"  poslcat="NM">
+7.1	இன்றையதினம்	NN	<fs af='இன்றையதினம்,unk,,,,,,' name="இன்றையதினம்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='என்னைச்,unk,,,,,,' head="என்னைச்"  poslcat="NM">
+8.1	என்னைச்	PRP	<fs af='என்னைச்,unk,,,,,,' name="என்னைச்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='சந்திக்க,unk,,,,,,' head="சந்திக்க"  poslcat="NM">
+9.1	சந்திக்க	VM	<fs af='சந்திக்க,unk,,,,,,' name="சந்திக்க"  poslcat="NM">
+	))		
+10	((	NP	<fs af='இஸ்ரவேலின்,unk,,,,,,' head="இஸ்ரவேலின்"  poslcat="NM">
+10.1	அனுப்பின	JJ	<fs af='அனுப்பின,unk,,,,,,' poslcat="NM">
+10.2	இஸ்ரவேலின்	NN	<fs af='இஸ்ரவேலின்,unk,,,,,,' name="இஸ்ரவேலின்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='கர்த்தருக்கு,unk,,,,,,' head="கர்த்தருக்கு"  poslcat="NM">
+11.1	தேவனாகிய	JJ	<fs af='தேவனாகிய,unk,,,,,,' poslcat="NM">
+11.2	கர்த்தருக்கு	NN	<fs af='கர்த்தருக்கு,unk,,,,,,' name="கர்த்தருக்கு"  poslcat="NM">
+	))		
+12	((	NP	<fs af='ஸ்தோத்திரம்,unk,,,,,,' head="ஸ்தோத்திரம்"  poslcat="NM">
+12.1	ஸ்தோத்திரம்	NN	<fs af='ஸ்தோத்திரம்,unk,,,,,,' name="ஸ்தோத்திரம்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='அப்பொழுது,unk,,,,,,' head="அப்பொழுது"  poslcat="NM">
+1.1	அப்பொழுது	RB	<fs af='அப்பொழுது,unk,,,,,,' name="அப்பொழுது"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='தாவீது,unk,,,,,,' head="தாவீது"  poslcat="NM">
+2.1	தாவீது	VM	<fs af='தாவீது,unk,,,,,,' name="தாவீது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அபிகாயிலை,unk,,,,,,' head="அபிகாயிலை"  poslcat="NM">
+3.1	அபிகாயிலை	NN	<fs af='அபிகாயிலை,unk,,,,,,' name="அபிகாயிலை"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='நோக்கி,unk,,,,,,' head="நோக்கி"  poslcat="NM">
+4.1	நோக்கி	RB	<fs af='நோக்கி,unk,,,,,,' name="நோக்கி"  poslcat="NM">
+4.2	:	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='உன்னை,unk,,,,,,' head="உன்னை"  poslcat="NM">
+5.1	உன்னை	PRP	<fs af='உன்னை,unk,,,,,,' name="உன்னை"  poslcat="NM">
+	))		
+6	((	NP	<fs af='இன்றையதினம்,unk,,,,,,' head="இன்றையதினம்"  poslcat="NM">
+6.1	இன்றையதினம்	NN	<fs af='இன்றையதினம்,unk,,,,,,' name="இன்றையதினம்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='என்னைச்,unk,,,,,,' head="என்னைச்"  poslcat="NM">
+7.1	என்னைச்	PRP	<fs af='என்னைச்,unk,,,,,,' name="என்னைச்"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='சந்திக்க,unk,,,,,,' head="சந்திக்க"  poslcat="NM">
+8.1	சந்திக்க	VM	<fs af='சந்திக்க,unk,,,,,,' name="சந்திக்க"  poslcat="NM">
+	))		
+9	((	NP	<fs af='இஸ்ரவேலின்,unk,,,,,,' head="இஸ்ரவேலின்"  poslcat="NM">
+9.1	அனுப்பின	JJ	<fs af='அனுப்பின,unk,,,,,,' poslcat="NM">
+9.2	இஸ்ரவேலின்	NN	<fs af='இஸ்ரவேலின்,unk,,,,,,' name="இஸ்ரவேலின்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='கர்த்தருக்கு,unk,,,,,,' head="கர்த்தருக்கு"  poslcat="NM">
+10.1	தேவனாகிய	JJ	<fs af='தேவனாகிய,unk,,,,,,' poslcat="NM">
+10.2	கர்த்தருக்கு	NN	<fs af='கர்த்தருக்கு,unk,,,,,,' name="கர்த்தருக்கு"  poslcat="NM">
+	))		
+11	((	NP	<fs af='ஸ்தோத்திரம்,unk,,,,,,' head="ஸ்தோத்திரம்"  poslcat="NM">
+11.1	ஸ்தோத்திரம்	NN	<fs af='ஸ்தோத்திரம்,unk,,,,,,' name="ஸ்தோத்திரம்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

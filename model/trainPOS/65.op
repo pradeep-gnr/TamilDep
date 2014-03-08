@@ -1,0 +1,51 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ரஜினி,unk,,,,,,' head="ரஜினி"  poslcat="NM">
+2.1	ரஜினி	NNP	<fs af='ரஜினி,unk,,,,,,' name="ரஜினி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='படம்,unk,,,,,,' head="படம்"  poslcat="NM">
+3.1	படம்	NN	<fs af='படம்,unk,,,,,,' name="படம்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='பார்த்த,unk,,,,,,' head="பார்த்த"  poslcat="NM">
+4.1	பார்த்த	VM	<fs af='பார்த்த,unk,,,,,,' name="பார்த்த"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அதேநாளில்,unk,,,,,,' head="அதேநாளில்"  poslcat="NM">
+5.1	அதேநாளில்	NN	<fs af='அதேநாளில்,unk,,,,,,' name="அதேநாளில்"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='ரகசியமாக,unk,,,,,,' head="ரகசியமாக"  poslcat="NM">
+6.1	ரகசியமாக	RB	<fs af='ரகசியமாக,unk,,,,,,' name="ரகசியமாக"  poslcat="NM">
+	))		
+7	((	NP	<fs af='காரியமும்,unk,,,,,,' head="காரியமும்"  poslcat="NM">
+7.1	இன்னொரு	JJ	<fs af='இன்னொரு,unk,,,,,,' poslcat="NM">
+7.2	காரியமும்	NN	<fs af='காரியமும்,unk,,,,,,' name="காரியமும்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='நடந்துள்ளது,unk,,,,,,' head="நடந்துள்ளது"  poslcat="NM">
+8.1	நடந்துள்ளது	VM	<fs af='நடந்துள்ளது,unk,,,,,,' name="நடந்துள்ளது"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ரஜினி,unk,,,,,,' head="ரஜினி"  poslcat="NM">
+1.1	ரஜினி	NNP	<fs af='ரஜினி,unk,,,,,,' name="ரஜினி"  poslcat="NM">
+	))		
+2	((	NP	<fs af='படம்,unk,,,,,,' head="படம்"  poslcat="NM">
+2.1	படம்	NN	<fs af='படம்,unk,,,,,,' name="படம்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பார்த்த,unk,,,,,,' head="பார்த்த"  poslcat="NM">
+3.1	பார்த்த	VM	<fs af='பார்த்த,unk,,,,,,' name="பார்த்த"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அதேநாளில்,unk,,,,,,' head="அதேநாளில்"  poslcat="NM">
+4.1	அதேநாளில்	NN	<fs af='அதேநாளில்,unk,,,,,,' name="அதேநாளில்"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='ரகசியமாக,unk,,,,,,' head="ரகசியமாக"  poslcat="NM">
+5.1	ரகசியமாக	RB	<fs af='ரகசியமாக,unk,,,,,,' name="ரகசியமாக"  poslcat="NM">
+	))		
+6	((	NP	<fs af='காரியமும்,unk,,,,,,' head="காரியமும்"  poslcat="NM">
+6.1	இன்னொரு	JJ	<fs af='இன்னொரு,unk,,,,,,' poslcat="NM">
+6.2	காரியமும்	NN	<fs af='காரியமும்,unk,,,,,,' name="காரியமும்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='நடந்துள்ளது,unk,,,,,,' head="நடந்துள்ளது"  poslcat="NM">
+7.1	நடந்துள்ளது	VM	<fs af='நடந்துள்ளது,unk,,,,,,' name="நடந்துள்ளது"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,57 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இது,unk,,,,,,' head="இது"  poslcat="NM">
+2.1	இது	PRP	<fs af='இது,unk,,,,,,' name="இது"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='எவ்வாறு,unk,,,,,,' head="எவ்வாறு"  poslcat="NM">
+3.1	எவ்வாறு	RB	<fs af='எவ்வாறு,unk,,,,,,' name="எவ்வாறு"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='எதிர்க்கப்பட,unk,,,,,,' head="எதிர்க்கப்பட"  poslcat="NM">
+4.1	எதிர்க்கப்பட	VM	<fs af='எதிர்க்கப்பட,unk,,,,,,' name="எதிர்க்கப்பட"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='வேண்டும்,unk,,,,,,' head="வேண்டும்"  poslcat="NM">
+5.1	வேண்டும்	VAUX	<fs af='வேண்டும்,unk,,,,,,' name="வேண்டும்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='என்ற,unk,,,,,,' head="என்ற"  poslcat="NM">
+6.1	என்ற	VM	<fs af='என்ற,unk,,,,,,' name="என்ற"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பிரச்சினை,unk,,,,,,' head="பிரச்சினை"  poslcat="NM">
+7.1	அடிப்படைப்	NN	<fs af='அடிப்படைப்,unk,,,,,,' poslcat="NM">
+7.2	பிரச்சினை	NN	<fs af='பிரச்சினை,unk,,,,,,' name="பிரச்சினை"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='தெளிவாக்கப்பட,unk,,,,,,' head="தெளிவாக்கப்பட"  poslcat="NM">
+8.1	தெளிவாக்கப்பட	VM	<fs af='தெளிவாக்கப்பட,unk,,,,,,' name="தெளிவாக்கப்பட"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='வேண்டும்,unk,,,,,,' head="வேண்டும்"  poslcat="NM">
+9.1	வேண்டும்	VAUX	<fs af='வேண்டும்,unk,,,,,,' name="வேண்டும்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இது,unk,,,,,,' head="இது"  poslcat="NM">
+1.1	இது	PRP	<fs af='இது,unk,,,,,,' name="இது"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='எவ்வாறு,unk,,,,,,' head="எவ்வாறு"  poslcat="NM">
+2.1	எவ்வாறு	RB	<fs af='எவ்வாறு,unk,,,,,,' name="எவ்வாறு"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='எதிர்க்கப்பட,unk,,,,,,' head="எதிர்க்கப்பட"  poslcat="NM">
+3.1	எதிர்க்கப்பட	VM	<fs af='எதிர்க்கப்பட,unk,,,,,,' name="எதிர்க்கப்பட"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='வேண்டும்,unk,,,,,,' head="வேண்டும்"  poslcat="NM">
+4.1	வேண்டும்	VAUX	<fs af='வேண்டும்,unk,,,,,,' name="வேண்டும்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='என்ற,unk,,,,,,' head="என்ற"  poslcat="NM">
+5.1	என்ற	VM	<fs af='என்ற,unk,,,,,,' name="என்ற"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பிரச்சினை,unk,,,,,,' head="பிரச்சினை"  poslcat="NM">
+6.1	அடிப்படைப்	NN	<fs af='அடிப்படைப்,unk,,,,,,' poslcat="NM">
+6.2	பிரச்சினை	NN	<fs af='பிரச்சினை,unk,,,,,,' name="பிரச்சினை"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='தெளிவாக்கப்பட,unk,,,,,,' head="தெளிவாக்கப்பட"  poslcat="NM">
+7.1	தெளிவாக்கப்பட	VM	<fs af='தெளிவாக்கப்பட,unk,,,,,,' name="தெளிவாக்கப்பட"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='வேண்டும்,unk,,,,,,' head="வேண்டும்"  poslcat="NM">
+8.1	வேண்டும்	VAUX	<fs af='வேண்டும்,unk,,,,,,' name="வேண்டும்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

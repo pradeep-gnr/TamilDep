@@ -1,0 +1,43 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='வயது,unk,,,,,,' head="வயது"  poslcat="NM">
+2.1	எல்லா	JJ	<fs af='எல்லா,unk,,,,,,' poslcat="NM">
+2.2	வயது	NN	<fs af='வயது,unk,,,,,,' name="வயது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வரம்புகளை,unk,,,,,,' head="வரம்புகளை"  poslcat="NM">
+3.1	வரம்புகளை	NN	<fs af='வரம்புகளை,unk,,,,,,' name="வரம்புகளை"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='சார்ந்தவர்களுக்கும்,unk,,,,,,' head="சார்ந்தவர்களுக்கும்"  poslcat="NM">
+4.1	சார்ந்தவர்களுக்கும்	VM	<fs af='சார்ந்தவர்களுக்கும்,unk,,,,,,' name="சார்ந்தவர்களுக்கும்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='நேஆட்டீஸ்கள்,unk,,,,,,' head="நேஆட்டீஸ்கள்"  poslcat="NM">
+5.1	இத்தகைய	JJ	<fs af='இத்தகைய,unk,,,,,,' poslcat="NM">
+5.2	நேஆட்டீஸ்கள்	NN	<fs af='நேஆட்டீஸ்கள்,unk,,,,,,' name="நேஆட்டீஸ்கள்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='தரப்பட்டுள்ளன,unk,,,,,,' head="தரப்பட்டுள்ளன"  poslcat="NM">
+6.1	தரப்பட்டுள்ளன	VM	<fs af='தரப்பட்டுள்ளன,unk,,,,,,' name="தரப்பட்டுள்ளன"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='வயது,unk,,,,,,' head="வயது"  poslcat="NM">
+1.1	எல்லா	JJ	<fs af='எல்லா,unk,,,,,,' poslcat="NM">
+1.2	வயது	NN	<fs af='வயது,unk,,,,,,' name="வயது"  poslcat="NM">
+	))		
+2	((	NP	<fs af='வரம்புகளை,unk,,,,,,' head="வரம்புகளை"  poslcat="NM">
+2.1	வரம்புகளை	NN	<fs af='வரம்புகளை,unk,,,,,,' name="வரம்புகளை"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='சார்ந்தவர்களுக்கும்,unk,,,,,,' head="சார்ந்தவர்களுக்கும்"  poslcat="NM">
+3.1	சார்ந்தவர்களுக்கும்	VM	<fs af='சார்ந்தவர்களுக்கும்,unk,,,,,,' name="சார்ந்தவர்களுக்கும்"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='நேஆட்டீஸ்கள்,unk,,,,,,' head="நேஆட்டீஸ்கள்"  poslcat="NM">
+4.1	இத்தகைய	JJ	<fs af='இத்தகைய,unk,,,,,,' poslcat="NM">
+4.2	நேஆட்டீஸ்கள்	NN	<fs af='நேஆட்டீஸ்கள்,unk,,,,,,' name="நேஆட்டீஸ்கள்"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='தரப்பட்டுள்ளன,unk,,,,,,' head="தரப்பட்டுள்ளன"  poslcat="NM">
+5.1	தரப்பட்டுள்ளன	VM	<fs af='தரப்பட்டுள்ளன,unk,,,,,,' name="தரப்பட்டுள்ளன"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

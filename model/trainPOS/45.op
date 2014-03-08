@@ -1,0 +1,43 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஐபி,unk,,,,,,' head="ஐபி"  poslcat="NM">
+2.1	ஐபி	NN	<fs af='ஐபி,unk,,,,,,' name="ஐபி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='முகவரிகளை,unk,,,,,,' head="முகவரிகளை"  poslcat="NM">
+3.1	முகவரிகளை	NN	<fs af='முகவரிகளை,unk,,,,,,' name="முகவரிகளை"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='மறைத்தும்,unk,,,,,,' head="மறைத்தும்"  poslcat="NM">
+4.1	மறைத்தும்	VM	<fs af='மறைத்தும்,unk,,,,,,' name="மறைத்தும்"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='கூட,unk,,,,,,' head="கூட"  poslcat="NM">
+5.1	கூட	PSP	<fs af='கூட,unk,,,,,,' name="கூட"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='சுலபமாக,unk,,,,,,' head="சுலபமாக"  poslcat="NM">
+6.1	சுலபமாக	RB	<fs af='சுலபமாக,unk,,,,,,' name="சுலபமாக"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='அனுப்பலாம்,unk,,,,,,' head="அனுப்பலாம்"  poslcat="NM">
+7.1	அனுப்பலாம்	VM	<fs af='அனுப்பலாம்,unk,,,,,,' name="அனுப்பலாம்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஐபி,unk,,,,,,' head="ஐபி"  poslcat="NM">
+1.1	ஐபி	NN	<fs af='ஐபி,unk,,,,,,' name="ஐபி"  poslcat="NM">
+	))		
+2	((	NP	<fs af='முகவரிகளை,unk,,,,,,' head="முகவரிகளை"  poslcat="NM">
+2.1	முகவரிகளை	NN	<fs af='முகவரிகளை,unk,,,,,,' name="முகவரிகளை"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='மறைத்தும்,unk,,,,,,' head="மறைத்தும்"  poslcat="NM">
+3.1	மறைத்தும்	VM	<fs af='மறைத்தும்,unk,,,,,,' name="மறைத்தும்"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='கூட,unk,,,,,,' head="கூட"  poslcat="NM">
+4.1	கூட	PSP	<fs af='கூட,unk,,,,,,' name="கூட"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='சுலபமாக,unk,,,,,,' head="சுலபமாக"  poslcat="NM">
+5.1	சுலபமாக	RB	<fs af='சுலபமாக,unk,,,,,,' name="சுலபமாக"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='அனுப்பலாம்,unk,,,,,,' head="அனுப்பலாம்"  poslcat="NM">
+6.1	அனுப்பலாம்	VM	<fs af='அனுப்பலாம்,unk,,,,,,' name="அனுப்பலாம்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

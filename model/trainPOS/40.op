@@ -1,0 +1,75 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='சார்க்கேஆசியின்,unk,,,,,,' head="சார்க்கேஆசியின்"  poslcat="NM">
+2.1	சார்க்கேஆசியின்	NN	<fs af='சார்க்கேஆசியின்,unk,,,,,,' name="சார்க்கேஆசியின்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='விஜயம்,unk,,,,,,' head="விஜயம்"  poslcat="NM">
+3.1	உத்தியேஆகபூர்வ	JJ	<fs af='உத்தியேஆகபூர்வ,unk,,,,,,' poslcat="NM">
+3.2	விஜயம்	NN	<fs af='விஜயம்,unk,,,,,,' name="விஜயம்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பின்னர்,unk,,,,,,' head="பின்னர்"  poslcat="NM">
+4.1	1930	QC	<fs af='1930,num,,,,,,' poslcat="NM">
+4.2	களுக்கு	NN	<fs af='களுக்கு,unk,,,,,,' poslcat="NM">
+4.3	பின்னர்	NN	<fs af='பின்னர்,unk,,,,,,' name="பின்னர்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அளவில்,unk,,,,,,' head="அளவில்"  poslcat="NM">
+5.1	மிகப்	INTF	<fs af='மிகப்,unk,,,,,,' poslcat="NM">
+5.2	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+5.3	அளவில்	NN	<fs af='அளவில்,unk,,,,,,' name="அளவில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='முறையில்,unk,,,,,,' head="முறையில்"  poslcat="NM">
+6.1	சர்வதேச	JJ	<fs af='சர்வதேச,unk,,,,,,' poslcat="NM">
+6.2	நிதிய	JJ	<fs af='நிதிய,unk,,,,,,' poslcat="NM">
+6.3	முறையில்	NN	<fs af='முறையில்,unk,,,,,,' name="முறையில்"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='வந்துள்ள,unk,,,,,,' head="வந்துள்ள"  poslcat="NM">
+7.1	வந்துள்ள	VM	<fs af='வந்துள்ள,unk,,,,,,' name="வந்துள்ள"  poslcat="NM">
+	))		
+8	((	NP	<fs af='நெருக்கடியின்,unk,,,,,,' head="நெருக்கடியின்"  poslcat="NM">
+8.1	நெருக்கடியின்	NN	<fs af='நெருக்கடியின்,unk,,,,,,' name="நெருக்கடியின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பின்னணியில்,unk,,,,,,' head="பின்னணியில்"  poslcat="NM">
+9.1	பின்னணியில்	NN	<fs af='பின்னணியில்,unk,,,,,,' name="பின்னணியில்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='வந்துள்ளது,unk,,,,,,' head="வந்துள்ளது"  poslcat="NM">
+10.1	வந்துள்ளது	VM	<fs af='வந்துள்ளது,unk,,,,,,' name="வந்துள்ளது"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='சார்க்கேஆசியின்,unk,,,,,,' head="சார்க்கேஆசியின்"  poslcat="NM">
+1.1	சார்க்கேஆசியின்	NN	<fs af='சார்க்கேஆசியின்,unk,,,,,,' name="சார்க்கேஆசியின்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='விஜயம்,unk,,,,,,' head="விஜயம்"  poslcat="NM">
+2.1	உத்தியேஆகபூர்வ	JJ	<fs af='உத்தியேஆகபூர்வ,unk,,,,,,' poslcat="NM">
+2.2	விஜயம்	NN	<fs af='விஜயம்,unk,,,,,,' name="விஜயம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பின்னர்,unk,,,,,,' head="பின்னர்"  poslcat="NM">
+3.1	1930	QC	<fs af='1930,num,,,,,,' poslcat="NM">
+3.2	களுக்கு	NN	<fs af='களுக்கு,unk,,,,,,' poslcat="NM">
+3.3	பின்னர்	NN	<fs af='பின்னர்,unk,,,,,,' name="பின்னர்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அளவில்,unk,,,,,,' head="அளவில்"  poslcat="NM">
+4.1	மிகப்	INTF	<fs af='மிகப்,unk,,,,,,' poslcat="NM">
+4.2	பெரிய	JJ	<fs af='பெரிய,unk,,,,,,' poslcat="NM">
+4.3	அளவில்	NN	<fs af='அளவில்,unk,,,,,,' name="அளவில்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='முறையில்,unk,,,,,,' head="முறையில்"  poslcat="NM">
+5.1	சர்வதேச	JJ	<fs af='சர்வதேச,unk,,,,,,' poslcat="NM">
+5.2	நிதிய	JJ	<fs af='நிதிய,unk,,,,,,' poslcat="NM">
+5.3	முறையில்	NN	<fs af='முறையில்,unk,,,,,,' name="முறையில்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='வந்துள்ள,unk,,,,,,' head="வந்துள்ள"  poslcat="NM">
+6.1	வந்துள்ள	VM	<fs af='வந்துள்ள,unk,,,,,,' name="வந்துள்ள"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நெருக்கடியின்,unk,,,,,,' head="நெருக்கடியின்"  poslcat="NM">
+7.1	நெருக்கடியின்	NN	<fs af='நெருக்கடியின்,unk,,,,,,' name="நெருக்கடியின்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='பின்னணியில்,unk,,,,,,' head="பின்னணியில்"  poslcat="NM">
+8.1	பின்னணியில்	NN	<fs af='பின்னணியில்,unk,,,,,,' name="பின்னணியில்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='வந்துள்ளது,unk,,,,,,' head="வந்துள்ளது"  poslcat="NM">
+9.1	வந்துள்ளது	VM	<fs af='வந்துள்ளது,unk,,,,,,' name="வந்துள்ளது"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

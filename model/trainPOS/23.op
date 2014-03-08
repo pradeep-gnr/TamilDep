@@ -1,0 +1,145 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='அப்பொழுது,unk,,,,,,' head="அப்பொழுது"  poslcat="NM">
+2.1	அப்பொழுது	RB	<fs af='அப்பொழுது,unk,,,,,,' name="அப்பொழுது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பர்னபா,unk,,,,,,' head="பர்னபா"  poslcat="NM">
+3.1	பர்னபா	NNP	<fs af='பர்னபா,unk,,,,,,' name="பர்னபா"  poslcat="NM">
+	))		
+4	((	NP	<fs af='என்பவன்,unk,,,,,,' head="என்பவன்"  poslcat="NM">
+4.1	என்பவன்	NN	<fs af='என்பவன்,unk,,,,,,' name="என்பவன்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அவனைச்,unk,,,,,,' head="அவனைச்"  poslcat="NM">
+5.1	அவனைச்	PRP	<fs af='அவனைச்,unk,,,,,,' name="அவனைச்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='சேர்த்துக்கொண்டு,unk,,,,,,' head="சேர்த்துக்கொண்டு"  poslcat="NM">
+6.1	சேர்த்துக்கொண்டு	VM	<fs af='சேர்த்துக்கொண்டு,unk,,,,,,' name="சேர்த்துக்கொண்டு"  poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='அப்போஸ்தலரிடத்தில்,unk,,,,,,' head="அப்போஸ்தலரிடத்தில்"  poslcat="NM">
+7.1	அப்போஸ்தலரிடத்தில்	NN	<fs af='அப்போஸ்தலரிடத்தில்,unk,,,,,,' name="அப்போஸ்தலரிடத்தில்"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='அழைத்துக்கொண்டுபோய்,unk,,,,,,' head="அழைத்துக்கொண்டுபோய்"  poslcat="NM">
+8.1	அழைத்துக்கொண்டுபோய்	VM	<fs af='அழைத்துக்கொண்டுபோய்,unk,,,,,,' name="அழைத்துக்கொண்டுபோய்"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='வழியிலே,unk,,,,,,' head="வழியிலே"  poslcat="NM">
+9.1	வழியிலே	NN	<fs af='வழியிலே,unk,,,,,,' name="வழியிலே"  poslcat="NM">
+	))		
+10	((	NP	<fs af='கர்த்தரைக்,unk,,,,,,' head="கர்த்தரைக்"  poslcat="NM">
+10.1	அவன்	PRP	<fs af='அவன்,unk,,,,,,' poslcat="NM">
+10.2	கர்த்தரைக்	NN	<fs af='கர்த்தரைக்,unk,,,,,,' name="கர்த்தரைக்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='கண்டவிதத்தையும்,unk,,,,,,' head="கண்டவிதத்தையும்"  poslcat="NM">
+11.1	கண்டவிதத்தையும்	VM	<fs af='கண்டவிதத்தையும்,unk,,,,,,' name="கண்டவிதத்தையும்"  poslcat="NM">
+11.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+12	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+12.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='அவனுடனே,unk,,,,,,' head="அவனுடனே"  poslcat="NM">
+13.1	அவனுடனே	PRP	<fs af='அவனுடனே,unk,,,,,,' name="அவனுடனே"  poslcat="NM">
+	))		
+14	((	NP	<fs af='பேசினதையும்,unk,,,,,,' head="பேசினதையும்"  poslcat="NM">
+14.1	பேசினதையும்	NN	<fs af='பேசினதையும்,unk,,,,,,' name="பேசினதையும்"  poslcat="NM">
+14.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+15	((	NP	<fs af='தமஸ்குவில்,unk,,,,,,' head="தமஸ்குவில்"  poslcat="NM">
+15.1	தமஸ்குவில்	NN	<fs af='தமஸ்குவில்,unk,,,,,,' name="தமஸ்குவில்"  poslcat="NM">
+	))		
+16	((	NP	<fs af='அவன்,unk,,,,,,' head="அவன்"  poslcat="NM">
+16.1	அவன்	PRP	<fs af='அவன்,unk,,,,,,' name="அவன்"  poslcat="NM">
+	))		
+17	((	NP	<fs af='இயேசுவின்,unk,,,,,,' head="இயேசுவின்"  poslcat="NM">
+17.1	இயேசுவின்	NN	<fs af='இயேசுவின்,unk,,,,,,' name="இயேசுவின்"  poslcat="NM">
+	))		
+18	((	NP	<fs af='நாமத்தினாலே,unk,,,,,,' head="நாமத்தினாலே"  poslcat="NM">
+18.1	நாமத்தினாலே	NN	<fs af='நாமத்தினாலே,unk,,,,,,' name="நாமத்தினாலே"  poslcat="NM">
+	))		
+19	((	NP	<fs af='பிரசங்கித்ததையும்,unk,,,,,,' head="பிரசங்கித்ததையும்"  poslcat="NM">
+19.1	தைரியமாய்ப்	NN	<fs af='தைரியமாய்ப்,unk,,,,,,' poslcat="NM">
+19.2	பிரசங்கித்ததையும்	NN	<fs af='பிரசங்கித்ததையும்,unk,,,,,,' name="பிரசங்கித்ததையும்"  poslcat="NM">
+	))		
+20	((	NP	<fs af='அவர்களுக்கு,unk,,,,,,' head="அவர்களுக்கு"  poslcat="NM">
+20.1	அவர்களுக்கு	PRP	<fs af='அவர்களுக்கு,unk,,,,,,' name="அவர்களுக்கு"  poslcat="NM">
+	))		
+21	((	VGINF	<fs af='விவரித்துச்,unk,,,,,,' head="விவரித்துச்"  poslcat="NM">
+21.1	விவரித்துச்	VM	<fs af='விவரித்துச்,unk,,,,,,' name="விவரித்துச்"  poslcat="NM">
+	))		
+22	((	VGF	<fs af='சொன்னான்,unk,,,,,,' head="சொன்னான்"  poslcat="NM">
+22.1	சொன்னான்	VM	<fs af='சொன்னான்,unk,,,,,,' name="சொன்னான்"  poslcat="NM">
+22.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='அப்பொழுது,unk,,,,,,' head="அப்பொழுது"  poslcat="NM">
+1.1	அப்பொழுது	RB	<fs af='அப்பொழுது,unk,,,,,,' name="அப்பொழுது"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பர்னபா,unk,,,,,,' head="பர்னபா"  poslcat="NM">
+2.1	பர்னபா	NNP	<fs af='பர்னபா,unk,,,,,,' name="பர்னபா"  poslcat="NM">
+	))		
+3	((	NP	<fs af='என்பவன்,unk,,,,,,' head="என்பவன்"  poslcat="NM">
+3.1	என்பவன்	NN	<fs af='என்பவன்,unk,,,,,,' name="என்பவன்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அவனைச்,unk,,,,,,' head="அவனைச்"  poslcat="NM">
+4.1	அவனைச்	PRP	<fs af='அவனைச்,unk,,,,,,' name="அவனைச்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='சேர்த்துக்கொண்டு,unk,,,,,,' head="சேர்த்துக்கொண்டு"  poslcat="NM">
+5.1	சேர்த்துக்கொண்டு	VM	<fs af='சேர்த்துக்கொண்டு,unk,,,,,,' name="சேர்த்துக்கொண்டு"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='அப்போஸ்தலரிடத்தில்,unk,,,,,,' head="அப்போஸ்தலரிடத்தில்"  poslcat="NM">
+6.1	அப்போஸ்தலரிடத்தில்	NN	<fs af='அப்போஸ்தலரிடத்தில்,unk,,,,,,' name="அப்போஸ்தலரிடத்தில்"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='அழைத்துக்கொண்டுபோய்,unk,,,,,,' head="அழைத்துக்கொண்டுபோய்"  poslcat="NM">
+7.1	அழைத்துக்கொண்டுபோய்	VM	<fs af='அழைத்துக்கொண்டுபோய்,unk,,,,,,' name="அழைத்துக்கொண்டுபோய்"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='வழியிலே,unk,,,,,,' head="வழியிலே"  poslcat="NM">
+8.1	வழியிலே	NN	<fs af='வழியிலே,unk,,,,,,' name="வழியிலே"  poslcat="NM">
+	))		
+9	((	NP	<fs af='கர்த்தரைக்,unk,,,,,,' head="கர்த்தரைக்"  poslcat="NM">
+9.1	அவன்	PRP	<fs af='அவன்,unk,,,,,,' poslcat="NM">
+9.2	கர்த்தரைக்	NN	<fs af='கர்த்தரைக்,unk,,,,,,' name="கர்த்தரைக்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='கண்டவிதத்தையும்,unk,,,,,,' head="கண்டவிதத்தையும்"  poslcat="NM">
+10.1	கண்டவிதத்தையும்	VM	<fs af='கண்டவிதத்தையும்,unk,,,,,,' name="கண்டவிதத்தையும்"  poslcat="NM">
+10.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+11	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+11.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='அவனுடனே,unk,,,,,,' head="அவனுடனே"  poslcat="NM">
+12.1	அவனுடனே	PRP	<fs af='அவனுடனே,unk,,,,,,' name="அவனுடனே"  poslcat="NM">
+	))		
+13	((	NP	<fs af='பேசினதையும்,unk,,,,,,' head="பேசினதையும்"  poslcat="NM">
+13.1	பேசினதையும்	NN	<fs af='பேசினதையும்,unk,,,,,,' name="பேசினதையும்"  poslcat="NM">
+13.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+14	((	NP	<fs af='தமஸ்குவில்,unk,,,,,,' head="தமஸ்குவில்"  poslcat="NM">
+14.1	தமஸ்குவில்	NN	<fs af='தமஸ்குவில்,unk,,,,,,' name="தமஸ்குவில்"  poslcat="NM">
+	))		
+15	((	NP	<fs af='அவன்,unk,,,,,,' head="அவன்"  poslcat="NM">
+15.1	அவன்	PRP	<fs af='அவன்,unk,,,,,,' name="அவன்"  poslcat="NM">
+	))		
+16	((	NP	<fs af='இயேசுவின்,unk,,,,,,' head="இயேசுவின்"  poslcat="NM">
+16.1	இயேசுவின்	NN	<fs af='இயேசுவின்,unk,,,,,,' name="இயேசுவின்"  poslcat="NM">
+	))		
+17	((	NP	<fs af='நாமத்தினாலே,unk,,,,,,' head="நாமத்தினாலே"  poslcat="NM">
+17.1	நாமத்தினாலே	NN	<fs af='நாமத்தினாலே,unk,,,,,,' name="நாமத்தினாலே"  poslcat="NM">
+	))		
+18	((	NP	<fs af='பிரசங்கித்ததையும்,unk,,,,,,' head="பிரசங்கித்ததையும்"  poslcat="NM">
+18.1	தைரியமாய்ப்	NN	<fs af='தைரியமாய்ப்,unk,,,,,,' poslcat="NM">
+18.2	பிரசங்கித்ததையும்	NN	<fs af='பிரசங்கித்ததையும்,unk,,,,,,' name="பிரசங்கித்ததையும்"  poslcat="NM">
+	))		
+19	((	NP	<fs af='அவர்களுக்கு,unk,,,,,,' head="அவர்களுக்கு"  poslcat="NM">
+19.1	அவர்களுக்கு	PRP	<fs af='அவர்களுக்கு,unk,,,,,,' name="அவர்களுக்கு"  poslcat="NM">
+	))		
+20	((	VGINF	<fs af='விவரித்துச்,unk,,,,,,' head="விவரித்துச்"  poslcat="NM">
+20.1	விவரித்துச்	VM	<fs af='விவரித்துச்,unk,,,,,,' name="விவரித்துச்"  poslcat="NM">
+	))		
+21	((	VGF	<fs af='சொன்னான்,unk,,,,,,' head="சொன்னான்"  poslcat="NM">
+21.1	சொன்னான்	VM	<fs af='சொன்னான்,unk,,,,,,' name="சொன்னான்"  poslcat="NM">
+21.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

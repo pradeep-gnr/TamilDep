@@ -1,0 +1,99 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இப்படிப்,unk,,,,,,' head="இப்படிப்"  poslcat="NM">
+2.1	இப்படிப்	NN	<fs af='இப்படிப்,unk,,,,,,' name="இப்படிப்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பணிந்து,unk,,,,,,' head="பணிந்து"  poslcat="NM">
+3.1	பணிந்து	VM	<fs af='பணிந்து,unk,,,,,,' name="பணிந்து"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='பேஆவது,unk,,,,,,' head="பேஆவது"  poslcat="NM">
+4.1	பேஆவது	VM	<fs af='பேஆவது,unk,,,,,,' name="பேஆவது"  poslcat="NM">
+	))		
+5	((	NP	<fs af='Lஷா,unk,,,,,,' head="Lஷா"  poslcat="NM">
+5.1	Lஷா	NN	<fs af='Lஷா,unk,,,,,,' name="Lஷா"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வினால்,unk,,,,,,' head="வினால்"  poslcat="NM">
+6.1	வினால்	NN	<fs af='வினால்,unk,,,,,,' name="வினால்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நாடெங்கிலும்,unk,,,,,,' head="நாடெங்கிலும்"  poslcat="NM">
+7.1	நாடெங்கிலும்	NN	<fs af='நாடெங்கிலும்,unk,,,,,,' name="நாடெங்கிலும்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கருத்தில்,unk,,,,,,' head="கருத்தில்"  poslcat="NM">
+8.1	கருத்தில்	NN	<fs af='கருத்தில்,unk,,,,,,' name="கருத்தில்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='கொள்ளப்படும்,unk,,,,,,' head="கொள்ளப்படும்"  poslcat="NM">
+9.1	கொள்ளப்படும்	NN	<fs af='கொள்ளப்படும்,unk,,,,,,' poslcat="NM">
+9.2	கொள்ளப்படும்	NN	<fs af='கொள்ளப்படும்,unk,,,,,,' name="கொள்ளப்படும்"  poslcat="NM">
+
+
+9.3		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+10	((	NP	<fs af='அவை,unk,,,,,,' head="அவை"  poslcat="NM">
+10.1	அவை	PRP	<fs af='அவை,unk,,,,,,' name="அவை"  poslcat="NM">
+	))		
+11	((	NP	<fs af='இதே,unk,,,,,,' head="இதே"  poslcat="NM">
+11.1	இதே	PRP	<fs af='இதே,unk,,,,,,' name="இதே"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='பேஆன்ற,unk,,,,,,' head="பேஆன்ற"  poslcat="NM">
+12.1	பேஆன்ற	VM	<fs af='பேஆன்ற,unk,,,,,,' name="பேஆன்ற"  poslcat="NM">
+	))		
+13	((	NP	<fs af='தாக்குதல்களைச்,unk,,,,,,' head="தாக்குதல்களைச்"  poslcat="NM">
+13.1	தாக்குதல்களைச்	NN	<fs af='தாக்குதல்களைச்,unk,,,,,,' name="தாக்குதல்களைச்"  poslcat="NM">
+	))		
+14	((	VGNF	<fs af='சுமத்த,unk,,,,,,' head="சுமத்த"  poslcat="NM">
+14.1	சுமத்த	VM	<fs af='சுமத்த,unk,,,,,,' name="சுமத்த"  poslcat="NM">
+	))		
+15	((	VGF	<fs af='முன்வரும்,unk,,,,,,' head="முன்வரும்"  poslcat="NM">
+15.1	முன்வரும்	VAUX	<fs af='முன்வரும்,unk,,,,,,' name="முன்வரும்"  poslcat="NM">
+15.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இப்படிப்,unk,,,,,,' head="இப்படிப்"  poslcat="NM">
+1.1	இப்படிப்	NN	<fs af='இப்படிப்,unk,,,,,,' name="இப்படிப்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='பணிந்து,unk,,,,,,' head="பணிந்து"  poslcat="NM">
+2.1	பணிந்து	VM	<fs af='பணிந்து,unk,,,,,,' name="பணிந்து"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பேஆவது,unk,,,,,,' head="பேஆவது"  poslcat="NM">
+3.1	பேஆவது	VM	<fs af='பேஆவது,unk,,,,,,' name="பேஆவது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='Lஷா,unk,,,,,,' head="Lஷா"  poslcat="NM">
+4.1	Lஷா	NN	<fs af='Lஷா,unk,,,,,,' name="Lஷா"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வினால்,unk,,,,,,' head="வினால்"  poslcat="NM">
+5.1	வினால்	NN	<fs af='வினால்,unk,,,,,,' name="வினால்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நாடெங்கிலும்,unk,,,,,,' head="நாடெங்கிலும்"  poslcat="NM">
+6.1	நாடெங்கிலும்	NN	<fs af='நாடெங்கிலும்,unk,,,,,,' name="நாடெங்கிலும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கருத்தில்,unk,,,,,,' head="கருத்தில்"  poslcat="NM">
+7.1	கருத்தில்	NN	<fs af='கருத்தில்,unk,,,,,,' name="கருத்தில்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கொள்ளப்படும்,unk,,,,,,' head="கொள்ளப்படும்"  poslcat="NM">
+8.1	கொள்ளப்படும்	NN	<fs af='கொள்ளப்படும்,unk,,,,,,' poslcat="NM">
+8.2	கொள்ளப்படும்	NN	<fs af='கொள்ளப்படும்,unk,,,,,,' name="கொள்ளப்படும்"  poslcat="NM">
+
+
+8.3		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='அவை,unk,,,,,,' head="அவை"  poslcat="NM">
+9.1	அவை	PRP	<fs af='அவை,unk,,,,,,' name="அவை"  poslcat="NM">
+	))		
+10	((	NP	<fs af='இதே,unk,,,,,,' head="இதே"  poslcat="NM">
+10.1	இதே	PRP	<fs af='இதே,unk,,,,,,' name="இதே"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='பேஆன்ற,unk,,,,,,' head="பேஆன்ற"  poslcat="NM">
+11.1	பேஆன்ற	VM	<fs af='பேஆன்ற,unk,,,,,,' name="பேஆன்ற"  poslcat="NM">
+	))		
+12	((	NP	<fs af='தாக்குதல்களைச்,unk,,,,,,' head="தாக்குதல்களைச்"  poslcat="NM">
+12.1	தாக்குதல்களைச்	NN	<fs af='தாக்குதல்களைச்,unk,,,,,,' name="தாக்குதல்களைச்"  poslcat="NM">
+	))		
+13	((	VGNF	<fs af='சுமத்த,unk,,,,,,' head="சுமத்த"  poslcat="NM">
+13.1	சுமத்த	VM	<fs af='சுமத்த,unk,,,,,,' name="சுமத்த"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='முன்வரும்,unk,,,,,,' head="முன்வரும்"  poslcat="NM">
+14.1	முன்வரும்	VAUX	<fs af='முன்வரும்,unk,,,,,,' name="முன்வரும்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

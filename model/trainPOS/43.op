@@ -1,0 +1,85 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஆண்டு,unk,,,,,,' head="ஆண்டு"  poslcat="NM">
+2.1	1846ஆம்	QO	<fs af='1846ஆம்,unk,,,,,,' poslcat="NM">
+2.2	ஆண்டு	NN	<fs af='ஆண்டு,unk,,,,,,' name="ஆண்டு"  poslcat="NM">
+2.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	VGF	<fs af='நீடித்த,unk,,,,,,' head="நீடித்த"  poslcat="NM">
+3.1	நீடித்த	VM	<fs af='நீடித்த,unk,,,,,,' name="நீடித்த"  poslcat="NM">
+	))		
+4	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+4.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='குழு,unk,,,,,,' head="குழு"  poslcat="NM">
+5.1	கடுமையான	JJ	<fs af='கடுமையான,unk,,,,,,' poslcat="NM">
+5.2	குழு	NN	<fs af='குழு,unk,,,,,,' name="குழு"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='மேஆதலானது,unk,,,,,,' head="மேஆதலானது"  poslcat="NM">
+6.1	மேஆதலானது	VM	<fs af='மேஆதலானது,unk,,,,,,' name="மேஆதலானது"  poslcat="NM">
+	))		
+7	((	NP	<fs af='இரவில்,unk,,,,,,' head="இரவில்"  poslcat="NM">
+7.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+7.2	இரவில்	NN	<fs af='இரவில்,unk,,,,,,' name="இரவில்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='பிரபுக்களின்,unk,,,,,,' head="பிரபுக்களின்"  poslcat="NM">
+8.1	ஏராளமான	JJ	<fs af='ஏராளமான,unk,,,,,,' poslcat="NM">
+8.2	நேபாள	JJ	<fs af='நேபாள,unk,,,,,,' poslcat="NM">
+8.3	பிரபுக்களின்	NN	<fs af='பிரபுக்களின்,unk,,,,,,' name="பிரபுக்களின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='மரணத்தில்,unk,,,,,,' head="மரணத்தில்"  poslcat="NM">
+9.1	மரணத்தில்	NN	<fs af='மரணத்தில்,unk,,,,,,' name="மரணத்தில்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='முடிந்து,unk,,,,,,' head="முடிந்து"  poslcat="NM">
+10.1	முடிந்து	VM	<fs af='முடிந்து,unk,,,,,,' name="முடிந்து"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='இரத்த,unk,,,,,,' head="இரத்த"  poslcat="NM">
+11.1	இரத்த	VM	<fs af='இரத்த,unk,,,,,,' name="இரத்த"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='ஆறானது,unk,,,,,,' head="ஆறானது"  poslcat="NM">
+12.1	ஆறானது	VAUX	<fs af='ஆறானது,unk,,,,,,' name="ஆறானது"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஆண்டு,unk,,,,,,' head="ஆண்டு"  poslcat="NM">
+1.1	1846ஆம்	QO	<fs af='1846ஆம்,unk,,,,,,' poslcat="NM">
+1.2	ஆண்டு	NN	<fs af='ஆண்டு,unk,,,,,,' name="ஆண்டு"  poslcat="NM">
+1.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	VGF	<fs af='நீடித்த,unk,,,,,,' head="நீடித்த"  poslcat="NM">
+2.1	நீடித்த	VM	<fs af='நீடித்த,unk,,,,,,' name="நீடித்த"  poslcat="NM">
+	))		
+3	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+3.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='குழு,unk,,,,,,' head="குழு"  poslcat="NM">
+4.1	கடுமையான	JJ	<fs af='கடுமையான,unk,,,,,,' poslcat="NM">
+4.2	குழு	NN	<fs af='குழு,unk,,,,,,' name="குழு"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='மேஆதலானது,unk,,,,,,' head="மேஆதலானது"  poslcat="NM">
+5.1	மேஆதலானது	VM	<fs af='மேஆதலானது,unk,,,,,,' name="மேஆதலானது"  poslcat="NM">
+	))		
+6	((	NP	<fs af='இரவில்,unk,,,,,,' head="இரவில்"  poslcat="NM">
+6.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+6.2	இரவில்	NN	<fs af='இரவில்,unk,,,,,,' name="இரவில்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பிரபுக்களின்,unk,,,,,,' head="பிரபுக்களின்"  poslcat="NM">
+7.1	ஏராளமான	JJ	<fs af='ஏராளமான,unk,,,,,,' poslcat="NM">
+7.2	நேபாள	JJ	<fs af='நேபாள,unk,,,,,,' poslcat="NM">
+7.3	பிரபுக்களின்	NN	<fs af='பிரபுக்களின்,unk,,,,,,' name="பிரபுக்களின்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='மரணத்தில்,unk,,,,,,' head="மரணத்தில்"  poslcat="NM">
+8.1	மரணத்தில்	NN	<fs af='மரணத்தில்,unk,,,,,,' name="மரணத்தில்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='முடிந்து,unk,,,,,,' head="முடிந்து"  poslcat="NM">
+9.1	முடிந்து	VM	<fs af='முடிந்து,unk,,,,,,' name="முடிந்து"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='இரத்த,unk,,,,,,' head="இரத்த"  poslcat="NM">
+10.1	இரத்த	VM	<fs af='இரத்த,unk,,,,,,' name="இரத்த"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='ஆறானது,unk,,,,,,' head="ஆறானது"  poslcat="NM">
+11.1	ஆறானது	VAUX	<fs af='ஆறானது,unk,,,,,,' name="ஆறானது"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,91 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஸ்திரீ,unk,,,,,,' head="ஸ்திரீ"  poslcat="NM">
+2.1	அந்த	DEM	<fs af='அந்த,unk,,,,,,' poslcat="NM">
+2.2	ஸ்திரீ	NN	<fs af='ஸ்திரீ,unk,,,,,,' name="ஸ்திரீ"  poslcat="NM">
+	))		
+3	((	NP	<fs af='பரிசுத்தவான்களின்,unk,,,,,,' head="பரிசுத்தவான்களின்"  poslcat="NM">
+3.1	பரிசுத்தவான்களின்	NN	<fs af='பரிசுத்தவான்களின்,unk,,,,,,' name="பரிசுத்தவான்களின்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='இரத்தத்தினாலும்,unk,,,,,,' head="இரத்தத்தினாலும்_2"  poslcat="NM">
+4.1	இரத்தத்தினாலும்	VM	<fs af='இரத்தத்தினாலும்,unk,,,,,,' name="இரத்தத்தினாலும்_2"  poslcat="NM">
+	))		
+5	((	NP	<fs af='சாட்சிகளின்,unk,,,,,,' head="சாட்சிகளின்"  poslcat="NM">
+5.1	இயேசுவினுடைய	JJ	<fs af='இயேசுவினுடைய,unk,,,,,,' poslcat="NM">
+5.2	சாட்சிகளின்	NN	<fs af='சாட்சிகளின்,unk,,,,,,' name="சாட்சிகளின்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='இரத்தத்தினாலும்,unk,,,,,,' head="இரத்தத்தினாலும்"  poslcat="NM">
+6.1	இரத்தத்தினாலும்	VM	<fs af='இரத்தத்தினாலும்,unk,,,,,,' name="இரத்தத்தினாலும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வெறிகொண்டிருக்கிறதைக்,unk,,,,,,' head="வெறிகொண்டிருக்கிறதைக்"  poslcat="NM">
+7.1	வெறிகொண்டிருக்கிறதைக்	NN	<fs af='வெறிகொண்டிருக்கிறதைக்,unk,,,,,,' name="வெறிகொண்டிருக்கிறதைக்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கண்டேன்,unk,,,,,,' head="கண்டேன்"  poslcat="NM">
+8.1	கண்டேன்	NN	<fs af='கண்டேன்,unk,,,,,,' poslcat="NM">
+8.2	கண்டேன்	NN	<fs af='கண்டேன்,unk,,,,,,' name="கண்டேன்"  poslcat="NM">
+
+
+8.3		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='அவளைக்,unk,,,,,,' head="அவளைக்"  poslcat="NM">
+9.1	அவளைக்	PRP	<fs af='அவளைக்,unk,,,,,,' name="அவளைக்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='கண்டு,unk,,,,,,' head="கண்டு"  poslcat="NM">
+10.1	கண்டு	VM	<fs af='கண்டு,unk,,,,,,' name="கண்டு"  poslcat="NM">
+	))		
+11	((	NP	<fs af='நான்,unk,,,,,,' head="நான்"  poslcat="NM">
+11.1	நான்	PRP	<fs af='நான்,unk,,,,,,' name="நான்"  poslcat="NM">
+	))		
+12	((	RBP	<fs af='மிகவும்,unk,,,,,,' head="மிகவும்"  poslcat="NM">
+12.1	மிகவும்	RB	<fs af='மிகவும்,unk,,,,,,' name="மிகவும்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='ஆச்சரியப்பட்டேன்,unk,,,,,,' head="ஆச்சரியப்பட்டேன்"  poslcat="NM">
+13.1	ஆச்சரியப்பட்டேன்	VM	<fs af='ஆச்சரியப்பட்டேன்,unk,,,,,,' name="ஆச்சரியப்பட்டேன்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஸ்திரீ,unk,,,,,,' head="ஸ்திரீ"  poslcat="NM">
+1.1	அந்த	DEM	<fs af='அந்த,unk,,,,,,' poslcat="NM">
+1.2	ஸ்திரீ	NN	<fs af='ஸ்திரீ,unk,,,,,,' name="ஸ்திரீ"  poslcat="NM">
+	))		
+2	((	NP	<fs af='பரிசுத்தவான்களின்,unk,,,,,,' head="பரிசுத்தவான்களின்"  poslcat="NM">
+2.1	பரிசுத்தவான்களின்	NN	<fs af='பரிசுத்தவான்களின்,unk,,,,,,' name="பரிசுத்தவான்களின்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='இரத்தத்தினாலும்,unk,,,,,,' head="இரத்தத்தினாலும்_2"  poslcat="NM">
+3.1	இரத்தத்தினாலும்	VM	<fs af='இரத்தத்தினாலும்,unk,,,,,,' name="இரத்தத்தினாலும்_2"  poslcat="NM">
+	))		
+4	((	NP	<fs af='சாட்சிகளின்,unk,,,,,,' head="சாட்சிகளின்"  poslcat="NM">
+4.1	இயேசுவினுடைய	JJ	<fs af='இயேசுவினுடைய,unk,,,,,,' poslcat="NM">
+4.2	சாட்சிகளின்	NN	<fs af='சாட்சிகளின்,unk,,,,,,' name="சாட்சிகளின்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இரத்தத்தினாலும்,unk,,,,,,' head="இரத்தத்தினாலும்"  poslcat="NM">
+5.1	இரத்தத்தினாலும்	VM	<fs af='இரத்தத்தினாலும்,unk,,,,,,' name="இரத்தத்தினாலும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வெறிகொண்டிருக்கிறதைக்,unk,,,,,,' head="வெறிகொண்டிருக்கிறதைக்"  poslcat="NM">
+6.1	வெறிகொண்டிருக்கிறதைக்	NN	<fs af='வெறிகொண்டிருக்கிறதைக்,unk,,,,,,' name="வெறிகொண்டிருக்கிறதைக்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கண்டேன்,unk,,,,,,' head="கண்டேன்"  poslcat="NM">
+7.1	கண்டேன்	NN	<fs af='கண்டேன்,unk,,,,,,' poslcat="NM">
+7.2	கண்டேன்	NN	<fs af='கண்டேன்,unk,,,,,,' name="கண்டேன்"  poslcat="NM">
+
+
+7.3		SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='அவளைக்,unk,,,,,,' head="அவளைக்"  poslcat="NM">
+8.1	அவளைக்	PRP	<fs af='அவளைக்,unk,,,,,,' name="அவளைக்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='கண்டு,unk,,,,,,' head="கண்டு"  poslcat="NM">
+9.1	கண்டு	VM	<fs af='கண்டு,unk,,,,,,' name="கண்டு"  poslcat="NM">
+	))		
+10	((	NP	<fs af='நான்,unk,,,,,,' head="நான்"  poslcat="NM">
+10.1	நான்	PRP	<fs af='நான்,unk,,,,,,' name="நான்"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='மிகவும்,unk,,,,,,' head="மிகவும்"  poslcat="NM">
+11.1	மிகவும்	RB	<fs af='மிகவும்,unk,,,,,,' name="மிகவும்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='ஆச்சரியப்பட்டேன்,unk,,,,,,' head="ஆச்சரியப்பட்டேன்"  poslcat="NM">
+12.1	ஆச்சரியப்பட்டேன்	VM	<fs af='ஆச்சரியப்பட்டேன்,unk,,,,,,' name="ஆச்சரியப்பட்டேன்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

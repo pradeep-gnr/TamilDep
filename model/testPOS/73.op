@@ -1,0 +1,47 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='சூழ்நிலையில்,unk,,,,,,' head="சூழ்நிலையில்"  poslcat="NM">
+2.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+2.2	சூழ்நிலையில்	NN	<fs af='சூழ்நிலையில்,unk,,,,,,' name="சூழ்நிலையில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='விமானிகளுக்கு,unk,,,,,,' head="விமானிகளுக்கு"  poslcat="NM">
+3.1	Lஉங்ட்ஹந்ச	JJ	<fs af='Lஉங்ட்ஹந்ச,unk,,,,,,' poslcat="NM">
+3.2	விமானிகளுக்கு	NN	<fs af='விமானிகளுக்கு,unk,,,,,,' name="விமானிகளுக்கு"  poslcat="NM">
+	))		
+4	((	NP	<fs af='சலுகைகளைக்,unk,,,,,,' head="சலுகைகளைக்"  poslcat="NM">
+4.1	சலுகைகளைக்	NN	<fs af='சலுகைகளைக்,unk,,,,,,' name="சலுகைகளைக்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='கெஆடுக்கத்,unk,,,,,,' head="கெஆடுக்கத்"  poslcat="NM">
+5.1	கெஆடுக்கத்	VM	<fs af='கெஆடுக்கத்,unk,,,,,,' name="கெஆடுக்கத்"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='தயாராக,unk,,,,,,' head="தயாராக"  poslcat="NM">
+6.1	தயாராக	RB	<fs af='தயாராக,unk,,,,,,' name="தயாராக"  poslcat="NM">
+	))		
+7	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+7.1	இருக்காது	NEG	<fs af='இருக்காது,unk,,,,,,' poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='சூழ்நிலையில்,unk,,,,,,' head="சூழ்நிலையில்"  poslcat="NM">
+1.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+1.2	சூழ்நிலையில்	NN	<fs af='சூழ்நிலையில்,unk,,,,,,' name="சூழ்நிலையில்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='விமானிகளுக்கு,unk,,,,,,' head="விமானிகளுக்கு"  poslcat="NM">
+2.1	Lஉங்ட்ஹந்ச	JJ	<fs af='Lஉங்ட்ஹந்ச,unk,,,,,,' poslcat="NM">
+2.2	விமானிகளுக்கு	NN	<fs af='விமானிகளுக்கு,unk,,,,,,' name="விமானிகளுக்கு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='சலுகைகளைக்,unk,,,,,,' head="சலுகைகளைக்"  poslcat="NM">
+3.1	சலுகைகளைக்	NN	<fs af='சலுகைகளைக்,unk,,,,,,' name="சலுகைகளைக்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='கெஆடுக்கத்,unk,,,,,,' head="கெஆடுக்கத்"  poslcat="NM">
+4.1	கெஆடுக்கத்	VM	<fs af='கெஆடுக்கத்,unk,,,,,,' name="கெஆடுக்கத்"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='தயாராக,unk,,,,,,' head="தயாராக"  poslcat="NM">
+5.1	தயாராக	RB	<fs af='தயாராக,unk,,,,,,' name="தயாராக"  poslcat="NM">
+	))		
+6	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+6.1	இருக்காது	NEG	<fs af='இருக்காது,unk,,,,,,' poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			

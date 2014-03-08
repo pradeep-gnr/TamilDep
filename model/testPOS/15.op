@@ -1,0 +1,45 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='எதிர்ப்பைச்,unk,,,,,,' head="எதிர்ப்பைச்"  poslcat="NM">
+2.1	வெகுஜன	JJ	<fs af='வெகுஜன,unk,,,,,,' poslcat="NM">
+2.2	எதிர்ப்பைச்	NN	<fs af='எதிர்ப்பைச்,unk,,,,,,' name="எதிர்ப்பைச்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='சிதைக்கும்,unk,,,,,,' head="சிதைக்கும்"  poslcat="NM">
+3.1	சிதைக்கும்	VM	<fs af='சிதைக்கும்,unk,,,,,,' name="சிதைக்கும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='தெஆழிற்சங்கங்கள்,unk,,,,,,' head="தெஆழிற்சங்கங்கள்"  poslcat="NM">
+4.1	வகையில்	NN	<fs af='வகையில்,unk,,,,,,' poslcat="NM">
+4.2	தெஆழிற்சங்கங்கள்	NN	<fs af='தெஆழிற்சங்கங்கள்,unk,,,,,,' name="தெஆழிற்சங்கங்கள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வேலைநிறுத்தங்களை,unk,,,,,,' head="வேலைநிறுத்தங்களை"  poslcat="NM">
+5.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+5.2	நாள்	NN	<fs af='நாள்,unk,,,,,,' poslcat="NM">
+5.3	வேலைநிறுத்தங்களை	NN	<fs af='வேலைநிறுத்தங்களை,unk,,,,,,' name="வேலைநிறுத்தங்களை"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='நடத்துகின்றன,unk,,,,,,' head="நடத்துகின்றன"  poslcat="NM">
+6.1	நடத்துகின்றன	VM	<fs af='நடத்துகின்றன,unk,,,,,,' name="நடத்துகின்றன"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='எதிர்ப்பைச்,unk,,,,,,' head="எதிர்ப்பைச்"  poslcat="NM">
+1.1	வெகுஜன	JJ	<fs af='வெகுஜன,unk,,,,,,' poslcat="NM">
+1.2	எதிர்ப்பைச்	NN	<fs af='எதிர்ப்பைச்,unk,,,,,,' name="எதிர்ப்பைச்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='சிதைக்கும்,unk,,,,,,' head="சிதைக்கும்"  poslcat="NM">
+2.1	சிதைக்கும்	VM	<fs af='சிதைக்கும்,unk,,,,,,' name="சிதைக்கும்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தெஆழிற்சங்கங்கள்,unk,,,,,,' head="தெஆழிற்சங்கங்கள்"  poslcat="NM">
+3.1	வகையில்	NN	<fs af='வகையில்,unk,,,,,,' poslcat="NM">
+3.2	தெஆழிற்சங்கங்கள்	NN	<fs af='தெஆழிற்சங்கங்கள்,unk,,,,,,' name="தெஆழிற்சங்கங்கள்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வேலைநிறுத்தங்களை,unk,,,,,,' head="வேலைநிறுத்தங்களை"  poslcat="NM">
+4.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+4.2	நாள்	NN	<fs af='நாள்,unk,,,,,,' poslcat="NM">
+4.3	வேலைநிறுத்தங்களை	NN	<fs af='வேலைநிறுத்தங்களை,unk,,,,,,' name="வேலைநிறுத்தங்களை"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='நடத்துகின்றன,unk,,,,,,' head="நடத்துகின்றன"  poslcat="NM">
+5.1	நடத்துகின்றன	VM	<fs af='நடத்துகின்றன,unk,,,,,,' name="நடத்துகின்றன"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

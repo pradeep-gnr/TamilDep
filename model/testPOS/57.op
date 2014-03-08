@@ -1,0 +1,91 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பெஆருட்கள்,unk,,,,,,' head="பெஆருட்கள்"  poslcat="NM">
+2.1	சமீபத்திய	JJ	<fs af='சமீபத்திய,unk,,,,,,' poslcat="NM">
+2.2	பெஆருட்கள்	NN	<fs af='பெஆருட்கள்,unk,,,,,,' name="பெஆருட்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='விலை,unk,,,,,,' head="விலை"  poslcat="NM">
+3.1	விலை	NN	<fs af='விலை,unk,,,,,,' name="விலை"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='உயர்வினால்,unk,,,,,,' head="உயர்வினால்"  poslcat="NM">
+4.1	உயர்வினால்	VM	<fs af='உயர்வினால்,unk,,,,,,' name="உயர்வினால்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='மில்லியன்,unk,,,,,,' head="மில்லியன்"  poslcat="NM">
+5.1	120	QC	<fs af='120,num,,,,,,' poslcat="NM">
+5.2	மில்லியன்	NN	<fs af='மில்லியன்,unk,,,,,,' name="மில்லியன்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க"  poslcat="NM">
+6.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க"  poslcat="NM">
+	))		
+7	((	NP	<fs af='டாலர்,unk,,,,,,' head="டாலர்"  poslcat="NM">
+7.1	டாலர்	NN	<fs af='டாலர்,unk,,,,,,' name="டாலர்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அளவுக்கு,unk,,,,,,' head="அளவுக்கு"  poslcat="NM">
+8.1	அளவுக்கு	NN	<fs af='அளவுக்கு,unk,,,,,,' name="அளவுக்கு"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='வரவுசெலவுத்,unk,,,,,,' head="வரவுசெலவுத்"  poslcat="NM">
+9.1	வரவுசெலவுத்	VM	<fs af='வரவுசெலவுத்,unk,,,,,,' name="வரவுசெலவுத்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பற்றாக்குறை,unk,,,,,,' head="பற்றாக்குறை"  poslcat="NM">
+10.1	திட்ட	JJ	<fs af='திட்ட,unk,,,,,,' poslcat="NM">
+10.2	பற்றாக்குறை	NN	<fs af='பற்றாக்குறை,unk,,,,,,' name="பற்றாக்குறை"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='தேஆன்றியுள்ளதாக,unk,,,,,,' head="தேஆன்றியுள்ளதாக"  poslcat="NM">
+11.1	தேஆன்றியுள்ளதாக	RB	<fs af='தேஆன்றியுள்ளதாக,unk,,,,,,' name="தேஆன்றியுள்ளதாக"  poslcat="NM">
+	))		
+12	((	NP	<fs af='இது,unk,,,,,,' head="இது"  poslcat="NM">
+12.1	இது	PRP	<fs af='இது,unk,,,,,,' name="இது"  poslcat="NM">
+	))		
+13	((	NP	<fs af='காரணம்,unk,,,,,,' head="காரணம்"  poslcat="NM">
+13.1	காரணம்	NN	<fs af='காரணம்,unk,,,,,,' name="காரணம்"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='காட்டியுள்ளது,unk,,,,,,' head="காட்டியுள்ளது"  poslcat="NM">
+14.1	காட்டியுள்ளது	VM	<fs af='காட்டியுள்ளது,unk,,,,,,' name="காட்டியுள்ளது"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பெஆருட்கள்,unk,,,,,,' head="பெஆருட்கள்"  poslcat="NM">
+1.1	சமீபத்திய	JJ	<fs af='சமீபத்திய,unk,,,,,,' poslcat="NM">
+1.2	பெஆருட்கள்	NN	<fs af='பெஆருட்கள்,unk,,,,,,' name="பெஆருட்கள்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='விலை,unk,,,,,,' head="விலை"  poslcat="NM">
+2.1	விலை	NN	<fs af='விலை,unk,,,,,,' name="விலை"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='உயர்வினால்,unk,,,,,,' head="உயர்வினால்"  poslcat="NM">
+3.1	உயர்வினால்	VM	<fs af='உயர்வினால்,unk,,,,,,' name="உயர்வினால்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='மில்லியன்,unk,,,,,,' head="மில்லியன்"  poslcat="NM">
+4.1	120	QC	<fs af='120,num,,,,,,' poslcat="NM">
+4.2	மில்லியன்	NN	<fs af='மில்லியன்,unk,,,,,,' name="மில்லியன்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='அமெரிக்க,unk,,,,,,' head="அமெரிக்க"  poslcat="NM">
+5.1	அமெரிக்க	VM	<fs af='அமெரிக்க,unk,,,,,,' name="அமெரிக்க"  poslcat="NM">
+	))		
+6	((	NP	<fs af='டாலர்,unk,,,,,,' head="டாலர்"  poslcat="NM">
+6.1	டாலர்	NN	<fs af='டாலர்,unk,,,,,,' name="டாலர்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அளவுக்கு,unk,,,,,,' head="அளவுக்கு"  poslcat="NM">
+7.1	அளவுக்கு	NN	<fs af='அளவுக்கு,unk,,,,,,' name="அளவுக்கு"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='வரவுசெலவுத்,unk,,,,,,' head="வரவுசெலவுத்"  poslcat="NM">
+8.1	வரவுசெலவுத்	VM	<fs af='வரவுசெலவுத்,unk,,,,,,' name="வரவுசெலவுத்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பற்றாக்குறை,unk,,,,,,' head="பற்றாக்குறை"  poslcat="NM">
+9.1	திட்ட	JJ	<fs af='திட்ட,unk,,,,,,' poslcat="NM">
+9.2	பற்றாக்குறை	NN	<fs af='பற்றாக்குறை,unk,,,,,,' name="பற்றாக்குறை"  poslcat="NM">
+	))		
+10	((	RBP	<fs af='தேஆன்றியுள்ளதாக,unk,,,,,,' head="தேஆன்றியுள்ளதாக"  poslcat="NM">
+10.1	தேஆன்றியுள்ளதாக	RB	<fs af='தேஆன்றியுள்ளதாக,unk,,,,,,' name="தேஆன்றியுள்ளதாக"  poslcat="NM">
+	))		
+11	((	NP	<fs af='இது,unk,,,,,,' head="இது"  poslcat="NM">
+11.1	இது	PRP	<fs af='இது,unk,,,,,,' name="இது"  poslcat="NM">
+	))		
+12	((	NP	<fs af='காரணம்,unk,,,,,,' head="காரணம்"  poslcat="NM">
+12.1	காரணம்	NN	<fs af='காரணம்,unk,,,,,,' name="காரணம்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='காட்டியுள்ளது,unk,,,,,,' head="காட்டியுள்ளது"  poslcat="NM">
+13.1	காட்டியுள்ளது	VM	<fs af='காட்டியுள்ளது,unk,,,,,,' name="காட்டியுள்ளது"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

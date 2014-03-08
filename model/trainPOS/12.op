@@ -1,0 +1,37 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஜனாதிபதி,unk,,,,,,' head="ஜனாதிபதி"  poslcat="NM">
+2.1	ஜனாதிபதி	NN	<fs af='ஜனாதிபதி,unk,,,,,,' name="ஜனாதிபதி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தேர்தல்களைப்பேஆலவே,unk,,,,,,' head="தேர்தல்களைப்பேஆலவே"  poslcat="NM">
+3.1	தேர்தல்களைப்பேஆலவே	NN	<fs af='தேர்தல்களைப்பேஆலவே,unk,,,,,,' name="தேர்தல்களைப்பேஆலவே"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='புரட்சி,unk,,,,,,' head="புரட்சி"  poslcat="NM">
+4.1	புரட்சி	NN	<fs af='புரட்சி,unk,,,,,,' name="புரட்சி"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' head="கம்யூனிஸ்ட்"  poslcat="NM">
+5.1	கம்யூனிஸ்ட்	NN	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' name="கம்யூனிஸ்ட்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கழகத்தினரும்,unk,,,,,,' head="கழகத்தினரும்"  poslcat="NM">
+6.1	கழகத்தினரும்	NN	<fs af='கழகத்தினரும்,unk,,,,,,' name="கழகத்தினரும்"  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஜனாதிபதி,unk,,,,,,' head="ஜனாதிபதி"  poslcat="NM">
+1.1	ஜனாதிபதி	NN	<fs af='ஜனாதிபதி,unk,,,,,,' name="ஜனாதிபதி"  poslcat="NM">
+	))		
+2	((	NP	<fs af='தேர்தல்களைப்பேஆலவே,unk,,,,,,' head="தேர்தல்களைப்பேஆலவே"  poslcat="NM">
+2.1	தேர்தல்களைப்பேஆலவே	NN	<fs af='தேர்தல்களைப்பேஆலவே,unk,,,,,,' name="தேர்தல்களைப்பேஆலவே"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='புரட்சி,unk,,,,,,' head="புரட்சி"  poslcat="NM">
+3.1	புரட்சி	NN	<fs af='புரட்சி,unk,,,,,,' name="புரட்சி"  poslcat="NM">
+	))		
+4	((	NP	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' head="கம்யூனிஸ்ட்"  poslcat="NM">
+4.1	கம்யூனிஸ்ட்	NN	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' name="கம்யூனிஸ்ட்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கழகத்தினரும்,unk,,,,,,' head="கழகத்தினரும்"  poslcat="NM">
+5.1	கழகத்தினரும்	NN	<fs af='கழகத்தினரும்,unk,,,,,,' name="கழகத்தினரும்"  poslcat="NM">
+	))		
+</Sentence>			

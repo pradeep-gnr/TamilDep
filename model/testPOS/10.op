@@ -1,0 +1,47 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='மகாராஷ்டிராவின்,unk,,,,,,' head="மகாராஷ்டிராவின்"  poslcat="NM">
+2.1	மகாராஷ்டிராவின்	NN	<fs af='மகாராஷ்டிராவின்,unk,,,,,,' name="மகாராஷ்டிராவின்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பருத்தி,unk,,,,,,' head="பருத்தி"  poslcat="NM">
+3.1	பருத்தி	VM	<fs af='பருத்தி,unk,,,,,,' name="பருத்தி"  poslcat="NM">
+	))		
+4	((	NP	<fs af='உற்பத்தியில்,unk,,,,,,' head="உற்பத்தியில்"  poslcat="NM">
+4.1	உற்பத்தியில்	NN	<fs af='உற்பத்தியில்,unk,,,,,,' name="உற்பத்தியில்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='சதவீதம்,unk,,,,,,' head="சதவீதம்"  poslcat="NM">
+5.1	75	QC	<fs af='75,num,,,,,,' poslcat="NM">
+5.2	சதவீதம்	NN	<fs af='சதவீதம்,unk,,,,,,' name="சதவீதம்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பிராந்தியத்தில்,unk,,,,,,' head="பிராந்தியத்தில்"  poslcat="NM">
+6.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+6.2	பிராந்தியத்தில்	NN	<fs af='பிராந்தியத்தில்,unk,,,,,,' name="பிராந்தியத்தில்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='விளைகிறது,unk,,,,,,' head="விளைகிறது"  poslcat="NM">
+7.1	விளைகிறது	VM	<fs af='விளைகிறது,unk,,,,,,' name="விளைகிறது"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='மகாராஷ்டிராவின்,unk,,,,,,' head="மகாராஷ்டிராவின்"  poslcat="NM">
+1.1	மகாராஷ்டிராவின்	NN	<fs af='மகாராஷ்டிராவின்,unk,,,,,,' name="மகாராஷ்டிராவின்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='பருத்தி,unk,,,,,,' head="பருத்தி"  poslcat="NM">
+2.1	பருத்தி	VM	<fs af='பருத்தி,unk,,,,,,' name="பருத்தி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='உற்பத்தியில்,unk,,,,,,' head="உற்பத்தியில்"  poslcat="NM">
+3.1	உற்பத்தியில்	NN	<fs af='உற்பத்தியில்,unk,,,,,,' name="உற்பத்தியில்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='சதவீதம்,unk,,,,,,' head="சதவீதம்"  poslcat="NM">
+4.1	75	QC	<fs af='75,num,,,,,,' poslcat="NM">
+4.2	சதவீதம்	NN	<fs af='சதவீதம்,unk,,,,,,' name="சதவீதம்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பிராந்தியத்தில்,unk,,,,,,' head="பிராந்தியத்தில்"  poslcat="NM">
+5.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+5.2	பிராந்தியத்தில்	NN	<fs af='பிராந்தியத்தில்,unk,,,,,,' name="பிராந்தியத்தில்"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='விளைகிறது,unk,,,,,,' head="விளைகிறது"  poslcat="NM">
+6.1	விளைகிறது	VM	<fs af='விளைகிறது,unk,,,,,,' name="விளைகிறது"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

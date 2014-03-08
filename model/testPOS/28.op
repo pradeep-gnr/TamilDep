@@ -1,0 +1,153 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ம்,unk,,,,,,' head="ம்"  poslcat="NM">
+2.1	1953	QC	<fs af='1953,num,,,,,,' poslcat="NM">
+2.2	-	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+2.3	ம்	NN	<fs af='ம்,unk,,,,,,' name="ம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='அகிலத்தின்,unk,,,,,,' head="அகிலத்தின்_2"  poslcat="NM">
+3.1	ஆண்டு	NN	<fs af='ஆண்டு,unk,,,,,,' poslcat="NM">
+3.2	நான்காம்	QO	<fs af='நான்காம்,unk,,,,,,' poslcat="NM">
+3.3	அகிலத்தின்	NN	<fs af='அகிலத்தின்,unk,,,,,,' name="அகிலத்தின்_2"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='செயலாளராக,unk,,,,,,' head="செயலாளராக"  poslcat="NM">
+4.1	செயலாளராக	RB	<fs af='செயலாளராக,unk,,,,,,' name="செயலாளராக"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='இருந்த,unk,,,,,,' head="இருந்த"  poslcat="NM">
+5.1	இருந்த	VM	<fs af='இருந்த,unk,,,,,,' name="இருந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='மிசேல்,unk,,,,,,' head="மிசேல்"  poslcat="NM">
+6.1	மிசேல்	NN	<fs af='மிசேல்,unk,,,,,,' name="மிசேல்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பப்லேஆ,unk,,,,,,' head="பப்லேஆ"  poslcat="NM">
+7.1	பப்லேஆ	NN	<fs af='பப்லேஆ,unk,,,,,,' name="பப்லேஆ"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அகிலத்தின்,unk,,,,,,' head="அகிலத்தின்"  poslcat="NM">
+8.1	நான்காம்	QO	<fs af='நான்காம்,unk,,,,,,' poslcat="NM">
+8.2	அகிலத்தின்	NN	<fs af='அகிலத்தின்,unk,,,,,,' name="அகிலத்தின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='தெஆடர்ச்சியை,unk,,,,,,' head="தெஆடர்ச்சியை"  poslcat="NM">
+9.1	தெஆடர்ச்சியை	NN	<fs af='தெஆடர்ச்சியை,unk,,,,,,' name="தெஆடர்ச்சியை"  poslcat="NM">
+	))		
+10	((	NP	<fs af='சவால்,unk,,,,,,' head="சவால்"  poslcat="NM">
+10.1	சவால்	NN	<fs af='சவால்,unk,,,,,,' name="சவால்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='விடுக்கின்ற,unk,,,,,,' head="விடுக்கின்ற"  poslcat="NM">
+11.1	விடுக்கின்ற	VM	<fs af='விடுக்கின்ற,unk,,,,,,' name="விடுக்கின்ற"  poslcat="NM">
+	))		
+12	((	NP	<fs af='வகையில்,unk,,,,,,' head="வகையில்"  poslcat="NM">
+12.1	வகையில்	NN	<fs af='வகையில்,unk,,,,,,' name="வகையில்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='அதிகாரத்துவத்திற்கு,unk,,,,,,' head="அதிகாரத்துவத்திற்கு"  poslcat="NM">
+13.1	ஸ்ராலினிச	JJ	<fs af='ஸ்ராலினிச,unk,,,,,,' poslcat="NM">
+13.2	அதிகாரத்துவத்திற்கு	NN	<fs af='அதிகாரத்துவத்திற்கு,unk,,,,,,' name="அதிகாரத்துவத்திற்கு"  poslcat="NM">
+	))		
+14	((	NP	<fs af='அடிபணிதலையும்,unk,,,,,,' head="அடிபணிதலையும்"  poslcat="NM">
+14.1	அடிபணிதலையும்	NN	<fs af='அடிபணிதலையும்,unk,,,,,,' name="அடிபணிதலையும்"  poslcat="NM">
+14.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+15	((	NP	<fs af='பேஆருக்குப்,unk,,,,,,' head="பேஆருக்குப்"  poslcat="NM">
+15.1	முதலாளித்துவத்தின்	NN	<fs af='முதலாளித்துவத்தின்,unk,,,,,,' poslcat="NM">
+15.2	பேஆருக்குப்	NN	<fs af='பேஆருக்குப்,unk,,,,,,' name="பேஆருக்குப்"  poslcat="NM">
+	))		
+16	((	NP	<fs af='ஸ்திரப்பாட்டை,unk,,,,,,' head="ஸ்திரப்பாட்டை"  poslcat="NM">
+16.1	பிந்தைய	JJ	<fs af='பிந்தைய,unk,,,,,,' poslcat="NM">
+16.2	ஸ்திரப்பாட்டை	NN	<fs af='ஸ்திரப்பாட்டை,unk,,,,,,' name="ஸ்திரப்பாட்டை"  poslcat="NM">
+	))		
+17	((	RBP	<fs af='நியாயப்படுத்தவும்,unk,,,,,,' head="நியாயப்படுத்தவும்"  poslcat="NM">
+17.1	நியாயப்படுத்தவும்	RB	<fs af='நியாயப்படுத்தவும்,unk,,,,,,' name="நியாயப்படுத்தவும்"  poslcat="NM">
+	))		
+18	((	VGNF	<fs af='தத்துவார்த்த,unk,,,,,,' head="தத்துவார்த்த"  poslcat="NM">
+18.1	தத்துவார்த்த	VM	<fs af='தத்துவார்த்த,unk,,,,,,' name="தத்துவார்த்த"  poslcat="NM">
+	))		
+19	((	NP	<fs af='நிலைப்பாட்டை,unk,,,,,,' head="நிலைப்பாட்டை"  poslcat="NM">
+19.1	ரீதியான	JJ	<fs af='ரீதியான,unk,,,,,,' poslcat="NM">
+19.2	நிலைப்பாட்டை	NN	<fs af='நிலைப்பாட்டை,unk,,,,,,' name="நிலைப்பாட்டை"  poslcat="NM">
+	))		
+20	((	VGF	<fs af='வளர்த்தெடுத்தார்,unk,,,,,,' head="வளர்த்தெடுத்தார்"  poslcat="NM">
+20.1	வளர்த்தெடுத்தார்	VM	<fs af='வளர்த்தெடுத்தார்,unk,,,,,,' name="வளர்த்தெடுத்தார்"  poslcat="NM">
+	))		
+21	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+21.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+22	((	VGF	<fs af='விளக்கினார்,unk,,,,,,' head="விளக்கினார்"  poslcat="NM">
+22.1	விளக்கினார்	VM	<fs af='விளக்கினார்,unk,,,,,,' name="விளக்கினார்"  poslcat="NM">
+22.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ம்,unk,,,,,,' head="ம்"  poslcat="NM">
+1.1	1953	QC	<fs af='1953,num,,,,,,' poslcat="NM">
+1.2	-	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+1.3	ம்	NN	<fs af='ம்,unk,,,,,,' name="ம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='அகிலத்தின்,unk,,,,,,' head="அகிலத்தின்_2"  poslcat="NM">
+2.1	ஆண்டு	NN	<fs af='ஆண்டு,unk,,,,,,' poslcat="NM">
+2.2	நான்காம்	QO	<fs af='நான்காம்,unk,,,,,,' poslcat="NM">
+2.3	அகிலத்தின்	NN	<fs af='அகிலத்தின்,unk,,,,,,' name="அகிலத்தின்_2"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='செயலாளராக,unk,,,,,,' head="செயலாளராக"  poslcat="NM">
+3.1	செயலாளராக	RB	<fs af='செயலாளராக,unk,,,,,,' name="செயலாளராக"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='இருந்த,unk,,,,,,' head="இருந்த"  poslcat="NM">
+4.1	இருந்த	VM	<fs af='இருந்த,unk,,,,,,' name="இருந்த"  poslcat="NM">
+	))		
+5	((	NP	<fs af='மிசேல்,unk,,,,,,' head="மிசேல்"  poslcat="NM">
+5.1	மிசேல்	NN	<fs af='மிசேல்,unk,,,,,,' name="மிசேல்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பப்லேஆ,unk,,,,,,' head="பப்லேஆ"  poslcat="NM">
+6.1	பப்லேஆ	NN	<fs af='பப்லேஆ,unk,,,,,,' name="பப்லேஆ"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அகிலத்தின்,unk,,,,,,' head="அகிலத்தின்"  poslcat="NM">
+7.1	நான்காம்	QO	<fs af='நான்காம்,unk,,,,,,' poslcat="NM">
+7.2	அகிலத்தின்	NN	<fs af='அகிலத்தின்,unk,,,,,,' name="அகிலத்தின்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='தெஆடர்ச்சியை,unk,,,,,,' head="தெஆடர்ச்சியை"  poslcat="NM">
+8.1	தெஆடர்ச்சியை	NN	<fs af='தெஆடர்ச்சியை,unk,,,,,,' name="தெஆடர்ச்சியை"  poslcat="NM">
+	))		
+9	((	NP	<fs af='சவால்,unk,,,,,,' head="சவால்"  poslcat="NM">
+9.1	சவால்	NN	<fs af='சவால்,unk,,,,,,' name="சவால்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='விடுக்கின்ற,unk,,,,,,' head="விடுக்கின்ற"  poslcat="NM">
+10.1	விடுக்கின்ற	VM	<fs af='விடுக்கின்ற,unk,,,,,,' name="விடுக்கின்ற"  poslcat="NM">
+	))		
+11	((	NP	<fs af='வகையில்,unk,,,,,,' head="வகையில்"  poslcat="NM">
+11.1	வகையில்	NN	<fs af='வகையில்,unk,,,,,,' name="வகையில்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='அதிகாரத்துவத்திற்கு,unk,,,,,,' head="அதிகாரத்துவத்திற்கு"  poslcat="NM">
+12.1	ஸ்ராலினிச	JJ	<fs af='ஸ்ராலினிச,unk,,,,,,' poslcat="NM">
+12.2	அதிகாரத்துவத்திற்கு	NN	<fs af='அதிகாரத்துவத்திற்கு,unk,,,,,,' name="அதிகாரத்துவத்திற்கு"  poslcat="NM">
+	))		
+13	((	NP	<fs af='அடிபணிதலையும்,unk,,,,,,' head="அடிபணிதலையும்"  poslcat="NM">
+13.1	அடிபணிதலையும்	NN	<fs af='அடிபணிதலையும்,unk,,,,,,' name="அடிபணிதலையும்"  poslcat="NM">
+13.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+14	((	NP	<fs af='பேஆருக்குப்,unk,,,,,,' head="பேஆருக்குப்"  poslcat="NM">
+14.1	முதலாளித்துவத்தின்	NN	<fs af='முதலாளித்துவத்தின்,unk,,,,,,' poslcat="NM">
+14.2	பேஆருக்குப்	NN	<fs af='பேஆருக்குப்,unk,,,,,,' name="பேஆருக்குப்"  poslcat="NM">
+	))		
+15	((	NP	<fs af='ஸ்திரப்பாட்டை,unk,,,,,,' head="ஸ்திரப்பாட்டை"  poslcat="NM">
+15.1	பிந்தைய	JJ	<fs af='பிந்தைய,unk,,,,,,' poslcat="NM">
+15.2	ஸ்திரப்பாட்டை	NN	<fs af='ஸ்திரப்பாட்டை,unk,,,,,,' name="ஸ்திரப்பாட்டை"  poslcat="NM">
+	))		
+16	((	RBP	<fs af='நியாயப்படுத்தவும்,unk,,,,,,' head="நியாயப்படுத்தவும்"  poslcat="NM">
+16.1	நியாயப்படுத்தவும்	RB	<fs af='நியாயப்படுத்தவும்,unk,,,,,,' name="நியாயப்படுத்தவும்"  poslcat="NM">
+	))		
+17	((	VGNF	<fs af='தத்துவார்த்த,unk,,,,,,' head="தத்துவார்த்த"  poslcat="NM">
+17.1	தத்துவார்த்த	VM	<fs af='தத்துவார்த்த,unk,,,,,,' name="தத்துவார்த்த"  poslcat="NM">
+	))		
+18	((	NP	<fs af='நிலைப்பாட்டை,unk,,,,,,' head="நிலைப்பாட்டை"  poslcat="NM">
+18.1	ரீதியான	JJ	<fs af='ரீதியான,unk,,,,,,' poslcat="NM">
+18.2	நிலைப்பாட்டை	NN	<fs af='நிலைப்பாட்டை,unk,,,,,,' name="நிலைப்பாட்டை"  poslcat="NM">
+	))		
+19	((	VGF	<fs af='வளர்த்தெடுத்தார்,unk,,,,,,' head="வளர்த்தெடுத்தார்"  poslcat="NM">
+19.1	வளர்த்தெடுத்தார்	VM	<fs af='வளர்த்தெடுத்தார்,unk,,,,,,' name="வளர்த்தெடுத்தார்"  poslcat="NM">
+	))		
+20	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+20.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+21	((	VGF	<fs af='விளக்கினார்,unk,,,,,,' head="விளக்கினார்"  poslcat="NM">
+21.1	விளக்கினார்	VM	<fs af='விளக்கினார்,unk,,,,,,' name="விளக்கினார்"  poslcat="NM">
+21.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

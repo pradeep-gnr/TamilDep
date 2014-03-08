@@ -1,0 +1,57 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='நூர்முகமட்,unk,,,,,,' head="நூர்முகமட்"  poslcat="NM">
+2.1	நூர்முகமட்	NN	<fs af='நூர்முகமட்,unk,,,,,,' name="நூர்முகமட்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நசீரீன்,unk,,,,,,' head="நசீரீன்"  poslcat="NM">
+3.1	நசீரீன்	NN	<fs af='நசீரீன்,unk,,,,,,' name="நசீரீன்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='சேனையில்,unk,,,,,,' head="சேனையில்"  poslcat="NM">
+4.1	வசிப்பிடமான	JJ	<fs af='வசிப்பிடமான,unk,,,,,,' poslcat="NM">
+4.2	வாழைச்	NN	<fs af='வாழைச்,unk,,,,,,' poslcat="NM">
+4.3	சேனையில்	NN	<fs af='சேனையில்,unk,,,,,,' name="சேனையில்"  poslcat="NM">
+4.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='மீன்பிடிப்பதிலும்,unk,,,,,,' head="மீன்பிடிப்பதிலும்"  poslcat="NM">
+5.1	ஏறத்தாள	JJ	<fs af='ஏறத்தாள,unk,,,,,,' poslcat="NM">
+5.2	90	QC	<fs af='90,num,,,,,,' poslcat="NM">
+5.3	சதவீதமான	JJ	<fs af='சதவீதமான,unk,,,,,,' poslcat="NM">
+5.4	மக்கள்	NN	<fs af='மக்கள்,unk,,,,,,' poslcat="NM">
+5.5	மீன்பிடிப்பதிலும்	NN	<fs af='மீன்பிடிப்பதிலும்,unk,,,,,,' name="மீன்பிடிப்பதிலும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நெற்செய்கையிலுமே,unk,,,,,,' head="நெற்செய்கையிலுமே"  poslcat="NM">
+6.1	நெற்செய்கையிலுமே	NN	<fs af='நெற்செய்கையிலுமே,unk,,,,,,' name="நெற்செய்கையிலுமே"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='ஜீவிக்கின்றனர்,unk,,,,,,' head="ஜீவிக்கின்றனர்"  poslcat="NM">
+7.1	ஜீவிக்கின்றனர்	VM	<fs af='ஜீவிக்கின்றனர்,unk,,,,,,' name="ஜீவிக்கின்றனர்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='நூர்முகமட்,unk,,,,,,' head="நூர்முகமட்"  poslcat="NM">
+1.1	நூர்முகமட்	NN	<fs af='நூர்முகமட்,unk,,,,,,' name="நூர்முகமட்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='நசீரீன்,unk,,,,,,' head="நசீரீன்"  poslcat="NM">
+2.1	நசீரீன்	NN	<fs af='நசீரீன்,unk,,,,,,' name="நசீரீன்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='சேனையில்,unk,,,,,,' head="சேனையில்"  poslcat="NM">
+3.1	வசிப்பிடமான	JJ	<fs af='வசிப்பிடமான,unk,,,,,,' poslcat="NM">
+3.2	வாழைச்	NN	<fs af='வாழைச்,unk,,,,,,' poslcat="NM">
+3.3	சேனையில்	NN	<fs af='சேனையில்,unk,,,,,,' name="சேனையில்"  poslcat="NM">
+3.4	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='மீன்பிடிப்பதிலும்,unk,,,,,,' head="மீன்பிடிப்பதிலும்"  poslcat="NM">
+4.1	ஏறத்தாள	JJ	<fs af='ஏறத்தாள,unk,,,,,,' poslcat="NM">
+4.2	90	QC	<fs af='90,num,,,,,,' poslcat="NM">
+4.3	சதவீதமான	JJ	<fs af='சதவீதமான,unk,,,,,,' poslcat="NM">
+4.4	மக்கள்	NN	<fs af='மக்கள்,unk,,,,,,' poslcat="NM">
+4.5	மீன்பிடிப்பதிலும்	NN	<fs af='மீன்பிடிப்பதிலும்,unk,,,,,,' name="மீன்பிடிப்பதிலும்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நெற்செய்கையிலுமே,unk,,,,,,' head="நெற்செய்கையிலுமே"  poslcat="NM">
+5.1	நெற்செய்கையிலுமே	NN	<fs af='நெற்செய்கையிலுமே,unk,,,,,,' name="நெற்செய்கையிலுமே"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='ஜீவிக்கின்றனர்,unk,,,,,,' head="ஜீவிக்கின்றனர்"  poslcat="NM">
+6.1	ஜீவிக்கின்றனர்	VM	<fs af='ஜீவிக்கின்றனர்,unk,,,,,,' name="ஜீவிக்கின்றனர்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

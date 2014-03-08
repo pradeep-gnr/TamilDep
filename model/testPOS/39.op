@@ -1,0 +1,75 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+2.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தலைமையில்,unk,,,,,,' head="தலைமையில்"  poslcat="NM">
+3.1	கட்சித்	NN	<fs af='கட்சித்,unk,,,,,,' poslcat="NM">
+3.2	தலைமையில்	NN	<fs af='தலைமையில்,unk,,,,,,' name="தலைமையில்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='இடத்தில்,unk,,,,,,' head="இடத்தில்"  poslcat="NM">
+4.1	ஒன்பதாவது	QO	<fs af='ஒன்பதாவது,unk,,,,,,' poslcat="NM">
+4.2	இடத்தில்	NN	<fs af='இடத்தில்,unk,,,,,,' name="இடத்தில்"  poslcat="NM">
+	))		
+5	((	VGINF	<fs af='இருக்கிறார்,unk,,,,,,' head="இருக்கிறார்"  poslcat="NM">
+5.1	இருக்கிறார்	VM	<fs af='இருக்கிறார்,unk,,,,,,' name="இருக்கிறார்"  poslcat="NM">
+	))		
+6	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+6.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' head="கம்யூனிஸ்ட்"  poslcat="NM">
+7.1	சீனக்	JJ	<fs af='சீனக்,unk,,,,,,' poslcat="NM">
+7.2	கம்யூனிஸ்ட்	NN	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' name="கம்யூனிஸ்ட்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கட்சியின்,unk,,,,,,' head="கட்சியின்"  poslcat="NM">
+8.1	கட்சியின்	NN	<fs af='கட்சியின்,unk,,,,,,' name="கட்சியின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பாதுகாப்பு,unk,,,,,,' head="பாதுகாப்பு"  poslcat="NM">
+9.1	பாதுகாப்பு	NN	<fs af='பாதுகாப்பு,unk,,,,,,' name="பாதுகாப்பு"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பெஆறுப்பை,unk,,,,,,' head="பெஆறுப்பை"  poslcat="NM">
+10.1	தலைமைப்	NN	<fs af='தலைமைப்,unk,,,,,,' poslcat="NM">
+10.2	பெஆறுப்பை	NN	<fs af='பெஆறுப்பை,unk,,,,,,' name="பெஆறுப்பை"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வகிக்கிறார்,unk,,,,,,' head="வகிக்கிறார்"  poslcat="NM">
+11.1	வகிக்கிறார்	VM	<fs af='வகிக்கிறார்,unk,,,,,,' name="வகிக்கிறார்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+1.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='தலைமையில்,unk,,,,,,' head="தலைமையில்"  poslcat="NM">
+2.1	கட்சித்	NN	<fs af='கட்சித்,unk,,,,,,' poslcat="NM">
+2.2	தலைமையில்	NN	<fs af='தலைமையில்,unk,,,,,,' name="தலைமையில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='இடத்தில்,unk,,,,,,' head="இடத்தில்"  poslcat="NM">
+3.1	ஒன்பதாவது	QO	<fs af='ஒன்பதாவது,unk,,,,,,' poslcat="NM">
+3.2	இடத்தில்	NN	<fs af='இடத்தில்,unk,,,,,,' name="இடத்தில்"  poslcat="NM">
+	))		
+4	((	VGINF	<fs af='இருக்கிறார்,unk,,,,,,' head="இருக்கிறார்"  poslcat="NM">
+4.1	இருக்கிறார்	VM	<fs af='இருக்கிறார்,unk,,,,,,' name="இருக்கிறார்"  poslcat="NM">
+	))		
+5	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+5.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' head="கம்யூனிஸ்ட்"  poslcat="NM">
+6.1	சீனக்	JJ	<fs af='சீனக்,unk,,,,,,' poslcat="NM">
+6.2	கம்யூனிஸ்ட்	NN	<fs af='கம்யூனிஸ்ட்,unk,,,,,,' name="கம்யூனிஸ்ட்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கட்சியின்,unk,,,,,,' head="கட்சியின்"  poslcat="NM">
+7.1	கட்சியின்	NN	<fs af='கட்சியின்,unk,,,,,,' name="கட்சியின்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='பாதுகாப்பு,unk,,,,,,' head="பாதுகாப்பு"  poslcat="NM">
+8.1	பாதுகாப்பு	NN	<fs af='பாதுகாப்பு,unk,,,,,,' name="பாதுகாப்பு"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பெஆறுப்பை,unk,,,,,,' head="பெஆறுப்பை"  poslcat="NM">
+9.1	தலைமைப்	NN	<fs af='தலைமைப்,unk,,,,,,' poslcat="NM">
+9.2	பெஆறுப்பை	NN	<fs af='பெஆறுப்பை,unk,,,,,,' name="பெஆறுப்பை"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='வகிக்கிறார்,unk,,,,,,' head="வகிக்கிறார்"  poslcat="NM">
+10.1	வகிக்கிறார்	VM	<fs af='வகிக்கிறார்,unk,,,,,,' name="வகிக்கிறார்"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

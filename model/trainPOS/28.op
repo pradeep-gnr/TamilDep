@@ -1,0 +1,55 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பாதுகாப்பு,unk,,,,,,' head="பாதுகாப்பு"  poslcat="NM">
+2.1	பாதுகாப்பு	NN	<fs af='பாதுகாப்பு,unk,,,,,,' name="பாதுகாப்பு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மந்திரி,unk,,,,,,' head="மந்திரி"  poslcat="NM">
+3.1	மந்திரி	NN	<fs af='மந்திரி,unk,,,,,,' name="மந்திரி"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ரெஆபேர்ட்,unk,,,,,,' head="ரெஆபேர்ட்"  poslcat="NM">
+4.1	ரெஆபேர்ட்	NN	<fs af='ரெஆபேர்ட்,unk,,,,,,' name="ரெஆபேர்ட்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கேட்ஸ்,unk,,,,,,' head="கேட்ஸ்"  poslcat="NM">
+5.1	கேட்ஸ்	NN	<fs af='கேட்ஸ்,unk,,,,,,' name="கேட்ஸ்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='புஷ்ஷின்,unk,,,,,,' head="புஷ்ஷின்"  poslcat="NM">
+6.1	புஷ்ஷின்	NN	<fs af='புஷ்ஷின்,unk,,,,,,' name="புஷ்ஷின்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கருத்துக்களை,unk,,,,,,' head="கருத்துக்களை"  poslcat="NM">
+7.1	கருத்துக்களை	NN	<fs af='கருத்துக்களை,unk,,,,,,' name="கருத்துக்களை"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='எதிரெஆலித்துக்,unk,,,,,,' head="எதிரெஆலித்துக்"  poslcat="NM">
+8.1	எதிரெஆலித்துக்	VM	<fs af='எதிரெஆலித்துக்,unk,,,,,,' name="எதிரெஆலித்துக்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='கூறினார்,unk,,,,,,' head="கூறினார்"  poslcat="NM">
+9.1	கூறினார்	VAUX	<fs af='கூறினார்,unk,,,,,,' name="கூறினார்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பாதுகாப்பு,unk,,,,,,' head="பாதுகாப்பு"  poslcat="NM">
+1.1	பாதுகாப்பு	NN	<fs af='பாதுகாப்பு,unk,,,,,,' name="பாதுகாப்பு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='மந்திரி,unk,,,,,,' head="மந்திரி"  poslcat="NM">
+2.1	மந்திரி	NN	<fs af='மந்திரி,unk,,,,,,' name="மந்திரி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ரெஆபேர்ட்,unk,,,,,,' head="ரெஆபேர்ட்"  poslcat="NM">
+3.1	ரெஆபேர்ட்	NN	<fs af='ரெஆபேர்ட்,unk,,,,,,' name="ரெஆபேர்ட்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='கேட்ஸ்,unk,,,,,,' head="கேட்ஸ்"  poslcat="NM">
+4.1	கேட்ஸ்	NN	<fs af='கேட்ஸ்,unk,,,,,,' name="கேட்ஸ்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='புஷ்ஷின்,unk,,,,,,' head="புஷ்ஷின்"  poslcat="NM">
+5.1	புஷ்ஷின்	NN	<fs af='புஷ்ஷின்,unk,,,,,,' name="புஷ்ஷின்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கருத்துக்களை,unk,,,,,,' head="கருத்துக்களை"  poslcat="NM">
+6.1	கருத்துக்களை	NN	<fs af='கருத்துக்களை,unk,,,,,,' name="கருத்துக்களை"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='எதிரெஆலித்துக்,unk,,,,,,' head="எதிரெஆலித்துக்"  poslcat="NM">
+7.1	எதிரெஆலித்துக்	VM	<fs af='எதிரெஆலித்துக்,unk,,,,,,' name="எதிரெஆலித்துக்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='கூறினார்,unk,,,,,,' head="கூறினார்"  poslcat="NM">
+8.1	கூறினார்	VAUX	<fs af='கூறினார்,unk,,,,,,' name="கூறினார்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

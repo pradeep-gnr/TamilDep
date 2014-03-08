@@ -1,0 +1,55 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='பேஆலன்ஸ்கி,unk,,,,,,' head="பேஆலன்ஸ்கி"  poslcat="NM">
+2.1	பேஆலன்ஸ்கி	NNP	<fs af='பேஆலன்ஸ்கி,unk,,,,,,' name="பேஆலன்ஸ்கி"  poslcat="NM">
+	))		
+3	((	NP	<fs af='கலைஞர்,unk,,,,,,' head="கலைஞர்"  poslcat="NM">
+3.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+3.2	பிரபலமான	JJ	<fs af='பிரபலமான,unk,,,,,,' poslcat="NM">
+3.3	கலைஞர்	NN	<fs af='கலைஞர்,unk,,,,,,' name="கலைஞர்"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='என்பதாலேயே,unk,,,,,,' head="என்பதாலேயே"  poslcat="NM">
+4.1	என்பதாலேயே	UT	<fs af='என்பதாலேயே,unk,,,,,,' name="என்பதாலேயே"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='மட்டும்,unk,,,,,,' head="மட்டும்"  poslcat="NM">
+5.1	மட்டும்	PSP	<fs af='மட்டும்,unk,,,,,,' name="மட்டும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நாங்கள்,unk,,,,,,' head="நாங்கள்"  poslcat="NM">
+6.1	நாங்கள்	PRP	<fs af='நாங்கள்,unk,,,,,,' name="நாங்கள்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='கண்ணேஆட்டத்தைக்,unk,,,,,,' head="கண்ணேஆட்டத்தைக்"  poslcat="NM">
+7.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+7.2	கண்ணேஆட்டத்தைக்	NN	<fs af='கண்ணேஆட்டத்தைக்,unk,,,,,,' name="கண்ணேஆட்டத்தைக்"  poslcat="NM">
+	))		
+8	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+8.1	கெஆண்டிருக்கவில்லை	NEG	<fs af='கெஆண்டிருக்கவில்லை,unk,,,,,,' poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='பேஆலன்ஸ்கி,unk,,,,,,' head="பேஆலன்ஸ்கி"  poslcat="NM">
+1.1	பேஆலன்ஸ்கி	NNP	<fs af='பேஆலன்ஸ்கி,unk,,,,,,' name="பேஆலன்ஸ்கி"  poslcat="NM">
+	))		
+2	((	NP	<fs af='கலைஞர்,unk,,,,,,' head="கலைஞர்"  poslcat="NM">
+2.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+2.2	பிரபலமான	JJ	<fs af='பிரபலமான,unk,,,,,,' poslcat="NM">
+2.3	கலைஞர்	NN	<fs af='கலைஞர்,unk,,,,,,' name="கலைஞர்"  poslcat="NM">
+	))		
+3	((	BLK	<fs af='என்பதாலேயே,unk,,,,,,' head="என்பதாலேயே"  poslcat="NM">
+3.1	என்பதாலேயே	UT	<fs af='என்பதாலேயே,unk,,,,,,' name="என்பதாலேயே"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='மட்டும்,unk,,,,,,' head="மட்டும்"  poslcat="NM">
+4.1	மட்டும்	PSP	<fs af='மட்டும்,unk,,,,,,' name="மட்டும்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='நாங்கள்,unk,,,,,,' head="நாங்கள்"  poslcat="NM">
+5.1	நாங்கள்	PRP	<fs af='நாங்கள்,unk,,,,,,' name="நாங்கள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கண்ணேஆட்டத்தைக்,unk,,,,,,' head="கண்ணேஆட்டத்தைக்"  poslcat="NM">
+6.1	இந்த	DEM	<fs af='இந்த,unk,,,,,,' poslcat="NM">
+6.2	கண்ணேஆட்டத்தைக்	NN	<fs af='கண்ணேஆட்டத்தைக்,unk,,,,,,' name="கண்ணேஆட்டத்தைக்"  poslcat="NM">
+	))		
+7	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+7.1	கெஆண்டிருக்கவில்லை	NEG	<fs af='கெஆண்டிருக்கவில்லை,unk,,,,,,' poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			

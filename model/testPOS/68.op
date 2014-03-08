@@ -1,0 +1,67 @@
+<Sentence id="">			
+1			
+2	((	RBP	<fs af='கதாநாயகியாக,unk,,,,,,' head="கதாநாயகியாக"  poslcat="NM">
+2.1	கதாநாயகியாக	RB	<fs af='கதாநாயகியாக,unk,,,,,,' name="கதாநாயகியாக"  poslcat="NM">
+	))		
+3	((	BLK	<fs af='மட்டுமே,unk,,,,,,' head="மட்டுமே"  poslcat="NM">
+3.1	மட்டுமே	PSP	<fs af='மட்டுமே,unk,,,,,,' name="மட்டுமே"  poslcat="NM">
+	))		
+4	((	VGF	<fs af='நடிப்பேன்,unk,,,,,,' head="நடிப்பேன்"  poslcat="NM">
+4.1	நடிப்பேன்	VM	<fs af='நடிப்பேன்,unk,,,,,,' name="நடிப்பேன்"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+5.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='அடம்பிடித்து,unk,,,,,,' head="அடம்பிடித்து"  poslcat="NM">
+6.1	அடம்பிடித்து	VM	<fs af='அடம்பிடித்து,unk,,,,,,' name="அடம்பிடித்து"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='வந்த,unk,,,,,,' head="வந்த"  poslcat="NM">
+7.1	வந்த	VM	<fs af='வந்த,unk,,,,,,' name="வந்த"  poslcat="NM">
+	))		
+8	((	NP	<fs af='சிம்ரன்,unk,,,,,,' head="சிம்ரன்"  poslcat="NM">
+8.1	சிம்ரன்	NNP	<fs af='சிம்ரன்,unk,,,,,,' name="சிம்ரன்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='கெஆஞ்சம்,unk,,,,,,' head="கெஆஞ்சம்"  poslcat="NM">
+9.1	கெஆஞ்சம்	NN	<fs af='கெஆஞ்சம்,unk,,,,,,' name="கெஆஞ்சம்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='இறங்கி,unk,,,,,,' head="இறங்கி"  poslcat="NM">
+10.1	இறங்கி	VM	<fs af='இறங்கி,unk,,,,,,' name="இறங்கி"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='வந்துள்ளார்,unk,,,,,,' head="வந்துள்ளார்"  poslcat="NM">
+11.1	வந்துள்ளார்	VAUX	<fs af='வந்துள்ளார்,unk,,,,,,' name="வந்துள்ளார்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	RBP	<fs af='கதாநாயகியாக,unk,,,,,,' head="கதாநாயகியாக"  poslcat="NM">
+1.1	கதாநாயகியாக	RB	<fs af='கதாநாயகியாக,unk,,,,,,' name="கதாநாயகியாக"  poslcat="NM">
+	))		
+2	((	BLK	<fs af='மட்டுமே,unk,,,,,,' head="மட்டுமே"  poslcat="NM">
+2.1	மட்டுமே	PSP	<fs af='மட்டுமே,unk,,,,,,' name="மட்டுமே"  poslcat="NM">
+	))		
+3	((	VGF	<fs af='நடிப்பேன்,unk,,,,,,' head="நடிப்பேன்"  poslcat="NM">
+3.1	நடிப்பேன்	VM	<fs af='நடிப்பேன்,unk,,,,,,' name="நடிப்பேன்"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+4.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='அடம்பிடித்து,unk,,,,,,' head="அடம்பிடித்து"  poslcat="NM">
+5.1	அடம்பிடித்து	VM	<fs af='அடம்பிடித்து,unk,,,,,,' name="அடம்பிடித்து"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='வந்த,unk,,,,,,' head="வந்த"  poslcat="NM">
+6.1	வந்த	VM	<fs af='வந்த,unk,,,,,,' name="வந்த"  poslcat="NM">
+	))		
+7	((	NP	<fs af='சிம்ரன்,unk,,,,,,' head="சிம்ரன்"  poslcat="NM">
+7.1	சிம்ரன்	NNP	<fs af='சிம்ரன்,unk,,,,,,' name="சிம்ரன்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கெஆஞ்சம்,unk,,,,,,' head="கெஆஞ்சம்"  poslcat="NM">
+8.1	கெஆஞ்சம்	NN	<fs af='கெஆஞ்சம்,unk,,,,,,' name="கெஆஞ்சம்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='இறங்கி,unk,,,,,,' head="இறங்கி"  poslcat="NM">
+9.1	இறங்கி	VM	<fs af='இறங்கி,unk,,,,,,' name="இறங்கி"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='வந்துள்ளார்,unk,,,,,,' head="வந்துள்ளார்"  poslcat="NM">
+10.1	வந்துள்ளார்	VAUX	<fs af='வந்துள்ளார்,unk,,,,,,' name="வந்துள்ளார்"  poslcat="NM">
+10.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

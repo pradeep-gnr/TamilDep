@@ -1,0 +1,55 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்_2"  poslcat="NM">
+2.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்_2"  poslcat="NM">
+	))		
+3	((	NP	<fs af='விமர்சனங்களின்,unk,,,,,,' head="விமர்சனங்களின்"  poslcat="NM">
+3.1	விமர்சனங்களின்	NN	<fs af='விமர்சனங்களின்,unk,,,,,,' name="விமர்சனங்களின்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நற்பெயரைக்,unk,,,,,,' head="நற்பெயரைக்"  poslcat="NM">
+4.1	நற்பெயரைக்	NN	<fs af='நற்பெயரைக்,unk,,,,,,' name="நற்பெயரைக்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஆர்வத்தில்,unk,,,,,,' head="ஆர்வத்தில்"  poslcat="NM">
+5.1	காப்பதற்கான	JJ	<fs af='காப்பதற்கான,unk,,,,,,' poslcat="NM">
+5.2	ஆர்வத்தில்	NN	<fs af='ஆர்வத்தில்,unk,,,,,,' name="ஆர்வத்தில்"  poslcat="NM">
+5.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='புறநிலைமையையும்,unk,,,,,,' head="புறநிலைமையையும்"  poslcat="NM">
+6.1	எவ்வித	JJ	<fs af='எவ்வித,unk,,,,,,' poslcat="NM">
+6.2	புறநிலைமையையும்	NN	<fs af='புறநிலைமையையும்,unk,,,,,,' name="புறநிலைமையையும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+7.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='கைவிடுகிறார்,unk,,,,,,' head="கைவிடுகிறார்"  poslcat="NM">
+8.1	கைவிடுகிறார்	VM	<fs af='கைவிடுகிறார்,unk,,,,,,' name="கைவிடுகிறார்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்_2"  poslcat="NM">
+1.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்_2"  poslcat="NM">
+	))		
+2	((	NP	<fs af='விமர்சனங்களின்,unk,,,,,,' head="விமர்சனங்களின்"  poslcat="NM">
+2.1	விமர்சனங்களின்	NN	<fs af='விமர்சனங்களின்,unk,,,,,,' name="விமர்சனங்களின்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நற்பெயரைக்,unk,,,,,,' head="நற்பெயரைக்"  poslcat="NM">
+3.1	நற்பெயரைக்	NN	<fs af='நற்பெயரைக்,unk,,,,,,' name="நற்பெயரைக்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஆர்வத்தில்,unk,,,,,,' head="ஆர்வத்தில்"  poslcat="NM">
+4.1	காப்பதற்கான	JJ	<fs af='காப்பதற்கான,unk,,,,,,' poslcat="NM">
+4.2	ஆர்வத்தில்	NN	<fs af='ஆர்வத்தில்,unk,,,,,,' name="ஆர்வத்தில்"  poslcat="NM">
+4.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='புறநிலைமையையும்,unk,,,,,,' head="புறநிலைமையையும்"  poslcat="NM">
+5.1	எவ்வித	JJ	<fs af='எவ்வித,unk,,,,,,' poslcat="NM">
+5.2	புறநிலைமையையும்	NN	<fs af='புறநிலைமையையும்,unk,,,,,,' name="புறநிலைமையையும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+6.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='கைவிடுகிறார்,unk,,,,,,' head="கைவிடுகிறார்"  poslcat="NM">
+7.1	கைவிடுகிறார்	VM	<fs af='கைவிடுகிறார்,unk,,,,,,' name="கைவிடுகிறார்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

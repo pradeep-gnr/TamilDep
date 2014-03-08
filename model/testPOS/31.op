@@ -1,0 +1,81 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='கூட்டு,unk,,,,,,' head="கூட்டு"  poslcat="NM">
+2.1	கூட்டு	NN	<fs af='கூட்டு,unk,,,,,,' name="கூட்டு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='உளவுத்துறை,unk,,,,,,' head="உளவுத்துறை"  poslcat="NM">
+3.1	உளவுத்துறை	NN	<fs af='உளவுத்துறை,unk,,,,,,' name="உளவுத்துறை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='குழுத்தலைவர்,unk,,,,,,' head="குழுத்தலைவர்"  poslcat="NM">
+4.1	குழுத்தலைவர்	NN	<fs af='குழுத்தலைவர்,unk,,,,,,' name="குழுத்தலைவர்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='மந்திரி,unk,,,,,,' head="மந்திரி"  poslcat="NM">
+5.1	பிரதம	JJ	<fs af='பிரதம,unk,,,,,,' poslcat="NM">
+5.2	மந்திரி	NN	<fs af='மந்திரி,unk,,,,,,' name="மந்திரி"  poslcat="NM">
+	))		
+6	((	NP	<fs af='இருவரிடமுமே,unk,,,,,,' head="இருவரிடமுமே"  poslcat="NM">
+6.1	இருவரிடமுமே	NN	<fs af='இருவரிடமுமே,unk,,,,,,' name="இருவரிடமுமே"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அக்கருத்தை,unk,,,,,,' head="அக்கருத்தை"  poslcat="NM">
+7.1	அக்கருத்தை	NN	<fs af='அக்கருத்தை,unk,,,,,,' name="அக்கருத்தை"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='தெரிவித்துள்ளேன்,unk,,,,,,' head="தெரிவித்துள்ளேன்"  poslcat="NM">
+8.1	தெரிவித்துள்ளேன்	VM	<fs af='தெரிவித்துள்ளேன்,unk,,,,,,' name="தெரிவித்துள்ளேன்"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='அவர்கள்,unk,,,,,,' head="அவர்கள்"  poslcat="NM">
+9.1	அவர்கள்	PRP	<fs af='அவர்கள்,unk,,,,,,' name="அவர்கள்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='அதை,unk,,,,,,' head="அதை"  poslcat="NM">
+10.1	அதை	PRP	<fs af='அதை,unk,,,,,,' name="அதை"  poslcat="NM">
+	))		
+11	((	RBP	<fs af='ஏற்கவும்,unk,,,,,,' head="ஏற்கவும்"  poslcat="NM">
+11.1	ஏற்கவும்	RB	<fs af='ஏற்கவும்,unk,,,,,,' name="ஏற்கவும்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='செய்துள்ளனர்,unk,,,,,,' head="செய்துள்ளனர்"  poslcat="NM">
+12.1	செய்துள்ளனர்	VM	<fs af='செய்துள்ளனர்,unk,,,,,,' name="செய்துள்ளனர்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+12.3	"	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='கூட்டு,unk,,,,,,' head="கூட்டு"  poslcat="NM">
+1.1	கூட்டு	NN	<fs af='கூட்டு,unk,,,,,,' name="கூட்டு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='உளவுத்துறை,unk,,,,,,' head="உளவுத்துறை"  poslcat="NM">
+2.1	உளவுத்துறை	NN	<fs af='உளவுத்துறை,unk,,,,,,' name="உளவுத்துறை"  poslcat="NM">
+	))		
+3	((	NP	<fs af='குழுத்தலைவர்,unk,,,,,,' head="குழுத்தலைவர்"  poslcat="NM">
+3.1	குழுத்தலைவர்	NN	<fs af='குழுத்தலைவர்,unk,,,,,,' name="குழுத்தலைவர்"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='மந்திரி,unk,,,,,,' head="மந்திரி"  poslcat="NM">
+4.1	பிரதம	JJ	<fs af='பிரதம,unk,,,,,,' poslcat="NM">
+4.2	மந்திரி	NN	<fs af='மந்திரி,unk,,,,,,' name="மந்திரி"  poslcat="NM">
+	))		
+5	((	NP	<fs af='இருவரிடமுமே,unk,,,,,,' head="இருவரிடமுமே"  poslcat="NM">
+5.1	இருவரிடமுமே	NN	<fs af='இருவரிடமுமே,unk,,,,,,' name="இருவரிடமுமே"  poslcat="NM">
+	))		
+6	((	NP	<fs af='அக்கருத்தை,unk,,,,,,' head="அக்கருத்தை"  poslcat="NM">
+6.1	அக்கருத்தை	NN	<fs af='அக்கருத்தை,unk,,,,,,' name="அக்கருத்தை"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='தெரிவித்துள்ளேன்,unk,,,,,,' head="தெரிவித்துள்ளேன்"  poslcat="NM">
+7.1	தெரிவித்துள்ளேன்	VM	<fs af='தெரிவித்துள்ளேன்,unk,,,,,,' name="தெரிவித்துள்ளேன்"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='அவர்கள்,unk,,,,,,' head="அவர்கள்"  poslcat="NM">
+8.1	அவர்கள்	PRP	<fs af='அவர்கள்,unk,,,,,,' name="அவர்கள்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அதை,unk,,,,,,' head="அதை"  poslcat="NM">
+9.1	அதை	PRP	<fs af='அதை,unk,,,,,,' name="அதை"  poslcat="NM">
+	))		
+10	((	RBP	<fs af='ஏற்கவும்,unk,,,,,,' head="ஏற்கவும்"  poslcat="NM">
+10.1	ஏற்கவும்	RB	<fs af='ஏற்கவும்,unk,,,,,,' name="ஏற்கவும்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='செய்துள்ளனர்,unk,,,,,,' head="செய்துள்ளனர்"  poslcat="NM">
+11.1	செய்துள்ளனர்	VM	<fs af='செய்துள்ளனர்,unk,,,,,,' name="செய்துள்ளனர்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+11.3	"	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

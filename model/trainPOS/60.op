@@ -1,0 +1,89 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='வாக்களார்கள்,unk,,,,,,' head="வாக்களார்கள்"  poslcat="NM">
+2.1	வாக்களார்கள்	NN	<fs af='வாக்களார்கள்,unk,,,,,,' name="வாக்களார்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தங்களது,unk,,,,,,' head="தங்களது"  poslcat="NM">
+3.1	தங்களது	PRP	<fs af='தங்களது,unk,,,,,,' name="தங்களது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வாக்குகளை,unk,,,,,,' head="வாக்குகளை"  poslcat="NM">
+4.1	தற்காலிக	JJ	<fs af='தற்காலிக,unk,,,,,,' poslcat="NM">
+4.2	வாக்குகளை	NN	<fs af='வாக்குகளை,unk,,,,,,' name="வாக்குகளை"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வாக்குச்சாவடியில்,unk,,,,,,' head="வாக்குச்சாவடியில்"  poslcat="NM">
+5.1	சரியான	JJ	<fs af='சரியான,unk,,,,,,' poslcat="NM">
+5.2	வாக்குச்சாவடியில்	NN	<fs af='வாக்குச்சாவடியில்,unk,,,,,,' name="வாக்குச்சாவடியில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பதிவுசெய்தால்தான்,unk,,,,,,' head="பதிவுசெய்தால்தான்"  poslcat="NM">
+6.1	பதிவுசெய்தால்தான்	NN	<fs af='பதிவுசெய்தால்தான்,unk,,,,,,' name="பதிவுசெய்தால்தான்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அவை,unk,,,,,,' head="அவை"  poslcat="NM">
+7.1	அவை	PRP	<fs af='அவை,unk,,,,,,' name="அவை"  poslcat="NM">
+	))		
+8	((	NP	<fs af='வாக்குகள்,unk,,,,,,' head="வாக்குகள்"  poslcat="NM">
+8.1	வாக்குகள்	NN	<fs af='வாக்குகள்,unk,,,,,,' name="வாக்குகள்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='எண்ணிக்கையில்,unk,,,,,,' head="எண்ணிக்கையில்"  poslcat="NM">
+9.1	எண்ணிக்கையில்	NN	<fs af='எண்ணிக்கையில்,unk,,,,,,' name="எண்ணிக்கையில்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='சேர்த்துக்கெஆள்ளப்படும்,unk,,,,,,' head="சேர்த்துக்கெஆள்ளப்படும்"  poslcat="NM">
+10.1	சேர்த்துக்கெஆள்ளப்படும்	VM	<fs af='சேர்த்துக்கெஆள்ளப்படும்,unk,,,,,,' name="சேர்த்துக்கெஆள்ளப்படும்"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='என்ற,unk,,,,,,' head="என்ற"  poslcat="NM">
+11.1	என்ற	VM	<fs af='என்ற,unk,,,,,,' name="என்ற"  poslcat="NM">
+	))		
+12	((	NP	<fs af='முடிவை,unk,,,,,,' head="முடிவை"  poslcat="NM">
+12.1	முடிவை	NN	<fs af='முடிவை,unk,,,,,,' name="முடிவை"  poslcat="NM">
+	))		
+13	((	NP	<fs af='உச்சநீதிமன்றம்,unk,,,,,,' head="உச்சநீதிமன்றம்"  poslcat="NM">
+13.1	உச்சநீதிமன்றம்	NN	<fs af='உச்சநீதிமன்றம்,unk,,,,,,' name="உச்சநீதிமன்றம்"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='ஏற்றுக்கெஆண்டிருக்கிறது,unk,,,,,,' head="ஏற்றுக்கெஆண்டிருக்கிறது"  poslcat="NM">
+14.1	ஏற்றுக்கெஆண்டிருக்கிறது	VM	<fs af='ஏற்றுக்கெஆண்டிருக்கிறது,unk,,,,,,' name="ஏற்றுக்கெஆண்டிருக்கிறது"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='வாக்களார்கள்,unk,,,,,,' head="வாக்களார்கள்"  poslcat="NM">
+1.1	வாக்களார்கள்	NN	<fs af='வாக்களார்கள்,unk,,,,,,' name="வாக்களார்கள்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='தங்களது,unk,,,,,,' head="தங்களது"  poslcat="NM">
+2.1	தங்களது	PRP	<fs af='தங்களது,unk,,,,,,' name="தங்களது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வாக்குகளை,unk,,,,,,' head="வாக்குகளை"  poslcat="NM">
+3.1	தற்காலிக	JJ	<fs af='தற்காலிக,unk,,,,,,' poslcat="NM">
+3.2	வாக்குகளை	NN	<fs af='வாக்குகளை,unk,,,,,,' name="வாக்குகளை"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வாக்குச்சாவடியில்,unk,,,,,,' head="வாக்குச்சாவடியில்"  poslcat="NM">
+4.1	சரியான	JJ	<fs af='சரியான,unk,,,,,,' poslcat="NM">
+4.2	வாக்குச்சாவடியில்	NN	<fs af='வாக்குச்சாவடியில்,unk,,,,,,' name="வாக்குச்சாவடியில்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பதிவுசெய்தால்தான்,unk,,,,,,' head="பதிவுசெய்தால்தான்"  poslcat="NM">
+5.1	பதிவுசெய்தால்தான்	NN	<fs af='பதிவுசெய்தால்தான்,unk,,,,,,' name="பதிவுசெய்தால்தான்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='அவை,unk,,,,,,' head="அவை"  poslcat="NM">
+6.1	அவை	PRP	<fs af='அவை,unk,,,,,,' name="அவை"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வாக்குகள்,unk,,,,,,' head="வாக்குகள்"  poslcat="NM">
+7.1	வாக்குகள்	NN	<fs af='வாக்குகள்,unk,,,,,,' name="வாக்குகள்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='எண்ணிக்கையில்,unk,,,,,,' head="எண்ணிக்கையில்"  poslcat="NM">
+8.1	எண்ணிக்கையில்	NN	<fs af='எண்ணிக்கையில்,unk,,,,,,' name="எண்ணிக்கையில்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='சேர்த்துக்கெஆள்ளப்படும்,unk,,,,,,' head="சேர்த்துக்கெஆள்ளப்படும்"  poslcat="NM">
+9.1	சேர்த்துக்கெஆள்ளப்படும்	VM	<fs af='சேர்த்துக்கெஆள்ளப்படும்,unk,,,,,,' name="சேர்த்துக்கெஆள்ளப்படும்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='என்ற,unk,,,,,,' head="என்ற"  poslcat="NM">
+10.1	என்ற	VM	<fs af='என்ற,unk,,,,,,' name="என்ற"  poslcat="NM">
+	))		
+11	((	NP	<fs af='முடிவை,unk,,,,,,' head="முடிவை"  poslcat="NM">
+11.1	முடிவை	NN	<fs af='முடிவை,unk,,,,,,' name="முடிவை"  poslcat="NM">
+	))		
+12	((	NP	<fs af='உச்சநீதிமன்றம்,unk,,,,,,' head="உச்சநீதிமன்றம்"  poslcat="NM">
+12.1	உச்சநீதிமன்றம்	NN	<fs af='உச்சநீதிமன்றம்,unk,,,,,,' name="உச்சநீதிமன்றம்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='ஏற்றுக்கெஆண்டிருக்கிறது,unk,,,,,,' head="ஏற்றுக்கெஆண்டிருக்கிறது"  poslcat="NM">
+13.1	ஏற்றுக்கெஆண்டிருக்கிறது	VM	<fs af='ஏற்றுக்கெஆண்டிருக்கிறது,unk,,,,,,' name="ஏற்றுக்கெஆண்டிருக்கிறது"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

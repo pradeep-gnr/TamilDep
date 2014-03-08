@@ -1,0 +1,55 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='கதை,unk,,,,,,' head="கதை"  poslcat="NM">
+2.1	கதை	NN	<fs af='கதை,unk,,,,,,' name="கதை"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='திரைக்கதை,unk,,,,,,' head="திரைக்கதை"  poslcat="NM">
+3.1	திரைக்கதை	NN	<fs af='திரைக்கதை,unk,,,,,,' name="திரைக்கதை"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='வசனம்,unk,,,,,,' head="வசனம்"  poslcat="NM">
+4.1	வசனம்	NN	<fs af='வசனம்,unk,,,,,,' name="வசனம்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='எழுதி,unk,,,,,,' head="எழுதி"  poslcat="NM">
+5.1	எழுதி	VM	<fs af='எழுதி,unk,,,,,,' name="எழுதி"  poslcat="NM">
+	))		
+6	((	NP	<fs af='இயக்குவதுடன்,unk,,,,,,' head="இயக்குவதுடன்"  poslcat="NM">
+6.1	இயக்குவதுடன்	NN	<fs af='இயக்குவதுடன்,unk,,,,,,' name="இயக்குவதுடன்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பாடலையும்,unk,,,,,,' head="பாடலையும்"  poslcat="NM">
+7.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+7.2	பாடலையும்	NN	<fs af='பாடலையும்,unk,,,,,,' name="பாடலையும்"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='எழுதியிருக்கேன்,unk,,,,,,' head="எழுதியிருக்கேன்"  poslcat="NM">
+8.1	எழுதியிருக்கேன்	VM	<fs af='எழுதியிருக்கேன்,unk,,,,,,' name="எழுதியிருக்கேன்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='கதை,unk,,,,,,' head="கதை"  poslcat="NM">
+1.1	கதை	NN	<fs af='கதை,unk,,,,,,' name="கதை"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='திரைக்கதை,unk,,,,,,' head="திரைக்கதை"  poslcat="NM">
+2.1	திரைக்கதை	NN	<fs af='திரைக்கதை,unk,,,,,,' name="திரைக்கதை"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='வசனம்,unk,,,,,,' head="வசனம்"  poslcat="NM">
+3.1	வசனம்	NN	<fs af='வசனம்,unk,,,,,,' name="வசனம்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='எழுதி,unk,,,,,,' head="எழுதி"  poslcat="NM">
+4.1	எழுதி	VM	<fs af='எழுதி,unk,,,,,,' name="எழுதி"  poslcat="NM">
+	))		
+5	((	NP	<fs af='இயக்குவதுடன்,unk,,,,,,' head="இயக்குவதுடன்"  poslcat="NM">
+5.1	இயக்குவதுடன்	NN	<fs af='இயக்குவதுடன்,unk,,,,,,' name="இயக்குவதுடன்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பாடலையும்,unk,,,,,,' head="பாடலையும்"  poslcat="NM">
+6.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+6.2	பாடலையும்	NN	<fs af='பாடலையும்,unk,,,,,,' name="பாடலையும்"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='எழுதியிருக்கேன்,unk,,,,,,' head="எழுதியிருக்கேன்"  poslcat="NM">
+7.1	எழுதியிருக்கேன்	VM	<fs af='எழுதியிருக்கேன்,unk,,,,,,' name="எழுதியிருக்கேன்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

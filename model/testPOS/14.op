@@ -1,0 +1,43 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இதுதான்,unk,,,,,,' head="இதுதான்"  poslcat="NM">
+2.1	இதுதான்	PRP	<fs af='இதுதான்,unk,,,,,,' name="இதுதான்"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='அடுத்து,unk,,,,,,' head="அடுத்து"  poslcat="NM">
+3.1	அடுத்து	RB	<fs af='அடுத்து,unk,,,,,,' name="அடுத்து"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வடிவேலு,unk,,,,,,' head="வடிவேலு"  poslcat="NM">
+4.1	வடிவேலு	NN	<fs af='வடிவேலு,unk,,,,,,' name="வடிவேலு"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='நடிக்கப்,unk,,,,,,' head="நடிக்கப்"  poslcat="NM">
+5.1	நடிக்கப்	VM	<fs af='நடிக்கப்,unk,,,,,,' name="நடிக்கப்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='போகும்,unk,,,,,,' head="போகும்"  poslcat="NM">
+6.1	போகும்	VM	<fs af='போகும்,unk,,,,,,' name="போகும்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='படம்,unk,,,,,,' head="படம்"  poslcat="NM">
+7.1	படம்	NN	<fs af='படம்,unk,,,,,,' name="படம்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இதுதான்,unk,,,,,,' head="இதுதான்"  poslcat="NM">
+1.1	இதுதான்	PRP	<fs af='இதுதான்,unk,,,,,,' name="இதுதான்"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='அடுத்து,unk,,,,,,' head="அடுத்து"  poslcat="NM">
+2.1	அடுத்து	RB	<fs af='அடுத்து,unk,,,,,,' name="அடுத்து"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வடிவேலு,unk,,,,,,' head="வடிவேலு"  poslcat="NM">
+3.1	வடிவேலு	NN	<fs af='வடிவேலு,unk,,,,,,' name="வடிவேலு"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='நடிக்கப்,unk,,,,,,' head="நடிக்கப்"  poslcat="NM">
+4.1	நடிக்கப்	VM	<fs af='நடிக்கப்,unk,,,,,,' name="நடிக்கப்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='போகும்,unk,,,,,,' head="போகும்"  poslcat="NM">
+5.1	போகும்	VM	<fs af='போகும்,unk,,,,,,' name="போகும்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='படம்,unk,,,,,,' head="படம்"  poslcat="NM">
+6.1	படம்	NN	<fs af='படம்,unk,,,,,,' name="படம்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

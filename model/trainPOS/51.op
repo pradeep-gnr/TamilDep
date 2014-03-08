@@ -1,0 +1,119 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='தமிழ்நாட்டில்,unk,,,,,,' head="தமிழ்நாட்டில்"  poslcat="NM">
+2.1	தென்னிந்திய	JJ	<fs af='தென்னிந்திய,unk,,,,,,' poslcat="NM">
+2.2	மாநிலமான	JJ	<fs af='மாநிலமான,unk,,,,,,' poslcat="NM">
+2.3	தமிழ்நாட்டில்	NN	<fs af='தமிழ்நாட்டில்,unk,,,,,,' name="தமிழ்நாட்டில்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மாநிலம்,unk,,,,,,' head="மாநிலம்"  poslcat="NM">
+3.1	ஜூலையில்	NN	<fs af='ஜூலையில்,unk,,,,,,' poslcat="NM">
+3.2	மாநிலம்	NN	<fs af='மாநிலம்,unk,,,,,,' name="மாநிலம்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='தழுவிய,unk,,,,,,' head="தழுவிய"  poslcat="NM">
+4.1	தழுவிய	VM	<fs af='தழுவிய,unk,,,,,,' name="தழுவிய"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வேலை,unk,,,,,,' head="வேலை"  poslcat="NM">
+5.1	வேலை	NN	<fs af='வேலை,unk,,,,,,' name="வேலை"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='நிறுத்தத்தின்பேஆது,unk,,,,,,' head="நிறுத்தத்தின்பேஆது"  poslcat="NM">
+6.1	நிறுத்தத்தின்பேஆது	RB	<fs af='நிறுத்தத்தின்பேஆது,unk,,,,,,' name="நிறுத்தத்தின்பேஆது"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='தவறாகநடந்துகெஆண்டனர்,unk,,,,,,' head="தவறாகநடந்துகெஆண்டனர்"  poslcat="NM">
+7.1	தவறாகநடந்துகெஆண்டனர்	VM	<fs af='தவறாகநடந்துகெஆண்டனர்,unk,,,,,,' name="தவறாகநடந்துகெஆண்டனர்"  poslcat="NM">
+	))		
+8	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+8.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அரசாங்கத்தால்,unk,,,,,,' head="அரசாங்கத்தால்"  poslcat="NM">
+9.1	மாநில	JJ	<fs af='மாநில,unk,,,,,,' poslcat="NM">
+9.2	அரசாங்கத்தால்	NN	<fs af='அரசாங்கத்தால்,unk,,,,,,' name="அரசாங்கத்தால்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='குற்றம்சாட்டப்பட்ட,unk,,,,,,' head="குற்றம்சாட்டப்பட்ட"  poslcat="NM">
+10.1	குற்றம்சாட்டப்பட்ட	VM	<fs af='குற்றம்சாட்டப்பட்ட,unk,,,,,,' name="குற்றம்சாட்டப்பட்ட"  poslcat="NM">
+	))		
+11	((	NP	<fs af='பணியாளர்கள்,unk,,,,,,' head="பணியாளர்கள்"  poslcat="NM">
+11.1	நூற்றுக்கணக்கான	JJ	<fs af='நூற்றுக்கணக்கான,unk,,,,,,' poslcat="NM">
+11.2	அரசாங்க	JJ	<fs af='அரசாங்க,unk,,,,,,' poslcat="NM">
+11.3	பணியாளர்கள்	NN	<fs af='பணியாளர்கள்,unk,,,,,,' name="பணியாளர்கள்"  poslcat="NM">
+	))		
+12	((	BLK	<fs af='மீது,unk,,,,,,' head="மீது"  poslcat="NM">
+12.1	மீது	PSP	<fs af='மீது,unk,,,,,,' name="மீது"  poslcat="NM">
+	))		
+13	((	NP	<fs af='நீதிபதிகளைக்,unk,,,,,,' head="நீதிபதிகளைக்"  poslcat="NM">
+13.1	நீதிபதிகளைக்	NN	<fs af='நீதிபதிகளைக்,unk,,,,,,' name="நீதிபதிகளைக்"  poslcat="NM">
+	))		
+14	((	VGNF	<fs af='கெஆண்ட,unk,,,,,,' head="கெஆண்ட"  poslcat="NM">
+14.1	கெஆண்ட	VM	<fs af='கெஆண்ட,unk,,,,,,' name="கெஆண்ட"  poslcat="NM">
+	))		
+15	((	NP	<fs af='குழு,unk,,,,,,' head="குழு"  poslcat="NM">
+15.1	குழு	NN	<fs af='குழு,unk,,,,,,' name="குழு"  poslcat="NM">
+	))		
+16	((	NP	<fs af='தண்டனைகளைத்,unk,,,,,,' head="தண்டனைகளைத்"  poslcat="NM">
+16.1	ஒன்று	QC	<fs af='ஒன்று,unk,,,,,,' poslcat="NM">
+16.2	கடும்	JJ	<fs af='கடும்,unk,,,,,,' poslcat="NM">
+16.3	தண்டனைகளைத்	NN	<fs af='தண்டனைகளைத்,unk,,,,,,' name="தண்டனைகளைத்"  poslcat="NM">
+	))		
+17	((	VGF	<fs af='திணித்துள்ளது,unk,,,,,,' head="திணித்துள்ளது"  poslcat="NM">
+17.1	திணித்துள்ளது	VM	<fs af='திணித்துள்ளது,unk,,,,,,' name="திணித்துள்ளது"  poslcat="NM">
+17.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='தமிழ்நாட்டில்,unk,,,,,,' head="தமிழ்நாட்டில்"  poslcat="NM">
+1.1	தென்னிந்திய	JJ	<fs af='தென்னிந்திய,unk,,,,,,' poslcat="NM">
+1.2	மாநிலமான	JJ	<fs af='மாநிலமான,unk,,,,,,' poslcat="NM">
+1.3	தமிழ்நாட்டில்	NN	<fs af='தமிழ்நாட்டில்,unk,,,,,,' name="தமிழ்நாட்டில்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='மாநிலம்,unk,,,,,,' head="மாநிலம்"  poslcat="NM">
+2.1	ஜூலையில்	NN	<fs af='ஜூலையில்,unk,,,,,,' poslcat="NM">
+2.2	மாநிலம்	NN	<fs af='மாநிலம்,unk,,,,,,' name="மாநிலம்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='தழுவிய,unk,,,,,,' head="தழுவிய"  poslcat="NM">
+3.1	தழுவிய	VM	<fs af='தழுவிய,unk,,,,,,' name="தழுவிய"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வேலை,unk,,,,,,' head="வேலை"  poslcat="NM">
+4.1	வேலை	NN	<fs af='வேலை,unk,,,,,,' name="வேலை"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='நிறுத்தத்தின்பேஆது,unk,,,,,,' head="நிறுத்தத்தின்பேஆது"  poslcat="NM">
+5.1	நிறுத்தத்தின்பேஆது	RB	<fs af='நிறுத்தத்தின்பேஆது,unk,,,,,,' name="நிறுத்தத்தின்பேஆது"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='தவறாகநடந்துகெஆண்டனர்,unk,,,,,,' head="தவறாகநடந்துகெஆண்டனர்"  poslcat="NM">
+6.1	தவறாகநடந்துகெஆண்டனர்	VM	<fs af='தவறாகநடந்துகெஆண்டனர்,unk,,,,,,' name="தவறாகநடந்துகெஆண்டனர்"  poslcat="NM">
+	))		
+7	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+7.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அரசாங்கத்தால்,unk,,,,,,' head="அரசாங்கத்தால்"  poslcat="NM">
+8.1	மாநில	JJ	<fs af='மாநில,unk,,,,,,' poslcat="NM">
+8.2	அரசாங்கத்தால்	NN	<fs af='அரசாங்கத்தால்,unk,,,,,,' name="அரசாங்கத்தால்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='குற்றம்சாட்டப்பட்ட,unk,,,,,,' head="குற்றம்சாட்டப்பட்ட"  poslcat="NM">
+9.1	குற்றம்சாட்டப்பட்ட	VM	<fs af='குற்றம்சாட்டப்பட்ட,unk,,,,,,' name="குற்றம்சாட்டப்பட்ட"  poslcat="NM">
+	))		
+10	((	NP	<fs af='பணியாளர்கள்,unk,,,,,,' head="பணியாளர்கள்"  poslcat="NM">
+10.1	நூற்றுக்கணக்கான	JJ	<fs af='நூற்றுக்கணக்கான,unk,,,,,,' poslcat="NM">
+10.2	அரசாங்க	JJ	<fs af='அரசாங்க,unk,,,,,,' poslcat="NM">
+10.3	பணியாளர்கள்	NN	<fs af='பணியாளர்கள்,unk,,,,,,' name="பணியாளர்கள்"  poslcat="NM">
+	))		
+11	((	BLK	<fs af='மீது,unk,,,,,,' head="மீது"  poslcat="NM">
+11.1	மீது	PSP	<fs af='மீது,unk,,,,,,' name="மீது"  poslcat="NM">
+	))		
+12	((	NP	<fs af='நீதிபதிகளைக்,unk,,,,,,' head="நீதிபதிகளைக்"  poslcat="NM">
+12.1	நீதிபதிகளைக்	NN	<fs af='நீதிபதிகளைக்,unk,,,,,,' name="நீதிபதிகளைக்"  poslcat="NM">
+	))		
+13	((	VGNF	<fs af='கெஆண்ட,unk,,,,,,' head="கெஆண்ட"  poslcat="NM">
+13.1	கெஆண்ட	VM	<fs af='கெஆண்ட,unk,,,,,,' name="கெஆண்ட"  poslcat="NM">
+	))		
+14	((	NP	<fs af='குழு,unk,,,,,,' head="குழு"  poslcat="NM">
+14.1	குழு	NN	<fs af='குழு,unk,,,,,,' name="குழு"  poslcat="NM">
+	))		
+15	((	NP	<fs af='தண்டனைகளைத்,unk,,,,,,' head="தண்டனைகளைத்"  poslcat="NM">
+15.1	ஒன்று	QC	<fs af='ஒன்று,unk,,,,,,' poslcat="NM">
+15.2	கடும்	JJ	<fs af='கடும்,unk,,,,,,' poslcat="NM">
+15.3	தண்டனைகளைத்	NN	<fs af='தண்டனைகளைத்,unk,,,,,,' name="தண்டனைகளைத்"  poslcat="NM">
+	))		
+16	((	VGF	<fs af='திணித்துள்ளது,unk,,,,,,' head="திணித்துள்ளது"  poslcat="NM">
+16.1	திணித்துள்ளது	VM	<fs af='திணித்துள்ளது,unk,,,,,,' name="திணித்துள்ளது"  poslcat="NM">
+16.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,99 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='ஜூன்,unk,,,,,,' head="ஜூன்"  poslcat="NM">
+2.1	ஜூன்	NN	<fs af='ஜூன்,unk,,,,,,' name="ஜூன்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='2003க்கும்,unk,,,,,,' head="2003க்கும்"  poslcat="NM">
+3.1	1993க்கும்	QC	<fs af='1993க்கும்,unk,,,,,,' poslcat="NM">
+3.2	ஜூன்	NN	<fs af='ஜூன்,unk,,,,,,' poslcat="NM">
+3.3	2003க்கும்	NN	<fs af='2003க்கும்,unk,,,,,,' name="2003க்கும்"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='இடையே,unk,,,,,,' head="இடையே"  poslcat="NM">
+4.1	இடையே	PSP	<fs af='இடையே,unk,,,,,,' name="இடையே"  poslcat="NM">
+	))		
+5	((	NP	<fs af='விக்டேஆரியாவில்,unk,,,,,,' head="விக்டேஆரியாவில்"  poslcat="NM">
+5.1	விக்டேஆரியாவில்	NN	<fs af='விக்டேஆரியாவில்,unk,,,,,,' name="விக்டேஆரியாவில்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='சராசரி,unk,,,,,,' head="சராசரி"  poslcat="NM">
+6.1	சராசரி	NN	<fs af='சராசரி,unk,,,,,,' name="சராசரி"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வீட்டு,unk,,,,,,' head="வீட்டு"  poslcat="NM">
+7.1	வீட்டு	NN	<fs af='வீட்டு,unk,,,,,,' name="வீட்டு"  poslcat="NM">
+	))		
+8	((	NP	<fs af='விலைகள்,unk,,,,,,' head="விலைகள்"  poslcat="NM">
+8.1	விலைகள்	NN	<fs af='விலைகள்,unk,,,,,,' name="விலைகள்"  poslcat="NM">
+8.2	$	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	<fs af='145000ல்,unk,,,,,,' head="145,000ல்"  poslcat="NM">
+9.1	145,000ல்	NN	<fs af='145000ல்,unk,,,,,,' name="145,000ல்"  poslcat="NM">
+	))		
+10	((	VGF	<fs af='இருந்து,unk,,,,,,' head="இருந்து"  poslcat="NM">
+10.1	இருந்து	VM	<fs af='இருந்து,unk,,,,,,' name="இருந்து"  poslcat="NM">
+10.2	$	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+11	((	NP	<fs af='359,000,num,,,,,,' head="359,000"  poslcat="NM">
+11.1	359,000	QC	<fs af='359,000,num,,,,,,' name="359,000"  poslcat="NM">
+	))		
+12	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+12.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+13	((	RBP	<fs af='இருமடங்காக,unk,,,,,,' head="இருமடங்காக"  poslcat="NM">
+13.1	இருமடங்காக	RB	<fs af='இருமடங்காக,unk,,,,,,' name="இருமடங்காக"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='உயர்ந்து,unk,,,,,,' head="உயர்ந்து"  poslcat="NM">
+14.1	உயர்ந்து	VM	<fs af='உயர்ந்து,unk,,,,,,' name="உயர்ந்து"  poslcat="NM">
+	))		
+15	((	VGF	<fs af='விட்டன,unk,,,,,,' head="விட்டன"  poslcat="NM">
+15.1	விட்டன	VAUX	<fs af='விட்டன,unk,,,,,,' name="விட்டன"  poslcat="NM">
+15.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='ஜூன்,unk,,,,,,' head="ஜூன்"  poslcat="NM">
+1.1	ஜூன்	NN	<fs af='ஜூன்,unk,,,,,,' name="ஜூன்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='2003க்கும்,unk,,,,,,' head="2003க்கும்"  poslcat="NM">
+2.1	1993க்கும்	QC	<fs af='1993க்கும்,unk,,,,,,' poslcat="NM">
+2.2	ஜூன்	NN	<fs af='ஜூன்,unk,,,,,,' poslcat="NM">
+2.3	2003க்கும்	NN	<fs af='2003க்கும்,unk,,,,,,' name="2003க்கும்"  poslcat="NM">
+	))		
+3	((	BLK	<fs af='இடையே,unk,,,,,,' head="இடையே"  poslcat="NM">
+3.1	இடையே	PSP	<fs af='இடையே,unk,,,,,,' name="இடையே"  poslcat="NM">
+	))		
+4	((	NP	<fs af='விக்டேஆரியாவில்,unk,,,,,,' head="விக்டேஆரியாவில்"  poslcat="NM">
+4.1	விக்டேஆரியாவில்	NN	<fs af='விக்டேஆரியாவில்,unk,,,,,,' name="விக்டேஆரியாவில்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='சராசரி,unk,,,,,,' head="சராசரி"  poslcat="NM">
+5.1	சராசரி	NN	<fs af='சராசரி,unk,,,,,,' name="சராசரி"  poslcat="NM">
+	))		
+6	((	NP	<fs af='வீட்டு,unk,,,,,,' head="வீட்டு"  poslcat="NM">
+6.1	வீட்டு	NN	<fs af='வீட்டு,unk,,,,,,' name="வீட்டு"  poslcat="NM">
+	))		
+7	((	NP	<fs af='விலைகள்,unk,,,,,,' head="விலைகள்"  poslcat="NM">
+7.1	விலைகள்	NN	<fs af='விலைகள்,unk,,,,,,' name="விலைகள்"  poslcat="NM">
+7.2	$	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	<fs af='145000ல்,unk,,,,,,' head="145,000ல்"  poslcat="NM">
+8.1	145,000ல்	NN	<fs af='145000ல்,unk,,,,,,' name="145,000ல்"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='இருந்து,unk,,,,,,' head="இருந்து"  poslcat="NM">
+9.1	இருந்து	VM	<fs af='இருந்து,unk,,,,,,' name="இருந்து"  poslcat="NM">
+9.2	$	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+10	((	NP	<fs af='359,000,num,,,,,,' head="359,000"  poslcat="NM">
+10.1	359,000	QC	<fs af='359,000,num,,,,,,' name="359,000"  poslcat="NM">
+	))		
+11	((	BLK	<fs af='என்று,unk,,,,,,' head="என்று"  poslcat="NM">
+11.1	என்று	UT	<fs af='என்று,unk,,,,,,' name="என்று"  poslcat="NM">
+	))		
+12	((	RBP	<fs af='இருமடங்காக,unk,,,,,,' head="இருமடங்காக"  poslcat="NM">
+12.1	இருமடங்காக	RB	<fs af='இருமடங்காக,unk,,,,,,' name="இருமடங்காக"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='உயர்ந்து,unk,,,,,,' head="உயர்ந்து"  poslcat="NM">
+13.1	உயர்ந்து	VM	<fs af='உயர்ந்து,unk,,,,,,' name="உயர்ந்து"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='விட்டன,unk,,,,,,' head="விட்டன"  poslcat="NM">
+14.1	விட்டன	VAUX	<fs af='விட்டன,unk,,,,,,' name="விட்டன"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,73 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='தேர்தல்கள்,unk,,,,,,' head="தேர்தல்கள்"  poslcat="NM">
+2.1	தேர்தல்கள்	NN	<fs af='தேர்தல்கள்,unk,,,,,,' name="தேர்தல்கள்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='நடந்து,unk,,,,,,' head="நடந்து"  poslcat="NM">
+3.1	நடந்து	VM	<fs af='நடந்து,unk,,,,,,' name="நடந்து"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='முடிந்த,unk,,,,,,' head="முடிந்த"  poslcat="NM">
+4.1	முடிந்த	VM	<fs af='முடிந்த,unk,,,,,,' name="முடிந்த"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='உடனேயே,unk,,,,,,' head="உடனேயே"  poslcat="NM">
+5.1	உடனேயே	RB	<fs af='உடனேயே,unk,,,,,,' name="உடனேயே"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கட்சியின்,unk,,,,,,' head="கட்சியின்_2"  poslcat="NM">
+6.1	சேஆசலிச	JJ	<fs af='சேஆசலிச,unk,,,,,,' poslcat="NM">
+6.2	கட்சியின்	NN	<fs af='கட்சியின்,unk,,,,,,' name="கட்சியின்_2"  poslcat="NM">
+	))		
+7	((	NP	<fs af='முன்னணி,unk,,,,,,' head="முன்னணி"  poslcat="NM">
+7.1	முன்னணி	NN	<fs af='முன்னணி,unk,,,,,,' name="முன்னணி"  poslcat="NM">
+	))		
+8	((	NP	<fs af='வேட்பாளர்,unk,,,,,,' head="வேட்பாளர்"  poslcat="NM">
+8.1	வேட்பாளர்	NN	<fs af='வேட்பாளர்,unk,,,,,,' name="வேட்பாளர்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='கட்சியின்,unk,,,,,,' head="கட்சியின்"  poslcat="NM">
+9.1	கட்சியின்	NN	<fs af='கட்சியின்,unk,,,,,,' name="கட்சியின்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='தலைவர்,unk,,,,,,' head="தலைவர்"  poslcat="NM">
+10.1	தலைவர்	NN	<fs af='தலைவர்,unk,,,,,,' name="தலைவர்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='ஜன்,unk,,,,,,' head="ஜன்"  poslcat="NM">
+11.1	ஜன்	NN	<fs af='ஜன்,unk,,,,,,' name="ஜன்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='மறைனிஷன்,unk,,,,,,' head="மறைனிஷன்"  poslcat="NM">
+12.1	மறைனிஷன்	NNP	<fs af='மறைனிஷன்,unk,,,,,,' name="மறைனிஷன்"  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='தேர்தல்கள்,unk,,,,,,' head="தேர்தல்கள்"  poslcat="NM">
+1.1	தேர்தல்கள்	NN	<fs af='தேர்தல்கள்,unk,,,,,,' name="தேர்தல்கள்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='நடந்து,unk,,,,,,' head="நடந்து"  poslcat="NM">
+2.1	நடந்து	VM	<fs af='நடந்து,unk,,,,,,' name="நடந்து"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='முடிந்த,unk,,,,,,' head="முடிந்த"  poslcat="NM">
+3.1	முடிந்த	VM	<fs af='முடிந்த,unk,,,,,,' name="முடிந்த"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='உடனேயே,unk,,,,,,' head="உடனேயே"  poslcat="NM">
+4.1	உடனேயே	RB	<fs af='உடனேயே,unk,,,,,,' name="உடனேயே"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கட்சியின்,unk,,,,,,' head="கட்சியின்_2"  poslcat="NM">
+5.1	சேஆசலிச	JJ	<fs af='சேஆசலிச,unk,,,,,,' poslcat="NM">
+5.2	கட்சியின்	NN	<fs af='கட்சியின்,unk,,,,,,' name="கட்சியின்_2"  poslcat="NM">
+	))		
+6	((	NP	<fs af='முன்னணி,unk,,,,,,' head="முன்னணி"  poslcat="NM">
+6.1	முன்னணி	NN	<fs af='முன்னணி,unk,,,,,,' name="முன்னணி"  poslcat="NM">
+	))		
+7	((	NP	<fs af='வேட்பாளர்,unk,,,,,,' head="வேட்பாளர்"  poslcat="NM">
+7.1	வேட்பாளர்	NN	<fs af='வேட்பாளர்,unk,,,,,,' name="வேட்பாளர்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='கட்சியின்,unk,,,,,,' head="கட்சியின்"  poslcat="NM">
+8.1	கட்சியின்	NN	<fs af='கட்சியின்,unk,,,,,,' name="கட்சியின்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='தலைவர்,unk,,,,,,' head="தலைவர்"  poslcat="NM">
+9.1	தலைவர்	NN	<fs af='தலைவர்,unk,,,,,,' name="தலைவர்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='ஜன்,unk,,,,,,' head="ஜன்"  poslcat="NM">
+10.1	ஜன்	NN	<fs af='ஜன்,unk,,,,,,' name="ஜன்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='மறைனிஷன்,unk,,,,,,' head="மறைனிஷன்"  poslcat="NM">
+11.1	மறைனிஷன்	NNP	<fs af='மறைனிஷன்,unk,,,,,,' name="மறைனிஷன்"  poslcat="NM">
+	))		
+</Sentence>			

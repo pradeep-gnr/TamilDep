@@ -1,0 +1,71 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='குழந்தைகள்,unk,,,,,,' head="குழந்தைகள்"  poslcat="NM">
+2.1	பெரும்பாலான	JJ	<fs af='பெரும்பாலான,unk,,,,,,' poslcat="NM">
+2.2	குழந்தைகள்	NN	<fs af='குழந்தைகள்,unk,,,,,,' name="குழந்தைகள்"  poslcat="NM">
+2.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='குறைவினாலும்,unk,,,,,,' head="குறைவினாலும்"  poslcat="NM">
+3.1	சுகாதாரக்	JJ	<fs af='சுகாதாரக்,unk,,,,,,' poslcat="NM">
+3.2	குறைவினாலும்	NN	<fs af='குறைவினாலும்,unk,,,,,,' name="குறைவினாலும்"  poslcat="NM">
+3.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='இல்லாததாலும்,unk,,,,,,' head="இல்லாததாலும்"  poslcat="NM">
+4.1	பேஆதிய	JJ	<fs af='பேஆதிய,unk,,,,,,' poslcat="NM">
+4.2	குடிநீர்	NN	<fs af='குடிநீர்,unk,,,,,,' poslcat="NM">
+4.3	இல்லாததாலும்	NN	<fs af='இல்லாததாலும்,unk,,,,,,' name="இல்லாததாலும்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='ஏற்பட்டிருந்த,unk,,,,,,' head="ஏற்பட்டிருந்த"  poslcat="NM">
+5.1	ஏற்பட்டிருந்த	VM	<fs af='ஏற்பட்டிருந்த,unk,,,,,,' name="ஏற்பட்டிருந்த"  poslcat="NM">
+	))		
+6	((	NP	<fs af='பேஆக்கு,unk,,,,,,' head="பேஆக்கு"  poslcat="NM">
+6.1	வயிற்றுப்	NNC	<fs af='வயிற்றுப்,unk,,,,,,' poslcat="NM">
+6.2	பேஆக்கு	NN	<fs af='பேஆக்கு,unk,,,,,,' name="பேஆக்கு"  poslcat="NM">
+	))		
+7	((	NP	<fs af='நேஆயினால்,unk,,,,,,' head="நேஆயினால்"  poslcat="NM">
+7.1	நேஆயினால்	NN	<fs af='நேஆயினால்,unk,,,,,,' name="நேஆயினால்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='அவதிக்கு,unk,,,,,,' head="அவதிக்கு"  poslcat="NM">
+8.1	பெரும்	JJ	<fs af='பெரும்,unk,,,,,,' poslcat="NM">
+8.2	அவதிக்கு	NN	<fs af='அவதிக்கு,unk,,,,,,' name="அவதிக்கு"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='ஆளாகியிருந்தன,unk,,,,,,' head="ஆளாகியிருந்தன"  poslcat="NM">
+9.1	ஆளாகியிருந்தன	VM	<fs af='ஆளாகியிருந்தன,unk,,,,,,' name="ஆளாகியிருந்தன"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='குழந்தைகள்,unk,,,,,,' head="குழந்தைகள்"  poslcat="NM">
+1.1	பெரும்பாலான	JJ	<fs af='பெரும்பாலான,unk,,,,,,' poslcat="NM">
+1.2	குழந்தைகள்	NN	<fs af='குழந்தைகள்,unk,,,,,,' name="குழந்தைகள்"  poslcat="NM">
+1.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='குறைவினாலும்,unk,,,,,,' head="குறைவினாலும்"  poslcat="NM">
+2.1	சுகாதாரக்	JJ	<fs af='சுகாதாரக்,unk,,,,,,' poslcat="NM">
+2.2	குறைவினாலும்	NN	<fs af='குறைவினாலும்,unk,,,,,,' name="குறைவினாலும்"  poslcat="NM">
+2.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='இல்லாததாலும்,unk,,,,,,' head="இல்லாததாலும்"  poslcat="NM">
+3.1	பேஆதிய	JJ	<fs af='பேஆதிய,unk,,,,,,' poslcat="NM">
+3.2	குடிநீர்	NN	<fs af='குடிநீர்,unk,,,,,,' poslcat="NM">
+3.3	இல்லாததாலும்	NN	<fs af='இல்லாததாலும்,unk,,,,,,' name="இல்லாததாலும்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='ஏற்பட்டிருந்த,unk,,,,,,' head="ஏற்பட்டிருந்த"  poslcat="NM">
+4.1	ஏற்பட்டிருந்த	VM	<fs af='ஏற்பட்டிருந்த,unk,,,,,,' name="ஏற்பட்டிருந்த"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பேஆக்கு,unk,,,,,,' head="பேஆக்கு"  poslcat="NM">
+5.1	வயிற்றுப்	NNC	<fs af='வயிற்றுப்,unk,,,,,,' poslcat="NM">
+5.2	பேஆக்கு	NN	<fs af='பேஆக்கு,unk,,,,,,' name="பேஆக்கு"  poslcat="NM">
+	))		
+6	((	NP	<fs af='நேஆயினால்,unk,,,,,,' head="நேஆயினால்"  poslcat="NM">
+6.1	நேஆயினால்	NN	<fs af='நேஆயினால்,unk,,,,,,' name="நேஆயினால்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='அவதிக்கு,unk,,,,,,' head="அவதிக்கு"  poslcat="NM">
+7.1	பெரும்	JJ	<fs af='பெரும்,unk,,,,,,' poslcat="NM">
+7.2	அவதிக்கு	NN	<fs af='அவதிக்கு,unk,,,,,,' name="அவதிக்கு"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='ஆளாகியிருந்தன,unk,,,,,,' head="ஆளாகியிருந்தன"  poslcat="NM">
+8.1	ஆளாகியிருந்தன	VM	<fs af='ஆளாகியிருந்தன,unk,,,,,,' name="ஆளாகியிருந்தன"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

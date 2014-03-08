@@ -1,0 +1,79 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='உங்களுக்கு,unk,,,,,,' head="உங்களுக்கு"  poslcat="NM">
+2.1	உங்களுக்கு	PRP	<fs af='உங்களுக்கு,unk,,,,,,' name="உங்களுக்கு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஜிம்,unk,,,,,,' head="ஜிம்"  poslcat="NM">
+3.1	ஜிம்	NN	<fs af='ஜிம்,unk,,,,,,' name="ஜிம்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ரேஆகலைத்,unk,,,,,,' head="ரேஆகலைத்"  poslcat="NM">
+4.1	ரேஆகலைத்	NN	<fs af='ரேஆகலைத்,unk,,,,,,' name="ரேஆகலைத்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='தெரியும்,unk,,,,,,' head="தெரியும்"  poslcat="NM">
+5.1	தெரியும்	VM	<fs af='தெரியும்,unk,,,,,,' name="தெரியும்"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='தலைவர்,unk,,,,,,' head="தலைவர்"  poslcat="NM">
+6.1	தலைவர்	NN	<fs af='தலைவர்,unk,,,,,,' name="தலைவர்"  poslcat="NM">
+	))		
+7	((	NP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+7.1	அவர்களே	PRP	<fs af='அவர்களே,unk,,,,,,' poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+8	((	NP	<fs af='உங்களுடைய,unk,,,,,,' head="உங்களுடைய"  poslcat="NM">
+8.1	உங்களுடைய	PRP	<fs af='உங்களுடைய,unk,,,,,,' name="உங்களுடைய"  poslcat="NM">
+	))		
+9	((	RBP	<fs af='அலுவலராக,unk,,,,,,' head="அலுவலராக"  poslcat="NM">
+9.1	அலுவலராக	RB	<fs af='அலுவலராக,unk,,,,,,' name="அலுவலராக"  poslcat="NM">
+	))		
+10	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+10.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='வேலை,unk,,,,,,' head="வேலை"  poslcat="NM">
+11.1	வேலை	NN	<fs af='வேலை,unk,,,,,,' name="வேலை"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='பார்க்கிறார்,unk,,,,,,' head="பார்க்கிறார்"  poslcat="NM">
+12.1	பார்க்கிறார்	VM	<fs af='பார்க்கிறார்,unk,,,,,,' name="பார்க்கிறார்"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+12.3	"	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='உங்களுக்கு,unk,,,,,,' head="உங்களுக்கு"  poslcat="NM">
+1.1	உங்களுக்கு	PRP	<fs af='உங்களுக்கு,unk,,,,,,' name="உங்களுக்கு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஜிம்,unk,,,,,,' head="ஜிம்"  poslcat="NM">
+2.1	ஜிம்	NN	<fs af='ஜிம்,unk,,,,,,' name="ஜிம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ரேஆகலைத்,unk,,,,,,' head="ரேஆகலைத்"  poslcat="NM">
+3.1	ரேஆகலைத்	NN	<fs af='ரேஆகலைத்,unk,,,,,,' name="ரேஆகலைத்"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='தெரியும்,unk,,,,,,' head="தெரியும்"  poslcat="NM">
+4.1	தெரியும்	VM	<fs af='தெரியும்,unk,,,,,,' name="தெரியும்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='தலைவர்,unk,,,,,,' head="தலைவர்"  poslcat="NM">
+5.1	தலைவர்	NN	<fs af='தலைவர்,unk,,,,,,' name="தலைவர்"  poslcat="NM">
+	))		
+6	((	NP	<fs af=',unk,,,,,,' head=","  poslcat="NM">
+6.1	அவர்களே	PRP	<fs af='அவர்களே,unk,,,,,,' poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' name=","  poslcat="NM">
+	))		
+7	((	NP	<fs af='உங்களுடைய,unk,,,,,,' head="உங்களுடைய"  poslcat="NM">
+7.1	உங்களுடைய	PRP	<fs af='உங்களுடைய,unk,,,,,,' name="உங்களுடைய"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='அலுவலராக,unk,,,,,,' head="அலுவலராக"  poslcat="NM">
+8.1	அலுவலராக	RB	<fs af='அலுவலராக,unk,,,,,,' name="அலுவலராக"  poslcat="NM">
+	))		
+9	((	NP	<fs af='அவர்,unk,,,,,,' head="அவர்"  poslcat="NM">
+9.1	அவர்	PRP	<fs af='அவர்,unk,,,,,,' name="அவர்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='வேலை,unk,,,,,,' head="வேலை"  poslcat="NM">
+10.1	வேலை	NN	<fs af='வேலை,unk,,,,,,' name="வேலை"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='பார்க்கிறார்,unk,,,,,,' head="பார்க்கிறார்"  poslcat="NM">
+11.1	பார்க்கிறார்	VM	<fs af='பார்க்கிறார்,unk,,,,,,' name="பார்க்கிறார்"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+11.3	"	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

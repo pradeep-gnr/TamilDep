@@ -1,0 +1,89 @@
+<Sentence id="">			
+1			
+2	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+2.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+3	((	NP	<fs af='மாதத்தின்,unk,,,,,,' head="மாதத்தின்"  poslcat="NM">
+3.1	மாதத்தின்	NN	<fs af='மாதத்தின்,unk,,,,,,' name="மாதத்தின்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வேஆல்,unk,,,,,,' head="வேஆல்"  poslcat="NM">
+4.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+4.2	படிப்பினை	NN	<fs af='படிப்பினை,unk,,,,,,' poslcat="NM">
+4.3	வேஆல்	NN	<fs af='வேஆல்,unk,,,,,,' name="வேஆல்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஸ்ட்ரீட்டின்,unk,,,,,,' head="ஸ்ட்ரீட்டின்"  poslcat="NM">
+5.1	ஸ்ட்ரீட்டின்	NN	<fs af='ஸ்ட்ரீட்டின்,unk,,,,,,' name="ஸ்ட்ரீட்டின்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='தலைவிதியும்,unk,,,,,,' head="தலைவிதியும்_2"  poslcat="NM">
+6.1	தலைவிதியும்	NN	<fs af='தலைவிதியும்,unk,,,,,,' name="தலைவிதியும்_2"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='பரந்துபட்ட,unk,,,,,,' head="பரந்துபட்ட"  poslcat="NM">
+7.1	பரந்துபட்ட	VM	<fs af='பரந்துபட்ட,unk,,,,,,' name="பரந்துபட்ட"  poslcat="NM">
+	))		
+8	((	NP	<fs af='மக்களில்,unk,,,,,,' head="மக்களில்"  poslcat="NM">
+8.1	மக்களில்	NN	<fs af='மக்களில்,unk,,,,,,' name="மக்களில்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='தலைவிதியும்,unk,,,,,,' head="தலைவிதியும்"  poslcat="NM">
+9.1	தலைவிதியும்	NN	<fs af='தலைவிதியும்,unk,,,,,,' name="தலைவிதியும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='எதிர்,unk,,,,,,' head="எதிர்_2"  poslcat="NM">
+10.1	எதிர்	NN	<fs af='எதிர்,unk,,,,,,' name="எதிர்_2"  poslcat="NM">
+	))		
+11	((	NP	<fs af='எதிர்,unk,,,,,,' head="எதிர்"  poslcat="NM">
+11.1	எதிர்	NN	<fs af='எதிர்,unk,,,,,,' name="எதிர்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='திசையில்,unk,,,,,,' head="திசையில்"  poslcat="NM">
+12.1	திசையில்	NN	<fs af='திசையில்,unk,,,,,,' name="திசையில்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='நகர்கின்றனர்,unk,,,,,,' head="நகர்கின்றனர்"  poslcat="NM">
+13.1	நகர்கின்றனர்	NN	<fs af='நகர்கின்றனர்,unk,,,,,,' name="நகர்கின்றனர்"  poslcat="NM">
+	))		
+14	((	VGF	<fs af='என்பதாகும்,unk,,,,,,' head="என்பதாகும்"  poslcat="NM">
+14.1	என்பதாகும்	VM	<fs af='என்பதாகும்,unk,,,,,,' name="என்பதாகும்"  poslcat="NM">
+14.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	VGNF	<fs af='கடந்த,unk,,,,,,' head="கடந்த"  poslcat="NM">
+1.1	கடந்த	VM	<fs af='கடந்த,unk,,,,,,' name="கடந்த"  poslcat="NM">
+	))		
+2	((	NP	<fs af='மாதத்தின்,unk,,,,,,' head="மாதத்தின்"  poslcat="NM">
+2.1	மாதத்தின்	NN	<fs af='மாதத்தின்,unk,,,,,,' name="மாதத்தின்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வேஆல்,unk,,,,,,' head="வேஆல்"  poslcat="NM">
+3.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+3.2	படிப்பினை	NN	<fs af='படிப்பினை,unk,,,,,,' poslcat="NM">
+3.3	வேஆல்	NN	<fs af='வேஆல்,unk,,,,,,' name="வேஆல்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஸ்ட்ரீட்டின்,unk,,,,,,' head="ஸ்ட்ரீட்டின்"  poslcat="NM">
+4.1	ஸ்ட்ரீட்டின்	NN	<fs af='ஸ்ட்ரீட்டின்,unk,,,,,,' name="ஸ்ட்ரீட்டின்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='தலைவிதியும்,unk,,,,,,' head="தலைவிதியும்_2"  poslcat="NM">
+5.1	தலைவிதியும்	NN	<fs af='தலைவிதியும்,unk,,,,,,' name="தலைவிதியும்_2"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='பரந்துபட்ட,unk,,,,,,' head="பரந்துபட்ட"  poslcat="NM">
+6.1	பரந்துபட்ட	VM	<fs af='பரந்துபட்ட,unk,,,,,,' name="பரந்துபட்ட"  poslcat="NM">
+	))		
+7	((	NP	<fs af='மக்களில்,unk,,,,,,' head="மக்களில்"  poslcat="NM">
+7.1	மக்களில்	NN	<fs af='மக்களில்,unk,,,,,,' name="மக்களில்"  poslcat="NM">
+	))		
+8	((	NP	<fs af='தலைவிதியும்,unk,,,,,,' head="தலைவிதியும்"  poslcat="NM">
+8.1	தலைவிதியும்	NN	<fs af='தலைவிதியும்,unk,,,,,,' name="தலைவிதியும்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='எதிர்,unk,,,,,,' head="எதிர்_2"  poslcat="NM">
+9.1	எதிர்	NN	<fs af='எதிர்,unk,,,,,,' name="எதிர்_2"  poslcat="NM">
+	))		
+10	((	NP	<fs af='எதிர்,unk,,,,,,' head="எதிர்"  poslcat="NM">
+10.1	எதிர்	NN	<fs af='எதிர்,unk,,,,,,' name="எதிர்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='திசையில்,unk,,,,,,' head="திசையில்"  poslcat="NM">
+11.1	திசையில்	NN	<fs af='திசையில்,unk,,,,,,' name="திசையில்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='நகர்கின்றனர்,unk,,,,,,' head="நகர்கின்றனர்"  poslcat="NM">
+12.1	நகர்கின்றனர்	NN	<fs af='நகர்கின்றனர்,unk,,,,,,' name="நகர்கின்றனர்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='என்பதாகும்,unk,,,,,,' head="என்பதாகும்"  poslcat="NM">
+13.1	என்பதாகும்	VM	<fs af='என்பதாகும்,unk,,,,,,' name="என்பதாகும்"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

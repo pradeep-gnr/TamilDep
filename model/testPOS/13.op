@@ -1,0 +1,45 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='மதில்களுக்கு,unk,,,,,,' head="மதில்களுக்கு"  poslcat="NM">
+2.1	இரண்டு	QC	<fs af='இரண்டு,unk,,,,,,' poslcat="NM">
+2.2	மதில்களுக்கு	NN	<fs af='மதில்களுக்கு,unk,,,,,,' name="மதில்களுக்கு"  poslcat="NM">
+2.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	BLK	<fs af='நடுவே,unk,,,,,,' head="நடுவே"  poslcat="NM">
+3.1	நடுவே	PSP	<fs af='நடுவே,unk,,,,,,' name="நடுவே"  poslcat="NM">
+	))		
+4	((	NP	<fs af='தண்ணீர்களுக்கு,unk,,,,,,' head="தண்ணீர்களுக்கு"  poslcat="NM">
+4.1	பழைய	JJ	<fs af='பழைய,unk,,,,,,' poslcat="NM">
+4.2	குளத்துத்	NN	<fs af='குளத்துத்,unk,,,,,,' poslcat="NM">
+4.3	தண்ணீர்களுக்கு	NN	<fs af='தண்ணீர்களுக்கு,unk,,,,,,' name="தண்ணீர்களுக்கு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அகழை,unk,,,,,,' head="அகழை"  poslcat="NM">
+5.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+5.2	அகழை	NN	<fs af='அகழை,unk,,,,,,' name="அகழை"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='உண்டுபண்ணுவீர்கள்,unk,,,,,,' head="உண்டுபண்ணுவீர்கள்"  poslcat="NM">
+6.1	உண்டுபண்ணுவீர்கள்	VM	<fs af='உண்டுபண்ணுவீர்கள்,unk,,,,,,' name="உண்டுபண்ணுவீர்கள்"  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='மதில்களுக்கு,unk,,,,,,' head="மதில்களுக்கு"  poslcat="NM">
+1.1	இரண்டு	QC	<fs af='இரண்டு,unk,,,,,,' poslcat="NM">
+1.2	மதில்களுக்கு	NN	<fs af='மதில்களுக்கு,unk,,,,,,' name="மதில்களுக்கு"  poslcat="NM">
+1.3	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	BLK	<fs af='நடுவே,unk,,,,,,' head="நடுவே"  poslcat="NM">
+2.1	நடுவே	PSP	<fs af='நடுவே,unk,,,,,,' name="நடுவே"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தண்ணீர்களுக்கு,unk,,,,,,' head="தண்ணீர்களுக்கு"  poslcat="NM">
+3.1	பழைய	JJ	<fs af='பழைய,unk,,,,,,' poslcat="NM">
+3.2	குளத்துத்	NN	<fs af='குளத்துத்,unk,,,,,,' poslcat="NM">
+3.3	தண்ணீர்களுக்கு	NN	<fs af='தண்ணீர்களுக்கு,unk,,,,,,' name="தண்ணீர்களுக்கு"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அகழை,unk,,,,,,' head="அகழை"  poslcat="NM">
+4.1	ஒரு	QC	<fs af='ஒரு,unk,,,,,,' poslcat="NM">
+4.2	அகழை	NN	<fs af='அகழை,unk,,,,,,' name="அகழை"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='உண்டுபண்ணுவீர்கள்,unk,,,,,,' head="உண்டுபண்ணுவீர்கள்"  poslcat="NM">
+5.1	உண்டுபண்ணுவீர்கள்	VM	<fs af='உண்டுபண்ணுவீர்கள்,unk,,,,,,' name="உண்டுபண்ணுவீர்கள்"  poslcat="NM">
+	))		
+</Sentence>			

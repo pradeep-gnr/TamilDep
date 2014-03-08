@@ -1,0 +1,83 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='எனக்கு,unk,,,,,,' head="எனக்கு"  poslcat="NM">
+2.1	எனக்கு	PRP	<fs af='எனக்கு,unk,,,,,,' name="எனக்கு"  poslcat="NM">
+	))		
+3	((	NP	<fs af='கேஆபம்,unk,,,,,,' head="கேஆபம்"  poslcat="NM">
+3.1	கேஆபம்	NN	<fs af='கேஆபம்,unk,,,,,,' name="கேஆபம்"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='அதிகமாக,unk,,,,,,' head="அதிகமாக"  poslcat="NM">
+4.1	மிக	INTF	<fs af='மிக,unk,,,,,,' poslcat="NM">
+4.2	அதிகமாக	RB	<fs af='அதிகமாக,unk,,,,,,' name="அதிகமாக"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='வருவதற்கு,unk,,,,,,' head="வருவதற்கு"  poslcat="NM">
+5.1	வருவதற்கு	VM	<fs af='வருவதற்கு,unk,,,,,,' name="வருவதற்கு"  poslcat="NM">
+	))		
+6	((	NP	<fs af='காரணம்,unk,,,,,,' head="காரணம்"  poslcat="NM">
+6.1	காரணம்	NN	<fs af='காரணம்,unk,,,,,,' name="காரணம்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='இது,unk,,,,,,' head="இது"  poslcat="NM">
+7.1	இது	PRP	<fs af='இது,unk,,,,,,' name="இது"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='பேஆன்ற,unk,,,,,,' head="பேஆன்ற"  poslcat="NM">
+8.1	பேஆன்ற	VM	<fs af='பேஆன்ற,unk,,,,,,' name="பேஆன்ற"  poslcat="NM">
+	))		
+9	((	NP	<fs af='பேரழிவுகள்,unk,,,,,,' head="பேரழிவுகள்"  poslcat="NM">
+9.1	பேரழிவுகள்	NN	<fs af='பேரழிவுகள்,unk,,,,,,' name="பேரழிவுகள்"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='ஏற்படுகின்றபேஆது,unk,,,,,,' head="ஏற்படுகின்றபேஆது"  poslcat="NM">
+10.1	ஏற்படுகின்றபேஆது	VM	<fs af='ஏற்படுகின்றபேஆது,unk,,,,,,' name="ஏற்படுகின்றபேஆது"  poslcat="NM">
+	))		
+11	((	NP	<fs af='மக்களின்,unk,,,,,,' head="மக்களின்"  poslcat="NM">
+11.1	மக்களின்	NN	<fs af='மக்களின்,unk,,,,,,' name="மக்களின்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='குணங்களும்,unk,,,,,,' head="குணங்களும்"  poslcat="NM">
+12.1	படுமேஆசமான	JJ	<fs af='படுமேஆசமான,unk,,,,,,' poslcat="NM">
+12.2	குணங்களும்	NN	<fs af='குணங்களும்,unk,,,,,,' name="குணங்களும்"  poslcat="NM">
+	))		
+13	((	VGF	<fs af='வெளிப்படுகின்றன,unk,,,,,,' head="வெளிப்படுகின்றன"  poslcat="NM">
+13.1	வெளிப்படுகின்றன	VM	<fs af='வெளிப்படுகின்றன,unk,,,,,,' name="வெளிப்படுகின்றன"  poslcat="NM">
+13.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='எனக்கு,unk,,,,,,' head="எனக்கு"  poslcat="NM">
+1.1	எனக்கு	PRP	<fs af='எனக்கு,unk,,,,,,' name="எனக்கு"  poslcat="NM">
+	))		
+2	((	NP	<fs af='கேஆபம்,unk,,,,,,' head="கேஆபம்"  poslcat="NM">
+2.1	கேஆபம்	NN	<fs af='கேஆபம்,unk,,,,,,' name="கேஆபம்"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='அதிகமாக,unk,,,,,,' head="அதிகமாக"  poslcat="NM">
+3.1	மிக	INTF	<fs af='மிக,unk,,,,,,' poslcat="NM">
+3.2	அதிகமாக	RB	<fs af='அதிகமாக,unk,,,,,,' name="அதிகமாக"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='வருவதற்கு,unk,,,,,,' head="வருவதற்கு"  poslcat="NM">
+4.1	வருவதற்கு	VM	<fs af='வருவதற்கு,unk,,,,,,' name="வருவதற்கு"  poslcat="NM">
+	))		
+5	((	NP	<fs af='காரணம்,unk,,,,,,' head="காரணம்"  poslcat="NM">
+5.1	காரணம்	NN	<fs af='காரணம்,unk,,,,,,' name="காரணம்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='இது,unk,,,,,,' head="இது"  poslcat="NM">
+6.1	இது	PRP	<fs af='இது,unk,,,,,,' name="இது"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='பேஆன்ற,unk,,,,,,' head="பேஆன்ற"  poslcat="NM">
+7.1	பேஆன்ற	VM	<fs af='பேஆன்ற,unk,,,,,,' name="பேஆன்ற"  poslcat="NM">
+	))		
+8	((	NP	<fs af='பேரழிவுகள்,unk,,,,,,' head="பேரழிவுகள்"  poslcat="NM">
+8.1	பேரழிவுகள்	NN	<fs af='பேரழிவுகள்,unk,,,,,,' name="பேரழிவுகள்"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='ஏற்படுகின்றபேஆது,unk,,,,,,' head="ஏற்படுகின்றபேஆது"  poslcat="NM">
+9.1	ஏற்படுகின்றபேஆது	VM	<fs af='ஏற்படுகின்றபேஆது,unk,,,,,,' name="ஏற்படுகின்றபேஆது"  poslcat="NM">
+	))		
+10	((	NP	<fs af='மக்களின்,unk,,,,,,' head="மக்களின்"  poslcat="NM">
+10.1	மக்களின்	NN	<fs af='மக்களின்,unk,,,,,,' name="மக்களின்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='குணங்களும்,unk,,,,,,' head="குணங்களும்"  poslcat="NM">
+11.1	படுமேஆசமான	JJ	<fs af='படுமேஆசமான,unk,,,,,,' poslcat="NM">
+11.2	குணங்களும்	NN	<fs af='குணங்களும்,unk,,,,,,' name="குணங்களும்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='வெளிப்படுகின்றன,unk,,,,,,' head="வெளிப்படுகின்றன"  poslcat="NM">
+12.1	வெளிப்படுகின்றன	VM	<fs af='வெளிப்படுகின்றன,unk,,,,,,' name="வெளிப்படுகின்றன"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

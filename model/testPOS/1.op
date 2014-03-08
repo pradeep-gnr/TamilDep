@@ -1,0 +1,41 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='சன்,unk,,,,,,' head="சன்"  poslcat="NM">
+2.1	அங்குள்ள	JJ	<fs af='அங்குள்ள,unk,,,,,,' poslcat="NM">
+2.2	சன்	NN	<fs af='சன்,unk,,,,,,' name="சன்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='டவர்ஸ்,unk,,,,,,' head="டவர்ஸ்"  poslcat="NM">
+3.1	டவர்ஸ்	NN	<fs af='டவர்ஸ்,unk,,,,,,' name="டவர்ஸ்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='லாட்ஜில்,unk,,,,,,' head="லாட்ஜில்"  poslcat="NM">
+4.1	லாட்ஜில்	NN	<fs af='லாட்ஜில்,unk,,,,,,' name="லாட்ஜில்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='அறை,unk,,,,,,' head="அறை"  poslcat="NM">
+5.1	அவருக்கு	PRP	<fs af='அவருக்கு,unk,,,,,,' poslcat="NM">
+5.2	அறை	NN	<fs af='அறை,unk,,,,,,' name="அறை"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='ஏற்பாடாகியிருந்தது,unk,,,,,,' head="ஏற்பாடாகியிருந்தது"  poslcat="NM">
+6.1	ஏற்பாடாகியிருந்தது	VM	<fs af='ஏற்பாடாகியிருந்தது,unk,,,,,,' name="ஏற்பாடாகியிருந்தது"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='சன்,unk,,,,,,' head="சன்"  poslcat="NM">
+1.1	அங்குள்ள	JJ	<fs af='அங்குள்ள,unk,,,,,,' poslcat="NM">
+1.2	சன்	NN	<fs af='சன்,unk,,,,,,' name="சன்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='டவர்ஸ்,unk,,,,,,' head="டவர்ஸ்"  poslcat="NM">
+2.1	டவர்ஸ்	NN	<fs af='டவர்ஸ்,unk,,,,,,' name="டவர்ஸ்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='லாட்ஜில்,unk,,,,,,' head="லாட்ஜில்"  poslcat="NM">
+3.1	லாட்ஜில்	NN	<fs af='லாட்ஜில்,unk,,,,,,' name="லாட்ஜில்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='அறை,unk,,,,,,' head="அறை"  poslcat="NM">
+4.1	அவருக்கு	PRP	<fs af='அவருக்கு,unk,,,,,,' poslcat="NM">
+4.2	அறை	NN	<fs af='அறை,unk,,,,,,' name="அறை"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='ஏற்பாடாகியிருந்தது,unk,,,,,,' head="ஏற்பாடாகியிருந்தது"  poslcat="NM">
+5.1	ஏற்பாடாகியிருந்தது	VM	<fs af='ஏற்பாடாகியிருந்தது,unk,,,,,,' name="ஏற்பாடாகியிருந்தது"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

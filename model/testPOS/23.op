@@ -1,0 +1,59 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='எவ்வாறாயினும்,unk,,,,,,' head="எவ்வாறாயினும்"  poslcat="NM">
+2.1	எவ்வாறாயினும்	NNP	<fs af='எவ்வாறாயினும்,unk,,,,,,' name="எவ்வாறாயினும்"  poslcat="NM">
+2.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	<fs af='அவரது,unk,,,,,,' head="அவரது"  poslcat="NM">
+3.1	அவரது	PRP	<fs af='அவரது,unk,,,,,,' name="அவரது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நிர்வாகம்,unk,,,,,,' head="நிர்வாகம்"  poslcat="NM">
+4.1	நிர்வாகம்	NN	<fs af='நிர்வாகம்,unk,,,,,,' name="நிர்வாகம்"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='வர்க்கத்தின்,unk,,,,,,' head="வர்க்கத்தின்"  poslcat="NM">
+5.1	ஆளும்	NN	<fs af='ஆளும்,unk,,,,,,' poslcat="NM">
+5.2	வர்க்கத்தின்	NN	<fs af='வர்க்கத்தின்,unk,,,,,,' name="வர்க்கத்தின்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='கண்களுக்கு,unk,,,,,,' head="கண்களுக்கு"  poslcat="NM">
+6.1	கணிசமான	JJ	<fs af='கணிசமான,unk,,,,,,' poslcat="NM">
+6.2	பிரிவினரது	NN	<fs af='பிரிவினரது,unk,,,,,,' poslcat="NM">
+6.3	கண்களுக்கு	NN	<fs af='கண்களுக்கு,unk,,,,,,' name="கண்களுக்கு"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='ஏற்புடையதாகத்,unk,,,,,,' head="ஏற்புடையதாகத்"  poslcat="NM">
+7.1	ஏற்புடையதாகத்	RB	<fs af='ஏற்புடையதாகத்,unk,,,,,,' name="ஏற்புடையதாகத்"  poslcat="NM">
+	))		
+8	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+8.1	தேஆன்றவில்லை	NEG	<fs af='தேஆன்றவில்லை,unk,,,,,,' poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='எவ்வாறாயினும்,unk,,,,,,' head="எவ்வாறாயினும்"  poslcat="NM">
+1.1	எவ்வாறாயினும்	NNP	<fs af='எவ்வாறாயினும்,unk,,,,,,' name="எவ்வாறாயினும்"  poslcat="NM">
+1.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	<fs af='அவரது,unk,,,,,,' head="அவரது"  poslcat="NM">
+2.1	அவரது	PRP	<fs af='அவரது,unk,,,,,,' name="அவரது"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நிர்வாகம்,unk,,,,,,' head="நிர்வாகம்"  poslcat="NM">
+3.1	நிர்வாகம்	NN	<fs af='நிர்வாகம்,unk,,,,,,' name="நிர்வாகம்"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='வர்க்கத்தின்,unk,,,,,,' head="வர்க்கத்தின்"  poslcat="NM">
+4.1	ஆளும்	NN	<fs af='ஆளும்,unk,,,,,,' poslcat="NM">
+4.2	வர்க்கத்தின்	NN	<fs af='வர்க்கத்தின்,unk,,,,,,' name="வர்க்கத்தின்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='கண்களுக்கு,unk,,,,,,' head="கண்களுக்கு"  poslcat="NM">
+5.1	கணிசமான	JJ	<fs af='கணிசமான,unk,,,,,,' poslcat="NM">
+5.2	பிரிவினரது	NN	<fs af='பிரிவினரது,unk,,,,,,' poslcat="NM">
+5.3	கண்களுக்கு	NN	<fs af='கண்களுக்கு,unk,,,,,,' name="கண்களுக்கு"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='ஏற்புடையதாகத்,unk,,,,,,' head="ஏற்புடையதாகத்"  poslcat="NM">
+6.1	ஏற்புடையதாகத்	RB	<fs af='ஏற்புடையதாகத்,unk,,,,,,' name="ஏற்புடையதாகத்"  poslcat="NM">
+	))		
+7	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+7.1	தேஆன்றவில்லை	NEG	<fs af='தேஆன்றவில்லை,unk,,,,,,' poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			

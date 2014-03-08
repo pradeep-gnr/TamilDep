@@ -1,0 +1,57 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='இல்லாததை,unk,,,,,,' head="இல்லாததை"  poslcat="NM">
+2.1	இல்லாததை	NN	<fs af='இல்லாததை,unk,,,,,,' name="இல்லாததை"  poslcat="NM">
+	))		
+3	((	RBP	<fs af='நிரூபியென,unk,,,,,,' head="நிரூபியென"  poslcat="NM">
+3.1	நிரூபியென	RB	<fs af='நிரூபியென,unk,,,,,,' name="நிரூபியென"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='வற்புறுத்தும்,unk,,,,,,' head="வற்புறுத்தும்"  poslcat="NM">
+4.1	வற்புறுத்தும்	VM	<fs af='வற்புறுத்தும்,unk,,,,,,' name="வற்புறுத்தும்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='பூர்த்தி,unk,,,,,,' head="பூர்த்தி"  poslcat="NM">
+5.1	கேஆரிக்கைகளைப்	NN	<fs af='கேஆரிக்கைகளைப்,unk,,,,,,' poslcat="NM">
+5.2	பூர்த்தி	NN	<fs af='பூர்த்தி,unk,,,,,,' name="பூர்த்தி"  poslcat="NM">
+	))		
+6	((	VGNN	<fs af='செய்வது,unk,,,,,,' head="செய்வது"  poslcat="NM">
+6.1	செய்வது	VM	<fs af='செய்வது,unk,,,,,,' name="செய்வது"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='இயல்பாக,unk,,,,,,' head="இயல்பாக"  poslcat="NM">
+7.1	இயல்பாக	RB	<fs af='இயல்பாக,unk,,,,,,' name="இயல்பாக"  poslcat="NM">
+	))		
+8	((	NEGP	<fs af='முடியாத,unk,,,,,,' head="முடியாத"  poslcat="NM">
+8.1	முடியாத	NEG	<fs af='முடியாத,unk,,,,,,' name="முடியாத"  poslcat="NM">
+	))		
+9	((	VGF	<fs af='செயலாகும்,unk,,,,,,' head="செயலாகும்"  poslcat="NM">
+9.1	செயலாகும்	VM	<fs af='செயலாகும்,unk,,,,,,' name="செயலாகும்"  poslcat="NM">
+9.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='இல்லாததை,unk,,,,,,' head="இல்லாததை"  poslcat="NM">
+1.1	இல்லாததை	NN	<fs af='இல்லாததை,unk,,,,,,' name="இல்லாததை"  poslcat="NM">
+	))		
+2	((	RBP	<fs af='நிரூபியென,unk,,,,,,' head="நிரூபியென"  poslcat="NM">
+2.1	நிரூபியென	RB	<fs af='நிரூபியென,unk,,,,,,' name="நிரூபியென"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='வற்புறுத்தும்,unk,,,,,,' head="வற்புறுத்தும்"  poslcat="NM">
+3.1	வற்புறுத்தும்	VM	<fs af='வற்புறுத்தும்,unk,,,,,,' name="வற்புறுத்தும்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='பூர்த்தி,unk,,,,,,' head="பூர்த்தி"  poslcat="NM">
+4.1	கேஆரிக்கைகளைப்	NN	<fs af='கேஆரிக்கைகளைப்,unk,,,,,,' poslcat="NM">
+4.2	பூர்த்தி	NN	<fs af='பூர்த்தி,unk,,,,,,' name="பூர்த்தி"  poslcat="NM">
+	))		
+5	((	VGNN	<fs af='செய்வது,unk,,,,,,' head="செய்வது"  poslcat="NM">
+5.1	செய்வது	VM	<fs af='செய்வது,unk,,,,,,' name="செய்வது"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='இயல்பாக,unk,,,,,,' head="இயல்பாக"  poslcat="NM">
+6.1	இயல்பாக	RB	<fs af='இயல்பாக,unk,,,,,,' name="இயல்பாக"  poslcat="NM">
+	))		
+7	((	NEGP	<fs af='முடியாத,unk,,,,,,' head="முடியாத"  poslcat="NM">
+7.1	முடியாத	NEG	<fs af='முடியாத,unk,,,,,,' name="முடியாத"  poslcat="NM">
+	))		
+8	((	VGF	<fs af='செயலாகும்,unk,,,,,,' head="செயலாகும்"  poslcat="NM">
+8.1	செயலாகும்	VM	<fs af='செயலாகும்,unk,,,,,,' name="செயலாகும்"  poslcat="NM">
+8.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

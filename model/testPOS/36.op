@@ -1,0 +1,79 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அமெரிக்கா,unk,,,,,,' head="அமெரிக்கா"  poslcat="NM">
+2.1	அமெரிக்கா	NN	<fs af='அமெரிக்கா,unk,,,,,,' name="அமெரிக்கா"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='பேஆன்ற,unk,,,,,,' head="பேஆன்ற"  poslcat="NM">
+3.1	பேஆன்ற	VM	<fs af='பேஆன்ற,unk,,,,,,' name="பேஆன்ற"  poslcat="NM">
+	))		
+4	((	NP	<fs af='தனது,unk,,,,,,' head="தனது"  poslcat="NM">
+4.1	தனது	PRP	<fs af='தனது,unk,,,,,,' name="தனது"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஆதரவாளர்கள்,unk,,,,,,' head="ஆதரவாளர்கள்"  poslcat="NM">
+5.1	சர்வதேச	JJ	<fs af='சர்வதேச,unk,,,,,,' poslcat="NM">
+5.2	ஆதரவாளர்கள்	NN	<fs af='ஆதரவாளர்கள்,unk,,,,,,' name="ஆதரவாளர்கள்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='ஏனையவர்களும்,unk,,,,,,' head="ஏனையவர்களும்"  poslcat="NM">
+6.1	உட்பட	JJ	<fs af='உட்பட,unk,,,,,,' poslcat="NM">
+6.2	ஏனையவர்களும்	NN	<fs af='ஏனையவர்களும்,unk,,,,,,' name="ஏனையவர்களும்"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='யுத்த,unk,,,,,,' head="யுத்த"  poslcat="NM">
+7.1	யுத்த	VM	<fs af='யுத்த,unk,,,,,,' name="யுத்த"  poslcat="NM">
+	))		
+8	((	RBP	<fs af='நிறுத்தத்துக்காக,unk,,,,,,' head="நிறுத்தத்துக்காக"  poslcat="NM">
+8.1	நிறுத்தத்துக்காக	RB	<fs af='நிறுத்தத்துக்காக,unk,,,,,,' name="நிறுத்தத்துக்காக"  poslcat="NM">
+	))		
+9	((	VGNF	<fs af='விடுத்த,unk,,,,,,' head="விடுத்த"  poslcat="NM">
+9.1	விடுத்த	VM	<fs af='விடுத்த,unk,,,,,,' name="விடுத்த"  poslcat="NM">
+	))		
+10	((	NP	<fs af='வேண்டுகேஆள்களையும்,unk,,,,,,' head="வேண்டுகேஆள்களையும்"  poslcat="NM">
+10.1	அனைத்து	JJ	<fs af='அனைத்து,unk,,,,,,' poslcat="NM">
+10.2	வேண்டுகேஆள்களையும்	NN	<fs af='வேண்டுகேஆள்களையும்,unk,,,,,,' name="வேண்டுகேஆள்களையும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='அரசாங்கம்,unk,,,,,,' head="அரசாங்கம்"  poslcat="NM">
+11.1	அரசாங்கம்	NN	<fs af='அரசாங்கம்,unk,,,,,,' name="அரசாங்கம்"  poslcat="NM">
+	))		
+12	((	VGF	<fs af='நிராகரித்தது,unk,,,,,,' head="நிராகரித்தது"  poslcat="NM">
+12.1	நிராகரித்தது	VM	<fs af='நிராகரித்தது,unk,,,,,,' name="நிராகரித்தது"  poslcat="NM">
+12.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அமெரிக்கா,unk,,,,,,' head="அமெரிக்கா"  poslcat="NM">
+1.1	அமெரிக்கா	NN	<fs af='அமெரிக்கா,unk,,,,,,' name="அமெரிக்கா"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='பேஆன்ற,unk,,,,,,' head="பேஆன்ற"  poslcat="NM">
+2.1	பேஆன்ற	VM	<fs af='பேஆன்ற,unk,,,,,,' name="பேஆன்ற"  poslcat="NM">
+	))		
+3	((	NP	<fs af='தனது,unk,,,,,,' head="தனது"  poslcat="NM">
+3.1	தனது	PRP	<fs af='தனது,unk,,,,,,' name="தனது"  poslcat="NM">
+	))		
+4	((	NP	<fs af='ஆதரவாளர்கள்,unk,,,,,,' head="ஆதரவாளர்கள்"  poslcat="NM">
+4.1	சர்வதேச	JJ	<fs af='சர்வதேச,unk,,,,,,' poslcat="NM">
+4.2	ஆதரவாளர்கள்	NN	<fs af='ஆதரவாளர்கள்,unk,,,,,,' name="ஆதரவாளர்கள்"  poslcat="NM">
+	))		
+5	((	NP	<fs af='ஏனையவர்களும்,unk,,,,,,' head="ஏனையவர்களும்"  poslcat="NM">
+5.1	உட்பட	JJ	<fs af='உட்பட,unk,,,,,,' poslcat="NM">
+5.2	ஏனையவர்களும்	NN	<fs af='ஏனையவர்களும்,unk,,,,,,' name="ஏனையவர்களும்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='யுத்த,unk,,,,,,' head="யுத்த"  poslcat="NM">
+6.1	யுத்த	VM	<fs af='யுத்த,unk,,,,,,' name="யுத்த"  poslcat="NM">
+	))		
+7	((	RBP	<fs af='நிறுத்தத்துக்காக,unk,,,,,,' head="நிறுத்தத்துக்காக"  poslcat="NM">
+7.1	நிறுத்தத்துக்காக	RB	<fs af='நிறுத்தத்துக்காக,unk,,,,,,' name="நிறுத்தத்துக்காக"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='விடுத்த,unk,,,,,,' head="விடுத்த"  poslcat="NM">
+8.1	விடுத்த	VM	<fs af='விடுத்த,unk,,,,,,' name="விடுத்த"  poslcat="NM">
+	))		
+9	((	NP	<fs af='வேண்டுகேஆள்களையும்,unk,,,,,,' head="வேண்டுகேஆள்களையும்"  poslcat="NM">
+9.1	அனைத்து	JJ	<fs af='அனைத்து,unk,,,,,,' poslcat="NM">
+9.2	வேண்டுகேஆள்களையும்	NN	<fs af='வேண்டுகேஆள்களையும்,unk,,,,,,' name="வேண்டுகேஆள்களையும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='அரசாங்கம்,unk,,,,,,' head="அரசாங்கம்"  poslcat="NM">
+10.1	அரசாங்கம்	NN	<fs af='அரசாங்கம்,unk,,,,,,' name="அரசாங்கம்"  poslcat="NM">
+	))		
+11	((	VGF	<fs af='நிராகரித்தது,unk,,,,,,' head="நிராகரித்தது"  poslcat="NM">
+11.1	நிராகரித்தது	VM	<fs af='நிராகரித்தது,unk,,,,,,' name="நிராகரித்தது"  poslcat="NM">
+11.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

@@ -1,0 +1,39 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='மனம்,unk,,,,,,' head="மனம்"  poslcat="NM">
+2.1	மனம்	NN	<fs af='மனம்,unk,,,,,,' name="மனம்"  poslcat="NM">
+	))		
+3	((	VGNF	<fs af='உடைந்த,unk,,,,,,' head="உடைந்த"  poslcat="NM">
+3.1	உடைந்த	VM	<fs af='உடைந்த,unk,,,,,,' name="உடைந்த"  poslcat="NM">
+	))		
+4	((	NP	<fs af='நேகி,unk,,,,,,' head="நேகி"  poslcat="NM">
+4.1	நேகி	NN	<fs af='நேகி,unk,,,,,,' name="நேகி"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='அணியிலிருந்து,unk,,,,,,' head="அணியிலிருந்து"  poslcat="NM">
+5.1	அணியிலிருந்து	NN	<fs af='அணியிலிருந்து,unk,,,,,,' name="அணியிலிருந்து"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='விலகினார்,unk,,,,,,' head="விலகினார்"  poslcat="NM">
+6.1	விலகினார்	VM	<fs af='விலகினார்,unk,,,,,,' name="விலகினார்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='மனம்,unk,,,,,,' head="மனம்"  poslcat="NM">
+1.1	மனம்	NN	<fs af='மனம்,unk,,,,,,' name="மனம்"  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='உடைந்த,unk,,,,,,' head="உடைந்த"  poslcat="NM">
+2.1	உடைந்த	VM	<fs af='உடைந்த,unk,,,,,,' name="உடைந்த"  poslcat="NM">
+	))		
+3	((	NP	<fs af='நேகி,unk,,,,,,' head="நேகி"  poslcat="NM">
+3.1	நேகி	NN	<fs af='நேகி,unk,,,,,,' name="நேகி"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='அணியிலிருந்து,unk,,,,,,' head="அணியிலிருந்து"  poslcat="NM">
+4.1	அணியிலிருந்து	NN	<fs af='அணியிலிருந்து,unk,,,,,,' name="அணியிலிருந்து"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='விலகினார்,unk,,,,,,' head="விலகினார்"  poslcat="NM">
+5.1	விலகினார்	VM	<fs af='விலகினார்,unk,,,,,,' name="விலகினார்"  poslcat="NM">
+5.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

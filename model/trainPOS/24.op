@@ -1,0 +1,43 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அதன்,unk,,,,,,' head="அதன்"  poslcat="NM">
+2.1	அதன்	PRP	<fs af='அதன்,unk,,,,,,' name="அதன்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='வெற்றிக்கு,unk,,,,,,' head="வெற்றிக்கு"  poslcat="NM">
+3.1	வெற்றிக்கு	NN	<fs af='வெற்றிக்கு,unk,,,,,,' name="வெற்றிக்கு"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='பிறகு,unk,,,,,,' head="பிறகு"  poslcat="NM">
+4.1	பிறகு	PSP	<fs af='பிறகு,unk,,,,,,' name="பிறகு"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='தொடர்ந்து,unk,,,,,,' head="தொடர்ந்து"  poslcat="NM">
+5.1	தொடர்ந்து	VM	<fs af='தொடர்ந்து,unk,,,,,,' name="தொடர்ந்து"  poslcat="NM">
+	))		
+6	((	RBP	<fs af='வில்லனாக,unk,,,,,,' head="வில்லனாக"  poslcat="NM">
+6.1	வில்லனாக	RB	<fs af='வில்லனாக,unk,,,,,,' name="வில்லனாக"  poslcat="NM">
+	))		
+7	((	VGF	<fs af='நடித்துவந்தார்,unk,,,,,,' head="நடித்துவந்தார்"  poslcat="NM">
+7.1	நடித்துவந்தார்	VM	<fs af='நடித்துவந்தார்,unk,,,,,,' name="நடித்துவந்தார்"  poslcat="NM">
+7.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அதன்,unk,,,,,,' head="அதன்"  poslcat="NM">
+1.1	அதன்	PRP	<fs af='அதன்,unk,,,,,,' name="அதன்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='வெற்றிக்கு,unk,,,,,,' head="வெற்றிக்கு"  poslcat="NM">
+2.1	வெற்றிக்கு	NN	<fs af='வெற்றிக்கு,unk,,,,,,' name="வெற்றிக்கு"  poslcat="NM">
+	))		
+3	((	BLK	<fs af='பிறகு,unk,,,,,,' head="பிறகு"  poslcat="NM">
+3.1	பிறகு	PSP	<fs af='பிறகு,unk,,,,,,' name="பிறகு"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='தொடர்ந்து,unk,,,,,,' head="தொடர்ந்து"  poslcat="NM">
+4.1	தொடர்ந்து	VM	<fs af='தொடர்ந்து,unk,,,,,,' name="தொடர்ந்து"  poslcat="NM">
+	))		
+5	((	RBP	<fs af='வில்லனாக,unk,,,,,,' head="வில்லனாக"  poslcat="NM">
+5.1	வில்லனாக	RB	<fs af='வில்லனாக,unk,,,,,,' name="வில்லனாக"  poslcat="NM">
+	))		
+6	((	VGF	<fs af='நடித்துவந்தார்,unk,,,,,,' head="நடித்துவந்தார்"  poslcat="NM">
+6.1	நடித்துவந்தார்	VM	<fs af='நடித்துவந்தார்,unk,,,,,,' name="நடித்துவந்தார்"  poslcat="NM">
+6.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

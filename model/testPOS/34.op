@@ -1,0 +1,113 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='அவர்கள்,unk,,,,,,' head="அவர்கள்"  poslcat="NM">
+2.1	அவர்கள்	PRP	<fs af='அவர்கள்,unk,,,,,,' name="அவர்கள்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஊழியர்,unk,,,,,,' head="ஊழியர்"  poslcat="NM">
+3.1	ஊழியர்	NN	<fs af='ஊழியர்,unk,,,,,,' name="ஊழியர்"  poslcat="NM">
+	))		
+4	((	NP	<fs af='குறைப்பு,unk,,,,,,' head="குறைப்பு"  poslcat="NM">
+4.1	குறைப்பு	NN	<fs af='குறைப்பு,unk,,,,,,' name="குறைப்பு"  poslcat="NM">
+4.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	<fs af='இல்லாதாக்குவதன்,unk,,,,,,' head="இல்லாதாக்குவதன்"  poslcat="NM">
+5.1	பாடத்திட்டங்களை	NN	<fs af='பாடத்திட்டங்களை,unk,,,,,,' poslcat="NM">
+5.2	இல்லாதாக்குவதன்	NN	<fs af='இல்லாதாக்குவதன்,unk,,,,,,' name="இல்லாதாக்குவதன்"  poslcat="NM">
+	))		
+6	((	BLK	<fs af='மூலம்,unk,,,,,,' head="மூலம்"  poslcat="NM">
+6.1	மூலம்	PSP	<fs af='மூலம்,unk,,,,,,' name="மூலம்"  poslcat="NM">
+	))		
+7	((	NP	<fs af='தரத்தைக்,unk,,,,,,' head="தரத்தைக்"  poslcat="NM">
+7.1	கல்வியின்	NN	<fs af='கல்வியின்,unk,,,,,,' poslcat="NM">
+7.2	தரத்தைக்	NN	<fs af='தரத்தைக்,unk,,,,,,' name="தரத்தைக்"  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='குறைப்பது,unk,,,,,,' head="குறைப்பது"  poslcat="NM">
+8.1	குறைப்பது	VM	<fs af='குறைப்பது,unk,,,,,,' name="குறைப்பது"  poslcat="NM">
+8.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+9	((	VGNF	<fs af='கற்பிக்கும்,unk,,,,,,' head="கற்பிக்கும்"  poslcat="NM">
+9.1	கற்பிக்கும்	VM	<fs af='கற்பிக்கும்,unk,,,,,,' name="கற்பிக்கும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='சுமையை,unk,,,,,,' head="சுமையை"  poslcat="NM">
+10.1	சுமையை	NN	<fs af='சுமையை,unk,,,,,,' name="சுமையை"  poslcat="NM">
+	))		
+11	((	VGNF	<fs af='அதிகரிப்பது,unk,,,,,,' head="அதிகரிப்பது"  poslcat="NM">
+11.1	அதிகரிப்பது	VM	<fs af='அதிகரிப்பது,unk,,,,,,' name="அதிகரிப்பது"  poslcat="NM">
+	))		
+12	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+12.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='முறைகளில்,unk,,,,,,' head="முறைகளில்"  poslcat="NM">
+13.1	தேர்வு	NN	<fs af='தேர்வு,unk,,,,,,' poslcat="NM">
+13.2	முறைகளில்	NN	<fs af='முறைகளில்,unk,,,,,,' name="முறைகளில்"  poslcat="NM">
+	))		
+14	((	NP	<fs af='மேஆசடி,unk,,,,,,' head="மேஆசடி"  poslcat="NM">
+14.1	மேஆசடி	NN	<fs af='மேஆசடி,unk,,,,,,' name="மேஆசடி"  poslcat="NM">
+	))		
+15	((	VGNF	<fs af='செய்வது,unk,,,,,,' head="செய்வது"  poslcat="NM">
+15.1	செய்வது	VM	<fs af='செய்வது,unk,,,,,,' name="செய்வது"  poslcat="NM">
+	))		
+16	((	NP	<fs af='ஆகியவற்றை,unk,,,,,,' head="ஆகியவற்றை"  poslcat="NM">
+16.1	ஆகியவற்றை	NN	<fs af='ஆகியவற்றை,unk,,,,,,' name="ஆகியவற்றை"  poslcat="NM">
+	))		
+17	((	VGF	<fs af='கண்டித்தனர்,unk,,,,,,' head="கண்டித்தனர்"  poslcat="NM">
+17.1	கண்டித்தனர்	VM	<fs af='கண்டித்தனர்,unk,,,,,,' name="கண்டித்தனர்"  poslcat="NM">
+17.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='அவர்கள்,unk,,,,,,' head="அவர்கள்"  poslcat="NM">
+1.1	அவர்கள்	PRP	<fs af='அவர்கள்,unk,,,,,,' name="அவர்கள்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='ஊழியர்,unk,,,,,,' head="ஊழியர்"  poslcat="NM">
+2.1	ஊழியர்	NN	<fs af='ஊழியர்,unk,,,,,,' name="ஊழியர்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='குறைப்பு,unk,,,,,,' head="குறைப்பு"  poslcat="NM">
+3.1	குறைப்பு	NN	<fs af='குறைப்பு,unk,,,,,,' name="குறைப்பு"  poslcat="NM">
+3.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	<fs af='இல்லாதாக்குவதன்,unk,,,,,,' head="இல்லாதாக்குவதன்"  poslcat="NM">
+4.1	பாடத்திட்டங்களை	NN	<fs af='பாடத்திட்டங்களை,unk,,,,,,' poslcat="NM">
+4.2	இல்லாதாக்குவதன்	NN	<fs af='இல்லாதாக்குவதன்,unk,,,,,,' name="இல்லாதாக்குவதன்"  poslcat="NM">
+	))		
+5	((	BLK	<fs af='மூலம்,unk,,,,,,' head="மூலம்"  poslcat="NM">
+5.1	மூலம்	PSP	<fs af='மூலம்,unk,,,,,,' name="மூலம்"  poslcat="NM">
+	))		
+6	((	NP	<fs af='தரத்தைக்,unk,,,,,,' head="தரத்தைக்"  poslcat="NM">
+6.1	கல்வியின்	NN	<fs af='கல்வியின்,unk,,,,,,' poslcat="NM">
+6.2	தரத்தைக்	NN	<fs af='தரத்தைக்,unk,,,,,,' name="தரத்தைக்"  poslcat="NM">
+	))		
+7	((	VGNF	<fs af='குறைப்பது,unk,,,,,,' head="குறைப்பது"  poslcat="NM">
+7.1	குறைப்பது	VM	<fs af='குறைப்பது,unk,,,,,,' name="குறைப்பது"  poslcat="NM">
+7.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+8	((	VGNF	<fs af='கற்பிக்கும்,unk,,,,,,' head="கற்பிக்கும்"  poslcat="NM">
+8.1	கற்பிக்கும்	VM	<fs af='கற்பிக்கும்,unk,,,,,,' name="கற்பிக்கும்"  poslcat="NM">
+	))		
+9	((	NP	<fs af='சுமையை,unk,,,,,,' head="சுமையை"  poslcat="NM">
+9.1	சுமையை	NN	<fs af='சுமையை,unk,,,,,,' name="சுமையை"  poslcat="NM">
+	))		
+10	((	VGNF	<fs af='அதிகரிப்பது,unk,,,,,,' head="அதிகரிப்பது"  poslcat="NM">
+10.1	அதிகரிப்பது	VM	<fs af='அதிகரிப்பது,unk,,,,,,' name="அதிகரிப்பது"  poslcat="NM">
+	))		
+11	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+11.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+12	((	NP	<fs af='முறைகளில்,unk,,,,,,' head="முறைகளில்"  poslcat="NM">
+12.1	தேர்வு	NN	<fs af='தேர்வு,unk,,,,,,' poslcat="NM">
+12.2	முறைகளில்	NN	<fs af='முறைகளில்,unk,,,,,,' name="முறைகளில்"  poslcat="NM">
+	))		
+13	((	NP	<fs af='மேஆசடி,unk,,,,,,' head="மேஆசடி"  poslcat="NM">
+13.1	மேஆசடி	NN	<fs af='மேஆசடி,unk,,,,,,' name="மேஆசடி"  poslcat="NM">
+	))		
+14	((	VGNF	<fs af='செய்வது,unk,,,,,,' head="செய்வது"  poslcat="NM">
+14.1	செய்வது	VM	<fs af='செய்வது,unk,,,,,,' name="செய்வது"  poslcat="NM">
+	))		
+15	((	NP	<fs af='ஆகியவற்றை,unk,,,,,,' head="ஆகியவற்றை"  poslcat="NM">
+15.1	ஆகியவற்றை	NN	<fs af='ஆகியவற்றை,unk,,,,,,' name="ஆகியவற்றை"  poslcat="NM">
+	))		
+16	((	VGF	<fs af='கண்டித்தனர்,unk,,,,,,' head="கண்டித்தனர்"  poslcat="NM">
+16.1	கண்டித்தனர்	VM	<fs af='கண்டித்தனர்,unk,,,,,,' name="கண்டித்தனர்"  poslcat="NM">
+16.2	.	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+</Sentence>			

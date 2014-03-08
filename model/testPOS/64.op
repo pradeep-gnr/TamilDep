@@ -1,0 +1,117 @@
+<Sentence id="">			
+1			
+2	((	NP	<fs af='உலகம்,unk,,,,,,' head="உலகம்"  poslcat="NM">
+2.1	உலகம்	NN	<fs af='உலகம்,unk,,,,,,' name="உலகம்"  poslcat="NM">
+	))		
+3	((	NP	<fs af='முழுவதிலும்,unk,,,,,,' head="முழுவதிலும்"  poslcat="NM">
+3.1	முழுவதிலும்	NN	<fs af='முழுவதிலும்,unk,,,,,,' name="முழுவதிலும்"  poslcat="NM">
+	))		
+4	((	BLK	<fs af='உள்ள,unk,,,,,,' head="உள்ள"  poslcat="NM">
+4.1	உள்ள	PSP	<fs af='உள்ள,unk,,,,,,' name="உள்ள"  poslcat="NM">
+	))		
+5	((	NP	<fs af='வர்க்கம்,unk,,,,,,' head="வர்க்கம்"  poslcat="NM">
+5.1	தெஆழிலாள	JJ	<fs af='தெஆழிலாள,unk,,,,,,' poslcat="NM">
+5.2	வர்க்கம்	NN	<fs af='வர்க்கம்,unk,,,,,,' name="வர்க்கம்"  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='ஒன்றுபட்டு,unk,,,,,,' head="ஒன்றுபட்டு"  poslcat="NM">
+6.1	ஒன்றுபட்டு	VM	<fs af='ஒன்றுபட்டு,unk,,,,,,' name="ஒன்றுபட்டு"  poslcat="NM">
+6.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	<fs af='தங்களது,unk,,,,,,' head="தங்களது"  poslcat="NM">
+7.1	தங்களது	PRP	<fs af='தங்களது,unk,,,,,,' name="தங்களது"  poslcat="NM">
+	))		
+8	((	NP	<fs af='பேஆராட்டங்களை,unk,,,,,,' head="பேஆராட்டங்களை"  poslcat="NM">
+8.1	பேஆராட்டங்களை	NN	<fs af='பேஆராட்டங்களை,unk,,,,,,' name="பேஆராட்டங்களை"  poslcat="NM">
+	))		
+9	((	VGINF	<fs af='நடத்துவதற்கு,unk,,,,,,' head="நடத்துவதற்கு"  poslcat="NM">
+9.1	நடத்துவதற்கு	VM	<fs af='நடத்துவதற்கு,unk,,,,,,' name="நடத்துவதற்கு"  poslcat="NM">
+	))		
+10	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+10.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+11	((	NP	<fs af='அதிகாரத்தை,unk,,,,,,' head="அதிகாரத்தை"  poslcat="NM">
+11.1	அரசியல்	NN	<fs af='அரசியல்,unk,,,,,,' poslcat="NM">
+11.2	அதிகாரத்தை	NN	<fs af='அதிகாரத்தை,unk,,,,,,' name="அதிகாரத்தை"  poslcat="NM">
+	))		
+12	((	NP	<fs af='தங்கள்,unk,,,,,,' head="தங்கள்"  poslcat="NM">
+12.1	தங்கள்	PRP	<fs af='தங்கள்,unk,,,,,,' name="தங்கள்"  poslcat="NM">
+	))		
+13	((	VGNF	<fs af='செஆந்த,unk,,,,,,' head="செஆந்த"  poslcat="NM">
+13.1	செஆந்த	VM	<fs af='செஆந்த,unk,,,,,,' name="செஆந்த"  poslcat="NM">
+	))		
+14	((	NP	<fs af='கைகளில்,unk,,,,,,' head="கைகளில்"  poslcat="NM">
+14.1	கைகளில்	NN	<fs af='கைகளில்,unk,,,,,,' name="கைகளில்"  poslcat="NM">
+	))		
+15	((	VGNF	<fs af='எடுத்துக்கெஆள்வதற்கு,unk,,,,,,' head="எடுத்துக்கெஆள்வதற்கு"  poslcat="NM">
+15.1	எடுத்துக்கெஆள்வதற்கு	VM	<fs af='எடுத்துக்கெஆள்வதற்கு,unk,,,,,,' name="எடுத்துக்கெஆள்வதற்கு"  poslcat="NM">
+	))		
+16	((	NP	<fs af='இதுவரை,unk,,,,,,' head="இதுவரை"  poslcat="NM">
+16.1	இதுவரை	PRP	<fs af='இதுவரை,unk,,,,,,' name="இதுவரை"  poslcat="NM">
+	))		
+17	((	NP	<fs af='வேலைத்திட்டத்தையும்,unk,,,,,,' head="வேலைத்திட்டத்தையும்"  poslcat="NM">
+17.1	எந்த	DEM	<fs af='எந்த,unk,,,,,,' poslcat="NM">
+17.2	வேலைத்திட்டத்தையும்	NN	<fs af='வேலைத்திட்டத்தையும்,unk,,,,,,' name="வேலைத்திட்டத்தையும்"  poslcat="NM">
+	))		
+18	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+18.1	கெஆண்டிருக்கவில்லை	NEG	<fs af='கெஆண்டிருக்கவில்லை,unk,,,,,,' poslcat="NM">
+18.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			
+<Sentence id="1">			
+1	((	NP	<fs af='உலகம்,unk,,,,,,' head="உலகம்"  poslcat="NM">
+1.1	உலகம்	NN	<fs af='உலகம்,unk,,,,,,' name="உலகம்"  poslcat="NM">
+	))		
+2	((	NP	<fs af='முழுவதிலும்,unk,,,,,,' head="முழுவதிலும்"  poslcat="NM">
+2.1	முழுவதிலும்	NN	<fs af='முழுவதிலும்,unk,,,,,,' name="முழுவதிலும்"  poslcat="NM">
+	))		
+3	((	BLK	<fs af='உள்ள,unk,,,,,,' head="உள்ள"  poslcat="NM">
+3.1	உள்ள	PSP	<fs af='உள்ள,unk,,,,,,' name="உள்ள"  poslcat="NM">
+	))		
+4	((	NP	<fs af='வர்க்கம்,unk,,,,,,' head="வர்க்கம்"  poslcat="NM">
+4.1	தெஆழிலாள	JJ	<fs af='தெஆழிலாள,unk,,,,,,' poslcat="NM">
+4.2	வர்க்கம்	NN	<fs af='வர்க்கம்,unk,,,,,,' name="வர்க்கம்"  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='ஒன்றுபட்டு,unk,,,,,,' head="ஒன்றுபட்டு"  poslcat="NM">
+5.1	ஒன்றுபட்டு	VM	<fs af='ஒன்றுபட்டு,unk,,,,,,' name="ஒன்றுபட்டு"  poslcat="NM">
+5.2	,	SYM	<fs af=',unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	<fs af='தங்களது,unk,,,,,,' head="தங்களது"  poslcat="NM">
+6.1	தங்களது	PRP	<fs af='தங்களது,unk,,,,,,' name="தங்களது"  poslcat="NM">
+	))		
+7	((	NP	<fs af='பேஆராட்டங்களை,unk,,,,,,' head="பேஆராட்டங்களை"  poslcat="NM">
+7.1	பேஆராட்டங்களை	NN	<fs af='பேஆராட்டங்களை,unk,,,,,,' name="பேஆராட்டங்களை"  poslcat="NM">
+	))		
+8	((	VGINF	<fs af='நடத்துவதற்கு,unk,,,,,,' head="நடத்துவதற்கு"  poslcat="NM">
+8.1	நடத்துவதற்கு	VM	<fs af='நடத்துவதற்கு,unk,,,,,,' name="நடத்துவதற்கு"  poslcat="NM">
+	))		
+9	((	CCP	<fs af='மற்றும்,unk,,,,,,' head="மற்றும்"  poslcat="NM">
+9.1	மற்றும்	CC	<fs af='மற்றும்,unk,,,,,,' name="மற்றும்"  poslcat="NM">
+	))		
+10	((	NP	<fs af='அதிகாரத்தை,unk,,,,,,' head="அதிகாரத்தை"  poslcat="NM">
+10.1	அரசியல்	NN	<fs af='அரசியல்,unk,,,,,,' poslcat="NM">
+10.2	அதிகாரத்தை	NN	<fs af='அதிகாரத்தை,unk,,,,,,' name="அதிகாரத்தை"  poslcat="NM">
+	))		
+11	((	NP	<fs af='தங்கள்,unk,,,,,,' head="தங்கள்"  poslcat="NM">
+11.1	தங்கள்	PRP	<fs af='தங்கள்,unk,,,,,,' name="தங்கள்"  poslcat="NM">
+	))		
+12	((	VGNF	<fs af='செஆந்த,unk,,,,,,' head="செஆந்த"  poslcat="NM">
+12.1	செஆந்த	VM	<fs af='செஆந்த,unk,,,,,,' name="செஆந்த"  poslcat="NM">
+	))		
+13	((	NP	<fs af='கைகளில்,unk,,,,,,' head="கைகளில்"  poslcat="NM">
+13.1	கைகளில்	NN	<fs af='கைகளில்,unk,,,,,,' name="கைகளில்"  poslcat="NM">
+	))		
+14	((	VGNF	<fs af='எடுத்துக்கெஆள்வதற்கு,unk,,,,,,' head="எடுத்துக்கெஆள்வதற்கு"  poslcat="NM">
+14.1	எடுத்துக்கெஆள்வதற்கு	VM	<fs af='எடுத்துக்கெஆள்வதற்கு,unk,,,,,,' name="எடுத்துக்கெஆள்வதற்கு"  poslcat="NM">
+	))		
+15	((	NP	<fs af='இதுவரை,unk,,,,,,' head="இதுவரை"  poslcat="NM">
+15.1	இதுவரை	PRP	<fs af='இதுவரை,unk,,,,,,' name="இதுவரை"  poslcat="NM">
+	))		
+16	((	NP	<fs af='வேலைத்திட்டத்தையும்,unk,,,,,,' head="வேலைத்திட்டத்தையும்"  poslcat="NM">
+16.1	எந்த	DEM	<fs af='எந்த,unk,,,,,,' poslcat="NM">
+16.2	வேலைத்திட்டத்தையும்	NN	<fs af='வேலைத்திட்டத்தையும்,unk,,,,,,' name="வேலைத்திட்டத்தையும்"  poslcat="NM">
+	))		
+17	((	NEGP	<fs af=',unk,,,,,,' head="."  poslcat="NM">
+17.1	கெஆண்டிருக்கவில்லை	NEG	<fs af='கெஆண்டிருக்கவில்லை,unk,,,,,,' poslcat="NM">
+17.2	.	SYM	<fs af=',unk,,,,,,' name="."  poslcat="NM">
+	))		
+</Sentence>			
