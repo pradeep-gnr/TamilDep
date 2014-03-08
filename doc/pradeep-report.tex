@@ -237,7 +237,8 @@ Derived adjectives are usually obtained by adding suffixes like 'aana' etc to no
 
 To perform the annotation, I have tried to follow the rules that were discussed in the annotation manual by Ramaswamy et al (\cite{ramReport}).
 The manual consists of several example sentences that cover a wide range of phenomena which was useful for me in making
-some decisions. In most of the examples that I annotated, the head word mostly occured at the end of the sentence. The annotated corpora A anb B have been uploaded in the repository. Each of them contain around 1000 tokens. Currently, I have just added the head information for each term
+some decisions. One interesting phenomena, was that several Tamil sentences contained english words in between. To make my parser more robust,
+I have also considered such sentences. In most of the examples that I annotated, the head word mostly occured at the end of the sentence. The annotated corpora A anb B have been uploaded in the repository. Each of them contain around 1000 tokens. Currently, I have just added the head information for each term
 in CONLL format. I have also included the text of the string in addition to the annotations. But as of now, I have not extracted any features such as 
 POS tags and morphological information to the output. I could find only one open source POS tagger for Tamil (\cite{dhanalakshmi2010natural}) and I was unable to get the software
 to work. But by the next deadline, I think that I would be able to use the POS tag features as input for my model. Also, I am aware that features based
@@ -249,6 +250,24 @@ I am currently annotating more data for the supervised model and I plan to use M
 to build a stable data driven supervised dependency parser guided by a rich feature set such as POS tags and morphological annotations. 
 
 \section{System Analysis on Corpus A}
+For the baseline system, I have used a supervised learning approach where I had annotated additional 2000 tokens as training data. I found a Tamil chunker tool released
+by the Language Technologies Research centre at IIIT Hyderabad that performs various pre-processing tasks for Tamil (\url{http://ltrc.iiit.ac.in/showfile.php?filename=downloads/shallow_parser.php}). For example, it can automatically
+convert various english letters occuring in Tamil to an equivalent Tamil script. Also, it has an inbuilt POS tagger and a morphological analyzer in addition 
+to a tokenizer. For the baseline, I just used the part of speech tags as features in the MALT parser. This baseline would give me a vague idea
+of how good/bad my approach is. Although, I have just used limited training data for the baseline - I am planning to annotate more training data 
+and use roughly about 7000 tokens for training. \\
+
+I used the standard settings prescribed in the Malt Parser and the unlabelled attachment score accuracy that I got was \textbf{43\%}. The performance of the 
+model is relatively poor and it was something that I had anticipated. The training data that I used was relatively small for the testing data that 
+I used and that I think is one of the major reasons for this poor performance. In the next iteration, I plan to make the following changes.
+
+\begin{enumerate}
+ \item Annotate more training data of about 7000 tokens.
+ \item Revise POS annotations and try to formulate a sparser POS representation because the existing POS tag set that I am using is quite large.
+ \item Add morphological features to MALT Parser.
+ \item Experiment with various parameter settings in MALTParser.
+ \item Also add some rules as features to the MALT parser.
+\end{enumerate}
 
 \section{Lessons Learned and Revised Design}
 
