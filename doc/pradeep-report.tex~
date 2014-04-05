@@ -251,7 +251,8 @@ to build a stable data driven supervised dependency parser guided by a rich feat
 
 \subsection{Annotation guidelines}
 
-In this section, I shall describe some of the annotation decisions that I followed. Some of these decisions were based on the syntactic structure of the 
+In this section, I shall describe some of the annotation decisions that I followed. Some of these decisions were based on the syntactic structure of Tamil while 
+other decisions were made to accommodate the tokenizer =
 
 \begin{enumerate}
  \item When a compound noun such as a named entity is encountered, the last word in that named entity would be the head of the preceding words. For example,
@@ -268,7 +269,7 @@ In this section, I shall describe some of the annotation decisions that I follow
  \item When conjunctions connect two entities, the head of the conjunction will the second entity that it connects. For example, in the phrase ``John mattrum
  Jack'', the word 'mattrum' is a conjunction and in this case its head would be 'Jack'.
  \item When consecutive adjectives occur, both the adjectives will connect to the corresponding noun they describe. For example, in the phrase 'Azhagana, thairiyamana pen (beautiful bold girl)' - The head of both "azhagana" and "thairiyamana" will be "pen".
- 
+ \item RB POS tag words like (Maaraga, atharkaga) usually connect to head verbs in the corresponding clause.
  
  
 \end{enumerate}
