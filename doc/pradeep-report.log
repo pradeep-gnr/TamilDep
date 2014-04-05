@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.10)  7 MAR 2014 19:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.10)  4 APR 2014 21:02
 entering extended mode
  %&-line parsing enabled.
 **pradeep-report.tex
@@ -331,18 +331,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--160
 
  []
 
-[3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 253--259
+[3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 280--286
 
  []
 
-[5] (./pradeep-report.bbl
+[6] [7] (./pradeep-report.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no š in font cmr10!
-) [6] (./pradeep-report.aux) ) 
+) [8] (./pradeep-report.aux) ) 
 Here is how much of TeX's memory you used:
  3907 strings out of 495061
  53842 string characters out of 1182621
@@ -350,16 +350,16 @@ Here is how much of TeX's memory you used:
  7022 multiletter control sequences out of 15000+50000
  13452 words of font info for 54 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 36i,12n,43p,331b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,43p,332b,273s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pradeep-report.pdf (6 pages, 120544 bytes).
+Output written on pradeep-report.pdf (8 pages, 127717 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

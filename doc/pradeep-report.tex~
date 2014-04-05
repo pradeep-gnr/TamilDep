@@ -238,7 +238,7 @@ Derived adjectives are usually obtained by adding suffixes like 'aana' etc to no
 To perform the annotation, I have tried to follow the rules that were discussed in the annotation manual by Ramaswamy et al (\cite{ramReport}).
 The manual consists of several example sentences that cover a wide range of phenomena which was useful for me in making
 some decisions. One interesting phenomena, was that several Tamil sentences contained english words in between. To make my parser more robust,
-I have also considered such sentences. In most of the examples that I annotated, the head word mostly occured at the end of the sentence. The annotated corpora A anb B have been uploaded in the repository. Each of them contain around 1000 tokens. Currently, I have just added the head information for each term
+I have also considered such sentences. In most of the examples that I annotated, the head word mostly occurred at the end of the sentence. The annotated corpora A anb B have been uploaded in the repository. Each of them contain around 1000 tokens. Currently, I have just added the head information for each term
 in CONLL format. I have also included the text of the string in addition to the annotations. But as of now, I have not extracted any features such as 
 POS tags and morphological information to the output. I could find only one open source POS tagger for Tamil (\cite{dhanalakshmi2010natural}) and I was unable to get the software
 to work. But by the next deadline, I think that I would be able to use the POS tag features as input for my model. Also, I am aware that features based
@@ -249,28 +249,86 @@ I feel that supervised approaches would work well because I think more training 
 I am currently annotating more data for the supervised model and I plan to use MaltParser for training the model. My eventual goal would be
 to build a stable data driven supervised dependency parser guided by a rich feature set such as POS tags and morphological annotations. 
 
+\subsection{Annotation guidelines}
+
+In this section, I shall describe some of the annotation decisions that I followed. Some of these decisions were based on the syntactic structure of the 
+
+\begin{enumerate}
+ \item When a compound noun such as a named entity is encountered, the last word in that named entity would be the head of the preceding words. For example,
+ for the named entity, 'Musharraf Khan', 'Musharaff' would be attached to 'Khan'. Similarly, I tend to follow this convention for locations and other named entities.
+ \item Punctuations such as comma and full-stop are attached to the word that precedes it.
+ \item When compound clauses occur in quotes, the main head in the quoted expression will be attached to the main head in the clause outside the quote. For example,
+ in the sentence, '"Angu edharku selgirirgal", endru sonnan.', 'selgirargal' is the head of the quoted clause and 'sonnan' is the head of the sentence. Hence according
+ to my rule, 'selgirargal' will be attached to 'sonnan'.
+ \item Quotations which are symbols attach to the word preceding it.
+ \item Sometimes, the tokenizer splits compound words into simple tokens based on punctuations or other that occur in the middle of the word. For example, the word 
+ 1950'yilIrundhu. The tokenizer that I use splits this word into (1950,',yilIrundhu). yilIrundhu acts like a postposition here and has no semantic bearing 
+ on its own. In such cases, I followed a convention that states that the postposition would be the head to its original attachments. For example, 'yilIrundhu' would
+ be the head and 1950 would be attached to it.
+ \item When conjunctions connect two entities, the head of the conjunction will the second entity that it connects. For example, in the phrase ``John mattrum
+ Jack'', the word 'mattrum' is a conjunction and in this case its head would be 'Jack'.
+ \item When consecutive adjectives occur, both the adjectives will connect to the corresponding noun they describe. For example, in the phrase 'Azhagana, thairiyamana pen (beautiful bold girl)' - The head of both "azhagana" and "thairiyamana" will be "pen".
+ 
+ 
+ 
+\end{enumerate}
+
+
+
+
 \section{System Analysis on Corpus A}
 For the baseline system, I have used a supervised learning approach where I had annotated additional 2000 tokens as training data. I found a Tamil chunker tool released
 by the Language Technologies Research centre at IIIT Hyderabad that performs various pre-processing tasks for Tamil (\url{http://ltrc.iiit.ac.in/showfile.php?filename=downloads/shallow_parser.php}). For example, it can automatically
-convert various english letters occuring in Tamil to an equivalent Tamil script. Also, it has an inbuilt POS tagger and a morphological analyzer in addition 
+convert various English letters occurring in Tamil to an equivalent Tamil script. Also, it has an inbuilt POS tagger and a morphological analyzer in addition 
 to a tokenizer. For the baseline, I just used the part of speech tags as features in the MALT parser. This baseline would give me a vague idea
 of how good/bad my approach is. Although, I have just used limited training data for the baseline - I am planning to annotate more training data 
-and use roughly about 7000 tokens for training. \\
-
-I used the standard settings prescribed in the Malt Parser and the unlabelled attachment score accuracy that I got was \textbf{43\%}. The performance of the 
-model is relatively poor and it was something that I had anticipated. The training data that I used was relatively small for the testing data that 
-I used. In the next iteration, I plan to make the following changes.
-
-\begin{enumerate}
- \item Annotate more training data of about 7000 tokens.
- \item Revise POS annotations and try to formulate a sparser POS representation because the existing POS tag set that I am using is quite large.
- \item Add morphological features to MALT Parser.
- \item Experiment with various parameter settings in MALTParser.
-\end{enumerate}
+and use roughly about 5000 tokens for training. \\
+ 
+I used the standard settings prescribed in the Malt Parser and the unlabeled attachment score accuracy that I got was \textbf{43\%}. Also, I tried another
+experiment where I tested the model built on the same training set. The accuracy was only 52\% even in this case. This suggests that there is very few
+training data for the model to actually learn good rules from. The performance of the model is relatively poor and it was something that I had anticipated. 
+The training data that I used was relatively small for the testing data that I used and that I think is one of the major reasons for this poor performance. 
 
 \section{Lessons Learned and Revised Design}
 
+I think that one of the main drawbacks of my previous model was the lack of enough tokens for training. Also, since Tamil is a morphologically rich 
+language, different morphological variations of words in the sentences can induce different parses even when two sentences have almost identically
+the same POS tags. So, it was essential that I annotate more training data that could cover sentences of different morphological variations. 
+Apart from that I also tried to figure out other systematic errors by analyzing the predictions on the test set. The majority of errors that I could find
+were in long clauses that contained several nouns. In Tamil, nouns occur continuously in several sentences. However, these nouns are not simple nouns
+and several morphological nuances on the nouns influence the actual head word of the noun. For example, 
+
+\begin{verbatim}
+Sendra varam janaNayagak katchi nirvagigal oliraKonth. 
+\end{verbatim}
+
+In this sentence, all of the words have been assigned a part of speech tag of 'NN'. In many such compound noun expressions, the parser makes mistakes.
+I think if we had more morphological features that could characterize these nouns, the parser can better judge head relations. Also, another common error
+I found was the head being wrongly labeled. In Tamil, in most of the sentences - the verb at the final clause usually seemed to be the head. But in
+some cases, the auxiliary verb could also act as the head. Unfortunately, the parser made mistakes in this decision and by choosing the wrong head - a lot of
+dependencies involving a word to the actual head were marked incorrectly. Following are a list of experiments, I want to try out in the next phase.
+
+\begin{enumerate}
+  \item Annotate more training data of about 5000 tokens.
+  \item Add morphological features to MALT Parser.     
+\end{enumerate}
+
 \section{System Analysis on Corpus B}
+
+For this round of evaluation, I managed to annotate around 4000 tokens for training. I tried to follow the annotation methodology that I had followed during 
+my earlier annotation rounds and tried to improve my training set. In the previous section, I had mentioned that I wanted to use morphological parses as additional features
+for supervised training. But the resource that I had planned to use was not reliable \url{http://ltrc.iiit.ac.in/showfile.php?filename=downloads/shallow_parser.php} and I was not able to produce 
+valid parses for several of the words. For example, at-least 6/7 of the tokens did not have any parse output. Apart from this tool, I could not find any other usable resource that worked.
+For this week's analysis - I used standard MaltParser settings to train on the 4000 tokens that I had annotated and tested it on my corpus B. I got an
+accuracy of about \textbf{66\%}. The performance was much better than what I had expected. I think that additional training data definitely helped in this case. I
+did a brief analysis of the results of my earlier model compared with my current model and one major improvement that I could see was in identifying longer head relationships.
+In my previous model, there were a lot of errors when a word had a head much farther in the clause. These type of errors had decreased a lot in my new model. 
+Also, the sentences where the 'head' was incorrectly identified in my previous model had reduced. Also, in my previous model - the number of errors on larger sentences
+was very high. My newer model performed much better on longer sentences which was encouraging because I had quite a large number of sentences with more than 20 tokens.
+I also tried another experiment where I applied the same model that I had built on the same training set. I got an accuracy of around 82\%. This was encouraging because, it means that
+the rules that have been learned during training fairly distribute well throughout the training corpus. Since, I was not able to extract Morphological features,
+I am planning to use additional unsupervised features that can help capture context of different words and could also help in handling unseen words. I am currently
+experimenting with Brown clustering and to generate clusters that can be incorporated into Malt Parser's feature representation. 
 
 \section{Final Revisions}
 
