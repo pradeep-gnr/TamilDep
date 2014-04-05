@@ -1,0 +1,37 @@
+Tamil Dependency Annotation Hints/conventions:
+
+1) If a compound named entity (Names, Organizations etc) is encountered, then the last word forms the root of the entity and initial words in the entity are attached to the root.
+
+2) The last fullstop is attached to the word before that. 
+
+Eg. Avan angu sendran. 
+
+Here '.' will be attached to sendran.
+
+3) When compound clauses in the form of quotes occur - then annotation is carried out according to the following example.
+
+Avan sonnan, "Angu edharku selgirirgal".
+
+Here "sonnan" will be the root and "selgirargal".
+
+The head of the sub-clause will be attached to the root of the main head.
+
+4) The quotes in quotations which will be symbols are attached to the head of the main clause.
+
+5) A common trend that I have noticed is that the final verb (VM) is most likely the head verb. 
+
+6) Pronun tokens mostly attach to their corresponding noun!
+
+7) When connecting phrases like 'endru' (UT Pos tag occurs), they usually connect compound noun Phrases and 
+
+8) RB POS tag words like (Maaraga, atharkaga) usually connect to head verbs in the corresponding clause.
+
+10) For connecting conjunctions such as "mattrum", Eg John matrum sam pottiyil pangetrinar (John and Sam), the head of the connective "mattrum" will be the second noun here (sam). 
+
+11) When consecutive adjectives are encountered, the head of both the adjectives will the corresponding entity/verb that they are describing. 
+
+For example, Azhagana, thairiyamana pen (beautiful bold girl). The head of both "azhagana" and "thairiyamana" will be "pen"
+
+
+
+
