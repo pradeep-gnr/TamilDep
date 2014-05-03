@@ -45,19 +45,26 @@
 \renewcommand{\footrulewidth}{0pt}
 
 
-\title{11-712:  NLP Lab Report}
+%\title{11-712:  NLP Lab Report}
+\title{11-712:  NLP Lab Report \\ TamilDep : A dependency parser for Tamil.}
+
 \author{Pradeep Prabakar Ravindran}
 \date{April 26, 2013 (Final Due date)}
 
 \begin{document}
 \maketitle
 \begin{abstract}
-First draft of a report documenting my experience developing a dependency parser for Tamil.
+This report documents various phases in building a dependency parser for Tamil. First, a completely new dependency corpora is built totally consisting of
+around 6350 tokens. Two separate corpora (Corpus A and B) each containing 1000 tokens are then set aside as test data for evaluating the performance
+of various parsing approaches. The raw data that is used for annotation comes from the English Tamil parallel corpora (\cite{RaBoMorphologicalProcessing2012}) that consists of sentences from news articles, cinema and bible passages. 
+Next, various approaches for parsing including supervised and unsupervised approaches are discussed. 
+The final model that uses morphological features and clusters of each lexical item gives an attachment accuracy of about 69.7 on Corpus A and 67.9 on Corpus B. 
+
 \end{abstract}
 
 %\nascomment{brief introduction}
 TamilDep is a tool that performs dependency parsing of the Tamil Language. This tool would soon be open-sourced
-and become publicly available at https://github.com/pradeep-gnr/TamilDep. Along with
+and become publicly available at \url{https://github.com/pradeep-gnr/TamilDep}. Along with
 the code for a dependency parser, a corpora of tamil sentences annotated with their dependency parse trees 
 is also expected to be released. Since there are very
 few resources publicly available for Tamil,  I hope that this software would prove useful to researchers working on Tamil natural
@@ -333,7 +340,177 @@ experimenting with Brown clustering and to generate clusters that can be incorpo
 
 \section{Final Revisions}
 
-\section{Future Work}
+\subsection{Evaluation on Corpus A and B}
+
+I found some inconsistencies in my annotations when abbreviations were involved. For example, when I had abbreviations - the tokenizer that I used split
+based on punctuations and my tokenizer generated multiple tokens for a single word. For example, for the token '23.May-1949', the tokenizer generated multiple tokens.
+I decided to attach all the tokens that were split by the tokenizer to the last token. In this case, '23' and 'May' would have 1949 as the head. I also performed some manual cleaning up of
+the training data and removed those sentences for which the POS tagger performed very inaccurately. My final training corpus consisted of around 4350 tokens. 
+My baseline results on both Corpus A and Corpus B using standard MaltParser settings are given in Table 1.
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ c || c || c }
+  \hline
+  Corpus & Model & Accuracy (\%)\\
+  \hline
+  Corpora A & Basic setting & 68.3 \\
+  Corpora B & Basic setting & 67 \\  
+  \hline
+   \end{tabular}
+\end{center}
+\caption{4350 tokens + Standard MaltParser settings}
+\label{First}
+\end{table}
+
+As we can see, the results across both the Corpora are somewhat similar. Both Corpora A and B consist of news articles and this shows that 
+the model that was trained performs somewhat similar across both corpora. 
+
+\subsection{Experiments with different learning algorithms in MALT Parser}
+
+MaltParser comes with three families of parsing algorithms (Nivre, Stack - \cite{nivre2009non}\cite{nivre2009improved} and Covington - \cite{covington2001fundamental}). I decided to experiment with all these algorithms for training and my results are described
+in Table 2 and 3.
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ c || c }
+  \hline
+  Malt Parser Model & Accuracy (\%)\\
+  \hline
+  \textbf{Default Setting (Arc Eager)} & \textbf{68.3} \\
+  NivreEager Arc Standard & 67 \\  
+  Covington & 67.7 \\
+  Stack Projective & 67.25 \\
+  Stack Eager & 67.7 \\
+  Stack Lazy & 67 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Corpus A results for various MaltParser algorithms}
+\label{First}
+\end{table}
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ c || c }
+  \hline
+  Malt Parser Model & Accuracy (\%)\\
+  \hline
+  \textbf{Default Setting (Arc Eager)} & \textbf{67} \\
+  NivreEager Arc Standard & 64.8 \\  
+  Covington & 66.7 \\
+  Stack Projective & 64.3 \\
+  Stack Eager & 64.7 \\
+  Stack Lazy & 64 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Corpus B results for various MaltParser algorithms}
+\label{First}
+\end{table}
+
+The default Nivre Arc Eager algorithm performs the best while the other algorithms perform worse than the baseline in both corpora. Also, the arc Eager
+parser outperforms the lazy and projective settings in all the parsing algorithms. In Tamil, most of the dependency structures are projective in nature.
+But there are many instances where certain structures are non projective. The arc eager parser can handle non projective structures and outperforms
+the projective mode which is mostly suited for projective dependency structures. Even though, the lazy mode can handle non-projective structure - the lazy version
+applies the non-projective transition only at the very end. This could sometimes result in non-projective dependencies not being captured.
+
+\subsection{Adding Morphological features for training}
+
+I had earlier mentioned in the previous sections that I wanted to incorporate morphological features in the parsing model. The shallow parser tool (\cite{tamShallowParser}) that I used, did not work
+locally for me when I installed the software on my system. But, there was an online demo of the shallow parser's capabilities that took sentence as an input in a
+form and produced morphological annotations for each lexical item. I had to write a script to scrape contents from the website and extract the morphological features 
+from the website. The output was in Shakti standard format (\cite{bharati2007ssf}), which is a format for describing the chunk relations that exist in the sentence
+and also the morphological parse for each lexical item. The output of the morphological analyzer for each lexical item is a comma separated string consisting of 7 slots.
+The slot values are \textbf{root, category, gender, number, person, case} of a lexical item. The crawl process was very slow and I had to deal with a lot of
+formatting issues when fetching the information from the website. For unknown, words - an 'unk' tag is assigned.\\
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ c ||  c || c}
+  \hline
+  Corpora & Morph information & Accuracy (\%)\\
+  \hline
+  Corpora A & Only lemma & 69.2 \\
+  Corpora B & Only lemma & 67.7\\
+  Corpora A & lemma + other morph features & \textbf{69.25}\\
+  Corpora B & lemma + other morph features & \textbf{67.7}\\ 
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Using morphological features for training}
+\label{First}
+\end{table}
+
+The results are discussed in Table 4. As we can see, adding morphological features definitely helped in improving the performance of the parser. In both the corpora, 
+the performance improved and I was able to get a \textbf{1}\% improvement on corpora A while the improvement in corpora B was slightly less. 
+Although, I had a lot of unknown tags in the extracted output, the results indicate that morphological features are very useful for a highly inflected language
+like Tamil. Among the morphological features, the lemma of the word proved most useful and provided the greatest improvement. The other slots were very sparse
+and contained a lot of 'unk' tag - which might indicate why other information such as tense, gender and case were not very useful.
+
+
+\subsection{Unsupervised learning using Brown clustering}
+
+Since, I had a large number of unannotated data in my corpora, I decided to use these sentences to obtain clusters for the various words in the corpora.
+My input data for clustering consisted of a total of 2727174 tokens. The clusters would be generated based on the contexts on the words, and words that appear in similar contexts would have similar clusters. I used 
+Percy Liang's implementation (\cite{liang2005semi} , \cite{brown1992class}) of the Brown clustering algorithm and experimenting by using 100 and 50 clusters. The clustering output consists of bit strings and I used them
+directly as features in my MaltParser model. I ran experiments using both the basic Part of Speech model and also by incorporating Morph features. The results are given in Table - 5 and 6. \\
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ c ||  c}
+  \hline
+   Model & Accuracy (\%)\\
+  \hline
+  Clusters(N=100) & 68.6 \\
+  Clusters(N=50) & 68.8 \\
+  Clusters(N=100) + morph features & 69.3 \\
+  Clusters(N=50) + morph features & 69.7 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Incorporating brown clusters (Corpora A)}
+\label{First}
+\end{table}
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ c ||  c}
+  \hline
+   Model & Accuracy (\%)\\
+  \hline
+  Clusters(N=100) & 67.1 \\
+  Clusters(N=50) & 67.3 \\
+  Clusters(N=100) + morph features & 67.7 \\
+  Clusters(N=50) + morph features & 67.9 \\
+  \hline
+   \end{tabular}
+\end{center}
+\caption{Incorporating brown clusters (Corpora B)}
+\label{First}
+\end{table}
+
+As I expected, clustering features improved performance across both the Corpora. Since all of the data comes from a particular set of domains, the effect of
+clustering should reflect similarly across both the corpora. However, the improvement in performance was not that significant and I think that one reason
+is because the number of unique tokens was very high in the corpora. Tamil has a lot of inflected variants of several nouns and verbs and not all 
+of these words occur frequently in the corpus. The cluster assignments for these words might not be of high confidence, which might have resulted in the relatively
+trivial improvement in performance.
+
+\section{Conclusion and Future work}
+
+The best unlabeled dependency attachment score that I was able to achieve was about 69.7\% for Corpus A and 67.9\% for Corpus B. Using both morphological
+features and cluster labels obtained by Brown clustering certainly improves the performance of the parser. But, the training data that I have developed for this work
+is still very small. More training data is needed to build industry standard parsers that can achieve high accuracies. One of the major setbacks that I had in this 
+project was the lack of availability of good industry standard tokenization and morphological analysis tools. Tokenizers that could split on various clitics like 'um', 'aaga'
+could certainly improve the quality of tokens produced for Tamil. For future work, I want to experiment with chunk features described in \cite{ambati2010two}. Local syntactic features
+can certainly help in capturing relationships among tokens and I think this would certainly help in improving the performance of the parsing algorithm.
+Also, I want to experiment by clustering the lemmas of all tokens using Brown clustering and using that cluster information as a feature for training.
+I think this approach would be able to handle relatively sparse tokens and we would be able to get more meaningful clusters. \\
+
+Also the training corpora that I created was solely done by me and it might consist of several mistakes. Peer validation of the training data might 
+help in creating a better and more consistent corpora. Another approach that might work is the incorporation of several manual rules as features to
+the model. For example, in Tamil - the attachment of many tokens to their corresponding head depends on a lot of factors such as postpositions, inflections etc. Such phenomena
+can be better captured using rule based features.
 
 \bibliographystyle{plainnat}
 \bibliography{pradeep-report}

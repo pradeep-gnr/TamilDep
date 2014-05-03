@@ -1,9 +1,25 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ambati et~al.(2010)Ambati, Husain, Jain, Sharma, and
+  Sangal]{ambati2010two}
+Bharat~Ram Ambati, Samar Husain, Sambhav Jain, Dipti~Misra Sharma, and Rajeev
+  Sangal.
+\newblock Two methods to incorporate local morphosyntactic features in hindi
+  dependency parsing.
+\newblock In \emph{Proceedings of the NAACL HLT 2010 First Workshop on
+  Statistical Parsing of Morphologically-Rich Languages}, pages 22--30.
+  Association for Computational Linguistics, 2010.
+
+\bibitem[Bharati et~al.(2007)Bharati, Sangal, and Sharma]{bharati2007ssf}
+Akshar Bharati, Rajeev Sangal, and Dipti~M Sharma.
+\newblock Ssf: Shakti standard format guide.
+\newblock \emph{Language Technologies Research Centre, International Institute
+  of Information Technology, Hyderabad, India}, pages 1--25, 2007.
 
 \bibitem[B{\"o}hmov{\'a} et~al.(2003)B{\"o}hmov{\'a}, Haji{\v{c}},
   Haji{\v{c}}ov{\'a}, and Hladk{\'a}]{bohmova2003prague}
@@ -12,12 +28,33 @@ Alena B{\"o}hmov{\'a}, Jan Haji{\v{c}}, Eva Haji{\v{c}}ov{\'a}, and Barbora
 \newblock The prague dependency treebank.
 \newblock In \emph{Treebanks}, pages 103--127. Springer, 2003.
 
+\bibitem[Brown et~al.(1992)Brown, Desouza, Mercer, Pietra, and
+  Lai]{brown1992class}
+Peter~F Brown, Peter~V Desouza, Robert~L Mercer, Vincent J~Della Pietra, and
+  Jenifer~C Lai.
+\newblock Class-based n-gram models of natural language.
+\newblock \emph{Computational linguistics}, 18\penalty0 (4):\penalty0 467--479,
+  1992.
+
+\bibitem[Covington(2001)]{covington2001fundamental}
+Michael~A Covington.
+\newblock A fundamental algorithm for dependency parsing.
+\newblock In \emph{Proceedings of the 39th annual ACM southeast conference},
+  pages 95--102. Citeseer, 2001.
+
 \bibitem[Dhanalakshmi and Rajendran(2010)]{dhanalakshmi2010natural}
 V~Dhanalakshmi and S~Rajendran.
 \newblock Natural language processing tools for tamil grammar learning and
   teaching.
 \newblock \emph{International journal of Computer Applications (0975-8887)},
   8\penalty0 (14), 2010.
+
+\bibitem[IIIT~Hyderabad(2013)]{tamShallowParser}
+LTRC IIIT~Hyderabad.
+\newblock {Shallow parser for Tamil}.
+\newblock
+  \url{http://ltrc.iiit.ac.in/showfile.php?filename=downloads/shallow_parser.p%
+hp}, 2013.
 
 \bibitem[Lehmann et~al.(1989)Lehmann, of~Linguistics, and
   Culture]{lehmann1989grammar}
@@ -26,6 +63,25 @@ T.~Lehmann, Pondicherry~Institute of~Linguistics, and Culture.
 \newblock PILC publication. Pondicherry Institute of Linguistics and Culture,
   1989.
 \newblock URL \url{http://books.google.com/books?id=THlkAAAAMAAJ}.
+
+\bibitem[Liang(2005)]{liang2005semi}
+Percy Liang.
+\newblock \emph{Semi-supervised learning for natural language}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2005.
+
+\bibitem[Nivre(2009)]{nivre2009non}
+Joakim Nivre.
+\newblock Non-projective dependency parsing in expected linear time.
+\newblock In \emph{Proceedings of the Joint Conference of the 47th Annual
+  Meeting of the ACL and the 4th International Joint Conference on Natural
+  Language Processing of the AFNLP: Volume 1-Volume 1}, pages 351--359.
+  Association for Computational Linguistics, 2009.
+
+\bibitem[Nivre et~al.(2009)Nivre, Kuhlmann, and Hall]{nivre2009improved}
+Joakim Nivre, Marco Kuhlmann, and Johan Hall.
+\newblock An improved oracle for dependency parsing with online reordering.
+\newblock In \emph{Proceedings of the 11th international conference on parsing
+  technologies}, pages 73--76. Association for Computational Linguistics, 2009.
 
 \bibitem[Rajendran()]{rajendran2002tamil}
 S~Rajendran.
